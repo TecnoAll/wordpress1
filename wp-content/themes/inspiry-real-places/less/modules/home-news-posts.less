@@ -1,0 +1,110 @@
+/*-----------------------------------------------------------------------------------*/
+/* 30.0 - Home News Posts Module Styles
+/*-----------------------------------------------------------------------------------*/
+.home-recent-posts {
+  padding-top: 50px;
+  padding-bottom: 60px;
+
+  .container {
+    padding-left: 42px;
+    padding-right: 42px;
+  }
+
+  .section-header {
+    position: relative;
+    margin-bottom: 35px;
+  }
+
+  .post-content-wrapper {
+    display: table;
+    padding: 2px 20px;
+  }
+
+  .post-header {
+    margin-bottom: 10px;
+  }
+
+  .post-title {
+    font-size: 21px;
+    margin-bottom: 5px;
+  }
+
+  .post-meta {
+
+    > span + span {
+
+      &:before {
+        content: "";
+        display: inline-block;
+        margin: 0 13px 0 12px;
+        width: 1px;
+        height: 18px;
+        vertical-align: middle;
+      }
+    }
+
+    a {
+      &:extend(.text-transition);
+    }
+  }
+
+  p {
+    margin-bottom: 14px;
+    line-height: 1.5;
+  }
+
+  .format-gallery .flex-control-nav {
+    bottom: 13px;
+  }
+
+  .embed-responsive.embed-responsive-4by3 {
+    padding-bottom: 91%;
+  }
+}
+
+.post-thumbnail-container {
+  float: left;
+  width: 233px;
+}
+
+.read-more {
+  font-size: 12px;
+  text-transform: uppercase;
+  &:extend(.text-transition);
+
+  .far {
+    position: relative;
+    top: 2px;
+    margin-left: 5px;
+    font-size: 16px;
+  }
+}
+
+.recent-posts-carousel-nav {
+  position: absolute;
+  top: 2px;
+  right: 0;
+
+  .prev,
+  .next {
+    height: 28px;
+  }
+
+  .arrow-container {
+    width: 28px;
+    height: 28px;
+  }
+}
+
+@media (max-width: 600px) {
+  .post-thumbnail-container {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .home-recent-posts .post-content-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+

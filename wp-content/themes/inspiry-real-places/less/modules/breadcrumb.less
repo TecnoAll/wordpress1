@@ -1,0 +1,27 @@
+/*-----------------------------------------------------------------------------------*/
+/* 8.0 - Breadcrumb
+/*-----------------------------------------------------------------------------------*/
+.breadcrumb-wrapper {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.breadcrumb {
+  &:extend(.list-style-reset);
+  font-size: 13px;
+
+  a {
+    &:extend(.text-transition);
+  }
+
+  > li {
+    display: inline-block;
+    text-transform: uppercase;
+  }
+
+  > li + li:before {
+    content: "|";
+    padding-left: 9px;
+    padding-right: 10px;
+  }
+}

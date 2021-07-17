@@ -1,0 +1,84 @@
+/*-----------------------------------------------------------------------------------*/
+/* 27.0 - How It Works Module Styles
+/*-----------------------------------------------------------------------------------*/
+.submit-property {
+  position: relative;
+
+  &-one:before {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 5;
+  }
+
+  .container {
+    padding: 75px 48px;
+    position: relative;
+    z-index: 10;
+  }
+
+  .title {
+    margin-bottom: 25px;
+  }
+
+  .sub-title {
+    margin-bottom: 5px;
+  }
+
+  .image-wrapper {
+    margin-bottom: 25px;
+  }
+}
+
+.submit-property-header {
+  margin-bottom: 60px;
+
+  p{
+    font-size: 15px;
+  }
+}
+
+.submit-property-placeholders {
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: 42px;
+}
+
+.submit-property-placeholder {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.submit-property-title {
+  margin-bottom: 25px;
+}
+
+@media (max-width: @screen-xs-max) {
+  .submit-property {
+    margin: 0 15px;
+  }
+}
+
+@media (max-width: 580px) {
+  .submit-property .container {
+    padding: 50px 25px;
+  }
+
+  .submit-property-placeholder {
+    margin-bottom: 30px;
+  }
+
+  .submit-property-title {
+    margin-bottom: 15px;
+  }
+
+  .btn-large {
+    padding: 16px 15px;
+    font-size: 14px;
+  }
+}
+

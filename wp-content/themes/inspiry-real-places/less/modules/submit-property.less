@@ -1,0 +1,266 @@
+/*-----------------------------------------------------------------------------------*/
+/* 41.0 - Submit Property Module Styles
+/*-----------------------------------------------------------------------------------*/
+.white-box {
+  .fancy-title {
+    font-size: 16px;
+    margin-bottom: 20px;
+
+    &:after {
+      width: 30px;
+      height: 4px;
+      margin-left: 0;
+    }
+  }
+
+  .features-checkboxes-wrapper {
+    > li {
+      width: 33.33%;
+    }
+  }
+  .vt-embed-code {
+    height: 80px;
+  }
+}
+
+@media (max-width: 600px) {
+  .white-box .features-checkboxes-wrapper > li {
+    width: 100%;
+  }
+}
+
+.map-wrapper {
+  margin-top: 15px;
+
+  .map-canvas {
+    width: 100%;
+    height: 284px;
+
+    &:empty {
+      display: none;
+    }
+  }
+}
+
+input[type="text"].ui-autocomplete-loading {
+  background: transparent url("../images/ajax-loader-2.gif") no-repeat right
+    center;
+  visibility: visible;
+}
+
+.ui-autocomplete-input.open {
+}
+
+.ui-autocomplete {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  position: absolute;
+  z-index: 10000;
+  border: 1px solid #d8dce2;
+  background: #fff;
+}
+
+.ui-autocomplete li {
+  margin-bottom: 0;
+  white-space: nowrap;
+  padding: 4px 10px;
+}
+
+.ui-autocomplete li a {
+  display: block;
+  height: 100%;
+}
+
+.ui-autocomplete li {
+  cursor: pointer;
+  &:hover {
+    background: #f8faff;
+  }
+}
+
+.ui-autocomplete li a.ui-state-focus {
+  cursor: pointer;
+}
+
+// Drag and Drop
+.container-row {
+  margin-top: 15px;
+}
+
+#featured-file-container.hidden {
+  display: none;
+}
+
+#featured-thumb-container,
+#gallery-thumbs-container {
+  margin: 0 0 10px -10px;
+}
+
+.gallery-thumb,
+.sortable-placeholder {
+  float: left;
+  .square(121px);
+  margin: 0 0 10px 10px;
+}
+
+.gallery-thumb {
+  display: table;
+  position: relative;
+  text-align: center;
+
+  span {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+  }
+
+  .mark-featured,
+  .loader,
+  a {
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 4px 10px;
+    font-size: 16px;
+  }
+
+  .loader {
+    display: none;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    top: 0;
+  }
+
+  .mark-featured {
+    right: auto;
+    top: auto;
+    bottom: 0;
+    left: 0;
+  }
+}
+
+#drag-and-drop {
+  margin-bottom: 10px;
+  padding: 64px 50px;
+  border: 2px dashed;
+}
+
+.drag-drop-msg {
+  font-size: 16px;
+}
+
+.drag-or {
+  margin: 0 15px;
+  font-size: 13px;
+}
+
+// Agent Options
+.agent-options {
+  margin-bottom: 30px;
+
+  > li {
+    margin-bottom: 10px;
+  }
+
+  input[type="radio"] {
+    vertical-align: -2px;
+  }
+
+  label {
+    display: inline-block;
+  }
+
+  .select2-container {
+    display: block;
+    width: 100% !important;
+    margin-left: 23px;
+    max-width: 332px;
+    margin-top: 8px;
+
+    .select2-selection--multiple {
+      border-radius: 0;
+      border-color: #d8dce2;
+
+      & {
+        .select2-selection__choice {
+          margin-top: 8px;
+          background-color: #f8faff;
+          border-color: #d8dce2;
+        }
+      }
+
+      .select2-selection__rendered {
+        padding: 0 8px;
+
+        .select2-search__field {
+          margin-top: 8px;
+        }
+      }
+    }
+  }
+}
+
+// Additional Details
+.inspiry-details-wrapper {
+  .inspiry-detail-control,
+  .inspiry-detail-title,
+  .inspiry-detail-value {
+    float: left;
+  }
+
+  .inspiry-detail-control {
+    width: 5%;
+  }
+
+  .inspiry-detail-title {
+    width: 33%;
+  }
+
+  .inspiry-detail-value {
+    width: 57%;
+  }
+
+  input[type="text"] {
+    width: 96%;
+  }
+
+  .inspiry-detail {
+    margin-bottom: 5px;
+  }
+
+  .detail-placeholder {
+    margin: 5px 0;
+    height: 48px;
+  }
+
+  .sort-detail {
+    cursor: move;
+  }
+
+  .fas,
+  .fa,
+  .far {
+    position: relative;
+    top: 13px;
+    font-size: 15px;
+  }
+}
+#map-address-field-wrapper {
+  .ui-autocomplete {
+  width: calc(100% - 30px) !important;
+    li {
+      white-space: pre-wrap !important;
+    }
+  }
+}

@@ -1,0 +1,36 @@
+/*-----------------------------------------------------------------------------------*/
+/* 7.0 - RTL WPML Language Switcher Module Styles
+/*-----------------------------------------------------------------------------------*/
+#inspiry_language_list {
+
+  text-align: right;
+  background-position: center right;
+  ul {
+    left: auto;
+    right: -5px;
+    &:before{
+      margin-left: 0;
+      margin-right: 9px;
+    }
+  }
+}
+
+.header-variation-one #inspiry_language_list {
+  margin-left: 0;
+  margin-right: 8px;
+}
+
+.header-variation-two #inspiry_language_list {
+  float: left;
+}
+
+@media (max-width: @screen-md-min){
+  #inspiry_language_list {
+    left: auto;
+    right: 48px;
+  }
+  .header-variation-one #inspiry_language_list {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

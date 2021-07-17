@@ -1,0 +1,201 @@
+/*-----------------------------------------------------------------------------------*/
+/* 36.0 - Agent Listing Module Styles
+/*-----------------------------------------------------------------------------------*/
+.agent-listing-post {
+  min-height: 500px;
+}
+
+.agent-common-styles {
+  padding: 35px 35px 30px;
+
+  .inner-wrapper {
+    margin-bottom: 25px;
+  }
+
+  p {
+    margin-bottom: 30px;
+  }
+}
+
+.agent-message {
+  margin-bottom: 30px;
+
+  &:empty{
+    display: none;
+  }
+}
+
+.agent-image {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+
+  &:hover {
+
+    img {
+      .opacity(.9);
+    }
+  }
+
+  img {
+    .square(110px);
+    border: 3px solid;
+    &:extend(.btn-transition);
+  }
+}
+
+.agent-name {
+  display: table;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 19px;
+
+  a {
+    &:extend(.text-transition);
+  }
+
+  span {
+    display: block;
+    font-size: 15px;
+  }
+}
+
+.agent-social-profiles {
+
+  a {
+    margin-right: 10px;
+    font-size: 18px;
+    &:extend(.text-transition);
+  }
+}
+
+.agent-contacts-list {
+  list-style: none;
+  margin-bottom: 25px;
+  padding: 0;
+
+  > li {
+    padding: 3px 0;
+  }
+
+  span {
+    display: inline-block;
+    margin-right: 5px;
+  }
+}
+
+// Agent Single Post
+.agent-single-post {
+  margin-bottom: 20px;
+
+  .agent-content-wrapper {
+    margin-bottom: 35px;
+    &:extend(.agent-post-even);
+  }
+
+  .agent-contacts-list {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .btn-default {
+    margin-bottom: 15px;
+  }
+}
+
+.agent-properties-list-heading {
+  margin-bottom: 20px;
+}
+
+// Agent widget for single property
+.agent-sidebar-widget {
+  &:extend(.agent-post-even all);
+
+  .btn-default {
+    margin-bottom: 20px;
+  }
+}
+
+.agent-contact-form {
+  margin-top: 15px;
+
+  .agent-contact-form-title {
+    font-size: 19px;
+  }
+
+  .row {
+    margin-left: -4px;
+    margin-right: -4px;
+  }
+
+  .col-sm-6 {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .col-sm-12 {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  input[type="text"],
+  textarea {
+    width: 100%;
+    padding: 6px 10px;
+    margin-bottom: 8px;
+    border: 1px solid;
+    font-size: 13px;
+  }
+
+  textarea {
+    display: block;
+    height: 144px;
+    resize: vertical;
+  }
+  .gdpr-checkbox-wrapper {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    .gdpr-checkbox-label{
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    input[type="checkbox"] {
+      //margin-right: 5px;
+      display: inherit;
+      //-webkit-appearance: checkbox;
+      opacity: 0;
+      visibility: hidden;
+      margin: 0;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+    }
+  }
+}
+
+.agent-loader {
+  display: none;
+}
+
+.agent-error {
+  margin-bottom: 20px;
+
+  &:empty{
+    display: none;
+  }
+}
+
+.agent-error label {
+  display: block;
+}
+
+@media ( max-width: 480px) {
+  .agent-common-styles {
+    padding: 25px 20px;
+  }
+
+  .agent-image {
+    margin-right: 10px;
+  }
+}

@@ -1,0 +1,62 @@
+/*-----------------------------------------------------------------------------------*/
+/* 17.0 - RTL Home Properties Module Styles
+/*-----------------------------------------------------------------------------------*/
+// Property Listing One
+.property-listing-one {
+  .price {
+    margin-right: 0;
+    margin-left: 6px;
+  }
+}
+
+// Property Listing Two
+.property-associative-style .property-status-tag,
+.property-listing-two .property-status-tag,
+.featured-properties-two .property-status-tag,
+.property-listing-two .property-status-tag {
+  float: left;
+}
+
+
+// Property Listing Three
+.property-listing-three-post .property-status {
+  right: auto;
+  left: 0;
+}
+
+.property-listing-three-post .meta-wrapper {
+  float: right;
+}
+
+.property-listing-three-post .meta-wrapper + .meta-wrapper:before,
+.featured-properties-three .featured-property-post .meta-wrapper + .meta-wrapper:before {
+  margin-left: -2px;
+}
+
+@media ( min-width: @screen-lg-min) {
+  .row-even .property-thumbnail {
+    float: left;
+  }
+}
+
+.property-listing-four .property-thumbnail .property-status {
+  right: 20px;
+  left: auto;
+}
+.property-listing-four .property-meta .meta-wrapper {
+  border-right: none;
+  border-left: 1px solid #EDEDED;
+}
+.property-listing-four .property-meta .meta-wrapper:last-child {
+  border-left: none;
+}
+@media (min-width: 320px) {
+  .property-listing-four .property-thumbnail .property-status {
+    right: 15px;
+  }
+}
+@media (min-width: @screen-xs-min) {
+  .property-listing-four .property-thumbnail .property-status {
+    right: 20px;
+  }
+}

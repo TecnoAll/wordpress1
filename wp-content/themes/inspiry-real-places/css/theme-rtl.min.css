@@ -1,0 +1,22 @@
+.property-status-tag:hover:before{border-left-color:#ff8000}
+.property-status-tag:before{border-color:transparent transparent transparent #4a525d}
+.property-status-tag-flipped:hover:after{border-right-color:#ff8000}
+.property-status-tag-flipped:after{border-color:transparent #4a525d transparent transparent}
+.slide-overlay .property-status-tag:before{border-left-color:#fff}
+.slide-overlay .property-status-tag:hover:before{border-left-color:#ff8000}
+.slider-variation-three .property-status-tag:before{border-left-color:#50b848}
+.slider-variation-three .property-status-tag:hover:before{border-left-color:#409439}
+.odd-property-skin .property-status-tag:hover:before,.row-odd .property-post-odd .property-status-tag:hover:before,.row-even .property-post-even .property-status-tag:hover:before{border-left-color:#ff8000}
+.odd-property-skin .property-status-tag:before,.row-odd .property-post-odd .property-status-tag:before,.row-even .property-post-even .property-status-tag:before{border-left-color:#fff}
+.even-property-skin .property-status-tag:hover:before,.row-odd .property-post-even .property-status-tag:hover:before,.row-even .property-post-odd .property-status-tag:hover:before{border-left-color:#ff8000}
+.even-property-skin .property-status-tag:before,.row-odd .property-post-even .property-status-tag:before,.row-even .property-post-odd .property-status-tag:before{border-left-color:#4a525d}
+.property-listing-two .property-status-tag:hover:before{border-left-color:#994d00}
+.property-listing-two .property-status-tag:before{border-left-color:#fff}
+.featured-properties-one .property-status-tag:hover:before{border-left-color:#285d24}
+.featured-properties-two .property-status-tag:hover:before{border-left-color:#ff8000}
+.featured-properties-two .property-status-tag:before{border-left-color:#2a3139}
+.header-advance-search .form-submit-btn{background-position:91% center}
+.sidebar .widget_categories li,.sidebar .widget_pages li,.sidebar .widget_meta li,.sidebar .widget_archive li,.sidebar .widget_lc_taxonomy li{background-position:100% 15px}
+.action-buttons{border-right-color:#e3e5ea}
+.gallery-items-filter a:after{border-left-color:#e4e5eb}
+blockquote{border-color:#0dbae8}

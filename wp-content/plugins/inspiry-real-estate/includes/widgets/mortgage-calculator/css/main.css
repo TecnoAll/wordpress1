@@ -1,0 +1,46 @@
+.inspiry-mc-wrapper {
+    font-family: inherit;
+    font-size: 14px;
+}
+
+.inspiry-mc-wrapper label.error {
+    color: #ff0000;
+    margin-top: 5px;
+    display: block;
+}
+
+.inspiry-mc-wrapper label {
+    color: inherit;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.inspiry-mc-wrapper input {
+    width: 100%;
+    padding: 19px 10px;
+    height: 40px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.inspiry-mc-wrapper input[type="submit"] {
+    width: auto;
+    padding: 12px 20px;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.inspiry-mc-wrapper input, .inspiry-mc-wrapper input:focus, .inspiry-mc-wrapper input:active {
+    outline: none;
+}
+
+.inspiry-mc-wrapper p {
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+
+#inspiry-mc-output {
+    display: none;
+}

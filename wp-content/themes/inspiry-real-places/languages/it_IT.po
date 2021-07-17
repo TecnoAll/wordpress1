@@ -1,0 +1,6034 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Places\n"
+"POT-Creation-Date: 2021-05-09 16:49+0500\n"
+"PO-Revision-Date: 2021-05-09 16:54+0500\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:28
+msgid "Look like something went wrong!"
+msgstr "Sembra che qualcosa è andato storto!"
+
+#: 404.php:30
+msgid "The page you were looking for is not here"
+msgstr "La pagina che stai cercando non è qui"
+
+#: 404.php:32
+msgid "Go to Home"
+msgstr "Home"
+
+#: author.php:75 single-agent.php:78
+msgid "Properties by"
+msgstr "Proprietà di"
+
+#: comments.php:15
+msgid "No Comment"
+msgstr "Nessun commento"
+
+#: comments.php:15
+msgid "One Comment"
+msgstr "Un commento"
+
+#: comments.php:15
+msgid "% Comments"
+msgstr "% Commenti"
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+#: functions.php:185
+msgctxt "Varela Round font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:703 functions.php:726
+msgid "Valid file formats"
+msgstr "Formati di file validi"
+
+#: functions.php:819
+#| msgid "Select an item"
+msgid "Select an Agent or more"
+msgstr ""
+
+#: functions.php:871
+msgid "Default Sidebar"
+msgstr "Barra Laterale Predefinita"
+
+#: functions.php:873
+msgid "Widget area for default sidebar on news and post pages."
+msgstr ""
+"Area Widget per la barra laterale predefinita sulle pagine News e Post."
+
+#: functions.php:884
+msgid "Pages Sidebar"
+msgstr "Barra laterale delle pagine"
+
+#: functions.php:886
+msgid "Widget area for default page template sidebar."
+msgstr "Area Widget per la barra laterale predefinita di pagina del template."
+
+#: functions.php:897
+msgid "Properties List Sidebar"
+msgstr "Barra laterale della lista degli immobili"
+
+#: functions.php:899
+msgid "Widget area for properties list template with sidebar support."
+msgstr "Area widget per template lista immobili con supporto sidebar."
+
+#: functions.php:910
+msgid "Properties Grid Sidebar"
+msgstr "Sidebar griglia immobili"
+
+#: functions.php:912
+msgid "Widget area for properties grid template with sidebar support."
+msgstr "Area widget per template griglia immobili con supporto sidebar."
+
+#: functions.php:923
+msgid "Property Sidebar"
+msgstr "Barra laterale degli Immobili"
+
+#: functions.php:925
+msgid "Widget area for property detail page sidebar."
+msgstr ""
+"Area Widget per la barra laterale della pagina dei Dettagli delle Attività."
+
+#: functions.php:936
+msgid "dsIDXpress Sidebar"
+msgstr "barra laterale dsIDXpress"
+
+#: functions.php:938
+msgid "Widget area for dsIDX related pages."
+msgstr "Area Widget per le pagine correlate al dsIDX."
+
+#: functions.php:949
+msgid "Footer First Column"
+msgstr "Piè di pagina della Prima Colonna"
+
+#: functions.php:951
+msgid "Widget area for first column in footer."
+msgstr "Area Widget per la prima colonna a Piè Pagina."
+
+#: functions.php:962
+msgid "Footer Second Column"
+msgstr "Piè di pagina della Seconda Colonna"
+
+#: functions.php:964
+msgid "Widget area for second column in footer."
+msgstr "Area Widget per la seconda colonna a Piè Pagina."
+
+#: functions.php:975
+msgid "Footer Third Column"
+msgstr "Piè di pagina della Terza Colonna"
+
+#: functions.php:977
+msgid "Widget area for third column in footer."
+msgstr "Area Widget per la terza colonna a Piè Pagina."
+
+#: functions.php:988
+msgid "Footer Fourth Column"
+msgstr "Piè di pagina della Quarta Colonna"
+
+#: functions.php:990
+msgid "Widget area for fourth column in footer."
+msgstr "Area Widget per la quarta colonna a Piè di Pagina."
+
+#: functions.php:1170
+msgid "Added to Compare"
+msgstr "Aggiunto al confronto"
+
+#: functions.php:1182 inc/util/favorites-functions.php:24
+#: inc/util/favorites-functions.php:45
+msgid "Failed!"
+msgstr "Fallito!"
+
+#: functions.php:1191
+msgid "Invalid Parameters"
+msgstr "Parametri non validi"
+
+#: functions.php:1253 inc/util/favorites-functions.php:138
+msgid "Removed Successfully!"
+msgstr "Rimosso con successo!"
+
+#: functions.php:1261 inc/util/favorites-functions.php:124
+#: inc/util/favorites-functions.php:145
+msgid "Failed to remove!"
+msgstr "Rimozione fallita!"
+
+#: functions.php:1273
+msgid "Invalid Parameters!"
+msgstr "Parametri non validi!"
+
+#: header.php:26
+msgid "Loading..."
+msgstr "Caricamento..."
+
+#: inc/meta-boxes/config.php:24 inc/meta-boxes/config.php:33
+msgid "Video Embed Code"
+msgstr "Codice incorporamento del video"
+
+#: inc/meta-boxes/config.php:34
+msgid ""
+"If you are not using self hosted videos then please provide the video embed "
+"code and remove the width and height attributes."
+msgstr ""
+"Se non si stanno utilizzando video hostati da sè, inserire il codice di "
+"Embed fornito, rimuovendo le dimensioni di larghezza e altezza."
+
+#: inc/meta-boxes/config.php:49
+msgid "Gallery Images"
+msgstr "Galleria Immagini"
+
+#: inc/meta-boxes/config.php:58
+msgid "Upload Gallery Images"
+msgstr "Carica immagini in Galleria"
+
+#: inc/meta-boxes/config.php:60
+msgid ""
+"Images should have minimum width of 850px and minimum height of 567px, "
+"Bigger size images will be cropped automatically."
+msgstr ""
+"Le immagini dovrebbero avere una larghezza minima di 850px e un'altezza "
+"minima di 567px, le immagini di dimensioni più grandi verranno ritagliate "
+"automaticamente."
+
+#: inc/meta-boxes/config.php:73 inc/meta-boxes/config.php:97
+msgid "Banner Settings"
+msgstr "Impostazioni banner"
+
+#: inc/meta-boxes/config.php:82 inc/meta-boxes/config.php:108
+#: inc/theme-options/header-options.php:84
+msgid "Banner Image"
+msgstr "Immagine del Banner"
+
+#: inc/meta-boxes/config.php:84 inc/meta-boxes/config.php:110
+#: inc/theme-options/header-options.php:85
+msgid ""
+"Banner image should have minimum width of 2000px and minimum height of 320px."
+msgstr ""
+"Immagine del banner deve avere larghezza minima di 2000px e un’altezza "
+"minima di 320px."
+
+#: inc/meta-boxes/config.php:115 inc/theme-options/home-options.php:71
+msgid "Revolution Slider Alias"
+msgstr "Alias Slider Revolution"
+
+#: inc/meta-boxes/config.php:117
+msgid ""
+"If you want to replace banner with revolution slider then provide its alias "
+"here."
+msgstr ""
+"Se si desidera cambiare banner con uno Slider revolution, fornire i suoi "
+"alias qui."
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installa i plugin richiesti"
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installa i plugin"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installazione Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aggiornamento Plugin: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Qualcosa è andato storto con le API del plugin."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Questo tema richiede il seguente plugin: %1$s."
+msgstr[1] "Questo tema richiede i seguenti plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Questo tema suggerisce il seguente plugin: %1$s."
+msgstr[1] "Questo tema suggerisce i seguenti plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Il seguente plug-in deve essere aggiornato alla versione pi&ugrave; recente "
+"per garantire la massima compatibilit&agrave;  con questo tema: %1$s."
+msgstr[1] ""
+"I seguenti plug-in devono essere aggiornati alla versione più recente per "
+"garantire la massima compatibilità con questo tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "C’è un aggiornamento disponibile per: %1$s."
+msgstr[1] "C’è un aggiornamento disponibile per: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Il seguente plug-in richiesto non &egrave; al momento attivo: %1$s."
+msgstr[1] "I seguenti plugin richiesti sono attualmente inattivi: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Il seguente plugin suggerito &egrave; attualmente inattivo: %1$s."
+msgstr[1] "I seguenti plugin raccomandati sono attualmente inattivi: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Inizia l'installazione del plugin"
+msgstr[1] "Inizia l'installazione dei plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Inizia l'aggiornamento plugin"
+msgstr[1] "Inizia l'aggiornamento dei plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Incomincia ad attivare il plugin"
+msgstr[1] "Incomincia ad attivare i plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Torna alla pagina dei plugin richiesti"
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:912
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+#: inc/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Ritorna alla Dashboard"
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin attivato con successo."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Il seguente plugin è stato attivato correttamente:"
+msgstr[1] "I seguenti plugin sono stati attivati con successo:"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nessun cambiamento. Il plug-in %1$s è già attivo."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin non attivato. Una versione più aggiornata di %s è necessaria per "
+"questo tema. Aggiorna il plugin."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tutti i plugin sono stati installati e attivati con successo. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Rimuovi questa notifica"
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ci sono uno o più plugin richiesti o consigliati da installare, aggiornare o "
+"attivare."
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Per favore contatta l'amministratore del sito per chiedere aiuto."
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Questo plugin deve essere aggiornato per essere compatibile con il tuo tema."
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Aggiornamento richiesto"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Il pacchetto remoto del plugin non contiene una cartella con lo slug "
+"desiderato e non è stato possibile rinominarlo."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Contattare il fornitore del plugin per chiedergli di fornirne una versione "
+"che segua le linee guida di WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Il pacchetto plugin remoto è costituito da più di un file, ma i file non "
+"sono forniti in una cartella."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1206
+#: inc/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Richiesto"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Raccomandato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Sorgente esterna"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Preconfezionato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Non installato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Installato ma non attivato"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Attivo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Aggiornamento richiesto non disponibile"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Aggiornamento richiesto"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Aggiornamento raccomandato"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tutti <span class=\"count\">(%s)</span>"
+msgstr[1] "Tutti <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Per installare <span class=\"count\">(%s)</span>"
+msgstr[1] "Per installare <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aggiornamento Disponibile <span class=\"count\">(%s)</span>"
+msgstr[1] "Aggiornamento Disponibile <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Per Attivare <span class=\"count\">(%s)</span>"
+msgstr[1] "Per Attivare <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "sconosciuto"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Versione installata:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Versione minima richiesta:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Versione disponibile:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Nessun plugin da installare, aggiornare o attivare."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Sorgente"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2634
+#: inc/theme-options/search-options.php:182
+#: inc/util/real-estate-functions.php:120
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Versione"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2639
+#: inc/theme-options/search-options.php:179
+#: inc/util/real-estate-functions.php:135
+msgid "Status"
+msgstr "Stato"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Installa %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Aggiorna %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Attiva %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Aggiornamento messaggio da parte dell’autore plugin:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Installa"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Aggiorna"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Attiva"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Nessun Plugin è stato selezionato per essere installato. Nessuna azione "
+"intrapresa."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Nessun plugin è stato selezionato per essere aggiornato. Nessuna azione "
+"intrapresa."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Nessun plugin disponibile da installare."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Nessun Plugin è disponibile per essere aggiornato in questo momento."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Nessun plugin è stato selezionato per essere attivato. Nessuna azione "
+"intrapresa."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Nessun plugin disponibile da attivare."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Attivazione plugin fallita."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aggiornamento Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Si è verificato un errore durante l’installazione di %1$s: <strong>%2$s</"
+"strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installazione di %1$s fallita."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Il processo di installazione e di attivazione sta iniziando. Questo processo "
+"può durare un po’ di più su alcuni host, si prega di pazientare."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installato e attivato con successo."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#: inc/theme-options/property-card-options.php:52
+#: partials/property/templates/property-for-list.php:39
+msgid "Show Details"
+msgstr "Mostra dettagli"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Nascondi dettagli"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Tutte le installazioni e le attivazioni sono state completate."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione e attivazione Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Il processo di installazione sta iniziando. Questo processo può durare un "
+"po’ di più su alcuni host, si prega di pazientare."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installato con successo."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Tutte le installazioni sono state completate."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione Plugin %1$s (%2$d/%3$d)"
+
+#: inc/theme-options/archive-options.php:7
+msgid "Archives"
+msgstr "Archivi"
+
+#: inc/theme-options/archive-options.php:9
+msgid ""
+"This section contains options related property post type archive and "
+"taxonomy archives pages like property city, property status, property type "
+"and property feature."
+msgstr ""
+"Questa sezione contiene opzioni relative al tipo di post immobili archivi e "
+"pagine tassonomie come città immobile, contratto immobile, tipologia "
+"immobile e caratteristica immobile."
+
+#: inc/theme-options/archive-options.php:15
+msgid "What to Display Below Header on Archive Pages"
+msgstr "Cosa visualizzare sotto l’intestazione delle pagine archivio"
+
+#: inc/theme-options/archive-options.php:17
+#: inc/theme-options/home-options.php:16
+#: inc/theme-options/search-options.php:72
+msgid "Image Banner"
+msgstr "Immagine Banner"
+
+#: inc/theme-options/archive-options.php:18
+#: inc/theme-options/home-options.php:17
+#: inc/theme-options/search-options.php:73
+msgid "Google Map"
+msgstr "Google Map"
+
+#: inc/theme-options/archive-options.php:25
+msgid "Number of Properties on an Archive Page"
+msgstr "Numero di immobili nella pagina archivio"
+
+#: inc/theme-options/archive-options.php:44
+msgid "Archive Page Layout"
+msgstr "Modello della pagina Archivio"
+
+#: inc/theme-options/archive-options.php:46
+#: inc/theme-options/search-options.php:35
+msgid "List Layout - Full Width"
+msgstr "Layout lista - larghezza piena"
+
+#: inc/theme-options/archive-options.php:47
+#: inc/theme-options/search-options.php:36
+msgid "Grid Layout - Full Width"
+msgstr "Layout griglia - larghezza piena"
+
+#: inc/theme-options/archive-options.php:55
+msgid "Default Order of Properties on an Archive Page."
+msgstr "Ordine di default di un immobile in una pagina archivio."
+
+#: inc/theme-options/archive-options.php:57
+#: inc/theme-options/home-options.php:283
+#: inc/theme-options/search-options.php:48
+#: partials/property/templates/listing-control-search.php:34
+#: partials/property/templates/listing-control.php:34
+msgid "Sort by Price Low to High"
+msgstr "Ordina per Prezzo dal più basso"
+
+#: inc/theme-options/archive-options.php:58
+#: inc/theme-options/home-options.php:284
+#: inc/theme-options/search-options.php:49
+#: partials/property/templates/listing-control-search.php:35
+#: partials/property/templates/listing-control.php:35
+msgid "Sort by Price High to Low"
+msgstr "Ordina per Prezzo dal più alto"
+
+#: inc/theme-options/archive-options.php:59
+#: inc/theme-options/home-options.php:285
+#: inc/theme-options/search-options.php:50
+#: partials/property/templates/listing-control-search.php:36
+#: partials/property/templates/listing-control.php:36
+msgid "Sort by Date Old to New"
+msgstr "Ordina per Data dal più vecchio"
+
+#: inc/theme-options/archive-options.php:60
+#: inc/theme-options/home-options.php:286
+#: inc/theme-options/search-options.php:51
+#: partials/property/templates/listing-control-search.php:37
+#: partials/property/templates/listing-control.php:37
+msgid "Sort by Date New to Old"
+msgstr "Ordina per data dai più nuovi"
+
+#: inc/theme-options/compare-options.php:7
+#: inc/theme-options/compare-options.php:17
+msgid "Properties Compare"
+msgstr "Confronta proprietà"
+
+#: inc/theme-options/compare-options.php:11
+msgid "This section contains options related to properties compare."
+msgstr ""
+
+#: inc/theme-options/compare-options.php:19
+#: inc/theme-options/gdpr-options.php:34 inc/theme-options/gdpr-options.php:42
+#: inc/theme-options/header-options.php:39
+#: inc/theme-options/header-options.php:104
+#: inc/theme-options/home-options.php:398 inc/theme-options/misc-options.php:30
+#: inc/theme-options/misc-options.php:38
+#: inc/theme-options/payments-options.php:18
+#: inc/theme-options/payments-options.php:42
+#: inc/theme-options/styles-options/basic-styles-options.php:130
+msgid "Enable"
+msgstr "Abilita"
+
+#: inc/theme-options/compare-options.php:20
+#: inc/theme-options/gdpr-options.php:35 inc/theme-options/gdpr-options.php:43
+#: inc/theme-options/header-options.php:40
+#: inc/theme-options/header-options.php:105
+#: inc/theme-options/home-options.php:399 inc/theme-options/misc-options.php:31
+#: inc/theme-options/misc-options.php:39
+#: inc/theme-options/payments-options.php:19
+#: inc/theme-options/payments-options.php:43
+#: inc/theme-options/styles-options/basic-styles-options.php:131
+msgid "Disable"
+msgstr "Disabilita"
+
+#: inc/theme-options/compare-options.php:27
+msgid "Properties Compare Page"
+msgstr ""
+
+#: inc/theme-options/compare-options.php:28
+msgid "Select a page for properties compare."
+msgstr ""
+
+#: inc/theme-options/compare-options.php:29
+msgid "Make sure the selected page is using Compare Properties template."
+msgstr ""
+
+#: inc/theme-options/footer-options.php:7
+#: inc/theme-options/styles-options/footer-styles-options.php:8
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/theme-options/footer-options.php:9
+msgid "This section contains options for footer."
+msgstr "Questa sezione contiene le opzioni per piè di pagina."
+
+#: inc/theme-options/footer-options.php:16
+msgid "Footer Logo"
+msgstr "Logo footer"
+
+#: inc/theme-options/footer-options.php:17
+msgid "Upload footer logo."
+msgstr "Carica Logo Footer."
+
+#: inc/theme-options/footer-options.php:22
+msgid "Footer Copyright Text"
+msgstr "Footer Testo del Copyright"
+
+#: inc/theme-options/footer-options.php:23
+msgid "Allowed html tags are a, br, em and strong."
+msgstr "Tag html consentiti a, br, em e strong."
+
+#: inc/theme-options/gdpr-options.php:7
+msgid "GDPR"
+msgstr "GDPR"
+
+#: inc/theme-options/gdpr-options.php:8
+msgid "This section contains GDPR related settings."
+msgstr "Questa sezione contiene le impostazioni relative a GDPR."
+
+#: inc/theme-options/gdpr-options.php:13
+msgid "GDPR Agreement Checkbox Label"
+msgstr ""
+
+#: inc/theme-options/gdpr-options.php:14
+msgid "GDPR Agreement"
+msgstr "Accordo GDPR"
+
+#: inc/theme-options/gdpr-options.php:19
+msgid "GDPR Agreement Checkbox Text"
+msgstr "Testo della casella di controllo dell'accordo GDPR"
+
+#: inc/theme-options/gdpr-options.php:20
+msgid ""
+"I consent to having this website store my submitted information so they can "
+"respond to my inquiry."
+msgstr ""
+"Acconsento al fatto che questo sito Web memorizzi le mie informazioni "
+"inviate in modo che possano rispondere alla mia richiesta."
+
+#: inc/theme-options/gdpr-options.php:21
+msgid "You can use strong, em and a tags in agreement text."
+msgstr ""
+
+#: inc/theme-options/gdpr-options.php:26
+msgid "GDPR Agreement Validation Message"
+msgstr "Messaggio di convalida dell'accordo GDPR"
+
+#: inc/theme-options/gdpr-options.php:27
+msgid "* Please accept GDPR Agreement"
+msgstr "* Si prega di accettare l'accordo GDPR"
+
+#: inc/theme-options/gdpr-options.php:32
+msgid "GDPR checkbox for Contact Form"
+msgstr "Casella di controllo GDPR per modulo di contatto"
+
+#: inc/theme-options/gdpr-options.php:40
+msgid "GDPR checkbox for Agent Contact Form"
+msgstr "Casella di controllo GDPR per modulo di contatto agente"
+
+#: inc/theme-options/header-options.php:7
+#: inc/theme-options/styles-options/header-styles-options.php:8
+msgid "Header"
+msgstr "Intestazione"
+
+#: inc/theme-options/header-options.php:9
+msgid "This section contains options for header."
+msgstr "Questa sezione contiene le opzioni per l’intestazione."
+
+#: inc/theme-options/header-options.php:15
+msgid "Header Design Variation"
+msgstr "Variazione design intestazione"
+
+#: inc/theme-options/header-options.php:16
+msgid "Select the design variation that you want to use for site header."
+msgstr ""
+"Selezionare la variante di progettazione che si desidera utilizzare per "
+"l’intestazione del sito."
+
+#: inc/theme-options/header-options.php:19
+#: inc/theme-options/home-options.php:147
+#: inc/theme-options/home-options.php:591
+msgid "1st Variation"
+msgstr "Prima Variazione"
+
+#: inc/theme-options/header-options.php:23
+#: inc/theme-options/home-options.php:151
+#: inc/theme-options/home-options.php:595
+msgid "2nd Variation"
+msgstr "Seconda Variazione"
+
+#: inc/theme-options/header-options.php:27
+#: inc/theme-options/home-options.php:155
+#: inc/theme-options/home-options.php:599
+msgid "3rd Variation"
+msgstr "Terza Variazione"
+
+#: inc/theme-options/header-options.php:36
+msgid "Sticky Header"
+msgstr "Intestazione fissa"
+
+#: inc/theme-options/header-options.php:37
+msgid "This feature only works above 992px screen size."
+msgstr ""
+"Questa caratteristica funziona solo per la dimensione dello schermo sopra "
+"992px."
+
+#: inc/theme-options/header-options.php:45
+msgid "Keep the Menu Visible?"
+msgstr ""
+
+#: inc/theme-options/header-options.php:46
+msgid "Do you want to keep the menu visible and disable the menu button?"
+msgstr ""
+
+#: inc/theme-options/header-options.php:48
+#: inc/theme-options/members-options.php:61
+#: inc/theme-options/styles-options/basic-styles-options.php:27
+#: inc/theme-options/styles-options/header-styles-options.php:27
+#: inc/theme-options/styles-options/header-styles-options.php:36
+msgid "Yes"
+msgstr "Sì"
+
+#: inc/theme-options/header-options.php:49
+#: inc/theme-options/members-options.php:62
+#: inc/theme-options/styles-options/basic-styles-options.php:28
+#: inc/theme-options/styles-options/header-styles-options.php:28
+#: inc/theme-options/styles-options/header-styles-options.php:37
+msgid "No"
+msgstr "No"
+
+#: inc/theme-options/header-options.php:55
+msgid "Menu Button Title"
+msgstr "Titolo pulsante"
+
+#: inc/theme-options/header-options.php:56 partials/header/variation-one.php:7
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/theme-options/header-options.php:63
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/theme-options/header-options.php:64
+msgid ""
+"Upload logo image for your Website. Otherwise site title will be displayed "
+"in place of logo."
+msgstr ""
+"Caricare immagine del logo per il tuo sito. In caso contrario titolo del "
+"sito verrà visualizzato al posto del logo."
+
+#: inc/theme-options/header-options.php:69
+msgid "Email Address"
+msgstr "Indirizzo Email"
+
+#: inc/theme-options/header-options.php:77
+msgid "Phone Number"
+msgstr "Numero di telefono"
+
+#: inc/theme-options/header-options.php:86
+msgid ""
+"This banner image will be displayed on all the pages where banner image is "
+"not overridden by page specific banner settings."
+msgstr ""
+"Questo banner verrà mostrato in tutte le pagine che non hanno un banner "
+"impostato."
+
+#: inc/theme-options/header-options.php:91
+msgid "WPML/POLYLANG Language Switcher Flags"
+msgstr "Bandiere cambio lingua WPML"
+
+#: inc/theme-options/header-options.php:92
+msgid ""
+"Do you want to display WPML or POLYLANG language switcher flags in header "
+"top bar ?"
+msgstr "Vuoi mostrare le bandiere della lingua nell’header?"
+
+#: inc/theme-options/header-options.php:93
+msgid ""
+"This option only works if WPML or POLYLANG plugin is installed and activated."
+msgstr ""
+"Questa opzione funziona solo se il plugin WPML o POLYLANG è installata e "
+"attivato."
+
+#: inc/theme-options/header-options.php:95
+#: inc/theme-options/home-options.php:553
+msgid "Display"
+msgstr "Visualizza"
+
+#: inc/theme-options/header-options.php:96
+#: inc/theme-options/home-options.php:104
+#: inc/theme-options/home-options.php:554
+#: inc/theme-options/members-options.php:18
+#: inc/theme-options/members-options.php:255
+#: inc/theme-options/members-options.php:264
+#: inc/theme-options/members-options.php:273
+#: inc/theme-options/members-options.php:282
+#: inc/theme-options/members-options.php:291
+#: inc/theme-options/members-options.php:300
+#: inc/theme-options/members-options.php:309
+#: inc/theme-options/members-options.php:318
+#: inc/theme-options/members-options.php:327
+#: inc/theme-options/members-options.php:336
+#: inc/theme-options/members-options.php:345
+#: inc/theme-options/members-options.php:354
+#: inc/theme-options/members-options.php:364
+#: inc/theme-options/members-options.php:373
+#: inc/theme-options/members-options.php:382
+#: inc/theme-options/members-options.php:391
+#: inc/theme-options/members-options.php:400
+#: inc/theme-options/members-options.php:410
+#: inc/theme-options/members-options.php:421
+#: inc/theme-options/members-options.php:431
+#: inc/theme-options/members-options.php:440
+#: inc/theme-options/members-options.php:449
+#: inc/theme-options/property-options.php:227
+#: inc/theme-options/property-options.php:334
+#: inc/theme-options/property-options.php:359
+#: inc/theme-options/property-options.php:367
+#: inc/theme-options/property-options.php:398
+#: inc/theme-options/property-options.php:483
+#: inc/theme-options/search-options.php:64
+#: inc/theme-options/search-options.php:111
+#: inc/theme-options/search-options.php:128
+msgid "Hide"
+msgstr "Nascondi"
+
+#: inc/theme-options/header-options.php:101
+msgid "Page Loader"
+msgstr "Caricamento pagina"
+
+#: inc/theme-options/header-options.php:102
+msgid "You can enable or disable page loader."
+msgstr "È possibile attivare o disattivare il caricatore di pagina."
+
+#: inc/theme-options/header-options.php:111
+msgid "Page Loader Gif"
+msgstr "Gif Caricatore Pagina"
+
+#: inc/theme-options/header-options.php:112
+msgid ""
+"You can upload your page loader gif here or default one will be displayed."
+msgstr ""
+"Carica l’immagine gif del page leader. In caso contrario, verrà visualizzata "
+"l’immagine predefinita impostata nelle opzioni del tema."
+
+#: inc/theme-options/header-options.php:118
+msgid "Quick JavaScript"
+msgstr "JavaScript"
+
+#: inc/theme-options/header-options.php:119
+msgid "You can paste your JavaScript code here."
+msgstr "Incolla il tuo JS qui."
+
+#: inc/theme-options/header-options.php:141
+msgid "Currency Switcher"
+msgstr "Cambio valuta"
+
+#: inc/theme-options/header-options.php:143
+msgid "This section contains currency switch related options."
+msgstr ""
+
+#: inc/theme-options/header-options.php:148
+msgid "Base Currency"
+msgstr "Valuta di partenza"
+
+#: inc/theme-options/header-options.php:153
+msgid ""
+"Selected currency will be used as base currency for all conversions. You can "
+"find full list of supported currencies at <a target=\"_blank\" href="
+"\"https://openexchangerates.org/currencies\">https://openexchangerates.org/"
+"currencies</a>"
+msgstr ""
+"La valuta selezionata verrà usata come valuta di base per tutte le "
+"conversioni. Trova l'elenco completo delle valute disponibili in <a "
+"target=“_blank” href=“https://openexchangerates.org/currencies”>https://"
+"openexchangerates.org/currencies</a>"
+
+#: inc/theme-options/header-options.php:159
+msgid "Currencies You Want to Support"
+msgstr "Valute che si desiderano utilizzare"
+
+#: inc/theme-options/header-options.php:162
+msgid ""
+"Only provide comma separated list of currency codes in capital letters. Do "
+"not add dashes, spaces or currency signs."
+msgstr ""
+"Inserire solamente codici valuta, separati da virgole, in lettere MAIUSCOLE. "
+"Non aggiungere trattini, spazi o simboli di valuta."
+
+#: inc/theme-options/header-options.php:168
+msgid "Expiry Period for Switched Currency"
+msgstr "Periodo di scadenza per la valuta commutata"
+
+#: inc/theme-options/header-options.php:172
+msgid "One Hour"
+msgstr "Un'ora"
+
+#: inc/theme-options/header-options.php:173
+msgid "One Day"
+msgstr "Un giorno"
+
+#: inc/theme-options/header-options.php:174
+msgid "One Week"
+msgstr "Una settimana"
+
+#: inc/theme-options/header-options.php:175
+msgid "One Month"
+msgstr "Un mese"
+
+#: inc/theme-options/home-options.php:7 inc/util/breadcrumbs-functions.php:15
+msgid "Home"
+msgstr "Home"
+
+#: inc/theme-options/home-options.php:9
+msgid "This section contains options for homepage."
+msgstr "Questa sezione contiene opzioni per la homepage."
+
+#: inc/theme-options/home-options.php:14
+msgid "What to display below header"
+msgstr "Visualizza sotto l'header"
+
+#: inc/theme-options/home-options.php:18
+#: inc/theme-options/styles-options/slider-styles-options.php:8
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/theme-options/home-options.php:25
+msgid "Select the type of slider"
+msgstr "Selezionare il tipo di cursore"
+
+#: inc/theme-options/home-options.php:27
+msgid "Properties Slider"
+msgstr "Slider Immobili"
+
+#: inc/theme-options/home-options.php:28
+msgid "Properties Slider Two"
+msgstr "Slider immobili 2"
+
+#: inc/theme-options/home-options.php:29
+msgid "Properties Slider Three"
+msgstr "Slider immobili 3"
+
+#: inc/theme-options/home-options.php:30
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/theme-options/home-options.php:39
+msgid "Number of slides to display"
+msgstr "Numero di slide da visualizzare"
+
+#: inc/theme-options/home-options.php:64
+msgid "Slider Button Text"
+msgstr "Testo bottone slider"
+
+#: inc/theme-options/home-options.php:65
+msgid "More Details"
+msgstr "Maggiori Dettagli"
+
+#: inc/theme-options/home-options.php:81
+#: inc/theme-options/search-options.php:166
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/theme-options/home-options.php:83
+msgid "This section contains homepage layout related options."
+msgstr "Questa sezione contiene opzioni relative al layout homepage."
+
+#: inc/theme-options/home-options.php:89
+msgid "Home sections width"
+msgstr "Larghezza sezioni home"
+
+#: inc/theme-options/home-options.php:90
+msgid "Some section can appear in full width."
+msgstr "Qualche sezione può apparire a larghezza piena."
+
+#: inc/theme-options/home-options.php:92
+msgid "Keep Boxed"
+msgstr "Tenere in box"
+
+#: inc/theme-options/home-options.php:93
+msgid "Allow Full Width"
+msgstr "Consentire larghezza completa"
+
+#: inc/theme-options/home-options.php:100
+msgid "Property Search Form"
+msgstr "Modulo di ricerca immobile"
+
+#: inc/theme-options/home-options.php:101
+msgid ""
+"The 1st header variation already includes it, So this applies only with "
+"other header variations."
+msgstr ""
+"La prima variazione le include già, quindi ha effetto soltanto sulle altre "
+"variazioni."
+
+#: inc/theme-options/home-options.php:103
+#: inc/theme-options/members-options.php:17
+#: inc/theme-options/members-options.php:254
+#: inc/theme-options/members-options.php:263
+#: inc/theme-options/members-options.php:272
+#: inc/theme-options/members-options.php:281
+#: inc/theme-options/members-options.php:290
+#: inc/theme-options/members-options.php:299
+#: inc/theme-options/members-options.php:308
+#: inc/theme-options/members-options.php:317
+#: inc/theme-options/members-options.php:326
+#: inc/theme-options/members-options.php:335
+#: inc/theme-options/members-options.php:344
+#: inc/theme-options/members-options.php:353
+#: inc/theme-options/members-options.php:363
+#: inc/theme-options/members-options.php:372
+#: inc/theme-options/members-options.php:381
+#: inc/theme-options/members-options.php:390
+#: inc/theme-options/members-options.php:399
+#: inc/theme-options/members-options.php:409
+#: inc/theme-options/members-options.php:420
+#: inc/theme-options/members-options.php:430
+#: inc/theme-options/members-options.php:439
+#: inc/theme-options/members-options.php:448
+#: inc/theme-options/property-options.php:226
+#: inc/theme-options/property-options.php:333
+#: inc/theme-options/property-options.php:358
+#: inc/theme-options/property-options.php:366
+#: inc/theme-options/property-options.php:397
+#: inc/theme-options/property-options.php:482
+#: inc/theme-options/search-options.php:63
+#: inc/theme-options/search-options.php:110
+#: inc/theme-options/search-options.php:127
+msgid "Show"
+msgstr "Mostra"
+
+#: inc/theme-options/home-options.php:110
+msgid "Homepage layout manager"
+msgstr "Gestore di layout homepage"
+
+#: inc/theme-options/home-options.php:111
+msgid "Organize homepage sections in the way you want them to appear."
+msgstr ""
+"Organizzare le sezioni homepage nel modo in cui si desidera vengano "
+"visualizzate."
+
+#: inc/theme-options/home-options.php:114
+msgid "Page Contents"
+msgstr "Contenuto Pagina"
+
+#: inc/theme-options/home-options.php:117
+#: inc/theme-options/home-options.php:134
+msgid "Properties"
+msgstr "Immobili"
+
+#: inc/theme-options/home-options.php:118
+#: inc/theme-options/home-options.php:298
+msgid "Featured"
+msgstr "In evidenza"
+
+#: inc/theme-options/home-options.php:119
+msgid "How It Works"
+msgstr "Come funziona"
+
+#: inc/theme-options/home-options.php:120
+#: inc/theme-options/home-options.php:685
+msgid "Partners"
+msgstr "Partner"
+
+#: inc/theme-options/home-options.php:121
+#: inc/theme-options/home-options.php:730
+msgid "News"
+msgstr "News"
+
+#: inc/theme-options/home-options.php:136
+msgid "This section contains homepage properties related options."
+msgstr ""
+"Questa sezione contiene le opzioni relative al homepage delle proprietà."
+
+#: inc/theme-options/home-options.php:143
+msgid "Properties design variation"
+msgstr "Variante design immobili"
+
+#: inc/theme-options/home-options.php:144
+msgid ""
+"Select the design variation that you want to use for homepage properties."
+msgstr ""
+"Selezionare la variante di design che si desidera utilizzare per gli "
+"immobili in homepage."
+
+#: inc/theme-options/home-options.php:159
+msgid "4th Variation"
+msgstr "Quarta Variazione"
+
+#: inc/theme-options/home-options.php:168
+#: inc/theme-options/home-options.php:210
+#: inc/theme-options/home-options.php:251
+#: inc/theme-options/home-options.php:266
+msgid "Number of properties to display"
+msgstr "Numero totale di immobili da visualizzare"
+
+#: inc/theme-options/home-options.php:184
+msgid "Multiple Photos"
+msgstr ""
+
+#: inc/theme-options/home-options.php:185
+msgid "* This can slow website performance"
+msgstr "* Questo può rallentare le prestazioni del sito web"
+
+#: inc/theme-options/home-options.php:186
+msgid "Each property can display multiple photos sliding over each other"
+msgstr "Ogni immobile può visualizzare più foto a slide"
+
+#: inc/theme-options/home-options.php:188
+#: inc/theme-options/members-options.php:211
+#: inc/theme-options/members-options.php:224
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: inc/theme-options/home-options.php:189
+#: inc/theme-options/members-options.php:212
+#: inc/theme-options/members-options.php:225
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: inc/theme-options/home-options.php:195
+msgid "Max number of photos"
+msgstr "Numero massimo di foto"
+
+#: inc/theme-options/home-options.php:225
+msgid "Welcome Board Title"
+msgstr "Titolo di benvenuto"
+
+#: inc/theme-options/home-options.php:226
+msgid "We are Offering the Best Real Estate Deals"
+msgstr "Vi offriamo le migliori offerte immobiliari"
+
+#: inc/theme-options/home-options.php:232
+msgid "Welcome Board Text"
+msgstr ""
+
+#: inc/theme-options/home-options.php:233
+#: inc/theme-options/home-options.php:380
+#: inc/theme-options/home-options.php:458
+#: inc/theme-options/home-options.php:496
+#: inc/theme-options/home-options.php:534
+msgid "Following html tags are allowed: a, br, em and strong."
+msgstr "Sono ammessi seguenti tag HTML: a, br, em and strong."
+
+#: inc/theme-options/home-options.php:281
+msgid "Sort Order"
+msgstr "Ordinamento"
+
+#: inc/theme-options/home-options.php:294
+msgid "Select the kind of properties you want to display"
+msgstr "Selezionare il tipo di immobile che si desidera visualizzare"
+
+#: inc/theme-options/home-options.php:296
+msgid "Default ( No Filtration )"
+msgstr "Predefinito (senza filtri)"
+
+#: inc/theme-options/home-options.php:297
+#: inc/theme-options/property-options.php:450
+msgid "Random"
+msgstr "Casuale"
+
+#: inc/theme-options/home-options.php:299
+msgid "Based on my selection of Locations, Statuses and Types."
+msgstr "Basato sulla mia selezione di località, contratti e tipologie."
+
+#: inc/theme-options/home-options.php:306
+msgid "Exclude Featured Properties?"
+msgstr ""
+
+#: inc/theme-options/home-options.php:307
+msgid ""
+"Check this option if you want to exclude Featured Properties from Recent "
+"Properties on Homepage ."
+msgstr ""
+
+#: inc/theme-options/home-options.php:315
+#: inc/theme-options/search-options.php:201
+msgid "Locations"
+msgstr "Posizioni"
+
+#: inc/theme-options/home-options.php:327
+msgid "Statuses"
+msgstr "Stati"
+
+#: inc/theme-options/home-options.php:339
+msgid "Types"
+msgstr "Tipi"
+
+#: inc/theme-options/home-options.php:358
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:8
+msgid "How it Works"
+msgstr "Come funziona"
+
+#: inc/theme-options/home-options.php:360
+msgid "This section contains options related to \"How It Works\" section."
+msgstr "Questa sezione contiene opzioni relative a “Come lavoriamo”."
+
+#: inc/theme-options/home-options.php:367
+msgid "Welcome Text"
+msgstr "Testo di benvenuto"
+
+#: inc/theme-options/home-options.php:368
+msgid "Welcome"
+msgstr "Benvenuto"
+
+#: inc/theme-options/home-options.php:373
+#: inc/theme-options/home-options.php:673
+msgid "Title"
+msgstr "Titolo"
+
+#: inc/theme-options/home-options.php:374
+msgid "An Awesome title"
+msgstr ""
+
+#: inc/theme-options/home-options.php:379
+#: inc/theme-options/property-card-options.php:40
+#: inc/theme-options/property-options.php:10
+#: inc/theme-options/property-options.php:12
+#: inc/theme-options/property-options.php:237
+#: partials/property/templates/property-for-list.php:31
+msgid "Description"
+msgstr "Descrizione"
+
+#: inc/theme-options/home-options.php:396
+msgid "Background Image"
+msgstr "Immagine di Sfondo"
+
+#: inc/theme-options/home-options.php:406
+msgid "Provide a background image for \"How it Works\" section."
+msgstr "Fornire un’immagine di sfondo per la sezione “Come lavoriamo”."
+
+#: inc/theme-options/home-options.php:413
+msgid "Number of Columns"
+msgstr "Numero di colonne"
+
+#: inc/theme-options/home-options.php:414
+msgid ""
+"Choose the number of columns to display below basic introduction on \"How it "
+"Works\" section."
+msgstr ""
+"Scegliere il numero di colonne da visualizzare sotto un'introduzione di base "
+"sulla sezione \"Come lavoriamo\"."
+
+#: inc/theme-options/home-options.php:416
+msgid "None"
+msgstr "Nessuno"
+
+#: inc/theme-options/home-options.php:417
+msgid "1 Column"
+msgstr "1 Colonna"
+
+#: inc/theme-options/home-options.php:418
+msgid "2 Columns"
+msgstr "2 Colonne"
+
+#: inc/theme-options/home-options.php:419
+msgid "3 Columns"
+msgstr "3 Colonne"
+
+#: inc/theme-options/home-options.php:426
+msgid "Content alignment in a column"
+msgstr ""
+
+#: inc/theme-options/home-options.php:428
+msgid "Left"
+msgstr "Sinistra"
+
+#: inc/theme-options/home-options.php:429
+msgid "Center"
+msgstr "Centro"
+
+#: inc/theme-options/home-options.php:442
+msgid "1st Column Icon"
+msgstr "Prima icona della colonna"
+
+#: inc/theme-options/home-options.php:450
+msgid "1st Column Title"
+msgstr "Titolo prima colonna"
+
+#: inc/theme-options/home-options.php:451 partials/members/register.php:4
+msgid "Register"
+msgstr "Registrati"
+
+#: inc/theme-options/home-options.php:457
+msgid "1st Column Description"
+msgstr "Descrizione prima colonna"
+
+#: inc/theme-options/home-options.php:480
+msgid "2nd Column Icon"
+msgstr "Seconda icona della colonna"
+
+#: inc/theme-options/home-options.php:488
+msgid "2nd Column Title"
+msgstr "Titolo seconda colonna"
+
+#: inc/theme-options/home-options.php:489
+msgid "Fill Up Property Details"
+msgstr "METTERE DETTAGLI DELLA STRUTTURA"
+
+#: inc/theme-options/home-options.php:495
+msgid "2nd Column Description"
+msgstr "Descrizione seconda colonna"
+
+#: inc/theme-options/home-options.php:518
+msgid "3rd Column Icon"
+msgstr "Terza icona della colonna"
+
+#: inc/theme-options/home-options.php:526
+msgid "3rd Column Title"
+msgstr "Titolo terza colonna"
+
+#: inc/theme-options/home-options.php:527
+msgid "You are Done!"
+msgstr "Operazione completata!"
+
+#: inc/theme-options/home-options.php:533
+msgid "3rd Column Description"
+msgstr "Descrizione terza colonna"
+
+#: inc/theme-options/home-options.php:551
+msgid "Submit Property Button"
+msgstr "Pulsante invio immobili"
+
+#: inc/theme-options/home-options.php:559
+msgid "Button Text"
+msgstr "Testo Pulsante"
+
+#: inc/theme-options/home-options.php:560
+msgid "Submit Your Property"
+msgstr ""
+
+#: inc/theme-options/home-options.php:566
+msgid "Button Target URL"
+msgstr "Target URL del pulsante"
+
+#: inc/theme-options/home-options.php:578
+#: inc/theme-options/home-options.php:674
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:8
+msgid "Featured Properties"
+msgstr "Immobili in Evidenza"
+
+#: inc/theme-options/home-options.php:580
+msgid ""
+"This section contains options related to featured properties on homepage."
+msgstr ""
+"Questa sezione contiene le opzioni relative agli immobili in evidenza "
+"presenti sulla homepage."
+
+#: inc/theme-options/home-options.php:587
+msgid "Featured properties design variation"
+msgstr "Variante design immobili in evidenza"
+
+#: inc/theme-options/home-options.php:588
+msgid ""
+"Select the design variation that you want to use for featured properties."
+msgstr ""
+"Selezionare la variante di progettazione che si desidera utilizzare per gli "
+"immobili in evidenza in homepage."
+
+#: inc/theme-options/home-options.php:608
+msgid "Number of columns"
+msgstr "Numero di colonne"
+
+#: inc/theme-options/home-options.php:621
+#: inc/theme-options/home-options.php:639
+#: inc/theme-options/home-options.php:657
+msgid "Number of properties"
+msgstr "Numero di Immobili"
+
+#: inc/theme-options/home-options.php:687
+msgid "This section contains options related to partners on homepage."
+msgstr ""
+
+#: inc/theme-options/home-options.php:693
+msgid "Number of partners"
+msgstr "Numero di partners"
+
+#: inc/theme-options/home-options.php:713
+msgid "Partners Title"
+msgstr "Titolo Partners"
+
+#: inc/theme-options/home-options.php:714
+msgid "You can use span tag to highlight a part of title."
+msgstr ""
+"È possibile utilizzare l’elemento san per evidenziare una parte del titolo."
+
+#: inc/theme-options/home-options.php:732
+msgid "This section contains options related to news on homepage."
+msgstr "Questa sezione contiene opzioni per la sezione news sulla homepage."
+
+#: inc/theme-options/home-options.php:738
+msgid "Number of posts to display"
+msgstr "Numero di articoli da visualizzare"
+
+#: inc/theme-options/home-options.php:756
+msgid "News Title"
+msgstr "Titolo News"
+
+#: inc/theme-options/home-options.php:757
+msgid "Latest News"
+msgstr "Ultime novità"
+
+#: inc/theme-options/home-options.php:762
+msgid "Type of News Posts"
+msgstr "Tipo di news"
+
+#: inc/theme-options/home-options.php:763
+msgid "Choose the type of news posts to display on homepage."
+msgstr "Scegliere il tipo di post di notizie da visualizzare sulla homepage."
+
+#: inc/theme-options/home-options.php:765
+msgid "Recent"
+msgstr "Recente"
+
+#: inc/theme-options/home-options.php:766
+msgid "Based on Categories"
+msgstr ""
+
+#: inc/theme-options/home-options.php:767
+msgid "Based on Tags"
+msgstr ""
+
+#: inc/theme-options/home-options.php:776
+msgid "Select Categories"
+msgstr "Seleziona Categorie"
+
+#: inc/theme-options/home-options.php:784
+msgid "Select Tags"
+msgstr "Seleziona i tag"
+
+#: inc/theme-options/home-options.php:790
+msgid "More Link Text"
+msgstr "Altro testo di collegamento"
+
+#: inc/theme-options/home-options.php:791
+msgid "More"
+msgstr "Altro"
+
+#: inc/theme-options/members-options.php:7
+msgid "Members"
+msgstr "Membri"
+
+#: inc/theme-options/members-options.php:9
+msgid "This section contains options related to registered users."
+msgstr "Questa sezione contiene le opzioni relative agli utenti registrati."
+
+#: inc/theme-options/members-options.php:15
+msgid "User Navigation in Header"
+msgstr "Navigazione utente nell'intestazione"
+
+#: inc/theme-options/members-options.php:23
+msgid "Label For \"Favourite\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:30
+msgid "Label For \"Logout\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:37
+msgid "Label For \"Profile\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:44
+msgid "Label For \"My Properties\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:51
+msgid "Label For \"Submit\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:58
+msgid "Display Submit button for Registered Users only"
+msgstr ""
+
+#: inc/theme-options/members-options.php:59
+msgid ""
+"Do you want to display the submit property link for registered members only?"
+msgstr ""
+
+#: inc/theme-options/members-options.php:67
+msgid "Restrict Admin Access"
+msgstr "Accesso limitato all'amministratore"
+
+#: inc/theme-options/members-options.php:68
+msgid ""
+"Restrict admin access to any user level equal to or below the selected user "
+"level."
+msgstr ""
+"Limitare l’accesso amministratore a qualsiasi livello utente pari o al di "
+"sotto del livello utente selezionato."
+
+#: inc/theme-options/members-options.php:70
+msgid "Subscriber ( Level 0 )"
+msgstr "Iscritto (livello 0)"
+
+#: inc/theme-options/members-options.php:71
+msgid "Contributor ( Level 1 )"
+msgstr "Contribuente (livello 1)"
+
+#: inc/theme-options/members-options.php:72
+msgid "Author ( Level 2 )"
+msgstr "Autore ( Livello 2 )"
+
+#: inc/theme-options/members-options.php:97
+msgid "Edit Profile Page"
+msgstr "Modifica Pagina Profilo"
+
+#: inc/theme-options/members-options.php:98
+msgid "Make sure the selected page is using Edit Profile template."
+msgstr ""
+"Assicurarsi che la pagina selezionata utilizzi il modello modifica profilo."
+
+#: inc/theme-options/members-options.php:109
+msgid "Favorites Page"
+msgstr "Pagina Preferiti"
+
+#: inc/theme-options/members-options.php:110
+msgid "Select a page to display favorite properties."
+msgstr "Selezionare una pagina per visualizzare gli immobili preferiti."
+
+#: inc/theme-options/members-options.php:111
+msgid "Make sure the selected page is using Favorites template."
+msgstr "Assicurarsi che la pagina selezionata utilizzi il modello preferiti."
+
+#: inc/theme-options/members-options.php:116
+msgid "Number of Properties on Favorites Page"
+msgstr "Numero di immobili nella pagina preferiti"
+
+#: inc/theme-options/members-options.php:137
+msgid "My Properties Page"
+msgstr "Pagina i miei immobili"
+
+#: inc/theme-options/members-options.php:138
+msgid "Make sure the selected page is using My Properties template."
+msgstr ""
+"Assicurarsi che la pagina selezionata stia usando il template dei miei "
+"immobili."
+
+#: inc/theme-options/members-options.php:143
+msgid "Number of Properties on My Properties Page"
+msgstr "Numero di immobili nella pagina i miei immobili"
+
+#: inc/theme-options/members-options.php:169
+msgid "Submit Property Page"
+msgstr "Pagina invio immobile"
+
+#: inc/theme-options/members-options.php:170
+msgid "Make sure the selected page is using Submit Property template."
+msgstr ""
+
+#: inc/theme-options/members-options.php:175
+msgid "Default Status of Submitted Property"
+msgstr "Contratto di default di immobili inviati"
+
+#: inc/theme-options/members-options.php:177
+msgid "Pending for Review"
+msgstr "In sospeso per la revisione"
+
+#: inc/theme-options/members-options.php:178
+msgid "Publish"
+msgstr "Pubblica"
+
+#: inc/theme-options/members-options.php:186
+msgid "Default Address for Property Submit Form"
+msgstr "Indirizzo predefinito per il form di invio immobile"
+
+#: inc/theme-options/members-options.php:193
+msgid "Default Location Coordinates for Property Submit Map"
+msgstr "Indirizzo predefinito per il form di invio immobile"
+
+#: inc/theme-options/members-options.php:201
+msgid "Email for Property Submit Notice"
+msgstr "E-mail per notifica invio immobile"
+
+#: inc/theme-options/members-options.php:202
+msgid ""
+"This email address will receive a notice whenever a user submits a property."
+msgstr ""
+"Questo indirizzo e-mail riceverà un avviso ogni volta che un utente invia un "
+"immobile."
+
+#: inc/theme-options/members-options.php:209
+msgid "Message for Reviewer on Property Submit Form"
+msgstr "Messaggio per moderatore tramite il form di invio immobile"
+
+#: inc/theme-options/members-options.php:222
+msgid "Auto-Generate Property ID"
+msgstr "Genera automaticamente l'ID della proprietà"
+
+#: inc/theme-options/members-options.php:235
+msgid "Auto-Generated Property ID Pattern"
+msgstr "Pattern ID immobile generato automaticamente"
+
+#: inc/theme-options/members-options.php:236
+msgid ""
+"Please use {ID} in your pattern as it will be replaced by the Property ID."
+msgstr ""
+"Utilizza {ID} nel tuo modello \n"
+"poiché verrà sostituito dall'ID immobile."
+
+#: inc/theme-options/members-options.php:245
+msgid "Property Submit"
+msgstr "Immobili Inseriti"
+
+#: inc/theme-options/members-options.php:247
+msgid "This section contains Property Submit related options."
+msgstr ""
+
+#: inc/theme-options/members-options.php:253
+msgid "Address Field"
+msgstr "Campo Indirizzo"
+
+#: inc/theme-options/members-options.php:262
+msgid "Property Description Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:271
+msgid "Type Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:280
+msgid "Location Field"
+msgstr "Campo Località"
+
+#: inc/theme-options/members-options.php:289
+msgid "Status Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:298
+msgid "Bedrooms Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:307
+msgid "Bathrooms Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:316
+msgid "Garages Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:325
+msgid "Sale OR Rent Price Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:334
+msgid "Price Postfix Text Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:343
+msgid "Area Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:352
+msgid "Area Postfix Text Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:362
+msgid "Property ID Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:371
+msgid "Property Video URL Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:380
+msgid "Year Built Field"
+msgstr "Campo Anno di costruzione"
+
+#: inc/theme-options/members-options.php:389
+msgid "Parent Property Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:398
+msgid "Virtual Tour Embed Code Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:408
+msgid "Drag And Drop Image Box Field"
+msgstr "Trascinare e rilasciare Campo casella immagine"
+
+#: inc/theme-options/members-options.php:419
+msgid "Agent Information Option Field "
+msgstr ""
+
+#: inc/theme-options/members-options.php:429
+msgid "Mark As Featured Property Checkbox"
+msgstr ""
+
+#: inc/theme-options/members-options.php:438
+msgid "Features Field"
+msgstr "Caratteristiche campo"
+
+#: inc/theme-options/members-options.php:447
+msgid "Additional Details Field"
+msgstr ""
+
+#: inc/theme-options/misc-options.php:7
+msgid "Misc"
+msgstr "Varie"
+
+#: inc/theme-options/misc-options.php:9
+msgid ""
+"This section contains options related to various features across the theme."
+msgstr ""
+"Questa sezione contiene opzioni relazionati alle varie caratteristiche in "
+"tutto il tema."
+
+#: inc/theme-options/misc-options.php:14
+msgid "CC Email Address for Messages to Agents"
+msgstr "Indirizzo di posta elettronica CC per i messaggi agli agenti"
+
+#: inc/theme-options/misc-options.php:15
+msgid ""
+"Given email address will receive a carbon copy of every message sent to any "
+"agent."
+msgstr ""
+"A questo indirizzo e-mail verrà inviata una copia del messaggio inviato a "
+"qualsiasi agente."
+
+#: inc/theme-options/misc-options.php:16 inc/theme-options/misc-options.php:23
+msgid "You can provide multiple email addresses separated with comma."
+msgstr "È possibile inserire più indirizzi email separati da una virgola."
+
+#: inc/theme-options/misc-options.php:21
+msgid "BCC Email Address for Messages to Agents"
+msgstr "Indirizzo email BCC per messaggi agli agenti"
+
+#: inc/theme-options/misc-options.php:22
+msgid ""
+"Given email address will receive a blind carbon copy of every message sent "
+"to any agent."
+msgstr ""
+"A questo indirizzo e-mail verrà inviata una copia del messaggio inviato a "
+"qualsiasi agente."
+
+#: inc/theme-options/misc-options.php:28
+msgid "Link to Previous and Next Property "
+msgstr "Link ad Attività precedente e Successiva "
+
+#: inc/theme-options/misc-options.php:36
+msgid "Link to Previous and Next Post "
+msgstr "Link a Post Precedente e Successivo "
+
+#: inc/theme-options/options-config.php:36
+#: inc/theme-options/options-config.php:37
+msgid "Theme Options"
+msgstr "Opzioni Tema"
+
+#: inc/theme-options/payments-options.php:7
+msgid "Payments"
+msgstr "Pagamenti"
+
+#: inc/theme-options/payments-options.php:9
+msgid ""
+"This section contains options related to payments for submitted properties."
+msgstr ""
+"Questa sezione contiene le opzioni relative ai pagamenti per gli immobili "
+"inseriti."
+
+#: inc/theme-options/payments-options.php:15
+msgid "PayPal Payments"
+msgstr "Pagamenti PayPal"
+
+#: inc/theme-options/payments-options.php:16
+msgid "Enable payment via PayPal ?"
+msgstr ""
+
+#: inc/theme-options/payments-options.php:24
+msgid "PayPal IPN URL"
+msgstr "URL IPN PayPal"
+
+#: inc/theme-options/payments-options.php:25
+msgid "It is a must"
+msgstr "E’ d’obbligo"
+
+#: inc/theme-options/payments-options.php:26
+msgid ""
+"Install \"PayPal IPN for WordPress\" plugin and get IPN URL from Settings > "
+"PayPal IPN."
+msgstr ""
+"Installa il plugin “PayPal IPN per Wordpress” e ottenere IPN URL da "
+"Impostazioni> PayPal IPN."
+
+#: inc/theme-options/payments-options.php:33
+msgid "PayPal Merchant Account ID or Email"
+msgstr ""
+
+#: inc/theme-options/payments-options.php:39
+msgid "PayPal Sandbox"
+msgstr "Paypal Sandbox"
+
+#: inc/theme-options/payments-options.php:40
+msgid "Enable PayPal sandbox for testing"
+msgstr "Attivare PayPal sandbox per il test"
+
+#: inc/theme-options/payments-options.php:49
+msgid "Payment Amount for a Property"
+msgstr "Importo da pagare per immobile"
+
+#: inc/theme-options/payments-options.php:50
+msgid ""
+"Provide the amount that you want to charge for a property. Example: 20.00"
+msgstr ""
+
+#: inc/theme-options/payments-options.php:57
+msgid "Currency Code"
+msgstr "Codice Valuta"
+
+#: inc/theme-options/payments-options.php:58
+msgid "Provide the currency code that you want to use. Example: USD"
+msgstr "Inserisci il codice di valuta che vuoi utilizzare. Esempio: EUR"
+
+#: inc/theme-options/payments-options.php:65
+msgid "Auto Action on Successful Payment"
+msgstr "Azione automatica sul pagamento riuscito"
+
+#: inc/theme-options/payments-options.php:67
+msgid "Publish the Property"
+msgstr ""
+
+#: inc/theme-options/payments-options.php:68
+msgid "Do Nothing"
+msgstr "Non fare nulla"
+
+#: inc/theme-options/property-card-options.php:7
+msgid "Property Card"
+msgstr "Scheda immobile"
+
+#: inc/theme-options/property-card-options.php:9
+msgid ""
+"This section contains options for property card displayed in various pages "
+"across the theme."
+msgstr ""
+"Questa sezione contiene le opzioni per la scheda immobile esposta in varie "
+"pagine di tutto il tema."
+
+#: inc/theme-options/property-card-options.php:15
+msgid "Display images gallery for property card in list and grid layout"
+msgstr ""
+"Visualizzare le immagini della galleria per la scheda immobile in lista e il "
+"layout della griglia"
+
+#: inc/theme-options/property-card-options.php:16
+msgid "This option has performance implications."
+msgstr ""
+
+#: inc/theme-options/property-card-options.php:24
+msgid "Maximum number of images allowed in property card gallery."
+msgstr ""
+"Numero massimo di immagini consentito nella galleria della scheda immobile."
+
+#: inc/theme-options/property-card-options.php:39
+msgid "Description title for property card in list layout"
+msgstr "Descrizione titolo per la scheda immobile nel layout lista"
+
+#: inc/theme-options/property-card-options.php:45
+msgid "Price title for property card in list layout"
+msgstr "Titolo prezzo per la scheda immobile nel layout lista"
+
+#: inc/theme-options/property-card-options.php:46
+#: partials/property/templates/property-for-list.php:23
+msgid "Price"
+msgstr "Prezzo"
+
+#: inc/theme-options/property-card-options.php:51
+msgid "Button text for property card in list layout"
+msgstr "Testo del pulsante per la scheda immobile nel layout lista"
+
+#: inc/theme-options/property-options.php:16
+#: inc/theme-options/property-options.php:18
+#: inc/theme-options/property-options.php:248
+msgid "Additional Details"
+msgstr "Dettagli aggiuntivi"
+
+#: inc/theme-options/property-options.php:22
+#: inc/theme-options/property-options.php:24
+#: inc/theme-options/property-options.php:259
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: inc/theme-options/property-options.php:28
+#: inc/theme-options/property-options.php:30
+#| msgid "Floor Plans"
+msgid "Floor plans"
+msgstr "Planimetrie"
+
+#: inc/theme-options/property-options.php:34
+#: inc/theme-options/property-options.php:36
+#| msgid "Video Title"
+msgid "Video"
+msgstr "Video"
+
+#: inc/theme-options/property-options.php:40
+#: inc/theme-options/property-options.php:42
+#: inc/theme-options/property-options.php:289
+msgid "Virtual Tour"
+msgstr "Tour Virtuale"
+
+#: inc/theme-options/property-options.php:46
+#: inc/theme-options/property-options.php:48
+msgid "Map"
+msgstr "Mappa"
+
+#: inc/theme-options/property-options.php:52
+#: inc/theme-options/property-options.php:54
+#: inc/theme-options/property-options.php:299
+msgid "Attachments"
+msgstr "Allegati"
+
+#: inc/theme-options/property-options.php:58
+#: inc/theme-options/property-options.php:60
+msgid "Share"
+msgstr "Condividi"
+
+#: inc/theme-options/property-options.php:64
+#: inc/theme-options/property-options.php:66
+#| msgid "Child Theme"
+msgid "Children"
+msgstr "Bambini"
+
+#: inc/theme-options/property-options.php:68
+#: inc/theme-options/property-options.php:512
+#: inc/theme-options/property-options.php:521
+msgid "WalkScore"
+msgstr "Punteggio"
+
+#: inc/theme-options/property-options.php:182
+msgid "Property Detail"
+msgstr "Informazioni di base sull'immobile"
+
+#: inc/theme-options/property-options.php:184
+msgid "This section contains options for property detail page."
+msgstr ""
+"Questa sezione contiene le opzioni per la pagina di dettaglio immobile."
+
+#: inc/theme-options/property-options.php:189
+msgid "Section Manager"
+msgstr ""
+
+#: inc/theme-options/property-options.php:196
+msgid "Property Header Design Variation"
+msgstr "Variazione design intestazione immobile"
+
+#: inc/theme-options/property-options.php:198
+msgid ""
+"Variation One - Simple slider with basic information on right side of slider."
+msgstr ""
+"Variazioni One - cursore semplice con le informazioni di base sul lato "
+"destro del dispositivo di scorrimento."
+
+#: inc/theme-options/property-options.php:199
+msgid "Variation Two - Thumbnail slider with basic information below slider."
+msgstr ""
+
+#: inc/theme-options/property-options.php:200
+msgid ""
+"Variation Three - Horizontally scrollable slider with basic information "
+"below slider."
+msgstr ""
+
+#: inc/theme-options/property-options.php:213
+#: inc/theme-options/search-options.php:99
+#: inc/theme-options/styles-options/basic-styles-options.php:8
+msgid "Basic"
+msgstr "Base"
+
+#: inc/theme-options/property-options.php:215
+#| msgid "This section contains properties slider styles options."
+msgid "This section contains Basic Property Details related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:224
+msgid "Property Breadcrumbs"
+msgstr "Percorso di Navigazione Attività"
+
+#: inc/theme-options/property-options.php:236
+msgid "Description Title"
+msgstr "Titolo descrizione"
+
+#: inc/theme-options/property-options.php:247
+msgid "Additional Details Title"
+msgstr "Titolo dettagli aggiuntivi"
+
+#: inc/theme-options/property-options.php:258
+msgid "Features Title"
+msgstr "Titolo Caratteristiche"
+
+#: inc/theme-options/property-options.php:268
+msgid "Floor Plans Title"
+msgstr "Titolo per Planimetrie"
+
+#: inc/theme-options/property-options.php:269
+msgid "Floor Plans"
+msgstr "Planimetrie"
+
+#: inc/theme-options/property-options.php:278
+msgid "Video Title"
+msgstr "Titolo del video"
+
+#: inc/theme-options/property-options.php:279
+msgid "Property Video"
+msgstr "Video dell'immobile"
+
+#: inc/theme-options/property-options.php:288
+msgid "Virtual Tour Title"
+msgstr ""
+
+#: inc/theme-options/property-options.php:298
+msgid "Attachments Title"
+msgstr "Titolo allegati"
+
+#: inc/theme-options/property-options.php:309
+msgid "Share This Property Title"
+msgstr "Titolo condividi questo immobile"
+
+#: inc/theme-options/property-options.php:310
+msgid "Share This Property"
+msgstr "Condividi"
+
+#: inc/theme-options/property-options.php:320
+msgid "Children Properties Title"
+msgstr "Titolo immobili figli"
+
+#: inc/theme-options/property-options.php:321
+msgid "Sub Properties"
+msgstr "Sub-immobili"
+
+#: inc/theme-options/property-options.php:331
+msgid "Property Comments"
+msgstr "Commenti immobile"
+
+#: inc/theme-options/property-options.php:348
+#: inc/theme-options/property-options.php:356
+msgid "Agent Information"
+msgstr "Informazioni Agente"
+
+#: inc/theme-options/property-options.php:350
+#| msgid "This section contains homepage properties related options."
+msgid "This section contains Agent Information related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:364
+msgid "Agent Contact Form"
+msgstr "Modulo di Contatto Agente"
+
+#: inc/theme-options/property-options.php:373
+msgid "Agent Contact Form Title"
+msgstr "Titolo modulo di contatto agente"
+
+#: inc/theme-options/property-options.php:374
+msgid "Contact Agent"
+msgstr "Contatta Agente"
+
+#: inc/theme-options/property-options.php:387
+#: inc/theme-options/property-options.php:395
+#: inc/theme-options/property-options.php:404
+msgid "Similar Properties"
+msgstr "Immobili Simili"
+
+#: inc/theme-options/property-options.php:389
+#| msgid "This section contains homepage properties related options."
+msgid "This section contains Similar Properties related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:403
+msgid "Similar Properties Title"
+msgstr "Titolo Immobili Simili"
+
+#: inc/theme-options/property-options.php:410
+msgid "Maximum number of similar properties"
+msgstr "Numero massimo di immobili simili"
+
+#: inc/theme-options/property-options.php:425
+msgid "Show similar properties based on"
+msgstr "Mostra immobili simili in base a"
+
+#: inc/theme-options/property-options.php:427
+msgid "Property Location"
+msgstr "Posizione dell'immobile"
+
+#: inc/theme-options/property-options.php:428
+#: inc/theme-options/search-options.php:141
+msgid "Property Status"
+msgstr "Stato dell'immobile"
+
+#: inc/theme-options/property-options.php:429
+#: inc/theme-options/search-options.php:134
+msgid "Property Type"
+msgstr "Tipologia dell'immobile"
+
+#: inc/theme-options/property-options.php:430
+msgid "Property Feature"
+msgstr "Caratteristica Immobile"
+
+#: inc/theme-options/property-options.php:444
+msgid "Sort Similar Properties By"
+msgstr ""
+
+#: inc/theme-options/property-options.php:447
+msgid "Time - Recent First"
+msgstr "Data - Dai più recenti"
+
+#: inc/theme-options/property-options.php:448
+msgid "Price - High to Low"
+msgstr "Prezzo - Dal più caro al più economico"
+
+#: inc/theme-options/property-options.php:449
+msgid "Proce - Low to High"
+msgstr ""
+
+#: inc/theme-options/property-options.php:465
+#| msgid "Google Map in Header"
+msgid "Google Maps & Nearby"
+msgstr ""
+
+#: inc/theme-options/property-options.php:467
+#| msgid "This section contains homepage layout related options."
+msgid "This section contains Google Maps and Nearby related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:473
+msgid "Map Title"
+msgstr "Titolo mappa"
+
+#: inc/theme-options/property-options.php:474
+#: inc/theme-options/search-options.php:178
+#: inc/util/real-estate-functions.php:151
+msgid "Location"
+msgstr "Luogo"
+
+#: inc/theme-options/property-options.php:480
+#| msgid "Property Location"
+msgid "Nearby Locations"
+msgstr ""
+
+#: inc/theme-options/property-options.php:488
+msgid "Nearby Locations Radius (in meters)"
+msgstr ""
+
+#: inc/theme-options/property-options.php:514
+#| msgid "This section contains styles related options."
+msgid "This section contains WalkScore related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:520
+#| msgid "Welcome Board Title"
+msgid "WalkScore Title"
+msgstr ""
+
+#: inc/theme-options/property-options.php:526
+msgid "WalkScore API Key"
+msgstr ""
+
+#: inc/theme-options/property-options.php:528
+msgid ""
+"Click here to get your <a target=\"_blank\" href=\"https://www.walkscore.com/"
+"professional/api-sign-up.php\">WalkScore API Key</a>"
+msgstr ""
+"Click here to get your <a target=\"_blank\" href=\"https://www.walkscore.com/"
+"professional/api-sign-up.php\">WalkScore API Key</a>"
+
+#: inc/theme-options/search-options.php:9
+#| msgid "Properties Search Page"
+msgid "Properties Search"
+msgstr "Ricerca immobili"
+
+#: inc/theme-options/search-options.php:11
+msgid "This section contains options related to property search."
+msgstr ""
+
+#: inc/theme-options/search-options.php:17
+msgid "Properties Search Page"
+msgstr "Pagina Ricerca immobili"
+
+#: inc/theme-options/search-options.php:18
+msgid "Select a page for properties search results."
+msgstr "Selezionare una pagina per i risultati di ricerca degli immobili."
+
+#: inc/theme-options/search-options.php:19
+msgid "Make sure the selected page is using Property Search template."
+msgstr "Assicurati che la pagina selezionata usa il template ricerca immobile."
+
+#: inc/theme-options/search-options.php:24
+msgid "Number of Properties on Search Page"
+msgstr "Numero di immobili nella pagina di ricerca"
+
+#: inc/theme-options/search-options.php:31
+msgid "Search Page Layout"
+msgstr "﻿Layout pagina ricerca"
+
+#: inc/theme-options/search-options.php:33
+msgid "List Layout - Sidebar"
+msgstr ""
+
+#: inc/theme-options/search-options.php:34
+msgid "Grid Layout - Sidebar"
+msgstr "Grid Layout: Barra laterale"
+
+#: inc/theme-options/search-options.php:37
+msgid "Half Map - Left Side"
+msgstr ""
+
+#: inc/theme-options/search-options.php:38
+msgid "Half Map - Right Side"
+msgstr ""
+
+#: inc/theme-options/search-options.php:46
+msgid "Default Order of Search Results"
+msgstr "Ordine predefinito dei risultati della ricerca"
+
+#: inc/theme-options/search-options.php:60
+msgid "Search Form In Properties Pages"
+msgstr ""
+
+#: inc/theme-options/search-options.php:61
+msgid "Not applicable for Header Variation One."
+msgstr ""
+
+#: inc/theme-options/search-options.php:70
+msgid "What to Display Below Header on Property Search Page"
+msgstr "Cosa mostrare sotto l’header sulla pagina di ricerca immobile"
+
+#: inc/theme-options/search-options.php:80
+msgid "How do you want to Sort All the Taxonomies?"
+msgstr ""
+
+#: inc/theme-options/search-options.php:81
+msgid ""
+"How would you like to sort the taxonomies (Locations, Property Status, "
+"Property Types etc. For example, by properties count (taxonomies with "
+"highest properties assigned) or by the alphabetic order."
+msgstr ""
+
+#: inc/theme-options/search-options.php:83
+msgid "Alphabetically"
+msgstr "Ordine Alfabetico"
+
+#: inc/theme-options/search-options.php:84
+msgid "Properties Count"
+msgstr "Conteggio Immobili"
+
+#: inc/theme-options/search-options.php:101
+#| msgid "This sub section contains basic styles options."
+msgid "This section contains Advance Search Basic options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:107
+#| msgid "Search Form Title"
+msgid "Display Search Form Title"
+msgstr ""
+
+#: inc/theme-options/search-options.php:108
+#| msgid "Property features will be displayed below other search form fields."
+msgid "Property title will be displayed above the search form."
+msgstr ""
+
+#: inc/theme-options/search-options.php:116
+msgid "Search Form Title"
+msgstr "Titolo Modulo di Ricerca"
+
+#: inc/theme-options/search-options.php:117
+msgid "Quick Search"
+msgstr "Ricerca veloce"
+
+#: inc/theme-options/search-options.php:124
+msgid "Property Features in Search Form"
+msgstr "Caratteristiche immobile nel form di ricerca"
+
+#: inc/theme-options/search-options.php:125
+msgid "Property features will be displayed below other search form fields."
+msgstr ""
+"Le caratteristiche dell’immobile saranno mostrate sotto gli altri campi del "
+"form."
+
+#: inc/theme-options/search-options.php:133
+msgid "Title for search \"Property Type\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:140
+msgid "Title for search \"Property Status\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:146
+msgid "Title for search \"Keyword\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:147
+#: inc/theme-options/search-options.php:177
+msgid "Keyword"
+msgstr "Parola chiave"
+
+#: inc/theme-options/search-options.php:153
+msgid "Title for search \"Property ID\""
+msgstr "Titolo per la ricerca \"ID della proprietà\""
+
+#: inc/theme-options/search-options.php:154
+#: inc/theme-options/search-options.php:187
+#: inc/util/real-estate-functions.php:36
+msgid "Property ID"
+msgstr "ID Immobile"
+
+#: inc/theme-options/search-options.php:168
+#| msgid "This section contains homepage layout related options."
+msgid "This section contains Advance Search layout related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:174
+msgid "Search Form Fields Manager"
+msgstr "Gestore campi di ricerca del form"
+
+#: inc/theme-options/search-options.php:183
+msgid "Min Beds"
+msgstr "Numero minimo camere da letto"
+
+#: inc/theme-options/search-options.php:184
+msgid "Min Baths"
+msgstr "Numero minimo bagni"
+
+#: inc/theme-options/search-options.php:185
+msgid "Min Max Price"
+msgstr "Prezzo Min e Max"
+
+#: inc/theme-options/search-options.php:186
+msgid "Min Max Area"
+msgstr "Superficie Min e Max"
+
+#: inc/theme-options/search-options.php:203
+#| msgid "This section contains homepage properties related options."
+msgid "This section contains Advance Search Locations related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:209
+msgid "Number of Location Select Boxes"
+msgstr "Numero di zone nel box ricerca"
+
+#: inc/theme-options/search-options.php:222
+msgid "Title for 1st Location Select Box"
+msgstr "Titolo per la prima casella di selezione località"
+
+#: inc/theme-options/search-options.php:223
+msgid "Country"
+msgstr "Nazione"
+
+#: inc/theme-options/search-options.php:229
+msgid "Title for 2nd Location Select Box"
+msgstr "Titolo per il secondo box di selezione"
+
+#: inc/theme-options/search-options.php:230
+msgid "State"
+msgstr "Stato"
+
+#: inc/theme-options/search-options.php:236
+msgid "Title for 3rd Location Select Box"
+msgstr "Titolo per il terzo box di selezione"
+
+#: inc/theme-options/search-options.php:237
+#: page-templates/template-compare.php:91
+msgid "City"
+msgstr "Città"
+
+#: inc/theme-options/search-options.php:243
+msgid "Title for 4th Location Select Box"
+msgstr "Titolo per il quarto box di selezione"
+
+#: inc/theme-options/search-options.php:244
+#: inc/theme-options/search-options.php:376
+#: inc/util/real-estate-functions.php:51 page-templates/template-compare.php:93
+msgid "Area"
+msgstr "Area"
+
+#: inc/theme-options/search-options.php:257
+#| msgid "%d Baths"
+msgid "Beds and Baths"
+msgstr ""
+
+#: inc/theme-options/search-options.php:259
+#| msgid "This section contains styles related options."
+msgid "This section contains Advance Search Beds and Baths related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:266
+msgid "Title for search \"Min Beds\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:267
+msgid "Min Beds (Any)"
+msgstr "Camere (Qualsiasi)"
+
+#: inc/theme-options/search-options.php:272
+msgid "Values for Min Beds Field"
+msgstr ""
+
+#: inc/theme-options/search-options.php:273
+#: inc/theme-options/search-options.php:290
+#: inc/theme-options/search-options.php:320
+#: inc/theme-options/search-options.php:336
+#: inc/theme-options/search-options.php:354
+#: inc/theme-options/search-options.php:362
+msgid ""
+"Only provide comma separated numbers. Do not add decimal points, dashes, "
+"spaces or currency signs."
+msgstr ""
+
+#: inc/theme-options/search-options.php:281
+msgid "Title for search \"Min Bath\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:282
+msgid "Min Baths (Any)"
+msgstr "Bagni (Qualsiasi)"
+
+#: inc/theme-options/search-options.php:289
+msgid "Values for Min Baths Field"
+msgstr ""
+
+#: inc/theme-options/search-options.php:304
+#| msgid "Price"
+msgid "Prices"
+msgstr "Prezzi"
+
+#: inc/theme-options/search-options.php:306
+#| msgid "This section contains homepage properties related options."
+msgid "This section contains Advance Search Prices related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:312
+msgid "Title for search \"Min Price\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:313
+msgid "Min Price (Any)"
+msgstr "Min Prezzo (Qualsiasi)"
+
+#: inc/theme-options/search-options.php:319
+msgid "Values for Minimum Prices Field"
+msgstr "Valori per il campo prezzi minimi"
+
+#: inc/theme-options/search-options.php:328
+msgid "Title for search \"Max Price\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:329
+msgid "Max Price (Any)"
+msgstr "Max Prezzo (Qualsiasi)"
+
+#: inc/theme-options/search-options.php:335
+msgid "Values for Maximum Prices Field"
+msgstr "Valori per il campo prezzi massimi"
+
+#: inc/theme-options/search-options.php:343
+msgid "Status That Represents Rent"
+msgstr "Stato Che Rappresenta affitto"
+
+#: inc/theme-options/search-options.php:344
+msgid ""
+"Visitor expects smaller values for rent prices. So provide the list of "
+"minimum and maximum rent prices below. The rent prices will be displayed "
+"based on rent status selected above."
+msgstr ""
+
+#: inc/theme-options/search-options.php:353
+msgid "Values for Minimum Rent Prices Field"
+msgstr ""
+
+#: inc/theme-options/search-options.php:361
+msgid "Values for Maximum Rent Prices Field"
+msgstr ""
+
+#: inc/theme-options/search-options.php:378
+#| msgid "This section contains styles related options."
+msgid "This section contains Advance Search area related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:384
+msgid "Title for search \"Min Area\""
+msgstr "Titolo per ricerca \"Prezzo min\""
+
+#: inc/theme-options/search-options.php:385
+msgid "Min Area (sq ft)"
+msgstr "Superficie Min. (Mq)"
+
+#: inc/theme-options/search-options.php:391
+msgid "Title for search \"Max Area\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:392
+msgid "Max Area (sq ft)"
+msgstr "Superficie Max. (Mq)"
+
+#: inc/theme-options/styles-options.php:8
+msgid "Styles"
+msgstr "Stili"
+
+#: inc/theme-options/styles-options.php:10
+msgid "This section contains styles related options."
+msgstr "Questa sezione contiene opzioni relative agli stili."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:10
+msgid "This sub section contains basic styles options."
+msgstr "Questa sub sezione contiene opzioni di stile di base."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:18
+msgid "Main Background"
+msgstr "Sfondo principale"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:19
+msgid "Configure body background of your choice. ( default:#eff1f5 )"
+msgstr "Configura lo sfondo del body. ( predefinito: #eff1f5 )"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:25
+msgid "Do you want to change fonts?"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:33
+msgid "Headings Font"
+msgstr "Font per le Intestazioni"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:34
+msgid "Select the font for headings."
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:35
+#: inc/theme-options/styles-options/basic-styles-options.php:55
+msgid "Varela Round is default font."
+msgstr "Varela Round è il carattere predefinito."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:53
+msgid "Text Font"
+msgstr "Carattere testo"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:54
+msgid "Select the font for body text."
+msgstr "Selezionare il font per il testo del corpo."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:74
+#: inc/theme-options/styles-options/property-details-styles-options.php:18
+msgid "Headings Color"
+msgstr "Colore Intestazioni"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:85
+msgid "Text Color"
+msgstr "Colore testo"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:94
+msgid "Quote Text Color"
+msgstr "Colore testo citazione"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:103
+msgid "Link Color"
+msgstr "Colore Link"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:115
+msgid "Link Color in Page and Post Contents"
+msgstr "Colore link per pagina e contenuto post"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:127
+msgid "Animation"
+msgstr "Animazione"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:128
+msgid "You can enable or disable CSS3 animation on various components."
+msgstr ""
+"È possibile attivare o disattivare l’animazione CSS3 su vari componenti."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:136
+msgid "Background Color of Scroll to Top"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:146
+msgid "Icon Color of Scroll to Top"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:156
+msgid "Quick CSS"
+msgstr "CSS rapido"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:157
+msgid ""
+"You can use this box for some quick css changes. For big changes, Use the "
+"custom.css file in css folder. In case of child theme please use style.css "
+"file in child theme."
+msgstr ""
+"È possibile utilizzare questa casella per alcune modifiche css rapidi. Per i "
+"grandi cambiamenti, Utilizzare il file custom.css nella cartella css. In "
+"caso di tema figlio si prega di utilizzare file style.css in tema figlio."
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:10
+msgid "This section contains featured properties styles options."
+msgstr "Questa sezione contiene opzioni di stili degli immobili in evidenza."
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:24
+msgid "Background Color for Odd Properties"
+msgstr "Colore di sfondo per gli immobili nelle righe dispari"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:37
+msgid "Background Color for Even Properties"
+msgstr "Colore di sfondo per gli immobili nelle righe pari"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:52
+#: inc/theme-options/styles-options/properties-styles-options.php:347
+msgid "Background Color on Hover"
+msgstr "Colore dello sfondo on hover"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:67
+msgid "Overall Text Color on Hover"
+msgstr ""
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:79
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:200
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:352
+#: inc/theme-options/styles-options/properties-styles-options.php:59
+#: inc/theme-options/styles-options/properties-styles-options.php:205
+#: inc/theme-options/styles-options/properties-styles-options.php:359
+#: inc/theme-options/styles-options/properties-styles-options.php:539
+msgid "Title Color"
+msgstr "Colore del Titolo"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:93
+msgid "Title Color on Hover"
+msgstr ""
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:105
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:227
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:366
+#: inc/theme-options/styles-options/properties-styles-options.php:75
+#: inc/theme-options/styles-options/properties-styles-options.php:221
+#: inc/theme-options/styles-options/properties-styles-options.php:372
+#: inc/theme-options/styles-options/properties-styles-options.php:552
+#: inc/theme-options/styles-options/property-details-styles-options.php:25
+msgid "Price Color"
+msgstr "Colore Prezzo"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:116
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:239
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:378
+#: inc/theme-options/styles-options/properties-styles-options.php:88
+#: inc/theme-options/styles-options/properties-styles-options.php:235
+#: inc/theme-options/styles-options/properties-styles-options.php:383
+#: inc/theme-options/styles-options/properties-styles-options.php:478
+msgid "Status Tag Text Color"
+msgstr "Colore testo tag contratto"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:131
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:254
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:393
+#: inc/theme-options/styles-options/properties-styles-options.php:105
+#: inc/theme-options/styles-options/properties-styles-options.php:252
+#: inc/theme-options/styles-options/properties-styles-options.php:397
+#: inc/theme-options/styles-options/properties-styles-options.php:492
+msgid "Status Tag Background Color"
+msgstr "Colore sfondo tag contratto"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:144
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:267
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:406
+#: inc/theme-options/styles-options/properties-styles-options.php:120
+#: inc/theme-options/styles-options/properties-styles-options.php:267
+#: inc/theme-options/styles-options/properties-styles-options.php:409
+#: inc/theme-options/styles-options/properties-styles-options.php:504
+msgid "Status Tag Background Color on Hover"
+msgstr "Colore sfondo tag contratto ( hover )"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:162
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:310
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:45
+msgid "Section Title Color"
+msgstr "Colore titolo della sezione"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:175
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:323
+#: inc/theme-options/styles-options/properties-styles-options.php:516
+msgid "Description Background Color"
+msgstr "Colore sfondo descrizione"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:188
+msgid "Description Text Color"
+msgstr "Colore descrizione testo"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:215
+msgid "Title Bottom Border Color"
+msgstr "Colore bordo basso del titolo"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:279
+#: inc/theme-options/styles-options/properties-styles-options.php:162
+#: inc/theme-options/styles-options/properties-styles-options.php:308
+#: inc/theme-options/styles-options/properties-styles-options.php:431
+#: inc/theme-options/styles-options/property-details-styles-options.php:32
+msgid "Meta Icons Color"
+msgstr "Meta Colori Icone"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:298
+msgid "Section Background Color"
+msgstr "Colore di sfondo sezione"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:340
+#: inc/theme-options/styles-options/properties-styles-options.php:568
+msgid "Description and Meta Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:419
+#: inc/theme-options/styles-options/properties-styles-options.php:580
+msgid "Meta Wrapper Background Color"
+msgstr "Colore sfondo meta wrapper"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:431
+#: inc/theme-options/styles-options/properties-styles-options.php:603
+msgid "Meta value Color"
+msgstr "Colore meta"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:10
+msgid "This sub section contains footer styles options."
+msgstr "Questa sottosezione contiene opzioni di stile del footer."
+
+#: inc/theme-options/styles-options/footer-styles-options.php:17
+msgid "Overall Footer Style"
+msgstr "Stile footer ( overall )"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:19
+msgid "Light"
+msgstr "Chiaro"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:20
+msgid "Dark"
+msgstr "Scuro"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:38
+#: inc/theme-options/styles-options/footer-styles-options.php:100
+msgid "Footer Background Color"
+msgstr "Colore di sfondo del footer"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:61
+#: inc/theme-options/styles-options/footer-styles-options.php:123
+msgid "Footer Headings Color"
+msgstr "Piè di pagina Colore delle intestazioni"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:71
+#: inc/theme-options/styles-options/footer-styles-options.php:133
+msgid "Footer Text Color"
+msgstr "Colore Testo Footer"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:80
+#: inc/theme-options/styles-options/footer-styles-options.php:142
+msgid "Footer Link Color"
+msgstr "Colore Link Footer"
+
+#: inc/theme-options/styles-options/header-styles-options.php:10
+msgid "This sub section contains header styles options."
+msgstr "Questa sezione sub contiene opzioni di stili per l'intestazione."
+
+#: inc/theme-options/styles-options/header-styles-options.php:24
+msgid "Hide Logo in Printing"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:25
+msgid "Do you want to hide the logo while printing?"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:33
+msgid "Invert Logo Colors in Printing?"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:34
+msgid ""
+"Are you using a white logo, this option will invert the colors of the logo "
+"in printing?"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:48
+msgid "Menu Button Background Color"
+msgstr "Colore sfondo pulsante menu"
+
+#: inc/theme-options/styles-options/header-styles-options.php:60
+msgid "Menu Button Text Color"
+msgstr "Colore testo pulsante menu"
+
+#: inc/theme-options/styles-options/header-styles-options.php:83
+msgid "Main Menu Background Color"
+msgstr "Colore di sfondo del menu principale"
+
+#: inc/theme-options/styles-options/header-styles-options.php:93
+#: inc/theme-options/styles-options/header-styles-options.php:551
+#: inc/theme-options/styles-options/header-styles-options.php:725
+msgid "Main Menu Text Color"
+msgstr "Colore testo Menu Principale"
+
+#: inc/theme-options/styles-options/header-styles-options.php:107
+#: inc/theme-options/styles-options/header-styles-options.php:562
+#: inc/theme-options/styles-options/header-styles-options.php:736
+msgid "Main Menu Text Color on Hover"
+msgstr "Colore testo del menu principale al passaggio del mouse"
+
+#: inc/theme-options/styles-options/header-styles-options.php:123
+#: inc/theme-options/styles-options/header-styles-options.php:577
+#: inc/theme-options/styles-options/header-styles-options.php:752
+msgid "Main Menu Hover and Dropdown Background Color"
+msgstr "Colore sfondo menù principale al passaggio del mouse e discesa"
+
+#: inc/theme-options/styles-options/header-styles-options.php:133
+#: inc/theme-options/styles-options/header-styles-options.php:587
+#: inc/theme-options/styles-options/header-styles-options.php:762
+msgid "Main Menu Dropdown Text Color"
+msgstr "Colore testo Menu principale a discesa"
+
+#: inc/theme-options/styles-options/header-styles-options.php:144
+#: inc/theme-options/styles-options/header-styles-options.php:598
+#: inc/theme-options/styles-options/header-styles-options.php:773
+msgid "Main Menu Dropdown Text Color on Hover"
+msgstr "Colore testo menù principale a discesa al passaggio del mouse"
+
+#: inc/theme-options/styles-options/header-styles-options.php:156
+#: inc/theme-options/styles-options/header-styles-options.php:610
+#: inc/theme-options/styles-options/header-styles-options.php:785
+msgid "Main Menu Dropdown Separator Color"
+msgstr "Colore Separatore Menu a Discesa Principale"
+
+#: inc/theme-options/styles-options/header-styles-options.php:167
+msgid "Main Menu Close Button Background Color"
+msgstr "Colore sfondo pulsante di chiusura menu principale"
+
+#: inc/theme-options/styles-options/header-styles-options.php:179
+msgid "Main Menu Close Button Icon Color"
+msgstr "Colore icona pulsante di chiusura menu principale"
+
+#: inc/theme-options/styles-options/header-styles-options.php:203
+msgid "Logo Background Color"
+msgstr "Colore sfondo logo"
+
+#: inc/theme-options/styles-options/header-styles-options.php:212
+msgid "Logo Text Color"
+msgstr "Colore Testo Logo"
+
+#: inc/theme-options/styles-options/header-styles-options.php:226
+msgid "Header Tagline Text Color"
+msgstr "Colore testo tag line intestazione"
+
+#: inc/theme-options/styles-options/header-styles-options.php:247
+msgid "Header Top Bar Background Color"
+msgstr "Colore sfondo top bar intestazione"
+
+#: inc/theme-options/styles-options/header-styles-options.php:256
+msgid "User Navigation Link Color"
+msgstr "Colore link di navigazione utente"
+
+#: inc/theme-options/styles-options/header-styles-options.php:280
+msgid "Phone Background Color"
+msgstr "Colore sfondo telefono"
+
+#: inc/theme-options/styles-options/header-styles-options.php:293
+#: inc/theme-options/styles-options/header-styles-options.php:523
+#: inc/theme-options/styles-options/header-styles-options.php:697
+msgid "Phone Text Color"
+msgstr "Colore testo telefono"
+
+#: inc/theme-options/styles-options/header-styles-options.php:303
+#: inc/theme-options/styles-options/header-styles-options.php:533
+#: inc/theme-options/styles-options/header-styles-options.php:707
+msgid "Phone Icon Color"
+msgstr "Colore icona telefono"
+
+#: inc/theme-options/styles-options/header-styles-options.php:327
+msgid "Search Fields Background Color"
+msgstr "Colore sfondo campi di ricerca"
+
+#: inc/theme-options/styles-options/header-styles-options.php:348
+msgid "Search Fields Background Color on Hover"
+msgstr "Colore sfondo campi di ricerca al passaggio del mouse"
+
+#: inc/theme-options/styles-options/header-styles-options.php:362
+msgid "Search Fields Dropdown Background Color on Hover"
+msgstr "Colore sfondo campi di ricerca a discesa al passaggio del mouse"
+
+#: inc/theme-options/styles-options/header-styles-options.php:373
+msgid "Search Fields Expand & Collapse Toggle Button Background Color"
+msgstr "Colore sfondo pulsante espandi e comprimi campi di ricerca"
+
+#: inc/theme-options/styles-options/header-styles-options.php:385
+msgid "Search Fields Expand & Collapse Toggle Button Icon Color"
+msgstr "Colore icona pulsante espandi e comprimi campi di ricerca"
+
+#: inc/theme-options/styles-options/header-styles-options.php:397
+msgid "Search Button Background Color"
+msgstr "Colore sfondo pulsante di ricerca"
+
+#: inc/theme-options/styles-options/header-styles-options.php:421
+#: inc/theme-options/styles-options/header-styles-options.php:628
+msgid "Header Background Color"
+msgstr "Colore Sfondo Intestazione"
+
+#: inc/theme-options/styles-options/header-styles-options.php:430
+#: inc/theme-options/styles-options/header-styles-options.php:637
+msgid "Text Logo Color"
+msgstr "Colore testo logo"
+
+#: inc/theme-options/styles-options/header-styles-options.php:444
+#: inc/theme-options/styles-options/header-styles-options.php:651
+msgid "Tagline Color"
+msgstr "Colore Tagline"
+
+#: inc/theme-options/styles-options/header-styles-options.php:463
+#: inc/theme-options/styles-options/header-styles-options.php:669
+msgid "Border Color"
+msgstr "Colore Bordo"
+
+#: inc/theme-options/styles-options/header-styles-options.php:473
+msgid "Social Icons Color"
+msgstr "Colore Icone Social"
+
+#: inc/theme-options/styles-options/header-styles-options.php:484
+msgid "Submit Button Background Color"
+msgstr "Colore Sfondo Pulsante di invio"
+
+#: inc/theme-options/styles-options/header-styles-options.php:496
+msgid "Submit Button Text Color"
+msgstr "Colore Testo Pulsante di invio"
+
+#: inc/theme-options/styles-options/header-styles-options.php:507
+#: inc/theme-options/styles-options/header-styles-options.php:678
+msgid "User Navigation Colors"
+msgstr "Colore navigazione utente"
+
+#: inc/theme-options/styles-options/header-styles-options.php:670
+msgid "This border appears on smaller screen sizes."
+msgstr "Questo bordo viene visualizzato su schermi di piccole dimensioni."
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:10
+msgid "This section contains how it works section styles options."
+msgstr ""
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:17
+#: inc/theme-options/styles-options/properties-styles-options.php:45
+#: inc/theme-options/styles-options/properties-styles-options.php:191
+#: inc/theme-options/styles-options/properties-styles-options.php:334
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:29
+#: inc/theme-options/styles-options/slider-styles-options.php:23
+#: inc/theme-options/styles-options/slider-styles-options.php:214
+msgid "Overlay Background Color"
+msgstr "Sovrapposizione colore di sfondo"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:56
+msgid "Overall Text Color"
+msgstr "Colore testo mascheratura"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:67
+msgid "Title Color in Columns"
+msgstr "Colore Titolo nelle colonne"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:78
+msgid "Button Text Color"
+msgstr "Colore testo del pulsante"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:92
+#: inc/theme-options/styles-options/slider-styles-options.php:185
+#: inc/theme-options/styles-options/slider-styles-options.php:320
+msgid "Button Background Color"
+msgstr "Colore di sfondo pulsante"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:107
+#: inc/theme-options/styles-options/slider-styles-options.php:197
+msgid "Button Background Color on Hover"
+msgstr "Colore dello sfondo del pulsante al passaggio del mouse"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:8
+msgid "Home Properties"
+msgstr "Immobili nella Home"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:10
+msgid "This section contains home properties styles options."
+msgstr "Questa sezione contiene opzioni di stili degli immobili in homepage."
+
+#: inc/theme-options/styles-options/properties-styles-options.php:18
+msgid "Home Properties Variation One"
+msgstr "Layout home 1"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:19
+msgid "This variation consists of two different designs."
+msgstr ""
+
+#: inc/theme-options/styles-options/properties-styles-options.php:32
+msgid "Property Design One"
+msgstr "Design immobili 1"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:136
+#: inc/theme-options/styles-options/properties-styles-options.php:283
+msgid "Meta Text Color"
+msgstr "Colore meta testo"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:151
+#: inc/theme-options/styles-options/properties-styles-options.php:297
+msgid "Meta Value Text Color"
+msgstr "Meta Valore colore del testo"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:178
+msgid "Property Design Two"
+msgstr "Design immobili 2"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:324
+msgid "Home Properties Variation Two"
+msgstr "Layout home 2"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:420
+msgid "Meta and Price Text Color on hover"
+msgstr "Colore testo prezzo e meta ( hover )"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:447
+msgid "Home Properties Variation Three"
+msgstr ""
+
+#: inc/theme-options/styles-options/properties-styles-options.php:456
+msgid "Welcome Board Title Color"
+msgstr "Colore titolo di benvenuto"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:467
+msgid "Welcome Board Text Color"
+msgstr "Colore testo di benvenuto"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:528
+msgid "Description Border Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/properties-styles-options.php:592
+msgid "Meta Wrpper Top Border Color"
+msgstr "Colore bordo top wrapper meta"
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:8
+#| msgid "Property Details"
+msgid "Property Details Page"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:10
+#| msgid "This section contains properties slider styles options."
+msgid "This section contains property details styles options."
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:39
+#| msgid "Section Background Color"
+msgid "Agent Section Background Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:46
+#| msgid "Meta Icons Color"
+msgid "Agent Meta Icons Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:53
+#| msgid "Headings Color"
+msgid "Agent Social Heading Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:60
+#| msgid "Agent Information"
+msgid "Agent Social Information Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:67
+#: inc/theme-options/styles-options/property-details-styles-options.php:81
+#| msgid "Section Background Color"
+msgid "Agent Section Buttons Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:74
+#: inc/theme-options/styles-options/property-details-styles-options.php:88
+#| msgid "Menu Button Text Color"
+msgid "Agent Section Buttons Hover Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/slider-styles-options.php:10
+msgid "This section contains properties slider styles options."
+msgstr "Questa sezione contiene opzioni stili di proprietà dello slider."
+
+#: inc/theme-options/styles-options/slider-styles-options.php:36
+#: inc/theme-options/styles-options/slider-styles-options.php:227
+msgid "Property Title Color"
+msgstr "Colore titolo dell’immobile"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:50
+#: inc/theme-options/styles-options/slider-styles-options.php:241
+msgid "Property Price Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/slider-styles-options.php:62
+#: inc/theme-options/styles-options/slider-styles-options.php:253
+msgid "Property Status Text Color"
+msgstr "Colore Testo Stato Immobile"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:77
+#: inc/theme-options/styles-options/slider-styles-options.php:268
+msgid "Property Status Background Color"
+msgstr "Colore di sfondo Stato immobile"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:90
+#: inc/theme-options/styles-options/slider-styles-options.php:281
+msgid "Property Status Background Color on Hover"
+msgstr "Colore di sfondo immobile al passaggio del mouse"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:102
+msgid "Property Meta Text Color"
+msgstr "Colore testo meta immobile"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:117
+msgid "Property Meta Value and Unit Text Color"
+msgstr "Colore Meta e  del testo unità degli immobili"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:129
+msgid "Property Meta Icons Color"
+msgstr "Immobile Meta icone di colore"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:147
+msgid "Overlay Top Border Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/slider-styles-options.php:159
+msgid "Overlay Middle Border Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/slider-styles-options.php:170
+#: inc/theme-options/styles-options/slider-styles-options.php:305
+msgid "Button Color"
+msgstr "Colore Pulsante"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:293
+msgid "Property Description Text Color"
+msgstr "Colore Testo Descrizione Immobile"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:332
+msgid "Button Hover Background Color"
+msgstr "Colore sfondo pulsante hover"
+
+#: inc/util/basic-functions.php:296
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: inc/util/basic-functions.php:297
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembra che non possiamo trovare quello che stai cercando. Forse la ricerca "
+"pu&ograve; aiutare."
+
+#: inc/util/basic-functions.php:619
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/util/basic-functions.php:619
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: inc/util/basic-functions.php:642
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/util/basic-functions.php:682
+msgid ""
+"Images should have minimum size of 850px by 600px. Bigger size images will "
+"be cropped automatically."
+msgstr ""
+"Le immagini devono avere una dimensione minima di 850px per 600px. Le "
+"immagini di dimensioni maggiori saranno ritagliate automaticamente."
+
+#: inc/util/basic-functions.php:696
+msgid ""
+"The recommended image size is 2000px by 1000px. You can use a bigger or "
+"smaller size but keep the same height to width ratio and use exactly same "
+"size images for all slider entries."
+msgstr ""
+"La dimensione dell’immagine consigliata è dai 2000px 1000px. È possibile "
+"utilizzare una dimensione più grande o più piccola, ma mantenere lo stesso "
+"rapporto altezza per larghezza e utilizzare le immagini esattamente della "
+"stessa dimensione per tutte le voci di scorrimento."
+
+#: inc/util/basic-functions.php:710
+msgid ""
+"Provided image will be used as a video place holder and when user will click "
+"on it the video will be opened in a lightbox. Minimum required image size is "
+"850px by 600px."
+msgstr ""
+"L’immagine fornita sarà utilizzata come segnaposto video e quando l’utente "
+"cliccherà su di essa il video verrà aperto in una lightbox. Dimensione "
+"minima dell’immagine desiderata è 850px da 600px."
+
+#: inc/util/favorites-functions.php:18 inc/util/favorites-functions.php:40
+#: partials/property/single/favorite-and-print.php:10
+msgid "Added to Favorites"
+msgstr "Aggiunto ai Preferiti"
+
+#: inc/util/favorites-functions.php:52
+msgid "Invalid parameters"
+msgstr "Parametri non corretti"
+
+#: inc/util/favorites-functions.php:157
+msgid "Invalid parameters!"
+msgstr "Parametri non validi!"
+
+#: inc/util/real-estate-functions.php:75 page-templates/template-compare.php:97
+#: partials/property/single/floor-plans.php:53
+msgid "Bedrooms"
+msgstr "Camere da letto"
+
+#: inc/util/real-estate-functions.php:90 page-templates/template-compare.php:99
+#: partials/property/single/floor-plans.php:64
+msgid "Bathrooms"
+msgstr "Bagni"
+
+#: inc/util/real-estate-functions.php:105
+msgid "Garages"
+msgstr "Garage"
+
+#: inc/util/real-estate-functions.php:168
+msgid "Year Built"
+msgstr "Anno di costruzione"
+
+#: inc/util/real-estate-functions.php:368
+msgid "(Any)"
+msgstr "(Qualsiasi)"
+
+#: index.php:62 loop.php:58
+msgid "Read More"
+msgstr "Leggi di più"
+
+#: page-templates/agents-list-2-columns.php:63
+#: page-templates/agents-list-3-columns.php:63
+#: page-templates/agents-list-4-columns.php:63
+msgid "No agent found!"
+msgstr "Nessun agente trovato!"
+
+#: page-templates/contact.php:70
+msgid "Address"
+msgstr "Indirizzo"
+
+#: page-templates/contact.php:109
+msgid "Contact Details"
+msgstr "Dettagli contatto"
+
+#: page-templates/contact.php:119 page-templates/contact.php:131
+#: partials/property/single/agent-information.php:62
+#: partials/property/single/agent-information.php:70
+msgid "Make a Call"
+msgstr "Chiama ora"
+
+#: page-templates/contact.php:170
+msgid "Working Hours"
+msgstr "Orario lavorativo"
+
+#: page-templates/favorites.php:97 page-templates/my-properties.php:180
+#: page-templates/submit-property.php:58
+msgid "Oops"
+msgstr "Oops"
+
+#: page-templates/favorites.php:97
+msgid "You have not added any property to favorites!"
+msgstr "Non hai aggiunto alcun immobile tra i tuoi preferiti!"
+
+#: page-templates/full-width.php:35 page.php:34 single.php:57
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: page-templates/full-width.php:42 page.php:41
+msgid "Edit"
+msgstr "Modifica"
+
+#: page-templates/my-properties.php:30
+msgid "Property Removed!"
+msgstr "Immobile cancellato!"
+
+#: page-templates/my-properties.php:34
+msgid "Property Added Successfully!"
+msgstr "Immobile aggiunto!"
+
+#: page-templates/my-properties.php:38
+msgid "Property Updated Successfully!"
+msgstr "Immobile aggiornato!"
+
+#: page-templates/my-properties.php:92
+msgid "Posted on:"
+msgstr "Pubblicato il:"
+
+#: page-templates/my-properties.php:97
+msgid "Last Modified:"
+msgstr "Ultima modifica:"
+
+#: page-templates/my-properties.php:102
+msgid "Status:"
+msgstr "Stato:"
+
+#: page-templates/my-properties.php:121
+msgid "Payment Completed"
+msgstr "Pagamento Completato"
+
+#: page-templates/my-properties.php:180
+msgid "It appears that you have not submitted any property yet!"
+msgstr "Sembra che non hai ancora inviato alcun immobile!"
+
+#: page-templates/my-properties.php:184 page-templates/submit-property.php:73
+msgid "Login Required"
+msgstr "Login Richiesto"
+
+#: page-templates/my-properties.php:184
+msgid "You need to login to view your properties!"
+msgstr "Devi effettuare il login per visualizzare i tuoi immobili!"
+
+#: page-templates/submit-property.php:58
+msgid "Security check failed!"
+msgstr "Controllo di sicurezza fallito!"
+
+#: page-templates/submit-property.php:61
+msgid "Submitted"
+msgstr "Inviato"
+
+#: page-templates/submit-property.php:61
+msgid "Property successfully submitted."
+msgstr "Immobile inviato con successo."
+
+#: page-templates/submit-property.php:63
+msgid "Updated"
+msgstr "Aggiornato"
+
+#: page-templates/submit-property.php:63
+msgid "Property updated successfully."
+msgstr "Immobile aggiornato con successo."
+
+#: page-templates/submit-property.php:73
+msgid "You need to login to submit a property!"
+msgstr ""
+"È necessario essere registrati ed eseguire il login per inviare un immobile!"
+
+#: page-templates/template-compare.php:95
+msgid "Size"
+msgstr "Dimensione"
+
+#: page-templates/template-compare.php:344
+#: page-templates/template-compare.php:362
+msgid "No Properties Found to compare!"
+msgstr ""
+
+#: partials/agent/single/agent-info.php:51 partials/common/author-info.php:51
+#: partials/property/single/agent-information.php:62
+#: partials/property/single/author-information.php:62
+msgid "Mobile:"
+msgstr "Cellulare:"
+
+#: partials/agent/single/agent-info.php:59 partials/common/author-info.php:58
+#: partials/property/single/agent-information.php:70
+#: partials/property/single/author-information.php:70
+msgid "Office:"
+msgstr "Ufficio:"
+
+#: partials/agent/single/agent-info.php:67 partials/common/author-info.php:65
+#: partials/property/single/agent-information.php:78
+#: partials/property/single/author-information.php:78
+msgid "Fax:"
+msgstr "Fax:"
+
+#: partials/agent/single/agent-info.php:76
+#: partials/property/single/agent-information.php:87
+#| msgid "Email"
+msgid "Email:"
+msgstr "Email:"
+
+#: partials/agent/single/agent-info.php:76
+#: partials/property/single/agent-information.php:87
+#| msgid "Email: %s"
+msgid "Email Us!"
+msgstr "Scrivimi!"
+
+#: partials/agent/single/agent-info.php:96
+#: partials/property/single/agent-information.php:108
+#: partials/property/single/author-information.php:100
+msgid "View Profile"
+msgstr "Vedi Profilo"
+
+#: partials/header/banner.php:79
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: partials/header/user-nav.php:49
+msgid "Favourite"
+msgstr "Preferito"
+
+#: partials/header/user-nav.php:79
+msgid "Logout"
+msgstr "Esci"
+
+#: partials/header/user-nav.php:93
+msgid "Profile"
+msgstr "Profilo"
+
+#: partials/header/user-nav.php:108
+msgid "My Properties"
+msgstr "I miei immobili"
+
+#: partials/header/user-nav.php:123
+msgid "Submit"
+msgstr "Invia"
+
+#: partials/header/user-nav.php:139
+msgid "Login / Sign up"
+msgstr "Area riservata"
+
+#: partials/header/user-nav.php:145
+msgid "Submit Property"
+msgstr "Inserisci Immobile"
+
+#: partials/home/featured-three.php:106 partials/home/properties-three.php:120
+msgid "Bed"
+msgid_plural "Beds"
+msgstr[0] "Letto"
+msgstr[1] "Letto"
+
+#: partials/home/featured-three.php:119 partials/home/properties-three.php:133
+msgid "Bath"
+msgid_plural "Baths"
+msgstr[0] "Bagno"
+msgstr[1] "Bagni"
+
+#: partials/home/featured-three.php:132 partials/home/properties-four.php:128
+#: partials/home/properties-three.php:146
+msgid "Garage"
+msgid_plural "Garages"
+msgstr[0] "Garage"
+msgstr[1] "Garage"
+
+#: partials/home/news.php:160 partials/post/entry-meta.php:4
+#, php-format
+msgctxt "author byline"
+msgid "By %s"
+msgstr "Di %s"
+
+#: partials/home/properties-four.php:100
+#: partials/property/single/floor-plans.php:53
+msgid "Bedroom"
+msgid_plural "Bedrooms"
+msgstr[0] "Camera da letto"
+msgstr[1] "Camera da letto"
+
+#: partials/home/properties-four.php:114
+#: partials/property/single/floor-plans.php:64
+msgid "Bathroom"
+msgid_plural "Bathrooms"
+msgstr[0] "Bagno"
+msgstr[1] "Bagno"
+
+#: partials/members/login.php:4 partials/members/register.php:16
+#: partials/members/reset-password.php:28
+msgid "Login"
+msgstr "Accedi"
+
+#: partials/members/login.php:28 partials/members/reset-password.php:20
+msgid "Not a Member?"
+msgstr "Non sei membro?"
+
+#: partials/members/login.php:29 partials/members/reset-password.php:21
+msgid "Sign up now"
+msgstr "Registrati ora"
+
+#: partials/members/login.php:35 partials/members/register.php:19
+msgid "Forgot Password?"
+msgstr "Password dimenticata?"
+
+#: partials/members/reset-password.php:4
+msgid "Forgot Password"
+msgstr "Password dimenticata"
+
+#: partials/post/entry-meta.php:12
+msgid "Posted in"
+msgstr "Pubblicato in"
+
+#: partials/post/entry-meta.php:13
+msgid "On "
+msgstr "Su "
+
+#: partials/property/single/favorite-and-print.php:14
+msgid "Add to Favorites"
+msgstr "Aggiungi ai Preferiti"
+
+#: partials/property/single/favorite-and-print.php:27
+msgid "Print"
+msgstr "Stampa"
+
+#: partials/property/single/map.php:84
+msgid "Bus"
+msgstr "Bus"
+
+#: partials/property/single/map.php:89
+msgid "Subway"
+msgstr "Metropolitana"
+
+#: partials/property/single/map.php:94
+msgid "Grocery"
+msgstr "Supermercati"
+
+#: partials/property/single/map.php:99
+msgid "Restaurant"
+msgstr "Ristorante"
+
+#: partials/property/single/map.php:104
+msgid "School"
+msgstr "Scuola"
+
+#: partials/property/single/map.php:109
+msgid "Hospital"
+msgstr "Ospedale"
+
+#: partials/property/single/map.php:114
+msgid "Cafe"
+msgstr "Caffè"
+
+#: partials/property/single/map.php:119
+msgid "Gym"
+msgstr "Palestra"
+
+#: partials/property/single/map.php:134
+msgid "Clear Icons"
+msgstr ""
+
+#: partials/property/single/video.php:28
+msgid "Video Placeholder"
+msgstr ""
+
+#: partials/property/templates/add-to-compare-button.php:16
+#: partials/property/templates/add-to-compare-button.php:31
+msgid "Added To Compare"
+msgstr "Aggiunto per il confronto"
+
+#: partials/property/templates/add-to-compare-button.php:22
+#: partials/property/templates/add-to-compare-button.php:37
+msgid "Add To Compare"
+msgstr "Aggiungi per confrontare"
+
+#: partials/property/templates/compare-view.php:53
+msgid "Compare Properties"
+msgstr "Confronta Immobili"
+
+#: partials/property/templates/compare-view.php:80
+msgid "Compare"
+msgstr "Confronta"
+
+#: partials/property/templates/gallery.php:9
+msgid "All"
+msgstr "Tutti"
+
+#: partials/property/templates/listing-control-search.php:10
+#: partials/property/templates/listing-control.php:10
+msgid "No Property Found"
+msgstr "Nessun immobile trovato"
+
+#: partials/property/templates/listing-control-search.php:12
+#: partials/property/templates/listing-control.php:12
+#, php-format
+msgid "%d Property Found"
+msgid_plural "%d Properties Found"
+msgstr[0] "%d Proprietà trovata"
+msgstr[1] "%d Proposta/e trovata/e"
+
+#: partials/property/templates/listing-control-search.php:33
+#: partials/property/templates/listing-control.php:33
+msgid "Default Order"
+msgstr "Ordine predefinito"
+
+#: partials/property/templates/property-for-grid.php:38
+msgid "Remove from favorites"
+msgstr "Rimuovi dai preferiti"
+
+#: partials/property/templates/property-for-grid.php:89
+#, php-format
+msgid "%d Beds"
+msgstr "%d Letti"
+
+#: partials/property/templates/property-for-grid.php:102
+#, php-format
+msgid "%d Baths"
+msgstr "%d Bagni"
+
+#. Theme Name of the plugin/theme
+msgid "Real Places"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/real-places-responsive-wordpress-real-estate-"
+"theme/12579089"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A purpose oriented WordPress theme for Real Estate Websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Inspiry Themes"
+msgstr "Inspiry Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/inspirythemes/portfolio"
+msgstr "http://themeforest.net/user/inspirythemes/portfolio"
+
+#~ msgid "Property Description"
+#~ msgstr "Descrizione Immobile"
+
+#~ msgid "Property Additional Details"
+#~ msgstr "Dettagli aggiuntivi immobile"
+
+#~ msgid "Property Features"
+#~ msgstr "Caratteristiche dell'immobile"
+
+#~ msgid "Property Virtual Tour"
+#~ msgstr "Tour virtuale dell'immobile"
+
+#~ msgid "Property Map"
+#~ msgstr "Proprietà mappa"
+
+#~ msgid "Property Attachments"
+#~ msgstr "Allegati Immobile"
+
+#~ msgid "Children Properties"
+#~ msgstr "Immobili figli"
+
+#~ msgid "Search"
+#~ msgstr "Cerca"
+
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#~ msgid "Upload your website favicon."
+#~ msgstr "Caricare le tue favicon del sito web ."
+
+#~ msgid "Facebook URL"
+#~ msgstr "Facebook URL"
+
+#~ msgid "Twitter URL"
+#~ msgstr "URL Twitter"
+
+#~ msgid "Google Plus URL"
+#~ msgstr "URL Google Plus"
+
+#~ msgid "LinkedIn URL"
+#~ msgstr "URL LinkedIn"
+
+#~ msgid "Instagram URL"
+#~ msgstr "URL Instagram"
+
+#~ msgid "YouTube URL"
+#~ msgstr "URL YouTube"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "URL Pinterest"
+
+#~ msgid "Rss URL"
+#~ msgstr "URL Rss"
+
+#~ msgid "Skype Username"
+#~ msgstr "Nome utente Skype"
+
+#~ msgid "Google reCAPTCHA"
+#~ msgstr "Google reCAPTCHA"
+
+#~ msgid "reCAPTCHA Site Key"
+#~ msgstr "reCAPTCHA Chiave Sito"
+
+#~ msgid "reCAPTCHA Secret Key"
+#~ msgstr "reCAPTCHA Chiave Segreta"
+
+#~ msgid "reCAPTCHA Language"
+#~ msgstr "reCAPTCHA lingua"
+
+#~ msgid "Automatically Switch Google Map Language"
+#~ msgstr "Cambiare automaticamente la lingua mappa Google"
+
+#~ msgid "Job Title"
+#~ msgstr "Titolo Lavoro"
+
+#~ msgid "Mobile Number"
+#~ msgstr "Numero di cellulare"
+
+#~ msgid "Office Number"
+#~ msgstr "Numero dell'ufficio"
+
+#~ msgid "Fax Number"
+#~ msgstr "Fax"
+
+#~ msgid "Office Address"
+#~ msgstr "Indirizzo dell’ufficio"
+
+#~ msgid "Contact Page Information"
+#~ msgstr "Informazioni sulla pagina di contatto"
+
+#~ msgid "Contact Form"
+#~ msgstr "Modulo di Contatto"
+
+#~ msgid "Leaving it empty will hide the google map."
+#~ msgstr "Lasciandolo vuoto si nasconderà la mappa di google."
+
+#~ msgid "Office Location"
+#~ msgstr "Ubicazione Ufficio"
+
+#~ msgid ""
+#~ "Drag the marker to point your office location. You can also use the "
+#~ "address field above to search for your address."
+#~ msgstr ""
+#~ "Trascina l'indicatore per indicare la posizione dell'ufficio. Puoi anche "
+#~ "utilizzare il campo indirizzo sopra per cercare il tuo indirizzo."
+
+#~ msgid "Map Zoom Level"
+#~ msgstr "Livello zoom mappa"
+
+#~ msgid "Zoom level for resulted map on contact page."
+#~ msgstr "Livello di zoom per la mappa impostato sulla pagina di contatto."
+
+#~ msgid "Office Address to Display"
+#~ msgstr "Indirizzo dell’ufficio da visualizzare"
+
+#~ msgid "Given address will be displayed on contact page."
+#~ msgstr "L’indirizzo indicato verrà visualizzato sulla pagina di contatto."
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#~ msgid "Mobile"
+#~ msgstr "Cellulare"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Email to Display"
+#~ msgstr "Email da visualizzare"
+
+#~ msgid "Given email address will be displayed on contact page."
+#~ msgstr "L’email indicata verrà visualizzata sulla pagina di contatto."
+
+#~ msgid "Contact Form Heading"
+#~ msgstr "Intestazione del modulo di contatto"
+
+#~ msgid "Send Us a Message"
+#~ msgstr "Messaggio di invio"
+
+#~ msgid "Contact Form Email"
+#~ msgstr "Email del modulo di contatto"
+
+#~ msgid ""
+#~ "Given email address will receive messages from theme based contact form"
+#~ msgstr ""
+#~ "L’Indirizzo e-mail in cui vuoi ricevere i dati del modulo di contatto"
+
+#~ msgid "Contact Form 7 Shortcode"
+#~ msgstr "Shortcode Contact Form 7"
+
+#~ msgid ""
+#~ "You can provide contact form 7 shortcode, If you want to use a custom "
+#~ "form. It will be displayed if above given email address is empty."
+#~ msgstr ""
+#~ "È possibile inserire uno shortcode di un modulo creato con contact form "
+#~ "7 , Se si desidera utilizzare un modulo personalizzato. Verrà "
+#~ "visualizzato se in precedenza si è lasciato indirizzo e-mail vuoto."
+
+#~ msgid "Choose a sidebar"
+#~ msgstr "Scegli una barra laterale"
+
+#~ msgid "Sidebar Settings"
+#~ msgstr "Impostazioni Sidebar"
+
+#~ msgid "Sidebar (optional)"
+#~ msgstr "Barra laterale (opzionale)"
+
+#~ msgid ""
+#~ "Choose a custom sidebar for this entry. Otherwise, default entry's "
+#~ "sidebar will be displayed."
+#~ msgstr ""
+#~ "Scegliere una sidebar personalizzata per questa voce. In caso contrario, "
+#~ "verrà visualizzato sidebar di voce predefinita."
+
+#~ msgid "Gallery Settings"
+#~ msgstr "Impostazioni Galleria"
+
+#~ msgid "Number of Properties Per Page"
+#~ msgstr "Numero di immobili per pagina"
+
+#~ msgid "Properties Settings"
+#~ msgstr "Impostazioni Immobili"
+
+#~ msgid "Order Properties By"
+#~ msgstr "Ordina per"
+
+#~ msgid "Date New to Old"
+#~ msgstr "Dal più Recente al più Vecchio"
+
+#~ msgid "Date Old to New"
+#~ msgstr "Dal più vecchio al più recente"
+
+#~ msgid "Price Low to High"
+#~ msgstr "Prezzo crescente"
+
+#~ msgid "Price High to Low"
+#~ msgstr "Prezzo decrescente"
+
+#~ msgid "Minimum Beds"
+#~ msgstr "Numero minimo di letti"
+
+#~ msgid "Minimum Baths"
+#~ msgstr "Numero minimo di bagni"
+
+#~ msgid "Minimum Price"
+#~ msgstr "Prezzo minimo"
+
+#~ msgid "Maximum Price"
+#~ msgstr "Prezzo massimo"
+
+#~ msgid "Display Google Map with Properties Markers"
+#~ msgstr ""
+#~ "Visualizza Google Map con i marcatori in corrispondenza degli immobili "
+#~ "trovati"
+
+#~ msgid "Google Half Map Layout"
+#~ msgstr "Google Half Map Layout"
+
+#~ msgid "Right"
+#~ msgstr "Destra"
+
+#~ msgid "Agents Settings"
+#~ msgstr "Impostazioni degli agenti"
+
+#~ msgid "Number of Agents Per Page"
+#~ msgstr "Numero di agenti Per pagina"
+
+#~ msgid "Custom Widget Area"
+#~ msgstr "Area widget personalizzata"
+
+#~ msgid "Enter new Widget Area name here"
+#~ msgstr "Inserisci qui il nuovo nome della Widget Area"
+
+#~ msgid "Add Widget Area"
+#~ msgstr "Aggiungi area widget"
+
+#~ msgid "Unverified Nonce!"
+#~ msgstr "Mai verificato!"
+
+#~ msgid "Failed to updated cookie !"
+#~ msgstr "Errore nell'aggiornamento cookie !"
+
+#~ msgid "wp-currencies plugin is missing !"
+#~ msgstr "plugin wp-curencies mancante !"
+
+#~ msgid "Invalid Request !"
+#~ msgstr "Richiesta non valida!"
+
+#~ msgid "Image upload failed!"
+#~ msgstr "Caricamento delle immagini non riuscita!"
+
+#~ msgid "Provided email address is invalid."
+#~ msgstr "L'indirizzo email fornito non è valido."
+
+#~ msgid "Profile information is updated successfully!"
+#~ msgstr "Informazioni profilo aggiornate con successo!"
+
+#~ msgid "Edit Property"
+#~ msgstr "Modifica Immobile"
+
+#~ msgid "Name*"
+#~ msgstr "Nome*"
+
+#~ msgid "* Please provide your name"
+#~ msgstr "* Per favore digita il tuo nome"
+
+#~ msgid "Email*"
+#~ msgstr "Email*"
+
+#~ msgid "* Please provide a valid email address"
+#~ msgstr "* Digitare un indirizzo e-mail valido"
+
+#~ msgid "Number"
+#~ msgstr "Numero"
+
+#~ msgid "Message*"
+#~ msgstr "Messaggio*"
+
+#~ msgid "* Please provide your message"
+#~ msgstr "* Inserisci il tuo messaggio"
+
+#~ msgid "Send Message"
+#~ msgstr "Invia messaggio"
+
+#~ msgid "Profile image should have minimum width and height of 220px."
+#~ msgstr ""
+#~ "L’immagine di profilo dovrebbe avere larghezza e altezza di 220px minimo."
+
+#~ msgid "Change"
+#~ msgstr "Cambia"
+
+#~ msgid "Remove"
+#~ msgstr "Rimuovi"
+
+#~ msgid "Biographical Information"
+#~ msgstr "Informazioni Biografiche"
+
+#~ msgid "First Name"
+#~ msgstr "Nome"
+
+#~ msgid "* Provide First Name!"
+#~ msgstr "* Inserisci il tuo nome!"
+
+#~ msgid "Last Name"
+#~ msgstr "Cognome"
+
+#~ msgid "* Provide Last Name!"
+#~ msgstr "* Inserisci il tuo cognome!"
+
+#~ msgid "Display Name"
+#~ msgstr "Mostra nome"
+
+#~ msgid "* Provide Display Name!"
+#~ msgstr "* Inserisci il tuo nome!"
+
+#~ msgid "* Provide Valid Email Address!"
+#~ msgstr "* Inserire un indirizzo email valido!"
+
+#~ msgid "* Only Digits are allowed!"
+#~ msgstr "* Sono ammesse solo cifre!"
+
+#~ msgid "* Provide Valid URL!"
+#~ msgstr "* Inserisci un URL valido!"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "( Fill it only when you want to change )"
+#~ msgstr "(Compila solo quando si desidera cambiare)"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Conferma Password"
+
+#~ msgid "Save Changes"
+#~ msgstr "Salva modifiche"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "* Please provide valid email address"
+#~ msgstr "* Per favore digita un indirizzo e-mail valido"
+
+#~ msgid "Contact Number"
+#~ msgstr "Numero di contatto"
+
+#~ msgid "* Please provide your contact number"
+#~ msgstr "* Per favore, digita il tuo nome"
+
+#~ msgid "Message"
+#~ msgstr "Messaggio"
+
+#~ msgid "Username"
+#~ msgstr "Nome utente"
+
+#~ msgid "* Provide your username"
+#~ msgstr "* Inserire il tuo nome utente"
+
+#~ msgid "* Provide your password"
+#~ msgstr "* Inserisci la password"
+
+#~ msgid "Working..."
+#~ msgstr "Stò lavorando..."
+
+#~ msgid "* Please enter a valid username."
+#~ msgstr "* Immettere un nome utente valido."
+
+#~ msgid "* Please provide valid email address!"
+#~ msgstr "* Inserisci un indirizzo e-mail valido!"
+
+#~ msgid "Username or Email"
+#~ msgstr "Nome utente o Email"
+
+#~ msgid "* Provide a valid username or email!"
+#~ msgstr "* Inserisci un nome utente e/o e-mail valido!"
+
+#~ msgid "Reset Password"
+#~ msgstr "Reimposta Password"
+
+#~ msgid "Property Title"
+#~ msgstr "Titolo Immobile"
+
+#~ msgid "* Please provide property title!"
+#~ msgstr "* Inserire un titolo per l'immobile!"
+
+#~ msgid "* Please provide a property address!"
+#~ msgstr "*Fornire un indirizzo dell'Immobile!"
+
+#~ msgid "Find Address"
+#~ msgstr "Trova indirizzo"
+
+#~ msgid "* Only numbers allowed!"
+#~ msgstr "* Sono ammessi solo numeri!"
+
+#~ msgid "Sale OR Rent Price"
+#~ msgstr "Prezzo di Vendita o Affitto"
+
+#~ msgid "Price Postfix Text"
+#~ msgstr "Testo posposto al Prezzo"
+
+#~ msgid "Area Postfix Text"
+#~ msgstr "Suffisso testo Superficie"
+
+#~ msgid "Property Video URL"
+#~ msgstr "Proprietà Video URL"
+
+#~ msgid "Parent Property"
+#~ msgstr "Proprietà Principale"
+
+#~ msgid "Drag and drop images here"
+#~ msgstr "Trascina e rilascia le immagini qui"
+
+#~ msgid "OR"
+#~ msgstr "O"
+
+#~ msgid "Select Images"
+#~ msgstr "Seleziona immagini"
+
+#~ msgid ""
+#~ "An image should have minimum width of 850px and minimum height of 600px."
+#~ msgstr "Le immagini devono avere una dimensione minima di 850x600 pixel."
+
+#~ msgid ""
+#~ "You can mark an image as featured by clicking the star icon, Otherwise "
+#~ "first image will be considered featured image."
+#~ msgstr ""
+#~ "Puoi contrassegnare un’immagine come “copertina” cliccando sull’icona a "
+#~ "stella, altrimenti la prima immagine sarà considerata come immagine di "
+#~ "copertina."
+
+#~ msgid "What to display in agent information box ?"
+#~ msgstr "Cosa vuoi visualizzare nel box Informazioni Agente ?"
+
+#~ msgid "( Agent information box will not be displayed )"
+#~ msgstr "( Il box Informazioni Agente non verrà visualizzato )"
+
+#~ msgid "My Profile Information"
+#~ msgstr "Informazioni del mio profilo"
+
+#~ msgid "( Edit Profile Information )"
+#~ msgstr "( Modifica le informazioni del Profilo )"
+
+#~ msgid "Display Agent Information"
+#~ msgstr "Visualizza informazioni agente"
+
+#~ msgid "Mark this property as featured property"
+#~ msgstr "Contrassegna questo immobile come In Evidenza"
+
+#~ msgid "Value"
+#~ msgstr "Valore"
+
+#~ msgid "Update Property"
+#~ msgstr "Aggiorna Immobile"
+
+#~ msgid "It appears that, Provided property does not belong to you!"
+#~ msgstr "Sembra che l’immobile inserito non appartenga a te!"
+
+#~ msgid "It appears that, Provided property id is invalid!"
+#~ msgstr "Sembra che l’ID fornito non è valido!"
+
+#~ msgid "SqFt"
+#~ msgstr "Mq"
+
+#~ msgid "( No information will be displayed )"
+#~ msgstr "( Nessuna informazione verrà visualizzata )"
+
+#~ msgid "Message to the Reviewer"
+#~ msgstr "Messaggio per il Revisore"
+
+#~ msgid "Looking for certain features"
+#~ msgstr "Ricerca alcune caratteristiche"
+
+#~ msgid "Please only provide digits!"
+#~ msgstr "Inserisci solo numeri!"
+
+#~ msgid ""
+#~ "You have changes that are not saved. Would you like to save them now?"
+#~ msgstr "Alcune modifiche non sono state salvate. Vuoi salvarle ora?"
+
+#~ msgid "Are you sure? Resetting will lose all custom values."
+#~ msgstr "Sei sicuro? Azzerando perderai tutti i valori personalizzati."
+
+#~ msgid "Are you sure? Resetting will lose all custom values in this section."
+#~ msgstr ""
+#~ "Sei sicuro? Una reimpostazione ti farà perdere tutti i valori "
+#~ "personalizzati di questa sezione."
+
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset. "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Le opzioni correnti saranno sostituite dai dati di questa "
+#~ "preimpostazione. Vuoi continuare?"
+
+#~ msgid "Please Wait"
+#~ msgstr "Attendere prego"
+
+#~ msgid "There was an error saving. Here is the result of your action:"
+#~ msgstr ""
+#~ "Si è verificato un errore durante il salvataggio. Ecco il risultato della "
+#~ "tua richiesta:"
+
+#~ msgid ""
+#~ "There was a problem with your action. Please try again or reload the page."
+#~ msgstr ""
+#~ "Si è verificato un problema con la tua richiesta. Riprova o ricarica la "
+#~ "pagina."
+
+#~ msgid ""
+#~ "Warning- This options panel will not work properly without javascript!"
+#~ msgstr ""
+#~ "Attenzione- Questo pannello opzioni non funzionerà correttamente senza "
+#~ "javascript!"
+
+#~ msgid "Settings Imported!"
+#~ msgstr "Impostazioni importate!"
+
+#~ msgid "All Defaults Restored!"
+#~ msgstr "Impostazioni predefinite ripristinate!"
+
+#~ msgid "Section Defaults Restored!"
+#~ msgstr "Impostazioni predefinite di sezione ripristinate!"
+
+#~ msgid "Settings Saved!"
+#~ msgstr "Impostazioni Salvate!"
+
+#~ msgid "Settings have changed, you should save them!"
+#~ msgstr "Le impostazioni sono cambiate, devi salvarle!"
+
+#~ msgid "error(s) were found!"
+#~ msgstr "si sono verificati uno o più errori!"
+
+#~ msgid "warning(s) were found!"
+#~ msgstr "sono stati trovati degli avvertimenti!"
+
+#~ msgid ""
+#~ "<strong>Your panel has bundled outdated copies of Redux Framework "
+#~ "template files</strong> &#8211; if you encounter functionality issues "
+#~ "this could be the reason. Ensure you update or remove them."
+#~ msgstr ""
+#~ "<strong>Il tuo pannello contiene copie obsolete dei file di template del "
+#~ "Redux Framework</strong> &#8211; se si riscontrano problemi di "
+#~ "funzionalità questo potrebbe essere il motivo. Assicurati di aggiornarli "
+#~ "o di rimuoverli."
+
+#~ msgid "Options panel created using %1$s"
+#~ msgstr "Pannello opzioni creato utilizzando %1$s"
+
+#~ msgid "Redux Framework"
+#~ msgstr "Redux Framework"
+
+#~ msgid "Options"
+#~ msgstr "Opzioni"
+
+#~ msgid "moving the mouse over"
+#~ msgstr "muovi il mouse sopra"
+
+#~ msgid "clicking"
+#~ msgstr "clicca"
+
+#~ msgid ""
+#~ "Hints are tooltips that popup when %d the hint icon, offering addition "
+#~ "information about the field in which they appear.  They can be %d d by "
+#~ "using the link below."
+#~ msgstr ""
+#~ "I suggerimenti sono delle didascalie che appaiono quando %d l'icona di "
+#~ "suggerimento, offrendo ulteriori informazioni riguardo il campo in cui "
+#~ "appaiono. Possono essere %d utilizzando il collegamento in basso."
+
+#~ msgid "Hints"
+#~ msgstr "Suggerimenti"
+
+#~ msgid "Default"
+#~ msgstr "Predefinito"
+
+#~ msgid "Invalid security credential.  Please reload the page and try again."
+#~ msgstr ""
+#~ "Credenziali di sicurezza non valide. Si prega di ricaricare la pagina e "
+#~ "riprovare."
+
+#~ msgid "Invalid user capability.  Please reload the page and try again."
+#~ msgstr ""
+#~ "Capacità utente non valida. Si prega di ricaricare la pagina e riprovare."
+
+#~ msgid "Your panel has no fields. Nothing to save."
+#~ msgstr "Il tuo pannello non ha campi. Niente da salvare."
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the "
+#~ "Redux Framework support site in your config's <code>admin_bar_links</"
+#~ "code> argument.  This is sample data.  Please change or remove this data "
+#~ "before shipping your product."
+#~ msgstr ""
+#~ "<strong>Avviso Redux Framework:</strong> Non ci sono riferimenti al sito "
+#~ "di supporto Redux Framework nell'argomento della configurazione "
+#~ "<code>admin_bar_links</code>. Si tratta di dati di esempio. Si prega di "
+#~ "modificare o rimuovere questi dati prima della spedizione del prodotto."
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the "
+#~ "Redux Framework support site in your config's <code>share_icons</code> "
+#~ "argument.  This is sample data.  Please change or remove this data before "
+#~ "shipping your product."
+#~ msgstr ""
+#~ "<strong>Avviso Redux Framework:</strong> Ci sono riferimenti al sito di "
+#~ "supporto Redux Framework nell'argomento della configurazione "
+#~ "<code>share_icons</code>. Si tratta di dati di esempio. Si prega di "
+#~ "modificare o rimuovere questi dati prima della spedizione del prodotto."
+
+#~ msgid "Dismiss"
+#~ msgstr "Nascondi"
+
+#~ msgid ""
+#~ "Please wait a few minutes, then try refreshing the page. Unable to load "
+#~ "some remotely hosted scripts."
+#~ msgstr ""
+#~ "Attendi qualche minuto, quindi prova ad aggiornare la pagina. Impossibile "
+#~ "caricare alcuni script ospitati in remoto."
+
+#~ msgid ""
+#~ "If you are developing offline, please download and install the <a href="
+#~ "\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to "
+#~ "bypass the our CDN and avoid this warning"
+#~ msgstr ""
+#~ "Se stai sviluppando offline, scarica e installa il plugin/l'estensione <a "
+#~ "href=“%s” target=“_blank”>Redux Vendor Support</a> per bypassare il "
+#~ "nostro CDN ed evitare questo avviso"
+
+#~ msgid "Redux Framework Warning"
+#~ msgstr "Redux Framework Warning"
+
+#~ msgid "%s CDN unavailable.  Some controls may not render properly."
+#~ msgstr ""
+#~ "%s CDN non disponibile. Alcuni controlli potrebbero non funzionare "
+#~ "correttamente."
+
+#~ msgid ""
+#~ "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+#~ "installed or not activated and thus, some controls may not render "
+#~ "properly.  Please ensure that it is installed and <a href=\"%s"
+#~ "\">activated</a>"
+#~ msgstr ""
+#~ "Il <a href=“%s”>plugin Vendor Support</a> (o estensione) non è installato "
+#~ "o non è attivato e, quindi, alcuni controlli potrebbero non funzionare "
+#~ "correttamente. Assicurati che sia installato e <a href=“%s”>attivato</a>"
+
+#~ msgid "File Permission Issues"
+#~ msgstr "Problemi nei Permessi File"
+
+#~ msgid ""
+#~ "We were unable to modify required files. Please check your permissions, "
+#~ "or modify your wp-config.php file to contain your FTP login credentials "
+#~ "as <a href=\"%s\" target=\"_blank\">outlined here</a>."
+#~ msgstr ""
+#~ "Non è stato possibile modificare i file richiesti. Verifica i permessi o "
+#~ "modifica il file wp-config.php in modo che contenga le credenziali di "
+#~ "accesso FTP come <a href=\"%s\" target=\"_blank\">indicato qui</a>."
+
+#~ msgid ""
+#~ "We were unable to modify required files. Please ensure that <code>%1s</"
+#~ "code> has the proper read-write permissions, or modify your wp-config.php "
+#~ "file to contain your FTP login credentials as <a href=\"%2s\" target="
+#~ "\"_blank\">outlined here</a>."
+#~ msgstr ""
+#~ "Non è stato possibile modificare i file richiesti. Verifica che <code>"
+#~ "%1s</code> abbia i corretti permessi di lettura/scrittura, o modifica il "
+#~ "file wp-config.php che contiene le credenziali di accesso FTP come <a "
+#~ "href=\"%2s\" target=\"_blank\">indicato qui</a>."
+
+#~ msgid ""
+#~ "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+#~ "date. The core version is %s"
+#~ msgstr ""
+#~ "La versione <code>%s</code> <strong style=\"color:red\">%s</strong> è "
+#~ "obsoleta. La versione core è %s"
+
+#~ msgid ""
+#~ "You have changes that are not saved.  Would you like to save them now?"
+#~ msgstr "Ci sono delle modifiche non salvate. Desideri salvarle ora?"
+
+#~ msgid "Are you sure?  Resetting will lose all custom values."
+#~ msgstr "Sei sicuro? Il reset cancellerà tutti i valori delle impostazioni."
+
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset.  "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Le opzioni correnti verranno sostituite con i valori di questa "
+#~ "preimpostazione. Vuoi continuare?"
+
+#~ msgid "Press return or enter to open this panel"
+#~ msgstr "Premi torna indietro o invia per aprire questo pannello"
+
+#~ msgid "You are customizing %s"
+#~ msgstr "Stai personalizzando %s"
+
+#~ msgid "Back"
+#~ msgstr "Indietro"
+
+#~ msgid "Help"
+#~ msgstr "Aiuto"
+
+#~ msgid "Press return or enter to open"
+#~ msgstr "Premi torna indietro o invia per aprire"
+
+#~ msgid "Press return or enter to expand"
+#~ msgstr "Premi torna indietro o invia per espandere"
+
+#~ msgid "Import / Export"
+#~ msgstr "Importa / Esporta"
+
+#~ msgid "Import Options"
+#~ msgstr "Importa Opzioni"
+
+#~ msgid "Import from File"
+#~ msgstr "Importa da file"
+
+#~ msgid "Import from URL"
+#~ msgstr "Importa da URL"
+
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Inserisci il file di backup qui sotto e clicca Importa per ripristinare "
+#~ "le opzioni dei tuoi siti da un backup."
+
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Inserisci l'URL delle opzioni di un altro sito e fai clic su Importa per "
+#~ "caricare le opzioni da quel sito."
+
+#~ msgid "Import"
+#~ msgstr "Importa"
+
+#~ msgid ""
+#~ "WARNING! This will overwrite all existing option values, please proceed "
+#~ "with caution!"
+#~ msgstr ""
+#~ "ATTENZIONE! Questa operazione sovrascriverà tutti i valori delle opzioni "
+#~ "esistenti. Procedere con cautela!"
+
+#~ msgid "Export Options"
+#~ msgstr "Esporta Opzioni"
+
+#~ msgid ""
+#~ "Here you can copy/download your current option settings. Keep this safe "
+#~ "as you can use it as a backup should anything go wrong, or you can use it "
+#~ "to restore your settings on this site (or any other site)."
+#~ msgstr ""
+#~ "Qui è possibile copiare/scaricare le impostazioni correnti dell'opzione. "
+#~ "Conserva il file in quanto è possibile utilizzarlo come backup se "
+#~ "qualcosa dovesse andare storto oppure per ripristinare le impostazioni di "
+#~ "questo sito (o di qualsiasi altro sito)."
+
+#~ msgid "Copy Data"
+#~ msgstr "Copia Dati"
+
+#~ msgid "Download Data File"
+#~ msgstr "Scarica File Dati"
+
+#~ msgid "Copy Export URL"
+#~ msgstr "Copia l'URL di esportazione"
+
+#~ msgid "Options Object"
+#~ msgstr "Opzioni Oggetto"
+
+#~ msgid "Show Object in Javascript Console Object"
+#~ msgstr "Mostra Oggetto nella Console Javascript"
+
+#~ msgid "Transparent"
+#~ msgstr "Trasparente"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Ripeti Sfondo"
+
+#~ msgid "Background Clip"
+#~ msgstr "Sfondo Clip"
+
+#~ msgid "Background Origin"
+#~ msgstr "Sfondo Originale"
+
+#~ msgid "Background Size"
+#~ msgstr "Sfondo Dimensione"
+
+#~ msgid "Background Attachment"
+#~ msgstr "Sfondo Allegato"
+
+#~ msgid "Background Position"
+#~ msgstr "Posizione Sfondo"
+
+#~ msgid "No media selected"
+#~ msgstr "Nessun media selezionato"
+
+#~ msgid "Upload"
+#~ msgstr "Carica"
+
+#~ msgid "Top"
+#~ msgstr "In alto"
+
+#~ msgid "Bottom"
+#~ msgstr "Sotto"
+
+#~ msgid "Border style"
+#~ msgstr "Stile bordo"
+
+#~ msgid "From "
+#~ msgstr "Da "
+
+#~ msgid "To "
+#~ msgstr "A "
+
+#~ msgid "Choose"
+#~ msgstr "Scegli"
+
+#~ msgid "Cancel"
+#~ msgstr "Annulla"
+
+#~ msgid "Select Color"
+#~ msgstr "Seleziona Colore"
+
+#~ msgid "Width"
+#~ msgstr "Larghezza"
+
+#~ msgid "Height"
+#~ msgstr "Altezza"
+
+#~ msgid "Units"
+#~ msgstr "Unità"
+
+#~ msgid "Add/Edit Gallery"
+#~ msgstr "Aggiungi/Modifica Galleria"
+
+#~ msgid "Clear Gallery"
+#~ msgstr "Pulisci Galleria"
+
+#~ msgid "Regular"
+#~ msgstr "Regolare"
+
+#~ msgid "Hover"
+#~ msgstr "Hover"
+
+#~ msgid "Visited"
+#~ msgstr "Visitato"
+
+#~ msgid "Focus"
+#~ msgstr "Focus"
+
+#~ msgid "Add More"
+#~ msgstr "Aggiungi altro"
+
+#~ msgid "No items of this type were found."
+#~ msgstr "Non sono stati trovati elementi di questo tipo."
+
+#~ msgid "Slide"
+#~ msgstr "Slide"
+
+#~ msgid "New %s"
+#~ msgstr "Nuovo %s"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Delete"
+#~ msgstr "Elimina"
+
+#~ msgid "Add %s"
+#~ msgstr "Aggiungi %s"
+
+#~ msgid "On"
+#~ msgstr "On"
+
+#~ msgid "Off"
+#~ msgstr "Off"
+
+#~ msgid "Font Family"
+#~ msgstr "Font family"
+
+#~ msgid "Font family"
+#~ msgstr "Font family"
+
+#~ msgid "Backup Font Family"
+#~ msgstr "Backup Caratteri"
+
+#~ msgid "Font style"
+#~ msgstr "Stile Font"
+
+#~ msgid "Font Weight &amp; Style"
+#~ msgstr "Peso e Stile del Carattere"
+
+#~ msgid "Style"
+#~ msgstr "Stile"
+
+#~ msgid "Font subsets"
+#~ msgstr "Sottoinsiemi Font"
+
+#~ msgid "Font Subsets"
+#~ msgstr "Sottoinsiemi del Carattere"
+
+#~ msgid "Subsets"
+#~ msgstr "Sottoinsiemi"
+
+#~ msgid "Font script"
+#~ msgstr "Script del Carattere"
+
+#~ msgid "Text Align"
+#~ msgstr "Allineamento Testo"
+
+#~ msgid "Text Transform"
+#~ msgstr "Trasformazione Testo"
+
+#~ msgid "Font Variant"
+#~ msgstr "Variante Caratteri"
+
+#~ msgid "Text Decoration"
+#~ msgstr "Decorazione Testo"
+
+#~ msgid "Font Size"
+#~ msgstr "Dimensione Carattere"
+
+#~ msgid "Line Height"
+#~ msgstr "Altezza riga"
+
+#~ msgid "Word Spacing"
+#~ msgstr "Spaziatura parole"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Spaziatura lettere"
+
+#~ msgid "Font Color"
+#~ msgstr "Colore del carattere"
+
+#~ msgid "Font color"
+#~ msgstr "Colore carattere"
+
+#~ msgid "Standard Fonts"
+#~ msgstr "Font standard"
+
+#~ msgid "Google Webfonts"
+#~ msgstr "Google Webfonts"
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+#~ "submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+#~ "strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+#~ "document</a>, or your theme will be rejected because of Redux."
+#~ msgstr ""
+#~ "<span class=\"tc-lead tc-recommended\">CONSIGLIATO</span>: Se ti stai "
+#~ "sottomettendo al repository dei temi di WordPress.org, è <strong> "
+#~ "fortemente </strong> consigliato di leggere <a href=\"%s\" target=\"_ "
+#~ "blank\"> questo documento </a>, o il tema verrà rifiutato a causa di "
+#~ "Redux."
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+#~ "<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+#~ "submission because of Redux."
+#~ msgstr ""
+#~ "<span class=\"tc-lead tc-required\">RICHIESTO:</span> È necessario "
+#~ "eliminare <strong>%s</strong>, altrimenti il tema verrà respinto da WP."
+#~ "org a causa di Redux."
+
+#~ msgid "Optional"
+#~ msgstr "Opzionale"
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+#~ "arguments MUST be used for WP.org submissions, or you will be rejected "
+#~ "because of your Redux configuration."
+#~ msgstr ""
+#~ "<span class=\"tc-lead tc-recommended\">RACCOMANDATO:</span> I seguenti "
+#~ "argomenti devono essere utilizzati per l'invio a WP.org, altriventi "
+#~ "saranno respinti a causa della configurazione Redux."
+
+#~ msgid "Redux localization utilities"
+#~ msgstr "Utilità di localizzazione Redux"
+
+#~ msgid "Redux Resting Diles"
+#~ msgstr "Redux Resting Diles"
+
+#~ msgid "Redux Code Styles"
+#~ msgstr "Stili di codice di Redux"
+
+#~ msgid "Redux Unit Testing"
+#~ msgstr "Unità di Test Redux"
+
+#~ msgid "Redux Plugin File"
+#~ msgstr "File Plugin di Redux"
+
+#~ msgid "Redux Boostrap Tests"
+#~ msgstr "Redux Boostrap Tests"
+
+#~ msgid "CI Testing FIle"
+#~ msgstr "File di Test CI"
+
+#~ msgid "PHP Unit Testing"
+#~ msgstr "Unità di Test PHP"
+
+#~ msgid ""
+#~ "It appears that you have embedded the full Redux package inside your "
+#~ "theme. You need only embed the <strong>ReduxCore</strong> folder. "
+#~ "Embedding anything else will get your rejected from theme submission. "
+#~ "Suspected Redux package file(s):"
+#~ msgstr ""
+#~ "Sembra che sia stato incorporato il pacchetto Redux completo all'interno "
+#~ "del tema. È necessario incorporare solo la cartella <strong>ReduxCore.</"
+#~ "strong>. Incorporare qualsiasi altra cosa causerà il rifiuto del tuo "
+#~ "tema. File sospetto(i) del pacchetto Redux:"
+
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Il campo deve contenere un colore valido."
+
+#~ msgid ""
+#~ "You must provide a comma separated list of numerical values for this "
+#~ "option."
+#~ msgstr ""
+#~ "È necessario fornire un elenco di valori numerici separati da virgole per "
+#~ "questa opzione."
+
+#~ msgid "Unsafe strings were found in your CSS and have been filtered out."
+#~ msgstr ""
+#~ "Sono state trovate stringhe non sicure nel tuo CSS e sono state filtrate."
+
+#~ msgid "This field must be a valid date."
+#~ msgstr "Il campo deve contenere una data valida."
+
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "Devi fornire un indirizzo email valido per questa opzione."
+
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "Non devi inserire un codice HTML in questo campo, tutti i tag HTML "
+#~ "saranno rimossi."
+
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "Non devi inserire caratteri speciali in questo campo, tutti i caratteri "
+#~ "speciali saranno rimossi."
+
+#~ msgid "This field cannot be empty. Please provide a value."
+#~ msgstr "Questo campo non può essere vuoto. Si prega di inserire un valore."
+
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "Devi fornire un valore numerico valido per questa opzione."
+
+#~ msgid ""
+#~ "That URL slug is in use, please choose another. <code>%s</code> is open "
+#~ "for use."
+#~ msgstr ""
+#~ "Questo slug URL è già in uso, scegline un altro. <code>%s</code> è "
+#~ "disponibile all'uso."
+
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "Devi fornire un URL valido per questa opzione."
+
+#~ msgid "Welcome to Redux Framework %s"
+#~ msgstr "Benvenuti a Redux Framework %s"
+
+#~ msgid ""
+#~ "Thank you for updating to the latest version! Redux Framework %s is a "
+#~ "huge step forward in Redux Development. Look at all that's new."
+#~ msgstr ""
+#~ "Grazie per aver aggiornato alla versione più recente! Redux Framework %s "
+#~ "è un enorme passo avanti nello sviluppo di Redux. Guarda tutte le novità."
+
+#~ msgid "Version %s"
+#~ msgstr "Versione %s"
+
+#~ msgid "What is Redux Framework?"
+#~ msgstr "Che cos’è Redux Framework?"
+
+#~ msgid ""
+#~ "Redux Framework is the core of many products on the web. It is an option "
+#~ "framework which developers use to\n"
+#~ "            enhance their products."
+#~ msgstr ""
+#~ "Redux Framework è il cuore di molti prodotti web. Si tratta di un "
+#~ "framework di opzioni utilizzato dagli sviluppatori\n"
+#~ "            per migliorare i propri prodotti."
+
+#~ msgid "Learn More"
+#~ msgstr "Per saperne di più"
+
+#~ msgid "New in this Release"
+#~ msgstr "Novità di questa Versione"
+
+#~ msgid "Redux Framework - Changelog"
+#~ msgstr "Redux Framework - Changelog"
+
+#~ msgid ""
+#~ "Our core mantra at Redux is backwards compatibility. With hundreds of "
+#~ "thousands of instances worldwide, you can be assured that we will take "
+#~ "care of you and your clients."
+#~ msgstr ""
+#~ "Il nostro mantra fondamentale a Redux è la compatibilità all’indietro. "
+#~ "Con centinaia di migliaia di casi in tutto il mondo, puoi essere certo "
+#~ "che ci occuperemo di te e dei tuoi clienti."
+
+#~ msgid "Redux Framework - A Community Effort"
+#~ msgstr "Redux Framework - Opera di una Comunità"
+
+#~ msgid ""
+#~ "We recognize we are nothing without our community. We would like to thank "
+#~ "all of those who help Redux to be what it is. Thank you for your "
+#~ "involvement."
+#~ msgstr ""
+#~ "Ci rendiamo conto che siamo nulla senza la nostra comunità. Vorremmo "
+#~ "ringraziare tutti coloro che aiutano Redux a essere quello che è. Grazie "
+#~ "per il vostro coinvolgimento."
+
+#~ msgid ""
+#~ "Redux is created by a community of developers world wide. Want to have "
+#~ "your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to "
+#~ "Redux</a>."
+#~ msgstr ""
+#~ "Redux è creato da una comunità di sviluppatori in tutto il mondo. Vuoi "
+#~ "che anche il tuo nome sia sulla lista? <a href=\"%d\" target="
+#~ "\"_blank>Contribuisci a Redux </a>."
+
+#~ msgid "Redux Framework - Extensions"
+#~ msgstr "Redux Framework - Estensioni"
+
+#~ msgid ""
+#~ "Supercharge your Redux experience. Our extensions provide you with "
+#~ "features that will take your products to the next level."
+#~ msgstr ""
+#~ "Supercarica la tua esperienza di Redux. Le nostre estensioni ti offrono "
+#~ "funzionalità che porteranno i tuoi prodotti al livello successivo."
+
+#~ msgid ""
+#~ "While some are built specificially for developers, extensions such as "
+#~ "Custom Fonts are sure to make any user happy."
+#~ msgstr ""
+#~ "Mentre alcune sono create appositamente per gli sviluppatori, le "
+#~ "estensioni come Custom Fonts sono pensate per far felice qualsiasi utente."
+
+#~ msgid "Redux Framework - System Status"
+#~ msgstr "Redux Framework - Stato del Sistema"
+
+#~ msgid ""
+#~ "Please copy and paste this information in your ticket when contacting "
+#~ "support:"
+#~ msgstr ""
+#~ "Per favore copia e incolla queste informazioni nel tuo ticket quando "
+#~ "contatti il supporto:"
+
+#~ msgid "Get System Report"
+#~ msgstr "Ottieni il rapporto di sistema"
+
+#~ msgid "Understanding the Status Report"
+#~ msgstr "Comprendere lo Status Report"
+
+#~ msgid "Copied!"
+#~ msgstr "Copiato!"
+
+#~ msgid "Copy for Support"
+#~ msgstr "Copia per il Supporto"
+
+#~ msgid "WordPress Environment"
+#~ msgstr "Ambiente WordPress"
+
+#~ msgid "Home URL"
+#~ msgstr "URL Home"
+
+#~ msgid "The URL of your site's homepage."
+#~ msgstr "L'URL della tua homepage."
+
+#~ msgid "Site URL"
+#~ msgstr "URL Sito"
+
+#~ msgid "The root URL of your site."
+#~ msgstr "L'URL della root del tuo sito."
+
+#~ msgid "Redux Version"
+#~ msgstr "Versione Redux"
+
+#~ msgid "The version of Redux Framework installed on your site."
+#~ msgstr "La versione di Redux Framework installata sul tuo sito."
+
+#~ msgid "Redux Data Directory Writable"
+#~ msgstr "Cartella Dati Redux Scrivibile"
+
+#~ msgid ""
+#~ "Redux and its extensions write data to the <code>uploads</code> "
+#~ "directory. This directory must be writable."
+#~ msgstr ""
+#~ "Redux e le sue estensioni scrivono dati nella directory <code>uploads</"
+#~ "code>. Questa directory deve essere scrivibile."
+
+#~ msgid "To allow data saving, make <code>%s</code> writable."
+#~ msgstr ""
+#~ "Per consentire il salvataggio dei dati, abilitare <code>%s</code> "
+#~ "ascrivibile."
+
+#~ msgid "WP Content URL"
+#~ msgstr "URL di WP Content"
+
+#~ msgid "The location of Wordpress's content URL."
+#~ msgstr "La posizione dell'URL del contenuto di Wordpress."
+
+#~ msgid "WP Version"
+#~ msgstr "Versione WP"
+
+#~ msgid "The version of WordPress installed on your site."
+#~ msgstr "La versione di WordPress installata sul tuo sito."
+
+#~ msgid "WP Multisite"
+#~ msgstr "WP Multisito"
+
+#~ msgid "Whether or not you have WordPress Multisite enabled."
+#~ msgstr "Se hai abilitato o meno WordPress Multisite."
+
+#~ msgid "Permalink Structure"
+#~ msgstr "Struttura Permalink"
+
+#~ msgid ""
+#~ "The current permalink structure as defined in Wordpress Settings-"
+#~ ">Permalinks."
+#~ msgstr ""
+#~ "L'attuale struttura del permalink come definita nelle Impostazioni di "
+#~ "Wordpress->Permalink."
+
+#~ msgid "Front Page Display"
+#~ msgstr "Mostra la pagina iniziale"
+
+#~ msgid "The current Reading mode of Wordpress."
+#~ msgstr "L'attuale modalità Lettura di Wordpress."
+
+#~ msgid "Front Page"
+#~ msgstr "Pagina Iniziale (Homepage)"
+
+#~ msgid "The currently selected page which acts as the site's Front Page."
+#~ msgstr "La pagina attualmente selezionata come Pagina Principale del sito."
+
+#~ msgid "Posts Page"
+#~ msgstr "Pagina dei post"
+
+#~ msgid "The currently selected page in where blog posts are displayed."
+#~ msgstr ""
+#~ "La pagina attualmente selezionata in cui sono visualizzati i post del "
+#~ "blog."
+
+#~ msgid "WP Memory Limit"
+#~ msgstr "Limite Memoria WP"
+
+#~ msgid ""
+#~ "The maximum amount of memory (RAM) that your site can use at one time."
+#~ msgstr ""
+#~ "La quantità massima di memoria (RAM) che il vostro sito può occupare ad "
+#~ "ogni richiesta."
+
+#~ msgid ""
+#~ "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+#~ "target=\"_blank\">Increasing memory allocated to PHP</a>"
+#~ msgstr ""
+#~ "% s - Si consiglia di impostare la memoria su almeno 40 MB. Vedi: <a href="
+#~ "\"%s\" target=\"_blank\">Aumento della memoria allocata a PHP</a>"
+
+#~ msgid "Database Table Prefix"
+#~ msgstr "Prefisso Tabelle Database"
+
+#~ msgid "The prefix structure of the current Wordpress database."
+#~ msgstr "La struttura del prefisso dell'attuale database di Wordpress."
+
+#~ msgid "WP Debug Mode"
+#~ msgstr "Modalità di debug WP"
+
+#~ msgid "Displays whether or not WordPress is in Debug Mode."
+#~ msgstr "Mostra se Wordpress è o meno in modalità Debug."
+
+#~ msgid "Language"
+#~ msgstr "Lingua"
+
+#~ msgid "The current language used by WordPress. Default = English"
+#~ msgstr "La lingua corrente utilizzata da Wordpress. Predefinita = inglese"
+
+#~ msgid "Browser"
+#~ msgstr "Browser"
+
+#~ msgid "Browser Info"
+#~ msgstr "Informazioni Browser"
+
+#~ msgid "Information about web browser current in use."
+#~ msgstr "Informazioni sul browser in uso."
+
+#~ msgid "Server Environment"
+#~ msgstr "Ambiente Server"
+
+#~ msgid "Server Info"
+#~ msgstr "Informazioni Server"
+
+#~ msgid ""
+#~ "Information about the web server that is currently hosting your site."
+#~ msgstr "Informazioni sul web server che ospita il sito."
+
+#~ msgid "Localhost Environment"
+#~ msgstr "Ambiente Localhost"
+
+#~ msgid "Is the server running in a localhost environment."
+#~ msgstr "Il server è in esecuzione in un ambiente localhost."
+
+#~ msgid "PHP Version"
+#~ msgstr "Versione PHP"
+
+#~ msgid "The version of PHP installed on your hosting server."
+#~ msgstr "La versione di PHP installata sul tuo server di hosting."
+
+#~ msgid "ABSPATH"
+#~ msgstr "ABSPATH"
+
+#~ msgid "The ABSPATH variable on the server."
+#~ msgstr "La variabile ABSPATH sul server."
+
+#~ msgid "PHP Memory Limit"
+#~ msgstr "Limite Memoria PHP"
+
+#~ msgid "The largest filesize that can be contained in one post."
+#~ msgstr "La dimensione massima di una richiesta POST."
+
+#~ msgid "PHP Post Max Size"
+#~ msgstr "PHP Post Max Size"
+
+#~ msgid "PHP Time Limit"
+#~ msgstr "PHP Time Limit"
+
+#~ msgid ""
+#~ "The amount of time (in seconds) that your site will spend on a single "
+#~ "operation before timing out (to avoid server lockups)"
+#~ msgstr ""
+#~ "La quantità di tempo (in secondi) che il tuo sito impiegherà su una "
+#~ "singola operazione prima di andare in time out (per evitare lockup del "
+#~ "server)"
+
+#~ msgid "PHP Max Input Vars"
+#~ msgstr "PHP Max Input Vars"
+
+#~ msgid ""
+#~ "The maximum number of variables your server can use for a single function "
+#~ "to avoid overloads."
+#~ msgstr ""
+#~ "Il massimo numero di variabili che il tuo server può usare per una "
+#~ "singola funzione per evitare sovraccarichi."
+
+#~ msgid "PHP Display Errors"
+#~ msgstr "Mostra errori PHP"
+
+#~ msgid "Determines if PHP will display errors within the browser."
+#~ msgstr "Determina se PHP mostrerà gli errori nel browser."
+
+#~ msgid "SUHOSIN Installed"
+#~ msgstr "SUHOSIN Installato"
+
+#~ msgid ""
+#~ "Suhosin is an advanced protection system for PHP installations. It was "
+#~ "designed to protect your servers on the one hand against a number of well "
+#~ "known problems in PHP applications and on the other hand against "
+#~ "potential unknown vulnerabilities within these applications or the PHP "
+#~ "core itself.  If enabled on your server, Suhosin may need to be "
+#~ "configured to increase its data submission limits."
+#~ msgstr ""
+#~ "Suhosin è un sistema di protezione avanzata per le installazioni di PHP. "
+#~ "Fu progettato per proteggere i server, da un lato, contro una serie di "
+#~ "problemi noti delle applicazioni PHP e, dall'altro, contro potenziali "
+#~ "vulnerabilità sconosciute di queste applicazioni o dello stesso core di "
+#~ "PHP.  Se abilitato sul server, Suhosin può avere bisogno di una "
+#~ "configurazione per aumentare i limiti di trasmissione dei dati."
+
+#~ msgid "MySQL Version"
+#~ msgstr "Versione MySQL"
+
+#~ msgid "The version of MySQL installed on your hosting server."
+#~ msgstr "La versione di MySQL installata sul tuo server di hosting."
+
+#~ msgid "Max Upload Size"
+#~ msgstr "Dimensione massima del file"
+
+#~ msgid ""
+#~ "The largest filesize that can be uploaded to your WordPress installation."
+#~ msgstr ""
+#~ "La massima dimensione di un file che può essere caricato con Wordpress."
+
+#~ msgid "Default Timezone is UTC"
+#~ msgstr "Il fuso orario predefinito è UTC"
+
+#~ msgid "The default timezone for your server."
+#~ msgstr "Il fuso orario predefinito del tuo server."
+
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "Il fuso orario predefinito è %s - dovrebbe essere UTC"
+
+#~ msgid "Used when communicating with remote services with PHP."
+#~ msgstr "Utilizzato quando si comunica con servizi remoti via PHP."
+
+#~ msgid ""
+#~ "Your server does not have fsockopen or cURL enabled - cURL is used to "
+#~ "communicate with other servers. Please contact your hosting provider."
+#~ msgstr ""
+#~ "Il tuo server non ha fsockopen o cURL abilitato - cURL è usato per "
+#~ "comunicare con altri server. Si prega di contattare il proprio fornitore "
+#~ "di hosting."
+
+#~ msgid "Remote Post"
+#~ msgstr "Post remoto"
+
+#~ msgid "Used to send data to remote servers."
+#~ msgstr "Utilizzato per inviare dati a server remoti."
+
+#~ msgid ""
+#~ "wp_remote_post() failed. Many advanced features may not function. Contact "
+#~ "your hosting provider."
+#~ msgstr ""
+#~ "wp_remote_post () non riuscito. Molte funzioni avanzate potrebbero non "
+#~ "funzionare. Contatta il tuo fornitore di hosting."
+
+#~ msgid "Error: %s"
+#~ msgstr "Errore: %s"
+
+#~ msgid "Remote Get"
+#~ msgstr "Get Remoto"
+
+#~ msgid "Used to grab information from remote servers for updates updates."
+#~ msgstr ""
+#~ "Utilizzato per ottenere informazioni dai server remoti per gli "
+#~ "aggiornamenti."
+
+#~ msgid ""
+#~ "wp_remote_get() failed. This is needed to get information from remote "
+#~ "servers. Contact your hosting provider."
+#~ msgstr ""
+#~ "wp_remote_get () fallito. Questo è necessario per ottenere informazioni "
+#~ "dai server remoti. Contatta il tuo fornitore di hosting."
+
+#~ msgid "Active Plugins"
+#~ msgstr "Plugin Attivi"
+
+#~ msgid "Visit plugin homepage"
+#~ msgstr "Visita l'homepage del plugin"
+
+#~ msgctxt "by author"
+#~ msgid "by %s"
+#~ msgstr "da %s"
+
+#~ msgid "Redux Instance: "
+#~ msgstr "Istanza di Redux: "
+
+#~ msgid "The opt_name argument for this instance of Redux."
+#~ msgstr "Argomento opt_name per questa istanza di Redux."
+
+#~ msgid "The global_variable argument for this instance of Redux."
+#~ msgstr "Argomento global_variable per questa istanza di Redux."
+
+#~ msgid "Indicates if developer mode is enabled for this instance of Redux."
+#~ msgstr ""
+#~ "Indica se la modalità sviluppatore è abilitata per questa istanza di "
+#~ "Redux."
+
+#~ msgid ""
+#~ "Indicates if ajax based saving is enabled for this instance of Redux."
+#~ msgstr ""
+#~ "Indica se il salvataggio basato su Ajax è abilitato per questa istanza di "
+#~ "Redux."
+
+#~ msgid ""
+#~ "The page slug denotes the string used for the options panel page for this "
+#~ "instance of Redux."
+#~ msgstr ""
+#~ "Lo slug della pagina indica la stringa utilizzata per la pagina del "
+#~ "pannello delle opzioni per questa istanza di Redux."
+
+#~ msgid ""
+#~ "The page permissions variable sets the permission level required to "
+#~ "access the options panel for this instance of Redux."
+#~ msgstr ""
+#~ "La variabile dei permessi della pagina imposta il livello di "
+#~ "autorizzazione richiesto per accedere al pannello delle opzioni per "
+#~ "questa istanza di Redux."
+
+#~ msgid ""
+#~ "This variable set whether or not the menu is displayed as an admin menu "
+#~ "item for this instance of Redux."
+#~ msgstr ""
+#~ "Questa variabile imposta se il menu viene visualizzato o meno come voce "
+#~ "del menu dell'amministratore per questa istanza di Redux."
+
+#~ msgid ""
+#~ "The page parent variable sets where the options menu will be placed on "
+#~ "the WordPress admin sidebar for this instance of Redux."
+#~ msgstr ""
+#~ "La variabile della pagina principale imposta dove verrà posizionato il "
+#~ "menu delle opzioni sulla barra laterale dell'amministratore di WordPress "
+#~ "per questa istanza di Redux."
+
+#~ msgid ""
+#~ "Indicates if the compiler flag is enabled for this instance of Redux."
+#~ msgstr ""
+#~ "Indica se il flag del compilatore è abilitato per questa istanza di Redux."
+
+#~ msgid ""
+#~ "Indicates if output flag for globally shutting off all CSS output is "
+#~ "enabled for this instance of Redux."
+#~ msgstr ""
+#~ "Indica se il flag di output per la chiusura globale di tutti gli output "
+#~ "CSS è abilitato per questa istanza di Redux."
+
+#~ msgid ""
+#~ "The output_tag variable sets whether or not dynamic CSS will be generated "
+#~ "for the customizer and Google fonts for this instance of Redux."
+#~ msgstr ""
+#~ "La variabile output_tag imposta se il CSS dinamico verrà generato o meno "
+#~ "per il customizer e i font Google per questa istanza di Redux."
+
+#~ msgid ""
+#~ "The specified template path containing custom template files for this "
+#~ "instance of Redux."
+#~ msgstr ""
+#~ "Il percorso del modello specificato contenente i file modello "
+#~ "personalizzati per questa istanza di Redux."
+
+#~ msgid "List of template files overriding the default Redux template files."
+#~ msgstr ""
+#~ "Elenco di file di modello che sovrascrivono i file di modello Redux "
+#~ "predefiniti."
+
+#~ msgid "Indicates the installed Redux extensions and their version numbers."
+#~ msgstr "Indicate the installa Redux extensions and their version numbers."
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "The name of the current active theme."
+#~ msgstr "Nome del tema corrente."
+
+#~ msgid "The installed version of the current active theme."
+#~ msgstr "La versione installata del tema corrente attivo."
+
+#~ msgid "is available"
+#~ msgstr "è disponibile"
+
+#~ msgid "Author URL"
+#~ msgstr "URL Autore"
+
+#~ msgid "The theme developers URL."
+#~ msgstr "L'URL degli sviluppatori del tema."
+
+#~ msgid "Displays whether or not the current theme is a child theme."
+#~ msgstr "Mostra se il tema corrente è o meno un child theme."
+
+#~ msgid ""
+#~ "If you're modifying Redux Framework or a parent theme you didn't build "
+#~ "personally, we recommend using a child theme. See: <a href=\"%s\" target="
+#~ "\"_blank\">How to create a child theme</a>"
+#~ msgstr ""
+#~ "Se stai modificando Redux Framework o un tema principale che non hai "
+#~ "creato personalmente, ti consigliamo di utilizzare un tema figlio. Vedi: "
+#~ "<a href=\"%s\" target=\"_blank\"> Come creare un tema figlio</a>"
+
+#~ msgid "Parent Theme Name"
+#~ msgstr "Nome Tema Genitore"
+
+#~ msgid "The name of the parent theme."
+#~ msgstr "Il nome del tema principale."
+
+#~ msgid "Parent Theme Version"
+#~ msgstr "Versione del tema principale"
+
+#~ msgid "The installed version of the parent theme."
+#~ msgstr "Versione installata del tema principale."
+
+#~ msgid "Parent Theme Author URL"
+#~ msgstr "URL autore tema principale"
+
+#~ msgid "The parent theme developers URL."
+#~ msgstr "URL degli sviluppatori del tema principale."
+
+#~ msgid "Redux Framework - Support"
+#~ msgstr "Redux Framework-supporto"
+
+#~ msgid ""
+#~ "We are an open source project used by developers to make powerful control "
+#~ "panels."
+#~ msgstr ""
+#~ "Siamo un progetto open source utilizzato dagli sviluppatori per "
+#~ "migliorare i pannelli di controllo."
+
+#~ msgid "Generate a Support URL"
+#~ msgstr "Genera un URL di supporto"
+
+#~ msgid "Select Support Type"
+#~ msgstr "Seleziona il tipo di supporto"
+
+#~ msgid "How to Get Support"
+#~ msgstr "Come ricevere assistenza"
+
+#~ msgid "Submit a Support Request"
+#~ msgstr "Invia una richiesta di assistenza"
+
+#~ msgid "To get started, we will need to generate a support hash."
+#~ msgstr "Per iniziare, avremo bisogno di generare un supporto hash."
+
+#~ msgid ""
+#~ "This will provide to your developer all the information they may need to "
+#~ "remedy your issue. This action WILL send information securely to a remote "
+#~ "server. To see the type of information sent, please look at the  <a href="
+#~ "\"%s\">Status tab</a>."
+#~ msgstr ""
+#~ "Ciò fornirà al tuo sviluppatore tutte le informazioni di cui ha bisogno "
+#~ "per risolvere il problema. Questa azione INVIERÀ le informazioni in modo "
+#~ "sicuro a un server remoto. Per vedere il tipo di informazioni inviate, ti "
+#~ "preghiamo di consultare la <a href=\"%s\">Scheda Stato</a>."
+
+#~ msgid "Select Your Support Type"
+#~ msgstr "Seleziona il tuo tipo di assistenza"
+
+#~ msgid "What type of user are you?"
+#~ msgstr "Che tipo di utente sei?"
+
+#~ msgid "User"
+#~ msgstr "Utente"
+
+#~ msgid "I am a user, using a pre-built product."
+#~ msgstr "Sono un utente che utilizza un prodotto già costruito."
+
+#~ msgid "Developer"
+#~ msgstr "Sviluppatore"
+
+#~ msgid "I am a developer, building a product using Redux."
+#~ msgstr "Sono uno sviluppatore che sviluppa prodotti utilizzando Redux."
+
+#~ msgid ""
+#~ "Please proceed to the Redux Framework issue tracker and supply us with "
+#~ "your support URL below. Please also provide any information that will "
+#~ "help us to reproduce your issue."
+#~ msgstr ""
+#~ "Procedi al tracker dei problemi di Redux Framework e fornirscici il "
+#~ "seguente URL di supporto. Fornisci inoltre tutte le informazioni che ci "
+#~ "aiuteranno a riprodurre il tuo problema."
+
+#~ msgid ""
+#~ "Listed below are the Wordpress plugins and/or theme installed on your "
+#~ "site that utilize Redux Framework. We do not directly support products "
+#~ "created with our framework.  It is the responsibility of the plugin or "
+#~ "theme developer to support their work. You will need to contact the "
+#~ "author(s) of the products listed below with your support questions."
+#~ msgstr ""
+#~ "Di seguito sono elencati i plugin e/o temi Wordpress installati sul tuo "
+#~ "sito che utilizzano Redux Framework. Non supportiamo direttamente i "
+#~ "prodotti creati con il nostro framework. È responsabilità del plugin o "
+#~ "dello sviluppatore del tema supportare il loro lavoro. Dovrai contattare "
+#~ "l'autore/i dei prodotti elencati di seguito con le tue domande di "
+#~ "supporto."
+
+#~ msgid ""
+#~ "Please be sure to include for your developer - via cut and paste - the "
+#~ "Support URL in the box below."
+#~ msgstr ""
+#~ "Assicurati di includere per il tuo sviluppatore, tramite taglia e "
+#~ "incolla, l'URL di supporto nella casella sottostante."
+
+#~ msgid ""
+#~ "Should the developer not be responsive, read the <a href=\"%s\" target="
+#~ "\"_blank\">following article</a> before asking for support from us "
+#~ "directly."
+#~ msgstr ""
+#~ "Nel caso lo sviluppatore non risponda, leggi il <a href=\"%s\" target="
+#~ "\"_blank\">seguente articolo</a> prima di chiedere assistenza "
+#~ "direttamente da noi."
+
+#~ msgid ""
+#~ "If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/redux-framework?"
+#~ "filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+#~ "rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A "
+#~ "huge thank you from Redux in advance!"
+#~ msgstr ""
+#~ "Se ti piace <strong>Redux</strong> si prega di lasciare una <a "
+#~ "href=“https://wordpress.org/support/view/plugin-reviews/redux-framework?"
+#~ "filter=5#postform” target=“_blank” class=“redux-rating-link” data-"
+#~ "rated=“Grazie :)”>&#9733;&#9733;&#9733;&#9733;&#9733;</a> valutazione. Un "
+#~ "enorme grazie da Redux in anticipo!"
+
+#~ msgid "Support hash could not be generated. Please try again later."
+#~ msgstr ""
+#~ "L’hash di supporto non può essere generato. Per favore riprova più tardi."
+
+#~ msgid "Welcome to Redux Framework"
+#~ msgstr "Benvenuti al Framework di Redux"
+
+#~ msgid "Redux Framework Changelog"
+#~ msgstr "Redux Framework - Novità"
+
+#~ msgid "Get Support"
+#~ msgstr "Ottieni Supporto"
+
+#~ msgid "Redux Extensions"
+#~ msgstr "Estensioni Redux"
+
+#~ msgid "The people that develop Redux Framework"
+#~ msgstr "Le persone che sviluppano Redux Framework"
+
+#~ msgid "Redux Framework Status"
+#~ msgstr "Stato del Redux Framework"
+
+#~ msgid "What's New"
+#~ msgstr "Cosa c'è di nuovo"
+
+#~ msgid "Extensions"
+#~ msgstr "Estensioni"
+
+#~ msgid "Changelog"
+#~ msgstr "Changelog"
+
+#~ msgid "Credits"
+#~ msgstr "Crediti"
+
+#~ msgid "Support"
+#~ msgstr "Supporto"
+
+#~ msgid "View %s"
+#~ msgstr "Visualizza %s"
+
+#~ msgid "Reset Section"
+#~ msgstr "Reinizializza la selezione"
+
+#~ msgid "Reset All"
+#~ msgstr "Resetta tutto"
+
+#~ msgid "Developer Mode Enabled"
+#~ msgstr "Modalità sviluppatore attivata"
+
+#~ msgid "you are working in a localhost environment"
+#~ msgstr "stai lavorando in un ambiente locale"
+
+#~ msgid "and"
+#~ msgstr "e"
+
+#~ msgid "This has been automatically enabled because"
+#~ msgstr "Questo è stato attivato automaticamente perché"
+
+#~ msgid ""
+#~ "If you are not a developer, your theme/plugin author shipped with "
+#~ "developer mode enabled. Contact them directly to fix it."
+#~ msgstr ""
+#~ "Se non sei uno sviluppatore, l’autore del tuo tema/plugin l’ha spedito in "
+#~ "modalità sviluppatore. Contatta direttamente l’autore per risolvere il "
+#~ "problema."
+
+#~ msgid "Expand"
+#~ msgstr "Espandi"
+
+#~ msgid "So, You should deactivate and remove it from your plugins."
+#~ msgstr "Così, si dovrebbe disattivare e rimuovere il plugin."
+
+#~ msgid "Best if used on new WordPress install."
+#~ msgstr "Meglio utilizzare il tema su una nuova installazione di WordPress."
+
+#~ msgid "Images are for demo purpose only."
+#~ msgstr "Le immagini sono solo a scopo dimostrativo."
+
+#~ msgid "Demo Already Imported"
+#~ msgstr "Demo già importata"
+
+#~ msgid "Demo Importer"
+#~ msgstr "Importa Demo"
+
+#~ msgid "Works best to import on a new install of WordPress"
+#~ msgstr "É più efficace importare su una nuova installazione di WordPress"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "Si è verificato un errore durante la lettura di questo file WXR"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "I dettagli sono riportati sopra. L’importer tenterà nuovamente con un "
+#~ "diverso decodificatore..."
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "Questo non sembra essere un file WXR; numero di versione WXR mancante/non "
+#~ "valido"
+
+#~ msgid "Theme options Import file could not be found. Please try again."
+#~ msgstr ""
+#~ "Il file per importare le opzioni del Tema non è stato trovato. Riprova."
+
+#~ msgid "Widget Import file could not be found. Please try again."
+#~ msgstr "Il Widget di importazione file non è stato trovato. Riprova."
+
+#~ msgid "Sidebar does not exist in theme (using Inactive)"
+#~ msgstr "La Sidebar non esiste nel tema (impostata su Inattiva)"
+
+#~ msgid "Site does not support widget"
+#~ msgstr "Questo sito non supporta i widget"
+
+#~ msgid "Widget already exists"
+#~ msgstr "Widget già esistente"
+
+#~ msgid "Imported"
+#~ msgstr "Importato"
+
+#~ msgid "Imported to Inactive"
+#~ msgstr "Importato e inattivo"
+
+#~ msgid "No Title"
+#~ msgstr "Nessun Titolo"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Siamo spiacenti, si è verificato un errore."
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "Questo file non esiste, prova di nuovo."
+
+#~ msgid "All done."
+#~ msgstr "Fatto."
+
+#~ msgid "Have fun!"
+#~ msgstr "Divertiti!"
+
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr "Ricorda di aggiornare le password e i ruoli degli utenti importati."
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "Il file di esportazione non è stato trovato in <code>%s</code>. E' "
+#~ "probabile che ciò sia stato causato da un problema di autorizzazioni."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "Questo file WXR (versione %s) potrebbe non essere supportato da questa "
+#~ "versione dell'importer. Considerare un aggiornamento."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "È fallita l’importazione dell’autore %s. I suoi post sono stati "
+#~ "attribuiti all’utente corrente."
+
+#~ msgid "Assign Authors"
+#~ msgstr "Assegna Autori"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "Per rendere più facile modificare e salvare il contenuto importato, "
+#~ "potresti riassegnare il ruolo di autore della voce importata a un utente "
+#~ "esistente di questo sito. Ad esempio, potresti importare tutti gli "
+#~ "inserimenti come post a cura di un <code>admin</code>."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "Se un nuovo utente è stato creato da WordPress, una nuova password verrà "
+#~ "generata in modo casuale e il ruolo del nuovo utente sarà settato come "
+#~ "%s. Sarà necessaria la modifica manuale dei dettagli del nuovo utente."
+
+#~ msgid "Import Attachments"
+#~ msgstr "Importa Allegati"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "Scarica e importa gli allegati"
+
+#~ msgid "Import author:"
+#~ msgstr "Importa autore:"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "o crea un nuovo utente con il nome per il login:"
+
+#~ msgid "as a new user:"
+#~ msgstr "come un nuovo utente:"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "assegna post ad un utente esistente:"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "oppure assegna post ad un utente esistente:"
+
+#~ msgid "- Select -"
+#~ msgstr "- Seleziona -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "Impossibile creare un nuovo utente per %s. I post saranno attribuiti "
+#~ "all’utente corrente."
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "Impossibile importare la categoria %s"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "Fallita l’importazione dei tag del post %s"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "Impossibile importare %s %s"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr ""
+#~ "Impossibile importare &#8220;%s&#8221;: Tipo di articolo non valido %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; esiste già."
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "Impossibile importare %s &#8220;%s&#8221;"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "Voce di menu saltato a causa della mancanza di uno slug"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr ""
+#~ "Voce di menu saltata a causa di un errore di menu slug non valido:% s"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "Il recupero degli allegati non è abilitato"
+
+#~ msgid "Invalid file type"
+#~ msgstr "Tipo di file non valido"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "Il server remoto non risponde"
+
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "Il server ha restituito l’errore %1$d %2$s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "Le dimensioni del file non sono corrette"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "Dimensione del file scaricato uguale a zero"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "File remoto troppo grande, il limite è %s"
+
+#~ msgid "Import WordPress"
+#~ msgstr "Importa WordPress"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "Una nuova versione di questo importer è disponibile. Aggiorna alla "
+#~ "versione %s per assicurarti la compatibilità con i nuovi file esportati."
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "Salve! Importa il tuo WordPress eXtended RSS (WXR) file and we&#8217; noi "
+#~ "importeremo i post, le pagine, i commenti, i campi personalizzati, le "
+#~ "categorie ed i tag in questo sito."
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "Scegli un file WXR (.xml) da caricare, quindi seleziona Carica file ed "
+#~ "importa."
+
+#~ msgid "Import Demo"
+#~ msgstr "Importa Demo"
+
+#~ msgid "Demo Imported"
+#~ msgstr "Demo importata"
+
+#~ msgid "Please Wait..."
+#~ msgstr "Attendere per favore…"
+
+#~ msgid "Re-Import"
+#~ msgstr "Reimporta"
+
+#~ msgid "No Demo Data Provided"
+#~ msgstr "I dati della Demo non sono stati forniti"
+
+#~ msgid "Only use demo importer on new WordPress install."
+#~ msgstr "Utilizzare demo importatore su una nuova installazione WordPress."
+
+#~ msgid "Imported images are only for demo purpose."
+#~ msgstr "Immagini importate sono solo a scopo di dimostrazione."
+
+#~ msgid ""
+#~ "Import process can take few minutes to complete so please be patient and "
+#~ "wait for its completion."
+#~ msgstr ""
+#~ "Processo di importazione può richiedere alcuni minuti per completare "
+#~ "quindi per favore sii paziente e aspetta per il suo completamento."
+
+#~ msgid "<i class=\"fa fa-angle-left\"></i>"
+#~ msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+#~ msgid "<i class=\"fa fa-angle-right\"></i>"
+#~ msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+#~ msgid "reCAPTCHA Failed:"
+#~ msgstr "reCAPTCHA fallito:"
+
+#~ msgid "Target Email address is not properly configured!"
+#~ msgstr "L’indirizzo email destinatario non è configurato correttamente!"
+
+#~ msgid "Provided Email address is invalid!"
+#~ msgstr "L'indirizzo Email inserito non valido!"
+
+#~ msgid "New message sent by"
+#~ msgstr "Nuovo messaggio inviato da"
+
+#~ msgid "using contact form at"
+#~ msgstr "utilizza il modulo di contatto"
+
+#~ msgid "You have received a message from: "
+#~ msgstr "Hai ricevuto un messaggio da: "
+
+#~ msgid "Phone Number : "
+#~ msgstr "Numero di telefono : "
+
+#~ msgid "Their additional message is as follows."
+#~ msgstr "Il messaggio è il seguente."
+
+#~ msgid "You can contact %1$s via email %2$s"
+#~ msgstr "Puoi contattare %1$s all’indirizzo email %2$s"
+
+#~ msgid "Message Sent Successfully!"
+#~ msgstr "Messaggio inviato con successo!"
+
+#~ msgid "Server Error: WordPress mail function failed!"
+#~ msgstr "Errore Server: Funzione e-mail WordPress fallita!"
+
+#~ msgid "New message sent by %1$s using agent contact form at %2$s"
+#~ msgstr ""
+#~ "Nuovo messaggio inviato da %1$s tramite il modulo di contatto agente %2$s"
+
+#~ msgid "You have received a message from:"
+#~ msgstr "Hai ricevuto un messaggio da:"
+
+#~ msgid "Property URL :"
+#~ msgstr "URL dell’immobile:"
+
+#~ msgid "You can also contact %1$s via contact number %2$s"
+#~ msgstr "Puoi contattare %1$s all’indirizzo email %2$s"
+
+#~ msgid "* Wrong username or password."
+#~ msgstr "* Nome utente o password errati."
+
+#~ msgid "successful. Redirecting..."
+#~ msgstr "sucesso. Reindirizzamento in corso..."
+
+#~ msgid "This username already exists."
+#~ msgstr "Questo nome utente è già esistente."
+
+#~ msgid "This email is already registered."
+#~ msgstr "Questo indirizzo email è già registrato."
+
+#~ msgid "Registration is complete. Check your email for details!"
+#~ msgstr ""
+#~ "La registrazione è stata completata. Si prega di verificare la propria "
+#~ "casella email per maggiori dettagli!"
+
+#~ msgid "Provide a valid username or email address!"
+#~ msgstr "Inserire un nome utente o un indirizzo email valido!"
+
+#~ msgid "No user found for given email!"
+#~ msgstr "Nessun utente trovato per l'indirizzo email specificato!"
+
+#~ msgid "No user found for given username!"
+#~ msgstr "Nessun utente trovato per il nome utente specificato!"
+
+#~ msgid "Invalid username or email!"
+#~ msgstr "Nome utente o email non validi!"
+
+#~ msgid "Your New Password For %s"
+#~ msgstr "La tua nuova password per %s"
+
+#~ msgid "Your new password is: %s"
+#~ msgstr "La tua nuova password è: %s"
+
+#~ msgid "Check your email for new password"
+#~ msgstr ""
+#~ "Verifica la tua casella di posta elettronica per la tua nuova password"
+
+#~ msgid "Failed to send you new password email!"
+#~ msgstr "Impossibile inviare via email una nuova password!"
+
+#~ msgid "Oops! Something went wrong while resetting your password!"
+#~ msgstr ""
+#~ "Oops! Si è verificato un errore durante il reset della tua password!"
+
+#~ msgid "New user registration on your site %s:"
+#~ msgstr "Nuova registrazione utente sul tuo sito %s:"
+
+#~ msgid "Username: %s"
+#~ msgstr "Nome utente: %s"
+
+#~ msgid "[%s] New User Registration"
+#~ msgstr "[%s] Nuova registrazione utente"
+
+#~ msgid "Welcome to %s"
+#~ msgstr "Benvenuto su %s"
+
+#~ msgid "Your username is: %s"
+#~ msgstr "Il tuo nome utente è: %s"
+
+#~ msgid "You can login using following password: %s"
+#~ msgstr ""
+#~ "È possibile effettuare l'accesso utilizzando la password seguente: %s"
+
+#~ msgid "It is highly recommended to change your password after login."
+#~ msgstr "Si consiglia fortemente di cambiare la tua password dopo l’accesso."
+
+#~ msgid "For more details visit:"
+#~ msgstr "Per ulteriori dettagli visitare:"
+
+#~ msgid "A new property is submitted by %s at %s"
+#~ msgstr "Un nuovo immobile è stato inserito da %s a %s"
+
+#~ msgid "Message to the Reviewer : %s"
+#~ msgstr "Messaggio al recensore: %s"
+
+#~ msgid "You can contact the submitter %1$s via email %2$s"
+#~ msgstr "È possibile contattare il mittente %1$s via e-mail %2$s"
+
+#~ msgid "This widget displays properties search form."
+#~ msgstr "Questo widget mostra il form di ricerca degli immobili."
+
+#~ msgid "Inspiry Property Search"
+#~ msgstr "Ricerca immobile"
+
+#~ msgid "Find Your Home"
+#~ msgstr "Trova la tua casa"
+
+#~ msgid "Widget Title"
+#~ msgstr "Titolo Widget"
+
+#~ msgid "Displays random or recent featured properties."
+#~ msgstr "Visualizzazione degli Immobili casuale o recenti in vetrina."
+
+#~ msgid "Inspiry Featured Properties"
+#~ msgstr "Caratteristiche immobili"
+
+#~ msgid "Know More"
+#~ msgstr "Per saperne di più"
+
+#~ msgid "Number of Properties"
+#~ msgstr "Numero di immobili"
+
+#~ msgid "Sort By:"
+#~ msgstr "Ordina per:"
+
+#~ msgid "Most Recent"
+#~ msgstr "Più Recente"
+
+#~ msgid "RSS URL"
+#~ msgstr "URL RSS"

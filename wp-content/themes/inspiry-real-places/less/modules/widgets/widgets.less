@@ -1,0 +1,137 @@
+/*-----------------------------------------------------------------------------------*/
+/* 17.0 - Widget Module Styles
+/*-----------------------------------------------------------------------------------*/
+.widget {
+  margin-bottom: 40px;
+
+  img {
+    max-width: 100%;
+  }
+
+  a {
+    &:extend(.text-transition);
+  }
+
+  ul {
+    &:extend(.list-style-reset);
+  }
+
+  li {
+    overflow: hidden;
+  }
+}
+
+.widget-title {
+  text-transform: uppercase;
+}
+
+.sidebar {
+
+  .widget-title {
+    padding-bottom: 10px;
+    border-bottom: 2px solid;
+    font-size: 17px;
+  }
+
+  .widget {
+    li {
+      position: relative;
+      padding: 6px 0 6px 24px;
+      background: url("../images/svg/widget-list-bullet.svg") no-repeat 0 14px;
+
+      ul {
+        margin-top: 6px;
+
+        li:last-child {
+          padding-bottom: 0;
+        }
+      }
+    }
+
+  }
+}
+
+.widget_lc_taxonomy input[type="submit"] {
+ margin-top: 18px;
+ padding: 11px 25px;
+ border: 1px solid;
+  &:extend(.btn-transition);
+}
+
+.site-footer {
+
+  .widget-title {
+    font-size: 14px;
+  }
+
+  li {
+    margin-bottom: 4px;
+  }
+
+  .children {
+    li {
+      padding-left: 15px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+  }
+
+  .widget_mortgage-calculator,
+  .widget_inspiry-mortgage-calculator,
+  .widget_lidd_mc_widget {
+    padding: 0;
+  }
+
+  .extra-search-fields {
+    display: none;
+  }
+
+  @media (min-width: @screen-md-max) {
+    td, th {
+      padding: 0;
+    }
+
+    .advance-search-widget-title .fa-search {
+      margin-right: 5px;
+      padding-right: 12px;
+      padding-left: 12px;
+      font-size: 18px;
+    }
+  }
+}
+
+.widget_calendar .calendar_wrap {
+  &,
+  th {
+    text-align: center;
+  }
+  th {
+    color: #fff;
+    background-color: #0dbae8;
+  }
+}
+
+.widget .tagcloud a {
+  display: inline-block;
+  margin: 0 0 4px;
+  padding: 6px 10px;
+  font-size: 14px !important;
+}
+
+@import "search-widget";
+@import "recent-post-and-comment-widget";
+@import "featured-properties-widgets";
+@import "advance-search-widgets";
+@import "mortgage-calculator-widget";
+
+@media (max-width: @screen-sm-min) {
+  .site-sidebar-content .widget:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+  .widget {
+    margin-bottom: 50px;
+  }
+}

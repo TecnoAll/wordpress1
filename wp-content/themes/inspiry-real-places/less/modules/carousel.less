@@ -1,0 +1,36 @@
+/*-----------------------------------------------------------------------------------*/
+/* 20.0 - Carousel Module Styles
+/*-----------------------------------------------------------------------------------*/
+.owl-carousel .owl-item {
+  z-index: 1;
+
+  img {
+    .backface-visibility(hidden);
+  }
+}
+
+.carousel-nav {
+
+  .prev,
+  .next {
+    display: block;
+    z-index: 150;
+    text-align: center;
+    cursor: pointer;
+    .user-select(none);
+    &:extend(.btn-transition);
+  }
+
+  .prev {
+    float: left;
+  }
+
+  .next {
+    float: right;
+  }
+
+  .left-arrow,
+  .right-arrow {
+    &:extend(.btn-transition);
+  }
+}

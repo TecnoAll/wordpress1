@@ -1,0 +1,512 @@
+/*-----------------------------------------------------------------------------------*/
+/* 26.0 - Home Properties Module Styles
+/*-----------------------------------------------------------------------------------*/
+.entry-title a {
+  &:extend(.text-transition);
+}
+
+.property-thumbnail {
+  overflow: hidden;
+}
+
+.property-listing-home {
+  overflow: hidden;
+
+  .entry-title {
+    line-height: 1.4;
+  }
+
+  .meta-icon-container {
+    .square(21px);
+  }
+
+  .meta-item {
+    margin-bottom: 10px;
+  }
+
+  .meta-item-label {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  .meta-item-value {
+    font-size: 17px;
+  }
+
+  &:extend(.image-transition all);
+}
+
+// Property Listing One
+.property-listing-one {
+
+  .entry-header {
+    margin-bottom: 12px;
+  }
+
+  .entry-title {
+    margin-bottom: 10px;
+    overflow: hidden;
+    font-size: 18px;
+    text-overflow: ellipsis;
+    max-height: 76px;
+  }
+
+  .price {
+    font-size: 17px;
+    margin-right: 5px;
+  }
+
+  .property-description {
+    padding: 22px 22px 0;
+  }
+}
+
+// Property Listing Two
+.property-listing-two {
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  &:extend(.property-associative-style all);
+
+  .hentry {
+    margin-bottom: 1px;
+    margin-right: 1px;
+  }
+
+  .entry-header {
+    padding: 11px 16px 15px
+  }
+
+  .entry-title {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+
+  .price {
+    font-size: 21px;
+  }
+
+  .property-status-tag {
+    margin-top: 2px;
+  }
+
+  .property-meta {
+    padding: 15px 17px 15px;
+  }
+}
+
+.property-associative-style {
+
+  .hentry {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .property-description {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 0;
+  }
+
+  .price-and-status {
+    line-height: 1.4;
+    overflow: hidden;
+  }
+
+  .property-meta {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    .translate(0; 100%);
+    .transition(all 0.2s ease-out 0.2s);
+  }
+
+  .property-status-tag {
+    float: right;
+  }
+
+  .entry-title,
+  .price {
+    &:extend(.text-transition);
+  }
+
+  .hovered {
+
+    .property-meta {
+      opacity: 1;
+      visibility: visible;
+      .translate(0; 0);
+    }
+
+    .entry-title {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}
+
+// Property Listing Three
+.property-listing-three {
+  padding-top: 65px;
+  padding-bottom: 40px;
+}
+
+.inspiry-vc-property-listing {
+  .property-listing-three {
+    padding: 0;
+  }
+}
+
+.welcome-text {
+  margin-bottom: 54px;
+  text-align: center;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.property-listing-three-post {
+  margin-bottom: 40px;
+
+  .property-thumbnail {
+    position: relative;
+  }
+
+  .property-status {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 5px 10px;
+    font-size: 13px;
+    &:extend(.btn-transition);
+  }
+
+  .property-description {
+    padding: 20px 28px 0;
+    border: 1px solid;
+  }
+
+  .entry-header {
+    margin-bottom: 10px;
+  }
+
+  .entry-title {
+    font-size: 20px;
+    margin-bottom: 4px;
+  }
+
+  .price {
+    font-size: 17px;
+  }
+
+  p {
+    margin-bottom: 30px;
+  }
+
+  .property-meta {
+    border-top: 1px solid;
+    margin: 0 -28px;
+    padding: 12px 20px;
+    font-size: 12px;
+  }
+
+  .meta-wrapper{
+    float: left;
+  }
+
+  .meta-icon-container {
+    display: inline-block;
+    float: none;
+    width: 16px;
+    height: 16px;
+    margin: 0 2px 0 0;
+  }
+
+  .meta-wrapper + .meta-wrapper{
+    &:before {
+      content: ",";
+      margin-right: 7px;
+    }
+  }
+
+  .meta-unit {
+    bottom: 0;
+    left: 2px;
+    margin-right: 2px;
+    font-size: 10px;
+  }
+}
+
+@media (max-width: @screen-md-max) {
+  .property-listing-one {
+
+    .property-description {
+      padding-bottom: 12px;
+    }
+
+    .property-thumbnail {
+      margin: 20px 20px 0;
+    }
+  }
+}
+
+@media (max-width: 580px) {
+  .custom-col-xs-12 {
+    width: 100%;
+  }
+
+  .property-listing-three-post .img-responsive{
+    width: 100%;
+  }
+}
+
+@media (max-width: 320px) {
+  .property-listing-two .property-meta {
+    display: none !Important;
+  }
+}
+
+@media (max-width: 240px) {
+  .property-listing-two {
+    display: none;
+  }
+}
+
+@media (max-width: @screen-sm-max) {
+  .property-listing-two,
+  .property-listing-three,
+  .inspiry-vc-property-listing {
+    .custom-col-xs-12:nth-child(2n+1) {
+      clear: left;
+    }
+  }
+}
+
+@media (max-width: @screen-md-max) and  (min-width: @screen-md-min) {
+  .property-listing-two {
+    .custom-col-xs-12:nth-child(3n+1) {
+      clear: left;
+    }
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .property-listing-three,
+  .inspiry-vc-property-listing {
+    .custom-col-xs-12:nth-child(3n+1) {
+      clear: left;
+    }
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+  .property-listing-two {
+    .custom-col-xs-12:nth-child(4n+1) {
+      clear: left;
+    }
+  }
+
+  .property-listing-home {
+    .meta-item:nth-child(2n+1) {
+      clear: left;
+    }
+
+    .meta-property-type {
+      width: 100%;
+    }
+  }
+
+  .row-even .property-thumbnail {
+    float: right;
+  }
+}
+
+/**
+ * Home Properties: Variation Four
+ *
+ */
+.property-wrapper {
+  //display: flex;
+  //flex-wrap: wrap;
+  //align-items: flex-start;
+
+  & > div {
+    padding: 0 15px;
+  }
+}
+.property-listing-four {
+  padding: 60px 0 30px;
+
+  .property-listing-four-post {
+    padding: 0 0 30px;
+  }
+
+  .property-thumbnail {
+    position: relative;
+
+    .property-status {
+      position: absolute;
+      top: 15px;
+      left: 20px;
+      background: @brand-primary;
+      color: @white;
+      text-transform: uppercase;
+      padding: 6px 15px;
+      border-radius: 30px;
+      font-size: 12px;
+      line-height: 1.5;
+      opacity: 1;
+      transition: all 0.25s linear;
+
+      &:hover {
+        background: darken( @brand-primary, 2% );
+        transition: all 0.25s linear;
+      }
+    }
+
+    .for-sale {
+      background: #f06a4a;
+
+      &:hover {
+        background: darken( #f06a4a, 5% );
+      }
+    }
+  }
+
+  .property-description {
+    position: relative;
+    margin-top: -40px;
+    background: @white;
+    border-right: 1px solid #ededed;
+    border-left: 1px solid #ededed;
+    border-bottom: 1px solid #ededed;
+    text-align: center;
+    padding: 20px 10px;
+
+    h4.entry-title {
+      margin-bottom: 5px;
+      margin-top: 5px;
+
+      a {
+        color: @gray-light;
+
+        &:hover {
+          color: @brand-primary;
+        }
+      }
+    }
+
+    .price {
+      font-size: 21px;
+      color: #f06a4a;
+    }
+  }
+
+  .property-meta {
+    display: flex;
+    border-right: 1px solid #ededed;
+    border-left: 1px solid #ededed;
+    border-bottom: 1px solid #ededed;
+
+    .meta-wrapper {
+      flex: 1 1 25%;
+      padding: 20px 5px;
+      text-align: center;
+      border-right: 1px solid #ededed;
+
+      &:last-child {
+        border-right: none;
+      }
+
+      span {
+        display: block;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.5;
+      }
+
+      svg {
+        height: 20px;
+        width: 20px;
+        margin: 0 0 5px;
+        float: none;
+        fill: #bbbec5;
+      }
+    }
+  }
+}
+
+@media (min-width: 320px) {
+
+  .property-listing-four {
+    padding: 40px 0 20px;
+
+    .property-thumbnail {
+      .property-status {
+        left: 15px;
+      }
+    }
+
+    .property-meta {
+      .meta-wrapper {
+        padding: 20px 0;
+      }
+    }
+  }
+
+}
+
+@media (min-width: @screen-xs-min) {
+
+  .property-listing-four {
+    padding: 40px 0 20px;
+
+    .property-thumbnail {
+      .property-status {
+        left: 20px;
+      }
+    }
+  }
+
+}
+
+@media (min-width: @screen-sm-min) {
+
+  .property-listing-four {
+    padding: 60px 0 30px;
+
+    .property-meta {
+      .meta-wrapper {
+        padding: 20px 10px;
+      }
+    }
+  }
+
+}
+
+@media (min-width: @screen-md-min) {
+
+  .property-listing-four {
+    .property-meta {
+      .meta-wrapper {
+        padding: 20px 5px;
+      }
+    }
+  }
+
+}
+
+@media (min-width: @screen-lg-min) {
+
+  .property-listing-four {
+    .property-meta {
+      .meta-wrapper {
+        padding: 20px 10px;
+      }
+    }
+  }
+
+}

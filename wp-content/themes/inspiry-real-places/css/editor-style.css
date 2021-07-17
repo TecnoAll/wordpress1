@@ -1,0 +1,149 @@
+body {
+    font-family: "Varela Round", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.715;
+    color: #4a525d;
+}
+
+.editor-post-title__block .editor-post-title__input {
+    font-family: "Varela Round", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    color: #4a525d;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #4a525d;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: 14px;
+}
+
+h6 {
+    font-size: 12px;
+}
+
+p {
+    margin: 0 0 12px;
+}
+
+a {
+    color: #0dbae8;
+}
+
+a:hover {
+    color: #ff8000;
+}
+
+ul,
+ol {
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+    margin-bottom: 0;
+}
+
+blockquote,
+.wp-block-quote:not(.is-large):not(.is-style-large),
+.wp-block-freeform.block-library-rich-text__tinymce blockquote {
+    padding: 34px 36px 46px 56px;
+    margin: 40px 0;
+    font-size: 17.5px;
+    border-left: 5px solid transparent;
+    background-color: #edf2f5;
+    border-color: #0dbae8;
+}
+
+table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 24px;
+}
+
+td, th {
+    padding: 5px 7px;
+    border: 1px solid transparent;
+    border-color: #C6CDD1;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce code,
+code, kbd, pre, samp {
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce code,
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
+
+kbd {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #fff;
+    background-color: #333;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+pre {
+    display: block;
+    padding: 11.5px;
+    margin: 0 0 12px;
+    font-size: 13px;
+    line-height: 1.715;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #333333;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Main column width */
+.wp-block {
+    max-width: calc(710px + 30px);
+}
+
+/* Width of "wide" blocks */
+.wp-block[data-align="wide"] {
+    max-width: calc(1004px + 30px);
+}
+
+/* Width of "full-wide" blocks */
+.wp-block[data-align="full"] {
+    max-width: none;
+}

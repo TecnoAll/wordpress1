@@ -1,0 +1,50 @@
+/*-----------------------------------------------------------------------------------*/
+/* 20.0 - RTL Property Single Module Styles
+/*-----------------------------------------------------------------------------------*/
+.fancy-title {
+
+  &:after {
+    margin-left: 0;
+    margin-right: 2px;
+  }
+}
+
+@import "title-and-meta";
+@import "property-features";
+@import "property-share";
+@import "property-attachments";
+@import "property-floor-plans";
+@import "similar-properties";
+@import "property-horizontal-scrolling";
+
+@media (max-width: 480px) {
+  .property-single-content .favorite-and-print {
+    margin-right: 0;
+
+    > a + a {
+      margin-right: 0;
+    }
+  }
+}
+
+.meta-inner-wrapper{
+  padding-right: 35px;
+  padding-left: 0;
+}
+
+@media (min-width: @screen-lg-min) {
+  .property-title-wrapper {
+    .favorite-and-print {
+      left: auto;
+      right: 0;
+    }
+  }
+
+  .similar-properties {
+    .arrow {
+      right: auto;
+      left: 35px;
+    }
+  }
+}
+

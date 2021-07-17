@@ -1,0 +1,5829 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inspiry Real Estate\n"
+"POT-Creation-Date: 2021-05-09 16:40+0500\n"
+"PO-Revision-Date: 2021-05-09 16:47+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: inspiry-real-estate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-inspiry-additional-details-meta-box.php:46
+#: includes/forms/property.php:740 includes/forms/property.php:1309
+msgid "Additional Details"
+msgstr "Допълнителни детайли"
+
+#: admin/class-inspiry-additional-details-meta-box.php:77
+#: includes/forms/property.php:744 includes/forms/property.php:1313
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:38
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:130
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:265
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:97
+#: includes/widgets/social-icons-widget.php:125
+msgid "Title"
+msgstr "Заглавие"
+
+#: admin/class-inspiry-additional-details-meta-box.php:78
+#: includes/forms/property.php:746 includes/forms/property.php:1316
+#: includes/meta-boxes/meta-box/inc/fields/key-value.php:136
+msgid "Value"
+msgstr "Стойност"
+
+#: admin/class-inspiry-agent-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Agents"
+msgstr "Брокери"
+
+#: admin/class-inspiry-agent-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Agent"
+msgstr "Брокер"
+
+#: admin/class-inspiry-agent-post-type.php:23
+msgid "Agents"
+msgstr "Брокери"
+
+#: admin/class-inspiry-agent-post-type.php:24
+#: admin/class-inspiry-property-post-type.php:666
+#: admin/class-inspiry-real-estate-admin.php:462
+msgid "Agent"
+msgstr "Брокер"
+
+#: admin/class-inspiry-agent-post-type.php:25
+msgid "Parent Agent:"
+msgstr ""
+
+#: admin/class-inspiry-agent-post-type.php:26
+msgid "All Agents"
+msgstr "Всички агенти"
+
+#: admin/class-inspiry-agent-post-type.php:27
+msgid "Add New Agent"
+msgstr "Добавяне на нов Брокер"
+
+#: admin/class-inspiry-agent-post-type.php:28
+#: admin/class-inspiry-partner-post-type.php:28
+#: admin/class-inspiry-property-post-type.php:28
+msgid "Add New"
+msgstr "Добави нов"
+
+#: admin/class-inspiry-agent-post-type.php:29
+msgid "New Agent"
+msgstr "Нов Брокер"
+
+#: admin/class-inspiry-agent-post-type.php:30
+msgid "Edit Agent"
+msgstr "Редактиране на Брокер"
+
+#: admin/class-inspiry-agent-post-type.php:31
+msgid "Update Agent"
+msgstr ""
+
+#: admin/class-inspiry-agent-post-type.php:32
+msgid "View Agent"
+msgstr "Преглед на Брокер"
+
+#: admin/class-inspiry-agent-post-type.php:33
+msgid "Search Agent"
+msgstr "Търси брокер"
+
+#: admin/class-inspiry-agent-post-type.php:34
+#: admin/class-inspiry-partner-post-type.php:34
+#: admin/class-inspiry-property-post-type.php:34
+msgid "Not found"
+msgstr "Не е намерен"
+
+#: admin/class-inspiry-agent-post-type.php:35
+#: admin/class-inspiry-partner-post-type.php:35
+#: admin/class-inspiry-property-post-type.php:35
+msgid "Not found in Trash"
+msgstr "Не е намерен в Коша"
+
+#: admin/class-inspiry-agent-post-type.php:39
+#: admin/class-inspiry-agent-post-type.php:46
+#: admin/class-inspiry-real-estate-admin.php:469
+msgid "agent"
+msgstr ""
+
+#: admin/class-inspiry-agent-post-type.php:47
+msgid "Real Estate Agent"
+msgstr ""
+
+#: admin/class-inspiry-agent-post-type.php:64
+msgid "agents"
+msgstr "брокери"
+
+#: admin/class-inspiry-agent-post-type.php:82
+#: admin/class-inspiry-property-post-type.php:279
+msgid "Photo"
+msgstr "Снимка"
+
+#: admin/class-inspiry-agent-post-type.php:83 includes/forms/agent.php:29
+#: includes/forms/agent.php:92 includes/forms/members.php:68
+#: includes/forms/members.php:71 includes/forms/profile.php:111
+msgid "Email"
+msgstr "Имейл"
+
+#: admin/class-inspiry-agent-post-type.php:84
+#: includes/meta-boxes/contact.php:87
+msgid "Mobile"
+msgstr "Мобилен"
+
+#: admin/class-inspiry-agent-post-type.php:120
+#: admin/class-inspiry-partner-post-type.php:104
+#: admin/class-inspiry-property-post-type.php:327
+msgid "No Image"
+msgstr "Без изображение"
+
+#: admin/class-inspiry-agent-post-type.php:129
+#: admin/class-inspiry-agent-post-type.php:138
+#: admin/class-inspiry-property-post-type.php:336
+#: admin/class-inspiry-property-post-type.php:347
+msgid "NA"
+msgstr "Без"
+
+#: admin/class-inspiry-agent-post-type.php:161
+#: includes/meta-boxes/contact.php:25
+msgid "Contact Details"
+msgstr "Данни за контакти"
+
+#: admin/class-inspiry-agent-post-type.php:167 includes/social-navs.php:177
+msgid "Job Title"
+msgstr "Длъжност"
+
+#: admin/class-inspiry-agent-post-type.php:173
+msgid "Email Address"
+msgstr "Имейл адрес"
+
+#: admin/class-inspiry-agent-post-type.php:175
+msgid ""
+"Agent related messages from contact form on property details page, will be "
+"sent on this email address."
+msgstr ""
+
+#: admin/class-inspiry-agent-post-type.php:180 includes/forms/profile.php:122
+#: includes/social-navs.php:178
+msgid "Mobile Number"
+msgstr "Мобилен телефон"
+
+#: admin/class-inspiry-agent-post-type.php:186 includes/forms/profile.php:133
+#: includes/social-navs.php:179
+msgid "Office Number"
+msgstr "Служебен Номер"
+
+#: admin/class-inspiry-agent-post-type.php:192 includes/forms/profile.php:150
+#: includes/social-navs.php:180
+msgid "Fax Number"
+msgstr "Номер на факс"
+
+#: admin/class-inspiry-agent-post-type.php:198
+#: includes/meta-boxes/contact.php:40 includes/social-navs.php:181
+msgid "Office Address"
+msgstr "Офис адрес"
+
+#: admin/class-inspiry-agent-post-type.php:204
+#: admin/class-inspiry-real-estate-admin.php:495 includes/forms/profile.php:161
+#: includes/social-navs.php:182 includes/widgets/social-icons-widget.php:19
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/class-inspiry-agent-post-type.php:210
+#: admin/class-inspiry-real-estate-admin.php:509 includes/forms/profile.php:172
+#: includes/social-navs.php:183 includes/widgets/social-icons-widget.php:18
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: admin/class-inspiry-agent-post-type.php:216
+#: admin/class-inspiry-real-estate-admin.php:523 includes/forms/profile.php:189
+#: includes/social-navs.php:184 includes/widgets/social-icons-widget.php:20
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: admin/class-inspiry-agent-post-type.php:222
+#: admin/class-inspiry-real-estate-admin.php:551 includes/social-navs.php:185
+#: includes/widgets/social-icons-widget.php:23
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: admin/class-inspiry-agent-post-type.php:228
+#: admin/class-inspiry-real-estate-admin.php:537 includes/social-navs.php:186
+#: includes/widgets/social-icons-widget.php:21
+msgid "Instagram URL"
+msgstr "Хиперлинк за Instagram"
+
+#: admin/class-inspiry-partner-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Partners"
+msgstr "Партньори"
+
+#: admin/class-inspiry-partner-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Partner"
+msgstr "Партньор"
+
+#: admin/class-inspiry-partner-post-type.php:23
+#: admin/class-inspiry-partner-post-type.php:39
+#: admin/class-inspiry-partner-post-type.php:40
+msgid "Partners"
+msgstr "Партньори"
+
+#: admin/class-inspiry-partner-post-type.php:24
+msgid "Partner"
+msgstr "Партньор"
+
+#: admin/class-inspiry-partner-post-type.php:25
+msgid "Parent Partner:"
+msgstr ""
+
+#: admin/class-inspiry-partner-post-type.php:26
+msgid "All Partners"
+msgstr ""
+
+#: admin/class-inspiry-partner-post-type.php:27
+msgid "Add New Partner"
+msgstr "Добави нов Партньор"
+
+#: admin/class-inspiry-partner-post-type.php:29
+msgid "New Partner"
+msgstr "Нов партньор"
+
+#: admin/class-inspiry-partner-post-type.php:30
+msgid "Edit Partners"
+msgstr ""
+
+#: admin/class-inspiry-partner-post-type.php:31
+msgid "Update Partner"
+msgstr ""
+
+#: admin/class-inspiry-partner-post-type.php:32
+msgid "View Partner"
+msgstr ""
+
+#: admin/class-inspiry-partner-post-type.php:33
+msgid "Search Partner"
+msgstr "Търсене на Партньор"
+
+#: admin/class-inspiry-partner-post-type.php:54
+msgid "partners"
+msgstr ""
+
+#: admin/class-inspiry-partner-post-type.php:72
+msgid "Logo"
+msgstr "Лого"
+
+#: admin/class-inspiry-partner-post-type.php:127
+msgid "Partner Information"
+msgstr ""
+
+#: admin/class-inspiry-partner-post-type.php:133
+msgid "Website URL"
+msgstr "URL на сайт"
+
+#: admin/class-inspiry-partner-post-type.php:135
+msgid "Provide website URL"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Properties"
+msgstr "Имоти"
+
+#: admin/class-inspiry-property-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Property"
+msgstr "Имот"
+
+#: admin/class-inspiry-property-post-type.php:23 vc-elements/properties.php:63
+msgid "Properties"
+msgstr "Имоти"
+
+#: admin/class-inspiry-property-post-type.php:24
+#: admin/class-inspiry-property-post-type.php:388
+#: admin/class-inspiry-real-estate-admin.php:392
+msgid "Property"
+msgstr "Имот"
+
+#: admin/class-inspiry-property-post-type.php:25
+msgid "Parent Property:"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:26
+msgid "All Properties"
+msgstr "Покажи всички оферти"
+
+#: admin/class-inspiry-property-post-type.php:27
+msgid "Add New Property"
+msgstr "Добавяне на оферта"
+
+#: admin/class-inspiry-property-post-type.php:29
+msgid "New Property"
+msgstr "Нова оферта"
+
+#: admin/class-inspiry-property-post-type.php:30 includes/forms/property.php:25
+msgid "Edit Property"
+msgstr "Редакция на оферта"
+
+#: admin/class-inspiry-property-post-type.php:31
+#: includes/forms/property.php:1388
+msgid "Update Property"
+msgstr "Обнови имота"
+
+#: admin/class-inspiry-property-post-type.php:32
+msgid "View Property"
+msgstr "Виж офертата"
+
+#: admin/class-inspiry-property-post-type.php:33
+msgid "Search Property"
+msgstr "Търсене"
+
+#: admin/class-inspiry-property-post-type.php:39
+#: admin/class-inspiry-property-post-type.php:46
+#: admin/class-inspiry-real-estate-admin.php:399
+msgid "property"
+msgstr "имот"
+
+#: admin/class-inspiry-property-post-type.php:47
+msgid "Real Estate Property"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:64
+msgid "properties"
+msgstr "имоти"
+
+#: admin/class-inspiry-property-post-type.php:79
+msgctxt "Taxonomy General Name"
+msgid "Property Type"
+msgstr "Тип имот"
+
+#: admin/class-inspiry-property-post-type.php:80
+msgctxt "Taxonomy Singular Name"
+msgid "Property Type"
+msgstr "Тип имот"
+
+#: admin/class-inspiry-property-post-type.php:81
+#: includes/meta-boxes/properties-pages.php:83 vc-elements/properties.php:138
+msgid "Types"
+msgstr "Видове"
+
+#: admin/class-inspiry-property-post-type.php:82
+msgid "All Property Types"
+msgstr "Тип имот"
+
+#: admin/class-inspiry-property-post-type.php:83
+msgid "Parent Property Type"
+msgstr "Тип имот"
+
+#: admin/class-inspiry-property-post-type.php:84
+msgid "Parent Property Type:"
+msgstr "Тип имот:"
+
+#: admin/class-inspiry-property-post-type.php:85
+msgid "New Property Type Name"
+msgstr "Име на новия Вид"
+
+#: admin/class-inspiry-property-post-type.php:86
+msgid "Add New Property Type"
+msgstr "Добави нов тип имот"
+
+#: admin/class-inspiry-property-post-type.php:87
+msgid "Edit Property Type"
+msgstr "Редактиране на Вида на Имота"
+
+#: admin/class-inspiry-property-post-type.php:88
+msgid "Update Property Type"
+msgstr "Актуализация на Вида на Имота"
+
+#: admin/class-inspiry-property-post-type.php:89
+msgid "View Property Type"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:90
+msgid "Separate Property Types with commas"
+msgstr "Разделяй тип на имота със запетаи"
+
+#: admin/class-inspiry-property-post-type.php:91
+msgid "Add or remove Property Types"
+msgstr "Добавяне или премахване на типове имот"
+
+#: admin/class-inspiry-property-post-type.php:92
+#: admin/class-inspiry-property-post-type.php:141
+#: admin/class-inspiry-property-post-type.php:190
+#: admin/class-inspiry-property-post-type.php:239
+msgid "Choose from the most used"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:93
+msgid "Popular Property Types"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:94
+msgid "Search Property Types"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:95
+#: admin/class-inspiry-property-post-type.php:144
+#: admin/class-inspiry-property-post-type.php:193
+#: admin/class-inspiry-property-post-type.php:242
+msgid "Not Found"
+msgstr "Не е намерен"
+
+#: admin/class-inspiry-property-post-type.php:99
+#: admin/class-inspiry-real-estate-admin.php:413
+msgid "property-type"
+msgstr "вид-имот"
+
+#: admin/class-inspiry-property-post-type.php:114
+msgid "property-types"
+msgstr "тип имот"
+
+#: admin/class-inspiry-property-post-type.php:128
+msgctxt "Taxonomy General Name"
+msgid "Property Status"
+msgstr "Вид сделка"
+
+#: admin/class-inspiry-property-post-type.php:129
+msgctxt "Taxonomy Singular Name"
+msgid "Property Status"
+msgstr "Вид сделка"
+
+#: admin/class-inspiry-property-post-type.php:130
+#: includes/meta-boxes/properties-pages.php:74 vc-elements/properties.php:131
+msgid "Statuses"
+msgstr "Статус"
+
+#: admin/class-inspiry-property-post-type.php:131
+msgid "All Property Statuses"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:132
+msgid "Parent Property Status"
+msgstr "Статус на имот"
+
+#: admin/class-inspiry-property-post-type.php:133
+msgid "Parent Property Status:"
+msgstr "Статус на имот:"
+
+#: admin/class-inspiry-property-post-type.php:134
+msgid "New Property Status Name"
+msgstr "Име за Нов Статус за Имот"
+
+#: admin/class-inspiry-property-post-type.php:135
+msgid "Add New Property Status"
+msgstr "Добави нов вид следка"
+
+#: admin/class-inspiry-property-post-type.php:136
+msgid "Edit Property Status"
+msgstr "Редактиране на Статуса"
+
+#: admin/class-inspiry-property-post-type.php:137
+msgid "Update Property Status"
+msgstr "Актуализация на Статуса"
+
+#: admin/class-inspiry-property-post-type.php:138
+msgid "View Property Status"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:139
+msgid "Separate Property Statuses with commas"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:140
+msgid "Add or remove Property Statuses"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:142
+msgid "Popular Property Statuses"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:143
+msgid "Search Property Statuses"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:148
+#: admin/class-inspiry-real-estate-admin.php:427
+msgid "property-status"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:163
+msgid "property-statuses"
+msgstr "статус на имота"
+
+#: admin/class-inspiry-property-post-type.php:177
+msgctxt "Taxonomy General Name"
+msgid "Property City"
+msgstr "Град"
+
+#: admin/class-inspiry-property-post-type.php:178
+msgctxt "Taxonomy Singular Name"
+msgid "Property City"
+msgstr "Град"
+
+#: admin/class-inspiry-property-post-type.php:179
+#: includes/meta-boxes/properties-pages.php:65 vc-elements/properties.php:124
+msgid "Locations"
+msgstr "Местоположения"
+
+#: admin/class-inspiry-property-post-type.php:180
+msgid "All Property Cities"
+msgstr "Всички градове"
+
+#: admin/class-inspiry-property-post-type.php:181
+msgid "Parent Property City"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:182
+msgid "Parent Property City:"
+msgstr "Населено място:"
+
+#: admin/class-inspiry-property-post-type.php:183
+msgid "New Property City Name"
+msgstr "Име на Новия Град"
+
+#: admin/class-inspiry-property-post-type.php:184
+msgid "Add New Property City"
+msgstr "Добавяне на нов Град"
+
+#: admin/class-inspiry-property-post-type.php:185
+msgid "Edit Property City"
+msgstr "Редактиране Града на Имота"
+
+#: admin/class-inspiry-property-post-type.php:186
+msgid "Update Property City"
+msgstr "Актуализация на Града на Имота"
+
+#: admin/class-inspiry-property-post-type.php:187
+msgid "View Property City"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:188
+msgid "Separate Property Cities with commas"
+msgstr "Отделяйте градовете със запетаи"
+
+#: admin/class-inspiry-property-post-type.php:189
+msgid "Add or remove Property Cities"
+msgstr "Добавяне или премахване на Градове"
+
+#: admin/class-inspiry-property-post-type.php:191
+msgid "Popular Property Cities"
+msgstr "Популярни Градове"
+
+#: admin/class-inspiry-property-post-type.php:192
+msgid "Search Property Cities"
+msgstr "Търсене Градове на имота"
+
+#: admin/class-inspiry-property-post-type.php:197
+#: admin/class-inspiry-real-estate-admin.php:441
+msgid "property-city"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:212
+msgid "property-cities"
+msgstr "населени места"
+
+#: admin/class-inspiry-property-post-type.php:226
+msgctxt "Taxonomy General Name"
+msgid "Property Features"
+msgstr "Особености"
+
+#: admin/class-inspiry-property-post-type.php:227
+msgctxt "Taxonomy Singular Name"
+msgid "Property Feature"
+msgstr "Характеристики на имот"
+
+#: admin/class-inspiry-property-post-type.php:228
+#: includes/forms/property.php:708 includes/forms/property.php:1261
+#: includes/meta-boxes/properties-pages.php:92 vc-elements/properties.php:265
+msgid "Features"
+msgstr "Особености"
+
+#: admin/class-inspiry-property-post-type.php:229
+msgid "All Property Features"
+msgstr "Всички екстри на имота"
+
+#: admin/class-inspiry-property-post-type.php:230
+msgid "Parent Property Feature"
+msgstr "Допълнителни екстри на имота"
+
+#: admin/class-inspiry-property-post-type.php:231
+msgid "Parent Property Feature:"
+msgstr "Допълнителни екстри на имота:"
+
+#: admin/class-inspiry-property-post-type.php:232
+msgid "New Property Feature Name"
+msgstr "Име на новата екстра на имота"
+
+#: admin/class-inspiry-property-post-type.php:233
+msgid "Add New Property Feature"
+msgstr "Въведи нова екстра на имота"
+
+#: admin/class-inspiry-property-post-type.php:234
+msgid "Edit Property Feature"
+msgstr "Редактирай екстра на имот"
+
+#: admin/class-inspiry-property-post-type.php:235
+msgid "Update Property Feature"
+msgstr "Обнови екстра на имот"
+
+#: admin/class-inspiry-property-post-type.php:236
+msgid "View Property Feature"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:237
+msgid "Separate Property Features with commas"
+msgstr "Разделяй екстрите на имота със запетаи"
+
+#: admin/class-inspiry-property-post-type.php:238
+msgid "Add or remove Property Features"
+msgstr "Добави / Премахни екстра на имот"
+
+#: admin/class-inspiry-property-post-type.php:240
+msgid "Popular Property Features"
+msgstr "Популярни екстри на имот"
+
+#: admin/class-inspiry-property-post-type.php:241
+msgid "Search Property Features"
+msgstr "Търси особености"
+
+#: admin/class-inspiry-property-post-type.php:246
+#: admin/class-inspiry-real-estate-admin.php:455
+msgid "property-feature"
+msgstr "характеристики на имот"
+
+#: admin/class-inspiry-property-post-type.php:261
+msgid "property-features"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:280
+msgid "Custom ID"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:281
+#: vc-elements/properties.php:110 vc-elements/properties.php:631
+msgid "Price"
+msgstr "Цена"
+
+#: admin/class-inspiry-property-post-type.php:298
+#: includes/forms/property.php:389 includes/forms/property.php:901
+msgid "Type"
+msgstr "Тип"
+
+#: admin/class-inspiry-property-post-type.php:299
+#: includes/forms/property.php:437 includes/forms/property.php:927
+msgid "Status"
+msgstr "Статус"
+
+#: admin/class-inspiry-property-post-type.php:300
+#: includes/forms/property.php:413 includes/forms/property.php:914
+msgid "Location"
+msgstr "Местоположение"
+
+#: admin/class-inspiry-property-post-type.php:368
+#: includes/forms/property.php:391 includes/forms/property.php:415
+#: includes/forms/property.php:439 includes/forms/property.php:584
+#: includes/forms/property.php:655 includes/forms/property.php:1091
+#: includes/forms/property.php:1191 includes/functions/real-estate.php:382
+#: includes/functions/real-estate.php:384
+#: includes/meta-boxes/meta-box/inc/fields/select.php:92
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:173
+msgid "None"
+msgstr "Няма"
+
+#: admin/class-inspiry-property-post-type.php:381
+msgid "Consult theme documentation for required image size."
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:392
+msgid "Basic Information"
+msgstr "Основна информация"
+
+#: admin/class-inspiry-property-post-type.php:396
+msgid "Gallery Images"
+msgstr "Снимки на Галерията"
+
+#: admin/class-inspiry-property-post-type.php:400
+msgid "Floor Plans"
+msgstr "Скици на имота"
+
+#: admin/class-inspiry-property-post-type.php:404
+msgid "Property Video"
+msgstr "Видео"
+
+#: admin/class-inspiry-property-post-type.php:408
+msgid "Agent Information"
+msgstr "Информация Агент"
+
+#: admin/class-inspiry-property-post-type.php:412
+msgid "Misc"
+msgstr "Разни"
+
+#: admin/class-inspiry-property-post-type.php:416
+msgid "Homepage Slider"
+msgstr "Начален Слайдър"
+
+#: admin/class-inspiry-property-post-type.php:420
+msgid "Top Banner"
+msgstr "Горен баннер"
+
+#: admin/class-inspiry-property-post-type.php:430
+msgid "Sale or Rent Price ( Only digits )"
+msgstr "Цена за Продажба или отдаване Под Наем (само цифри)"
+
+#: admin/class-inspiry-property-post-type.php:431
+msgid "Example Value: 435000"
+msgstr "Пример: 435000"
+
+#: admin/class-inspiry-property-post-type.php:439
+#: admin/class-inspiry-property-post-type.php:572
+msgid "Price Postfix"
+msgstr "Текст към Цената"
+
+#: admin/class-inspiry-property-post-type.php:440
+msgid "Example Value: Per Month"
+msgstr "Примерна Стойност: За Месец"
+
+#: admin/class-inspiry-property-post-type.php:448
+msgid "Area Size ( Only digits )"
+msgstr "Размер на площта (само цифри)"
+
+#: admin/class-inspiry-property-post-type.php:449
+msgid "Example Value: 2500"
+msgstr "Пример: 2500"
+
+#: admin/class-inspiry-property-post-type.php:457
+#: admin/class-inspiry-property-post-type.php:586
+msgid "Size Postfix"
+msgstr "Текст към Размера"
+
+#: admin/class-inspiry-property-post-type.php:458
+msgid "Example Value: Sq Ft"
+msgstr "Пример: кв. м"
+
+#: admin/class-inspiry-property-post-type.php:466
+#: admin/class-inspiry-property-post-type.php:593
+#: includes/forms/property.php:461 includes/forms/property.php:940
+msgid "Bedrooms"
+msgstr "Спални"
+
+#: admin/class-inspiry-property-post-type.php:467
+msgid "Example Value: 4"
+msgstr "Пример: 4"
+
+#: admin/class-inspiry-property-post-type.php:475
+#: admin/class-inspiry-property-post-type.php:600
+#: includes/forms/property.php:472 includes/forms/property.php:954
+msgid "Bathrooms"
+msgstr "Бани"
+
+#: admin/class-inspiry-property-post-type.php:476
+msgid "Example Value: 2"
+msgstr "Пример: 2"
+
+#: admin/class-inspiry-property-post-type.php:484
+#: includes/forms/property.php:483 includes/forms/property.php:968
+msgid "Garages"
+msgstr "Гаражи"
+
+#: admin/class-inspiry-property-post-type.php:485
+msgid "Example Value: 1"
+msgstr "Пример: 1"
+
+#: admin/class-inspiry-property-post-type.php:493
+#: includes/forms/property.php:539 includes/forms/property.php:547
+#: includes/forms/property.php:1039 includes/forms/property.php:1043
+#: includes/forms/search-fields/property-id.php:9
+#: includes/widgets/fields/property-id.php:2
+msgid "Property ID"
+msgstr "Номер на оферта"
+
+#: admin/class-inspiry-property-post-type.php:494
+msgid "It will help you search a property directly."
+msgstr "Това ще Ви помогне да търсите имот директно."
+
+#: admin/class-inspiry-property-post-type.php:503
+#: includes/forms/property.php:571 includes/forms/property.php:1074
+msgid "Year Built"
+msgstr "Година на строителство"
+
+#: admin/class-inspiry-property-post-type.php:504
+#| msgid "Example Value: 2"
+msgid "Example value: 2019"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:520
+msgid "Property Address"
+msgstr "Адрес на имота"
+
+#: admin/class-inspiry-property-post-type.php:521
+msgid "Leaving it empty will hide the google map on property detail page."
+msgstr ""
+"Оставяйки това празно, ще се скрие гугъл картата от детайлната страница на "
+"имота."
+
+#: admin/class-inspiry-property-post-type.php:530
+msgid "Property Location at Google Map*"
+msgstr "Местоположението на Имоти в Google карта *"
+
+#: admin/class-inspiry-property-post-type.php:531
+msgid ""
+"Drag the google map marker to point your property location. You can also use "
+"the address field above to search for your property."
+msgstr ""
+"Плъзнете Google Map маркера, за да посочите точното местоположение на имота. "
+"Можете да използвате полето за адрес по-горе за търсене на вашия имот."
+
+#: admin/class-inspiry-property-post-type.php:541
+msgid "Property Gallery Images"
+msgstr "Галерия със Снимки на Имота"
+
+#: admin/class-inspiry-property-post-type.php:559
+msgid "Floor Name"
+msgstr "Име на Етажа"
+
+#: admin/class-inspiry-property-post-type.php:561
+msgid "Example: Ground Floor"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:565
+msgid "Floor Price ( Only digits )"
+msgstr "Цена за Етажа (само цифри)"
+
+#: admin/class-inspiry-property-post-type.php:567
+msgid "Example: 4000"
+msgstr "Пример: 4000"
+
+#: admin/class-inspiry-property-post-type.php:574
+msgid "Example: Per Month"
+msgstr "Пример: На Месец"
+
+#: admin/class-inspiry-property-post-type.php:579
+msgid "Floor Size ( Only digits )"
+msgstr "Размер на Етажа (Само числа)"
+
+#: admin/class-inspiry-property-post-type.php:581
+msgid "Example: 2500"
+msgstr "Пример: 2500"
+
+#: admin/class-inspiry-property-post-type.php:588
+msgid "Example: Sq Ft"
+msgstr "Пример: кв.м"
+
+#: admin/class-inspiry-property-post-type.php:595
+msgid "Example: 4"
+msgstr "Пример: 4"
+
+#: admin/class-inspiry-property-post-type.php:602
+msgid "Example: 2"
+msgstr "Пример: 2"
+
+#: admin/class-inspiry-property-post-type.php:607
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:40
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:142
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:278
+#: vc-elements/properties.php:639
+msgid "Description"
+msgstr "Описание"
+
+#: admin/class-inspiry-property-post-type.php:612
+msgid "Floor Plan Image"
+msgstr "Снимка на Плана на Имота"
+
+#: admin/class-inspiry-property-post-type.php:614
+msgid "The recommended minimum width is 700px and height is flexible."
+msgstr "Препоръчителната минимална широчина е 700px, а височината е гъвкава."
+
+#: admin/class-inspiry-property-post-type.php:624
+#: includes/forms/property.php:560 includes/forms/property.php:1059
+msgid "Property Video URL"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:625
+msgid ""
+"Provide property video URL. YouTube, Vimeo, SWF File and MOV File are "
+"supported"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:631
+msgid "Property Video Image"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:642
+msgid "Virtual Tour 360 Embed Code"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:643
+msgid "Provide iframe embed code for the 360 virtual tour."
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:652
+#: includes/forms/property.php:650 includes/forms/property.php:1183
+msgid "What to display in agent information box ?"
+msgstr "Какво да се показва в полето за информация за Брокера?"
+
+#: admin/class-inspiry-property-post-type.php:657
+msgid "Author information."
+msgstr "Показване на информация за автора."
+
+#: admin/class-inspiry-property-post-type.php:658
+msgid "Agent Information. ( Select the agent below )"
+msgstr "Информация за брокера. (Изберете Брокер отдолу)"
+
+#: admin/class-inspiry-property-post-type.php:659
+msgid "None. ( Hide information box )"
+msgstr "Нищо. (Скриете кутията с информацията)"
+
+#: admin/class-inspiry-property-post-type.php:678
+msgid "Mark this property as featured ?"
+msgstr "Маркирай този Имот като Препоръчан?"
+
+#: admin/class-inspiry-property-post-type.php:683
+#: admin/class-inspiry-property-post-type.php:718
+msgid "Yes "
+msgstr "Да "
+
+#: admin/class-inspiry-property-post-type.php:684
+#: admin/class-inspiry-property-post-type.php:719
+#: admin/class-inspiry-real-estate-admin.php:1153
+#: includes/meta-boxes/meta-box/inc/fields/checkbox.php:53
+#: vc-elements/properties.php:258
+msgid "No"
+msgstr "Не"
+
+#: admin/class-inspiry-property-post-type.php:693
+msgid "Attachments"
+msgstr "Прикачени файлове"
+
+#: admin/class-inspiry-property-post-type.php:694
+msgid ""
+"You can attach PDF files, Map images OR other documents to provide further "
+"details related to property."
+msgstr ""
+"Можете да прикачвате PDF файлове, изображения на карти или други документи, "
+"за да се предостави допълнителна информация, свързана с имота."
+
+#: admin/class-inspiry-property-post-type.php:702
+msgid "Private Note"
+msgstr "Лична бележка"
+
+#: admin/class-inspiry-property-post-type.php:703
+msgid ""
+"In this textarea, You can write your private note about this property. This "
+"field will not be displayed anywhere else."
+msgstr ""
+"В това поле можете да напишете вашите частни бележка за този имот. Това поле "
+"няма да се показва никъде другаде."
+
+#: admin/class-inspiry-property-post-type.php:712
+msgid "Do you want to add this property in Homepage Slider ?"
+msgstr "Искате ли да добавите този имот в Слайдъра на началната страница?"
+
+#: admin/class-inspiry-property-post-type.php:713
+msgid "If Yes, Then you need to provide a slider image below."
+msgstr ""
+"Ако да, тогава ще трябва да предоставите изображение за слайдъра по-долу."
+
+#: admin/class-inspiry-property-post-type.php:726
+msgid "Slider Image"
+msgstr "Иображение на Слайда"
+
+#: admin/class-inspiry-property-post-type.php:737
+msgid "Top Banner Image"
+msgstr "Изображение Горен баннер"
+
+#: admin/class-inspiry-property-post-type.php:739
+msgid ""
+"Upload the banner image, If you want to change it for this property. "
+"Otherwise default banner image uploaded from theme options will be "
+"displayed. Image should have minimum width of 2000px and minimum height of "
+"230px."
+msgstr ""
+"Качете снимка за банер, ако искате да го промените за този имот. Иначе ще се "
+"зареди банера по подразбиране. Изображението трябва да бъде 2000рх ширина по "
+"230рх височина."
+
+#: admin/class-inspiry-property-post-type.php:764
+msgid "Payment Information"
+msgstr "Информация за плащане"
+
+#: admin/class-inspiry-property-post-type.php:774
+msgid "Not Available"
+msgstr "Не се прилага"
+
+#: admin/class-inspiry-property-post-type.php:788
+msgid "Transaction ID"
+msgstr "Трансакция ID"
+
+#: admin/class-inspiry-property-post-type.php:792
+msgid "Payment Date"
+msgstr "Дата на плащане"
+
+#: admin/class-inspiry-property-post-type.php:796 includes/forms/profile.php:72
+msgid "First Name"
+msgstr "Име"
+
+#: admin/class-inspiry-property-post-type.php:800 includes/forms/profile.php:84
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: admin/class-inspiry-property-post-type.php:804
+msgid "Payer Email"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:808
+msgid "Payment Status"
+msgstr "Статус"
+
+#: admin/class-inspiry-property-post-type.php:812
+msgid "Payment Amount"
+msgstr "Сума за плащане"
+
+#: admin/class-inspiry-property-post-type.php:816
+msgid "Payment Currency"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:909
+msgid "Custom Property Type Map Icon"
+msgstr "Икона на карта на избрания тип имот"
+
+#: admin/class-inspiry-property-post-type.php:913
+msgid "Icon Image"
+msgstr "Icon Image"
+
+#: admin/class-inspiry-property-post-type.php:920
+#| msgid "Background Image"
+msgid "Retina Icon Image"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:157
+#: admin/class-inspiry-real-estate-admin.php:177
+#: admin/class-inspiry-real-estate-admin.php:180
+msgid "Inspiry Real Estate Settings"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:158
+msgid "Real Estate"
+msgstr "Недвижими имоти"
+
+#. Author of the plugin/theme
+#: admin/class-inspiry-real-estate-admin.php:183
+msgid "Inspiry Themes"
+msgstr "Inspiry Themes"
+
+#: admin/class-inspiry-real-estate-admin.php:189
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Нямате достатъчно права за достъп до тази страница."
+
+#: admin/class-inspiry-real-estate-admin.php:204
+#, php-format
+#| msgid "Version %s"
+msgid "Version  %s"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:217
+#: admin/class-inspiry-real-estate-admin.php:267
+msgid "Price Format"
+msgstr "Формат на Цената"
+
+#: admin/class-inspiry-real-estate-admin.php:218
+#: admin/class-inspiry-real-estate-admin.php:382
+msgid "URL Slugs"
+msgstr "URL Slugs"
+
+#: admin/class-inspiry-real-estate-admin.php:219
+#: admin/class-inspiry-real-estate-admin.php:488
+msgid "Social"
+msgstr "Социални"
+
+#: admin/class-inspiry-real-estate-admin.php:220
+#: admin/class-inspiry-real-estate-admin.php:616
+msgid "Maps"
+msgstr "Карти"
+
+#: admin/class-inspiry-real-estate-admin.php:221
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: admin/class-inspiry-real-estate-admin.php:222
+#: admin/class-inspiry-real-estate-admin.php:877
+msgid "Mortgage Calculator"
+msgstr "Кредитен калкулатор"
+
+#: admin/class-inspiry-real-estate-admin.php:277
+msgid "Currency Sign"
+msgstr "Знак на валутата"
+
+#: admin/class-inspiry-real-estate-admin.php:285
+msgid "Default: $"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:291
+msgid "Currency Sign Position"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:300
+msgid "Before ($450,000)"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:301
+msgid "After (450,000$)"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:303
+msgid "Default: Before"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:309
+msgid "Thousand Separator"
+msgstr "Разделител на хилядите"
+
+#: admin/class-inspiry-real-estate-admin.php:317
+msgid "Default: ,"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:323
+msgid "Decimal Separator"
+msgstr "Десетичен знак"
+
+#: admin/class-inspiry-real-estate-admin.php:331
+msgid "Default: ."
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:337
+msgid "Number of Decimals"
+msgstr "Дължина след десетичния знак"
+
+#: admin/class-inspiry-real-estate-admin.php:345
+msgid "Default: 0"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:351
+msgid "Empty Price Text"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:358
+msgid "Price on call"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:359
+msgid "Text to display in case of empty price. Example: Price on call"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:400
+msgid "Default: property"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:406
+#: includes/forms/search-fields/property-type.php:9
+#: includes/widgets/fields/property-type.php:3
+msgid "Property Type"
+msgstr "Тип имот"
+
+#: admin/class-inspiry-real-estate-admin.php:414
+msgid "Default: property-type"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:420
+#: includes/forms/search-fields/property-status.php:9
+#: includes/widgets/fields/property-status.php:3
+msgid "Property Status"
+msgstr "Вид сделка"
+
+#: admin/class-inspiry-real-estate-admin.php:428
+msgid "Default: property-status"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:434
+msgid "Property City"
+msgstr "Град"
+
+#: admin/class-inspiry-real-estate-admin.php:442
+msgid "Default: property-city"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:448
+msgid "Property Feature"
+msgstr "Характеристики на имот"
+
+#: admin/class-inspiry-real-estate-admin.php:456
+msgid "Default: property-feature"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:470
+msgid "Default: agent"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:565
+#: includes/widgets/social-icons-widget.php:22
+msgid "YouTube URL"
+msgstr "YouTube адрес"
+
+#: admin/class-inspiry-real-estate-admin.php:579
+msgid "Rss URL"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:593
+#| msgid "Username"
+msgid "Skype Username"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:626
+#| msgid "Google Map"
+msgid "Google Maps Api Key"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:643
+msgid "Automatically Switch Google Map Language"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:651
+msgid ""
+"Based on site language from general settings OR current language if you are "
+"using WPML."
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:660
+msgid "Google Maps Styles JSON (optional)"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:668
+#, php-format
+msgid ""
+"You can create Google Maps styles JSON using %1$s Google Styling Wizard %2$s "
+"or %3$s Snazzy Maps %4$s."
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:677
+msgid "Google Map Type"
+msgstr "Тип на Google Map"
+
+#: admin/class-inspiry-real-estate-admin.php:685
+msgid "Choose Google Map Type"
+msgstr "Избор на тип карта на Google"
+
+#: admin/class-inspiry-real-estate-admin.php:687
+msgid "RoadMap"
+msgstr "Пътна карта"
+
+#: admin/class-inspiry-real-estate-admin.php:688
+msgid "Satellite"
+msgstr "Сателит"
+
+#: admin/class-inspiry-real-estate-admin.php:689
+msgid "Hybrid"
+msgstr "Хибрид"
+
+#: admin/class-inspiry-real-estate-admin.php:690
+msgid "Terrain"
+msgstr "Терен"
+
+#: admin/class-inspiry-real-estate-admin.php:700
+msgid "Default Address for New Property"
+msgstr "Адрес по подразбиране за нов имот"
+
+#: admin/class-inspiry-real-estate-admin.php:708
+msgid "Exmaple: 15421 Southwest 39th Terrace, Miami, FL 33185, USA"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:718
+msgid "Default Map Location for New Property (Latitude,Longitude)"
+msgstr ""
+"Местоположение на картата по подразбиране за нов имот (географска ширина, "
+"дължина)"
+
+#: admin/class-inspiry-real-estate-admin.php:726
+#, php-format
+msgid ""
+"You can use %s OR %s to get Latitude and longitude of your desired location."
+msgstr ""
+"Можете да използвате %s ИЛИ %s за да получите географска ширина и дължина на "
+"желаното от вас местоположение."
+
+#: admin/class-inspiry-real-estate-admin.php:744
+#: admin/class-inspiry-real-estate-admin.php:751
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: admin/class-inspiry-real-estate-admin.php:765
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Ключ на сайта"
+
+#: admin/class-inspiry-real-estate-admin.php:779
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Таен ключ"
+
+#: admin/class-inspiry-real-estate-admin.php:793
+msgid "reCAPTCHA Language"
+msgstr "1. Език на работоспособността"
+
+#: admin/class-inspiry-real-estate-admin.php:887
+#| msgid "Payment Amount"
+msgid "Principal Amount"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:895
+msgid "Default: Principal Amount"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:904
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:68
+msgid "Years"
+msgstr "Години"
+
+#: admin/class-inspiry-real-estate-admin.php:912
+#| msgid "Default"
+msgid "Default: Years"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:921
+msgid "Monthly Payment:"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:929
+msgid "Default: Monthly Payment"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:938
+msgid "Balance Payable With Interest:"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:946
+msgid "Default: Balance Payable With Interest"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:955
+msgid "Total With Down Payment:"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:963
+msgid "Default: Total With Down Payment"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:977
+msgid ""
+"Using options provided below, You can modify price format to match your "
+"needs."
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:984
+msgid "You can modify URL slugs to match your needs."
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:985
+msgid ""
+"Just make sure to re-save permalinks settings after every change to avoid "
+"404 errors. You can do that from Settings > Permalinks ."
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:1033
+#: admin/class-inspiry-real-estate-admin.php:1062
+#: admin/class-inspiry-real-estate-admin.php:1111
+#: admin/class-inspiry-real-estate-admin.php:1161
+msgid "Field id is missing!"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:1148
+#: includes/meta-boxes/meta-box/inc/fields/checkbox.php:53
+#: vc-elements/properties.php:259
+msgid "Yes"
+msgstr "Да"
+
+#: admin/class-inspiry-real-estate-admin.php:1206
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/forms/agent.php:22
+msgid "Contact Agent"
+msgstr "За контакт"
+
+#: includes/forms/agent.php:26 includes/forms/agent.php:89
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:868
+msgid "Name"
+msgstr "Име"
+
+#: includes/forms/agent.php:26 includes/forms/agent.php:89
+#: includes/forms/contact.php:35
+msgid "* Please provide your name"
+msgstr "* Моля попълнете вашето име"
+
+#: includes/forms/agent.php:29 includes/forms/agent.php:92
+msgid "* Please provide valid email address"
+msgstr "* Моля въведете валиден email адрес"
+
+#: includes/forms/agent.php:35 includes/forms/agent.php:98
+msgid "Contact Number"
+msgstr "Номер за Контакт"
+
+#: includes/forms/agent.php:35 includes/forms/agent.php:98
+msgid "* Please provide your contact number"
+msgstr ""
+
+#: includes/forms/agent.php:39 includes/forms/agent.php:102
+msgid "Message"
+msgstr "Съобщение"
+
+#: includes/forms/agent.php:39 includes/forms/agent.php:102
+#: includes/forms/contact.php:41
+msgid "* Please provide your message"
+msgstr "* Моля въведете вашето съобщение"
+
+#: includes/forms/agent.php:52 includes/forms/agent.php:118
+#: includes/forms/contact.php:52
+msgid "Send Message"
+msgstr "Изпрати"
+
+#: includes/forms/agent.php:54 includes/forms/agent.php:120
+#: includes/forms/contact.php:53 includes/forms/profile.php:239
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:250
+msgid "Loading..."
+msgstr "Зареждане..."
+
+#: includes/forms/contact.php:35
+msgid "Name*"
+msgstr "Име*"
+
+#: includes/forms/contact.php:37
+msgid "Email*"
+msgstr "Email*"
+
+#: includes/forms/contact.php:37
+msgid "* Please provide a valid email address"
+msgstr "* Моля въведете валиден емайл адрес"
+
+#: includes/forms/contact.php:39
+msgid "Number"
+msgstr "Номер"
+
+#: includes/forms/contact.php:41
+msgid "Message*"
+msgstr "Съобщение*"
+
+#: includes/forms/currency.php:93 includes/functions/contact.php:28
+#: includes/functions/contact.php:123
+msgid "Unverified Nonce!"
+msgstr "Непотвърден случай!"
+
+#: includes/forms/currency.php:118
+msgid "Failed to updated cookie !"
+msgstr "Неуспешно актуализиране на бисквитката!"
+
+#: includes/forms/currency.php:125
+msgid "wp-currencies plugin is missing !"
+msgstr "wp-валути плъгин липсва!"
+
+#: includes/forms/currency.php:132 includes/functions/contact.php:99
+#: includes/functions/contact.php:258
+msgid "Invalid Request !"
+msgstr "Невалидна заявка!"
+
+#: includes/forms/currency.php:209
+msgid "WP Currencies: Currency does not exist or was not found in database."
+msgstr ""
+
+#: includes/forms/currency.php:217
+msgid "WP Currencies: Amount to convert must be a number."
+msgstr ""
+
+#: includes/forms/currency.php:232
+msgid ""
+"WP Currencies: There was a problem fetching currency data from database. Is "
+"your API key valid?"
+msgstr ""
+
+#: includes/forms/members.php:10 includes/forms/members.php:13
+#: includes/forms/members.php:61 includes/forms/members.php:64
+#: includes/redux-framework/redux-core/inc/fields/password/class-redux-password.php:54
+msgid "Username"
+msgstr "Потребителско име"
+
+#: includes/forms/members.php:12
+msgid "* Provide your username"
+msgstr ""
+
+#: includes/forms/members.php:17 includes/forms/members.php:20
+#: includes/forms/profile.php:207
+#: includes/redux-framework/redux-core/inc/fields/password/class-redux-password.php:53
+msgid "Password"
+msgstr "Парола"
+
+#: includes/forms/members.php:19
+msgid "* Provide your password"
+msgstr ""
+
+#: includes/forms/members.php:26 includes/functions/members.php:79
+msgid "Login"
+msgstr "Вход"
+
+#: includes/forms/members.php:44 includes/forms/members.php:92
+#: includes/forms/members.php:123
+#: includes/redux-framework/redux-core/templates/panel/footer.tpl.php:67
+#: includes/redux-framework/redux-core/templates/panel/header-stickybar.tpl.php:31
+msgid "Working..."
+msgstr "Обработва се..."
+
+#: includes/forms/members.php:63
+msgid "* Please enter a valid username."
+msgstr ""
+
+#: includes/forms/members.php:70
+msgid "* Please provide valid email address!"
+msgstr ""
+
+#: includes/forms/members.php:77
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:408
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:455
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:706
+msgid "Register"
+msgstr "Регистрация"
+
+#: includes/forms/members.php:109 includes/forms/members.php:112
+msgid "Username or Email"
+msgstr "Потребителско име или имейл"
+
+#: includes/forms/members.php:111
+msgid "* Provide a valid username or email!"
+msgstr ""
+
+#: includes/forms/members.php:116
+msgid "Reset Password"
+msgstr "Нулиране на паролата"
+
+#: includes/forms/profile.php:36
+msgid "Profile image should have minimum width and height of 220px."
+msgstr ""
+
+#: includes/forms/profile.php:39
+msgid "Make sure to save changes after uploading the new image."
+msgstr ""
+
+#: includes/forms/profile.php:43
+msgid "Change"
+msgstr "Промяна"
+
+#: includes/forms/profile.php:47
+#: includes/meta-boxes/meta-box-extensions/meta-box-group/group-field.php:140
+#: includes/meta-boxes/meta-box/inc/fields/file-input.php:45
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:342
+#: includes/redux-framework/redux-core/inc/fields/media/class-redux-media.php:207
+#: includes/redux-framework/redux-core/inc/fields/multi_text/class-redux-multi-text.php:51
+#: includes/redux-framework/redux-core/inc/fields/multi_text/class-redux-multi-text.php:68
+#: includes/redux-framework/redux-core/inc/fields/multi_text/class-redux-multi-text.php:90
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:118
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:253
+msgid "Remove"
+msgstr "Премахни"
+
+#: includes/forms/profile.php:59
+msgid "Biographical Information"
+msgstr "Биографична информация"
+
+#: includes/forms/profile.php:77
+msgid "* Provide First Name!"
+msgstr ""
+
+#: includes/forms/profile.php:89
+msgid "* Provide Last Name!"
+msgstr ""
+
+#: includes/forms/profile.php:95
+msgid "Display Name"
+msgstr "Име за показване"
+
+#: includes/forms/profile.php:99
+msgid "* Provide Display Name!"
+msgstr ""
+
+#: includes/forms/profile.php:115
+msgid "* Provide Valid Email Address!"
+msgstr ""
+
+#: includes/forms/profile.php:127 includes/forms/profile.php:138
+#: includes/forms/profile.php:155
+msgid "* Only Digits are allowed!"
+msgstr ""
+
+#: includes/forms/profile.php:166 includes/forms/profile.php:177
+#: includes/forms/profile.php:194
+msgid "* Provide Valid URL!"
+msgstr ""
+
+#: includes/forms/profile.php:208
+msgid "( Fill it only when you want to change )"
+msgstr ""
+
+#: includes/forms/profile.php:216
+msgid "Confirm Password"
+msgstr "Потвърди паролата"
+
+#: includes/forms/profile.php:238
+#: includes/meta-boxes/meta-box/inc/update/settings.php:131
+#: includes/redux-framework/redux-core/templates/panel/footer.tpl.php:58
+#: includes/redux-framework/redux-core/templates/panel/header-stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr "Запази промените"
+
+#: includes/forms/profile.php:250
+msgid "Login Required"
+msgstr "Вход"
+
+#: includes/forms/profile.php:250
+msgid "You need to login to edit your profile!"
+msgstr ""
+
+#: includes/forms/property.php:346 includes/forms/property.php:837
+msgid "Property Title"
+msgstr "Заглавие на имот"
+
+#: includes/forms/property.php:347 includes/forms/property.php:840
+msgid "* Please provide property title!"
+msgstr "* Моля въведете заглавие!"
+
+#: includes/forms/property.php:353 includes/forms/property.php:848
+msgid "Property Description"
+msgstr "Описание на имота"
+
+#: includes/forms/property.php:369 includes/forms/property.php:877
+msgid "Address"
+msgstr "Адрес"
+
+#: includes/forms/property.php:370 includes/forms/property.php:880
+msgid "* Please provide a property address!"
+msgstr "* Моля, напишете адреса за Имота!"
+
+#: includes/forms/property.php:372 includes/forms/property.php:883
+msgid "Find Address"
+msgstr "Открий Адреса"
+
+#: includes/forms/property.php:462 includes/forms/property.php:473
+#: includes/forms/property.php:484 includes/forms/property.php:495
+#: includes/forms/property.php:518 includes/forms/property.php:944
+#: includes/forms/property.php:958 includes/forms/property.php:972
+#: includes/forms/property.php:987 includes/forms/property.php:1015
+msgid "* Only numbers allowed!"
+msgstr ""
+
+#: includes/forms/property.php:494 includes/forms/property.php:983
+msgid "Sale OR Rent Price"
+msgstr "Цена за Продажба ИЛИ Наем"
+
+#: includes/forms/property.php:506 includes/forms/property.php:997
+msgid "Price Postfix Text"
+msgstr "Добави текст към Цената"
+
+#: includes/forms/property.php:517 includes/forms/property.php:1011
+#: includes/functions/real-estate.php:180
+#: includes/functions/real-estate.php:190
+#: includes/functions/real-estate.php:196
+#: includes/functions/real-estate.php:203
+msgid "Area"
+msgstr "Площ"
+
+#: includes/forms/property.php:528 includes/forms/property.php:1025
+msgid "Area Postfix Text"
+msgstr "Площ"
+
+#: includes/forms/property.php:529
+msgid "SqFt"
+msgstr ""
+
+#: includes/forms/property.php:543
+msgid "Property ID Pattern"
+msgstr ""
+
+#: includes/forms/property.php:592 includes/forms/property.php:1101
+msgid "Parent Property"
+msgstr "Родителска категория"
+
+#: includes/forms/property.php:608 includes/forms/property.php:1116
+msgid "Virtual Tour Embed Code"
+msgstr ""
+
+#: includes/forms/property.php:626 includes/forms/property.php:1159
+msgid "Drag and drop images here"
+msgstr "Плъзнете и пуснете изображенията тук"
+
+#: includes/forms/property.php:628 includes/forms/property.php:1161
+msgid "OR"
+msgstr "ИЛИ"
+
+#: includes/forms/property.php:630 includes/forms/property.php:1163
+msgid "Select Images"
+msgstr "Изберете изображения"
+
+#: includes/forms/property.php:634 includes/forms/property.php:1167
+msgid ""
+"An image should have minimum width of 850px and minimum height of 600px."
+msgstr ""
+
+#: includes/forms/property.php:635 includes/forms/property.php:1168
+msgid ""
+"You can mark an image as featured by clicking the star icon, Otherwise first "
+"image will be considered featured image."
+msgstr ""
+
+#: includes/forms/property.php:657
+msgid "( No information will be displayed )"
+msgstr ""
+
+#: includes/forms/property.php:663 includes/forms/property.php:1202
+msgid "My Profile Information"
+msgstr ""
+
+#: includes/forms/property.php:669 includes/forms/property.php:1209
+msgid "( Edit Profile Information )"
+msgstr "(Редактиране на Профил)"
+
+#: includes/forms/property.php:678 includes/forms/property.php:1222
+msgid "Display Agent Information"
+msgstr ""
+
+#: includes/forms/property.php:693 includes/forms/property.php:1246
+msgid "Mark this property as featured property"
+msgstr "Маркирай този Имот като Препоръчан"
+
+#: includes/forms/property.php:791
+msgid "Message to the Reviewer"
+msgstr "Съобщение до преглеждащия"
+
+#: includes/forms/property.php:800
+msgid "Submit Property"
+msgstr "Публикувай оферта"
+
+#: includes/forms/property.php:1193
+msgid "( Agent information box will not be displayed )"
+msgstr "(Информационно поле за Брокера, няма да бъде показано)"
+
+#: includes/forms/property.php:1398 includes/forms/property.php:1402
+msgid "Oops"
+msgstr "Грешка"
+
+#: includes/forms/property.php:1398
+msgid "It appears that, Provided property does not belong to you!"
+msgstr ""
+
+#: includes/forms/property.php:1402
+msgid "It appears that, Provided property id is invalid!"
+msgstr ""
+
+#: includes/forms/search-fields/baths.php:8 includes/widgets/fields/baths.php:3
+msgid "Min Baths (Any)"
+msgstr ""
+
+#: includes/forms/search-fields/beds.php:8 includes/widgets/fields/beds.php:3
+msgid "Min Beds (Any)"
+msgstr ""
+
+#: includes/forms/search-fields/features.php:16
+#: includes/widgets/fields/features.php:16
+msgid "Looking for certain features"
+msgstr "Търсене на определени характиристики"
+
+#: includes/forms/search-fields/hidden-fields-separator.php:9
+#: includes/forms/search-fields/submit-btn.php:2
+#: includes/widgets/fields/submit-btn.php:2
+msgid "Search"
+msgstr "Търсене"
+
+#: includes/forms/search-fields/keyword.php:9
+#: includes/widgets/fields/keyword.php:2
+msgid "Keyword"
+msgstr "Ключова дума"
+
+#: includes/forms/search-fields/locations.php:21
+#: includes/functions/real-estate.php:39 includes/functions/real-estate.php:41
+#: includes/widgets/fields/locations.php:21
+msgid "(Any)"
+msgstr ""
+
+#: includes/forms/search-fields/max-area.php:9
+#: includes/widgets/fields/max-area.php:3
+msgid "Max Area (sq ft)"
+msgstr ""
+
+#: includes/forms/search-fields/max-area.php:10
+#: includes/forms/search-fields/min-area.php:10
+#: includes/widgets/fields/max-area.php:3
+#: includes/widgets/fields/min-area.php:3
+msgid "Please only provide digits!"
+msgstr ""
+
+#: includes/forms/search-fields/min-area.php:9
+#: includes/widgets/fields/min-area.php:3
+msgid "Min Area (sq ft)"
+msgstr ""
+
+#: includes/functions/contact.php:43 includes/functions/contact.php:138
+msgid "Target Email address is not properly configured!"
+msgstr "Емайл на получателя не е конфигуриран правилно!"
+
+#: includes/functions/contact.php:59 includes/functions/contact.php:164
+msgid "Provided Email address is invalid!"
+msgstr "Невалиден емайл адрес!"
+
+#: includes/functions/contact.php:64
+msgid "New message sent by"
+msgstr "Ново съобщение от"
+
+#: includes/functions/contact.php:64
+msgid "using contact form at"
+msgstr "използвана контактна форма в"
+
+#: includes/functions/contact.php:65
+msgid "You have received a message from: "
+msgstr "Получихте съобщение от: "
+
+#: includes/functions/contact.php:68
+msgid "Phone Number : "
+msgstr "Телефон: "
+
+#: includes/functions/contact.php:71 includes/functions/contact.php:181
+msgid "Their additional message is as follows."
+msgstr "Допълнително съобщение."
+
+#: includes/functions/contact.php:73 includes/functions/contact.php:183
+#, php-format
+msgid "You can contact %1$s via email %2$s"
+msgstr ""
+
+#: includes/functions/contact.php:86 includes/functions/contact.php:245
+msgid "Message Sent Successfully!"
+msgstr "Съобщението изпратено успешно!"
+
+#: includes/functions/contact.php:91 includes/functions/contact.php:250
+msgid "Server Error: WordPress mail function failed!"
+msgstr "Грешка във фунцията за изпращане на емайл!"
+
+#: includes/functions/contact.php:169
+#, php-format
+msgid "New message sent by %1$s using agent contact form at %2$s"
+msgstr ""
+
+#: includes/functions/contact.php:171
+msgid "You have received a message from:"
+msgstr "Получихте съобщение от:"
+
+#: includes/functions/contact.php:174
+msgid "Property Title :"
+msgstr "Заглавие на имот:"
+
+#: includes/functions/contact.php:178
+msgid "Property URL :"
+msgstr "Имот URL:"
+
+#: includes/functions/contact.php:186
+#, php-format
+msgid "You can also contact %1$s via contact number %2$s"
+msgstr ""
+
+#: includes/functions/contact.php:401
+msgid "reCAPTCHA Failed:"
+msgstr "грешка при повторното зареждане:"
+
+#: includes/functions/members.php:106
+msgid "* Wrong username or password."
+msgstr "Грешно име или парола."
+
+#: includes/functions/members.php:112
+msgid "successful. Redirecting..."
+msgstr ""
+
+#: includes/functions/members.php:154
+msgid "This username already exists."
+msgstr "Това име вече съществува."
+
+#: includes/functions/members.php:159
+msgid "This email is already registered."
+msgstr "Имейлът е вече регистриран."
+
+#: includes/functions/members.php:170
+msgid "Registration is complete. Check your email for details!"
+msgstr "Регистрацията е завършена. Провери си имейла за детайли!"
+
+#: includes/functions/members.php:194
+msgid "Provide a valid username or email address!"
+msgstr "Въведете валидно потребителско име или имейл адрес!"
+
+#: includes/functions/members.php:200
+msgid "No user found for given email!"
+msgstr "Не е открит потребител за този имейл!"
+
+#: includes/functions/members.php:206
+msgid "No user found for given username!"
+msgstr "Не е намерен потребител за дадено потребителско име!"
+
+#: includes/functions/members.php:209
+msgid "Invalid username or email!"
+msgstr "Невалидно потребителско име или имейл!"
+
+#: includes/functions/members.php:241
+#, php-format
+msgid "Your New Password For %s"
+msgstr "Вашата нова парола за %s"
+
+#: includes/functions/members.php:242
+#, php-format
+msgid "Your new password is: %s"
+msgstr "Вашата нова парола е: %s"
+
+#: includes/functions/members.php:255
+msgid "Check your email for new password"
+msgstr "Проверете имейла си за нова парола"
+
+#: includes/functions/members.php:257
+msgid "Failed to send you new password email!"
+msgstr "Неуспяхме да Ви изпратим нова парола на имейл!"
+
+#: includes/functions/members.php:261
+msgid "Oops! Something went wrong while resetting your password!"
+msgstr "Опа! Нещо се обърка, докато нулирате паролата си!"
+
+#: includes/functions/members.php:304
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "Нова потребителска регистрация във вашия сайт %s:"
+
+#: includes/functions/members.php:305
+#, php-format
+msgid "Username: %s"
+msgstr "Потребител: %s"
+
+#: includes/functions/members.php:306
+#, php-format
+msgid "Email: %s"
+msgstr "Електронна поща:  %s"
+
+#: includes/functions/members.php:308
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Нова рагистрация"
+
+#: includes/functions/members.php:313 includes/functions/members.php:319
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:14
+#, php-format
+msgid "Welcome to %s"
+msgstr "Добре дошли в %s"
+
+#: includes/functions/members.php:314
+#, php-format
+msgid "Your username is: %s"
+msgstr "Вашето потребителско име е: %s"
+
+#: includes/functions/members.php:315
+#, php-format
+msgid "You can login using following password: %s"
+msgstr "Можете да влезете, като използвате следната парола: %s"
+
+#: includes/functions/members.php:316
+msgid "It is highly recommended to change your password after login."
+msgstr "Cилно препоръчително да промените паролата си, след като влезете."
+
+#: includes/functions/members.php:317
+msgid "For more details visit:"
+msgstr "Повече детайли посети:"
+
+#: includes/functions/members.php:333 includes/functions/members.php:413
+#: includes/functions/profile.php:12 includes/functions/profile.php:241
+msgid "Security check failed!"
+msgstr "Проверка на сигурността се провали!"
+
+#: includes/functions/members.php:373 includes/functions/profile.php:51
+msgid "Image upload failed!"
+msgstr "Неуспешно качване на изображение!"
+
+#: includes/functions/members.php:470
+#, php-format
+msgid "A new property is submitted by %s at %s"
+msgstr "Нов имот е публикуван от %s на %s"
+
+#: includes/functions/members.php:479
+msgid "You can preview it here :"
+msgstr "Можеш да видиш тук:"
+
+#: includes/functions/members.php:486
+#, php-format
+msgid "Message to the Reviewer : %s"
+msgstr "Съобщение до Рецензента: %s"
+
+#: includes/functions/members.php:491
+#, php-format
+msgid "You can contact the submitter %1$s via email %2$s"
+msgstr ""
+
+#: includes/functions/profile.php:135
+msgid "Provided email address is invalid."
+msgstr ""
+
+#: includes/functions/profile.php:140
+msgid "Provided email is already in use by another user. Try a different one."
+msgstr ""
+
+#: includes/functions/profile.php:222
+msgid "The passwords you entered do not match.  Your password is not updated."
+msgstr ""
+
+#: includes/functions/profile.php:234
+msgid "Profile information is updated successfully!"
+msgstr "Профилна информация е обновена успешно!"
+
+#: includes/functions/real-estate.php:59
+msgid "Min Price (Any)"
+msgstr ""
+
+#: includes/functions/real-estate.php:118
+msgid "Max Price (Any)"
+msgstr ""
+
+#: includes/functions/real-estate.php:179
+#: includes/functions/real-estate.php:185
+#: includes/functions/real-estate.php:189
+#: includes/functions/real-estate.php:195
+#: includes/functions/real-estate.php:202
+msgid "City"
+msgstr "Град"
+
+#: includes/functions/real-estate.php:194
+#: includes/functions/real-estate.php:201
+msgid "State"
+msgstr "Област"
+
+#: includes/functions/real-estate.php:200
+msgid "Country"
+msgstr "Държава"
+
+#: includes/meta-boxes/contact.php:15
+msgid "Contact Page Information"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:21
+msgid "Google Map"
+msgstr "Google карта"
+
+#: includes/meta-boxes/contact.php:29
+msgid "Contact Form"
+msgstr "Форма за контакт"
+
+#: includes/meta-boxes/contact.php:41
+msgid "Leaving it empty will hide the google map."
+msgstr ""
+
+#: includes/meta-boxes/contact.php:49
+msgid "Office Location"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:50
+msgid ""
+"Drag the marker to point your office location. You can also use the address "
+"field above to search for your address."
+msgstr ""
+
+#: includes/meta-boxes/contact.php:61
+msgid "Map Zoom Level"
+msgstr "Ниво на Приближаване"
+
+#: includes/meta-boxes/contact.php:62
+msgid "Zoom level for resulted map on contact page."
+msgstr ""
+
+#: includes/meta-boxes/contact.php:74
+msgid "Office Address to Display"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:75
+msgid "Given address will be displayed on contact page."
+msgstr ""
+
+#: includes/meta-boxes/contact.php:81
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/meta-boxes/contact.php:93
+msgid "Fax"
+msgstr "Факс"
+
+#: includes/meta-boxes/contact.php:99
+msgid "Email to Display"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:100
+msgid "Given email address will be displayed on contact page."
+msgstr ""
+
+#: includes/meta-boxes/contact.php:107
+msgid "Working Hours"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:114
+msgid "Contact Form Heading"
+msgstr "Заглавие на контактната форма"
+
+#: includes/meta-boxes/contact.php:116
+msgid "Send Us a Message"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:121
+msgid "Contact Form Email"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:122
+msgid "Given email address will receive messages from theme based contact form"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:129
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: includes/meta-boxes/contact.php:130
+msgid ""
+"You can provide contact form 7 shortcode, If you want to use a custom form. "
+"It will be displayed if above given email address is empty."
+msgstr ""
+
+#: includes/meta-boxes/load-meta-boxes.php:17
+msgid "Meta Box plugin has been deactivated!"
+msgstr "Мета Box плъгин е деактивиран!"
+
+#: includes/meta-boxes/load-meta-boxes.php:18
+#: includes/meta-boxes/load-meta-boxes.php:33
+#: includes/meta-boxes/load-meta-boxes.php:49
+#: includes/meta-boxes/load-meta-boxes.php:65
+#: includes/meta-boxes/load-meta-boxes.php:81
+msgid ""
+"As now its functionality is embedded with in Inspiry Real Estate plugin."
+msgstr ""
+
+#: includes/meta-boxes/load-meta-boxes.php:19
+#: includes/meta-boxes/load-meta-boxes.php:35
+#: includes/meta-boxes/load-meta-boxes.php:51
+#: includes/meta-boxes/load-meta-boxes.php:67
+#: includes/meta-boxes/load-meta-boxes.php:83
+msgid "So, You should completely remove it from your plugins."
+msgstr "Така че вие напълно трябва да го премахнете от вашия плъгин."
+
+#: includes/meta-boxes/load-meta-boxes.php:32
+msgid "Meta Box Columns plugin has been deactivated!"
+msgstr ""
+
+#: includes/meta-boxes/load-meta-boxes.php:48
+msgid "Meta Box Tabs plugin has been deactivated!"
+msgstr ""
+
+#: includes/meta-boxes/load-meta-boxes.php:64
+msgid "Meta Box Show Hide plugin has been deactivated!"
+msgstr ""
+
+#: includes/meta-boxes/load-meta-boxes.php:80
+msgid "Meta Box Group plugin has been deactivated!"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-extensions/mb-term-meta/src/MetaBox.php:65
+msgid "Term added."
+msgstr ""
+
+#: includes/meta-boxes/meta-box-extensions/meta-box-group/group-field.php:63
+msgid "Are you sure you want to remove this group?"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-extensions/meta-box-group/group-field.php:334
+msgid "Entry {#}"
+msgstr ""
+
+#: includes/meta-boxes/meta-box-extensions/meta-box-group/group-field.php:334
+msgid "Entry"
+msgstr "Unos"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:54
+msgid "About"
+msgstr "Относно"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:56
+#: includes/redux-framework/class-redux-framework-plugin.php:479
+msgid "Go Pro"
+msgstr "Вземете ПРО версия"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:69
+#: includes/meta-boxes/meta-box/inc/about/about.php:70
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:85
+msgid "Welcome to Meta Box"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:86
+msgid "Dashboard"
+msgstr "Табло"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:156
+#, php-format
+msgid ""
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
+"Meta Box team!"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:11
+msgid ""
+"Extend custom fields in WordPress well beyond what others would ever "
+"consider ordinary!"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:12
+msgid "Save over 80% with our extensions bundles."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:12
+msgid "View Bundles"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:20
+msgid ""
+"Create and manage custom post types easily in WordPress with an easy-to-use "
+"interface."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:24
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:120
+msgid "Free Download"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:32
+msgid ""
+"Drag and drop your custom fields into place without a single line of code."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:36
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:48
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:60
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:72
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:84
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:96
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:108
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:23
+msgid "Learn More"
+msgstr "Прочети повече"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:44
+msgid ""
+"Create repeatable groups of custom fields for better appearance and "
+"structure."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:56
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:68
+msgid ""
+"Control the visibility of meta boxes and fields or even HTML elements with "
+"ease."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:80
+msgid ""
+"Create register, login and edit user profile forms in the frontend. Embed "
+"everywhere with shortcodes."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:92
+msgid ""
+"Create frontend forms for users to submit custom content. Embed everywhere "
+"with shortcode."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:104
+msgid ""
+"Save custom fields data to custom table. Reduce database size and increase "
+"performance."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:116
+msgid "Create many-to-many relationships between posts, terms and users."
+msgstr ""
+"Създаване на връзки \"много към много\" между публикации, термини и "
+"потребители."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:124
+#| msgid "Redux Extensions"
+msgid "View all extensions"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:12
+msgid "Getting Started With Online Generator"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:13
+msgid ""
+"Online Generator is a free tool to help you create and set up custom fields "
+"using a simple, friendly user interface. With it, you can add fields, set "
+"options and generate needed code that's ready to copy and paste."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:15
+msgid "online generator"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:17
+msgid "Go to Online Generator"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:21
+msgid "Understand The Basics"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:22
+msgid ""
+"Meta Box doesn't have any admin page for configuration or settings. Instead "
+"of that, it provides a very powerful API to speed up the process of creating "
+"meta boxes and custom fields. It might take you a little time at first, but "
+"then you'll love the way it work because it helps you do and customize "
+"almost everything."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:25
+#: includes/meta-boxes/meta-box/inc/about/sections/tabs.php:12
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:21
+msgid "Extensions"
+msgstr "Разширения"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:26
+msgid ""
+"Wanna see more features that transform your WordPress website into a "
+"powerful CMS? Check out some extensions below:"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:28
+#| msgid "Meta Box"
+msgid "Meta Box Builder"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:28
+msgid "Build meta boxes and fields with UI."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:29
+msgid "Meta Box Group"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:29
+msgid "Organize fields into repeatable groups."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:30
+msgid "Meta Box Conditional Logic"
+msgstr "Условна логика на мета кутия"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:30
+msgid "Control the visibility of fields."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:31
+msgid "MB Settings Page"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:31
+msgid "Create settings pages/Customizer options."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:33
+msgid "More Extensions"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/products.php:12
+#| msgid "WordPress Environment"
+msgid "Our WordPress Products"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/products.php:15
+msgid "Like this plugin? Check out our other WordPress products:"
+msgstr "Харесвате този плъгин? Вижте нашите други продукти на WordPress:"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/products.php:16
+msgid "Automated & fast SEO plugin for WordPress"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/products.php:17
+msgid "A super fast, lightweight and highly customizable WordPress theme"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:18
+#, php-format
+msgid ""
+"Still need help with Meta Box? We offer excellent support for you. But don't "
+"forget to check our <a href=\"%s\">documentation</a> first."
+msgstr ""
+"Все още се нуждаете от помощ с Meta Box? Ние предлагаме отлична подкрепа за "
+"вас. Но не забравяйте да проверите <a href=\"%s\">документацията</a> ни "
+"първо."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:23
+msgid "Free Support"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:24
+msgid ""
+"If you have any question about how to use the plugin, please open a new "
+"topic on WordPress.org support forum or open a new issue on Github "
+"(preferable). We will try to answer as soon as we can."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:25
+msgid "Go to Github"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:26
+msgid "Go to WordPress.org"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:30
+msgid "Premium Support"
+msgstr "Платена поддръжка"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:31
+msgid ""
+"For users that have bought premium extensions, the support is provided in "
+"the Meta Box Support forum. Any question will be answered with technical "
+"details within 24 hours."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:32
+msgid "Go to support forum"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Да започваме"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/tabs.php:13
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:22
+msgid "Support"
+msgstr "Поддръжка"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:10
+msgid "Upgrade to Meta Box PRO"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:11
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:13
+msgid ""
+"Create custom fields with drag-n-drop interface - no coding knowledge "
+"required!"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:14
+msgid "Add custom fields to taxonomies or user profile."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:15
+msgid "Create custom settings pages."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:16
+msgid "Create frontend submission forms."
+msgstr "Създаване на формуляри за изпращане."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:17
+msgid "Save custom fields in custom tables."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:18
+msgid "And much more!"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:20
+msgid "Get Meta Box PRO now"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:17
+msgid ""
+"Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
+"plugin and framework that makes quick work of customizing a website with—you "
+"guessed it—meta boxes and custom fields in WordPress. Follow the instruction "
+"below to get started!"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:20
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/meta-boxes/meta-box/inc/core.php:38
+msgid "Docs"
+msgstr "Документи"
+
+#: includes/meta-boxes/meta-box/inc/field.php:361
+msgid "+ Add more"
+msgstr "+ Добави още"
+
+#: includes/meta-boxes/meta-box/inc/fields/autocomplete.php:23
+#: includes/meta-boxes/meta-box/inc/fields/autocomplete.php:85
+#: includes/meta-boxes/meta-box/inc/fields/autocomplete.php:97
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:217
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:353
+msgid "Delete"
+msgstr "Изтрий"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:75
+msgid "Background Image"
+msgstr "Фоново изображение"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:89
+#| msgid "No Repeat"
+msgid "-- Repeat --"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:91
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:135
+msgid "No Repeat"
+msgstr "Без Повторение"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:92
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:136
+msgid "Repeat All"
+msgstr "Повторение"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:93
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:137
+msgid "Repeat Horizontally"
+msgstr "Повторение по хоризонталата"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:94
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:138
+msgid "Repeat Vertically"
+msgstr "Повторение по вертикалата"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:95
+#: includes/meta-boxes/meta-box/inc/fields/background.php:133
+#: includes/meta-boxes/meta-box/inc/fields/background.php:147
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:139
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:154
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:172
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:190
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:209
+msgid "Inherit"
+msgstr "Наследяване"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:107
+msgid "-- Position --"
+msgstr "- Позиция --"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:109
+msgid "Top Left"
+msgstr "Горе в ляво"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:110
+msgid "Top Center"
+msgstr "Горе център"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:111
+msgid "Top Right"
+msgstr "Горе вдясно"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:112
+msgid "Center Left"
+msgstr "Център Ляво"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:113
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:228
+msgid "Center Center"
+msgstr "Център Център"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:114
+msgid "Center Right"
+msgstr "Център Дясно"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:115
+msgid "Bottom Left"
+msgstr "Отдолу в ляво"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:116
+msgid "Bottom Center"
+msgstr "В центъра отдолу"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:117
+msgid "Bottom Right"
+msgstr "Отдолу в дясно"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:129
+msgid "-- Attachment --"
+msgstr "-- Прикачен файл --"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:131
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:207
+msgid "Fixed"
+msgstr "Фиксиран"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:132
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:208
+msgid "Scroll"
+msgstr "Скрол"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:145
+msgid "-- Size --"
+msgstr "--Размер--"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:148
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:191
+msgid "Cover"
+msgstr "Корица"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:149
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:192
+msgid "Contain"
+msgstr "Съдържа"
+
+#: includes/meta-boxes/meta-box/inc/fields/button.php:34
+msgid "Click me"
+msgstr "Кликни"
+
+#: includes/meta-boxes/meta-box/inc/fields/file-input.php:23
+msgid "Select File"
+msgstr "Избери файл"
+
+#: includes/meta-boxes/meta-box/inc/fields/file-input.php:43
+#: includes/meta-boxes/meta-box/inc/fields/select.php:92
+msgid "Select"
+msgstr "Избери"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Можете да качите само максимум  %d"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:26
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Може само да качите максимум %d"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:63
+#| msgid "Error: Cannot delete file"
+msgid "Error: Invalid file"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:77
+msgid "Error: Cannot delete file"
+msgstr "Грешка: Файлът не може да бъде изтрит"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:90
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Добавяне на нов файл"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:171
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Изтрий"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:172
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Редактирай"
+
+#: includes/meta-boxes/meta-box/inc/fields/input-list.php:92
+msgid "Toggle All"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/fields/key-value.php:135
+msgid "Key"
+msgstr "Ключ"
+
+#: includes/meta-boxes/meta-box/inc/fields/map.php:55
+#: includes/meta-boxes/meta-box/inc/fields/osm.php:28
+msgid "No results found"
+msgstr "Не са открити резултати"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Добавяне на медия"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid " file"
+msgstr " Файл"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid " files"
+msgstr " файлове"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "Remove"
+msgstr "Премахни"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:31
+msgctxt "media"
+msgid "Edit"
+msgstr "Редактирай"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:32
+msgctxt "media"
+msgid "View"
+msgstr "Преглед"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:33
+msgctxt "media"
+msgid "No Title"
+msgstr "(без заглавие)"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:36
+msgctxt "media"
+msgid "Select Files"
+msgstr "Избиране на файл"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:37
+msgctxt "media"
+msgid "or"
+msgstr "или"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:38
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Пуснетее файлове за качване"
+
+#: includes/meta-boxes/meta-box/inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/fields/post.php:80
+msgid "Select a post"
+msgstr "Избери публикация"
+
+#: includes/meta-boxes/meta-box/inc/fields/post.php:86
+#: includes/meta-boxes/meta-box/inc/fields/taxonomy.php:98
+#, php-format
+msgid "Select a %s"
+msgstr "Избери %s"
+
+#: includes/meta-boxes/meta-box/inc/fields/post.php:156
+#: includes/meta-boxes/meta-box/inc/fields/taxonomy.php:157
+#: includes/meta-boxes/meta-box/inc/fields/user.php:144
+#| msgctxt "media"
+#| msgid "No Title"
+msgid "(No title)"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/fields/select-advanced.php:47
+#: includes/redux-framework/redux-core/inc/fields/select/class-redux-select.php:89
+#: includes/redux-framework/redux-core/inc/fields/select_image/class-redux-select-image.php:42
+msgid "Select an item"
+msgstr "Избери елемент"
+
+#: includes/meta-boxes/meta-box/inc/fields/select.php:92
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:106
+#: includes/redux-framework/redux-core/inc/fields/spacing/class-redux-spacing.php:165
+#: vc-elements/properties.php:84
+msgid "All"
+msgstr "Всички"
+
+#: includes/meta-boxes/meta-box/inc/fields/sidebar.php:23
+msgid "Select a sidebar"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/fields/switch.php:93
+#: includes/redux-framework/redux-core/inc/fields/switch/class-redux-switch.php:37
+msgid "On"
+msgstr "Включено"
+
+#: includes/meta-boxes/meta-box/inc/fields/switch.php:94
+#: includes/redux-framework/redux-core/inc/fields/switch/class-redux-switch.php:40
+msgid "Off"
+msgstr "Изключено"
+
+#: includes/meta-boxes/meta-box/inc/fields/taxonomy.php:94
+msgid "Select a term"
+msgstr "Изберете термин"
+
+#: includes/meta-boxes/meta-box/inc/fields/user.php:84
+msgid "Select an user"
+msgstr "Избери потребител"
+
+#: includes/meta-boxes/meta-box/inc/loader.php:119
+msgid "Dismiss all Meta Box news"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/loader.php:120
+msgid "Are you sure to dismiss all Meta Box news?"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/meta-box.php:342
+#| msgid "Meta Box"
+msgid "Meta Box Title"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/checker.php:139
+msgid ""
+"UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic "
+"updates."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:112
+#, php-format
+msgid ""
+"You have not set your Meta Box license key yet, which means you are missing "
+"out on automatic updates and support! Please <a href=\"%1$s\">enter your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:114
+#: includes/meta-boxes/meta-box/inc/update/notification.php:116
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s"
+"\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a "
+"new one</a> to enable automatic updates."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:118
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
+"target=\"_blank\">renew your license</a> to get automatic updates and "
+"premium support."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:142
+#, php-format
+msgid ""
+"Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
+"target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:144
+#: includes/meta-boxes/meta-box/inc/update/notification.php:146
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:148
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:171
+msgid "Activate License"
+msgstr "Активация на лиценз"
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:171
+msgid "Update License"
+msgstr "Актуализиране на лиценза"
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:72
+#: includes/meta-boxes/meta-box/inc/update/settings.php:90
+#| msgid "Meta Box"
+msgid "Meta Box License"
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:72
+msgid "License"
+msgstr "Лиценз"
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:91
+msgid ""
+"Please enter your license key to enable automatic updates for Meta Box "
+"extensions."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:96
+#, php-format
+msgid ""
+"To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website. If you have not purchased any "
+"extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:108
+msgid "License Key"
+msgstr "Лицензен ключ"
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:113
+#: includes/meta-boxes/meta-box/inc/update/settings.php:115
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please update your license key or <a "
+"href=\"%1$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:117
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%2$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:118
+msgid "Your license key is <b>active</b>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:157
+msgid ""
+"Something wrong with the connection to metabox.io. Please try again later."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:159
+msgid "Your license is activated."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:162
+#, php-format
+msgid ""
+"License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:168
+#, php-format
+msgid ""
+"Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
+"or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: includes/meta-boxes/meta-box/meta-box.php:24
+msgid ""
+"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
+msgstr ""
+
+#: includes/meta-boxes/others.php:13
+msgid "Gallery Settings"
+msgstr "Настройка на галерията"
+
+#: includes/meta-boxes/others.php:27
+#: includes/meta-boxes/properties-pages.php:41
+msgid "Number of Properties Per Page"
+msgstr "Брой имоти на страница"
+
+#: includes/meta-boxes/others.php:54
+msgid "Agents Settings"
+msgstr ""
+
+#: includes/meta-boxes/others.php:68
+msgid "Number of Agents Per Page"
+msgstr ""
+
+#: includes/meta-boxes/others.php:94
+msgid "Choose a sidebar"
+msgstr ""
+
+#: includes/meta-boxes/others.php:102
+msgid "Sidebar Settings"
+msgstr "Настройки на стр. лента"
+
+#: includes/meta-boxes/others.php:124
+msgid "Sidebar (optional)"
+msgstr ""
+
+#: includes/meta-boxes/others.php:126
+msgid ""
+"Choose a custom sidebar for this entry. Otherwise, default entry's sidebar "
+"will be displayed."
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:25
+msgid "Properties Settings"
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:50
+msgid "Order Properties By"
+msgstr "Подреди имотите по"
+
+#: includes/meta-boxes/properties-pages.php:53
+msgid "Date New to Old"
+msgstr "Дата - нови към стари"
+
+#: includes/meta-boxes/properties-pages.php:54
+msgid "Date Old to New"
+msgstr "Дата - стари към нови"
+
+#: includes/meta-boxes/properties-pages.php:55
+msgid "Price Low to High"
+msgstr "Цена възходящ ред"
+
+#: includes/meta-boxes/properties-pages.php:56
+msgid "Price High to Low"
+msgstr "Цена низходящ ред"
+
+#: includes/meta-boxes/properties-pages.php:57
+#: includes/widgets/featured-properties-widget.php:123
+msgid "Random"
+msgstr "Произволно"
+
+#: includes/meta-boxes/properties-pages.php:101
+msgid "Minimum Beds"
+msgstr "Мин. спални"
+
+#: includes/meta-boxes/properties-pages.php:110
+msgid "Minimum Baths"
+msgstr "Мин. бани"
+
+#: includes/meta-boxes/properties-pages.php:119 vc-elements/properties.php:223
+msgid "Minimum Price"
+msgstr "Мин. Цена"
+
+#: includes/meta-boxes/properties-pages.php:128 vc-elements/properties.php:231
+msgid "Maximum Price"
+msgstr "Макс. Цена"
+
+#: includes/meta-boxes/properties-pages.php:137
+msgid "Google Map in Header"
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:139
+msgid "Display Google Map with Properties Markers"
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:144
+msgid "Google Half Map Layout"
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:148
+msgid "Select Google Half Map Layout"
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:151
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:159
+#: includes/redux-framework/redux-core/inc/fields/spacing/class-redux-spacing.php:271
+msgid "Left"
+msgstr "Ляво"
+
+#: includes/meta-boxes/properties-pages.php:152
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:135
+#: includes/redux-framework/redux-core/inc/fields/spacing/class-redux-spacing.php:239
+msgid "Right"
+msgstr "Дясно"
+
+#: includes/redux-framework/class-redux-framework-plugin.php:87
+msgid ""
+"Redux Framework version 4 is activated but not loaded. Redux Framework "
+"version 3 is still installed and activated.  Please deactivate Redux "
+"Framework version 3."
+msgstr ""
+
+#: includes/redux-framework/class-redux-framework-plugin.php:384
+msgid "Redux Framework has an embedded demo."
+msgstr "Redux Framework има вградена демо версия."
+
+#: includes/redux-framework/class-redux-framework-plugin.php:384
+msgid "Click here to activate the sample config file."
+msgstr "Кликнете тук, за да активирате примерния конфигурационен файл."
+
+#: includes/redux-framework/class-redux-framework-plugin.php:553
+msgid "What is this?"
+msgstr ""
+
+#: includes/redux-framework/class-redux-framework-plugin.php:554
+msgid "Template Library"
+msgstr ""
+
+#: includes/redux-framework/redux-core/framework.php:390
+#: includes/redux-framework/redux-core/framework.php:399
+msgid "Cheatin&#8217; eh?"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-admin-notices.php:135
+msgid "Dismiss"
+msgstr "Отхвърли"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-ajax-save.php:40
+#: includes/redux-framework/redux-core/inc/classes/class-redux-ajax-select2.php:38
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+"Невалидни идентификационни данни. Моля, презареди страницата и опитай пак."
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-ajax-save.php:50
+#: includes/redux-framework/redux-core/inc/classes/class-redux-ajax-select2.php:42
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+"Невалидни данни на потребителя. Моля, презареди страницата и опитай пак."
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-ajax-save.php:112
+msgid "Your panel has no fields. Nothing to save."
+msgstr "Панелът ти няма полета. Нищо не е запазено."
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-api.php:143
+msgid "Warning, Premature Initialization"
+msgstr ""
+
+#. translators: This is only shown to developers, should not impact users.
+#: includes/redux-framework/redux-core/inc/classes/class-redux-api.php:146
+#, php-format
+msgid "was run before the %s hook and was delayed to avoid errors."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-api.php:360
+msgid "Redux Framework is not installed. Please install it."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-api.php:725
+msgid "Unable to create a section due to missing id and title."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-api.php:743
+msgid ""
+"Unable to create a section due an empty section array or the section "
+"variable passed was not an array."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:134
+#| msgid "Regular"
+msgid "Regular 400"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:138
+msgid "Regular 400 Italic"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:142
+msgid "Bold 700"
+msgstr "Дебел 700"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:146
+msgid "Bold 700 Italic"
+msgstr "Дебел 700 курсив"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:277
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:281
+msgid "Options"
+msgstr "Опции"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:344
+#| msgid "Redux Framework"
+msgid "Redux Framework Notice"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:347
+msgid ""
+"There are references to the Redux Framework support site in your config's "
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:350
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:374
+msgid ""
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:368
+#| msgid "Redux Framework"
+msgid "Redux Framework Notice:"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-args.php:371
+msgid ""
+"There are references to the Redux Framework support site in your config's"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-cdn.php:127
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+"Моля, почакай няколко минути и после опитай да опресниш страницата. Невъзмо "
+"зареждане на някои отдалечени скриптове."
+
+#. translators: %s: URL.
+#: includes/redux-framework/redux-core/inc/classes/class-redux-cdn.php:130
+#, php-format
+#| msgid ""
+#| "If you are developing offline, please download and install the <a href="
+#| "\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to "
+#| "bypass the our CDN and avoid this warning"
+msgid ""
+"If you are developing offline, please download and install the %s plugin/"
+"extension to bypass our CDN and avoid this warning"
+msgstr ""
+
+#. translators: %s: CDN handle.
+#: includes/redux-framework/redux-core/inc/classes/class-redux-cdn.php:134
+msgid "Redux Framework Warning"
+msgstr "Redux Framework Предупреждения"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-cdn.php:134
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr "%s CDN е недостъпна. Някои управлеиня не могат да предават правилно."
+
+#. translators: %s: Vendor support URL. %s: Admin pluygins page.
+#: includes/redux-framework/redux-core/inc/classes/class-redux-cdn.php:182
+#, php-format
+#| msgid ""
+#| "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+#| "installed or not activated and thus, some controls may not render "
+#| "properly.  Please ensure that it is installed and <a href=\"%s"
+#| "\">activated</a>"
+msgid ""
+"The %1$s (or extension) is either not installed or not activated and thus, "
+"some controls may not render properly.  Please ensure that it is installed "
+"and %2$s"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-cdn.php:182
+#| msgid "Active"
+msgid "activated."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:136
+#| msgid "Security check failed!"
+msgid "Security check failed."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:279
+#, php-format
+msgid ""
+"Register <strong>%1$s</strong> to enable automatic Google Font updates "
+"service. Plus unlock all free block templates in the Redux template library."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:284
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:707
+msgid "learn more"
+msgstr "научете повече"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:291
+msgid "Register Now"
+msgstr "Регистрирай се"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:292
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:404
+msgid "No thanks"
+msgstr "Не, благодаря"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:336
+msgid ""
+"You’re almost done. Register for our service to unlock even more tools to "
+"help you build better sites faster in WordPress."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:342
+msgid "Dismiss this notice"
+msgstr "Отхвърли съобщението"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:357
+msgid "Visit our website to learn more!"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:369
+msgid ""
+"Redux helps you to take your site to the next level with tools that greatly "
+"enhance your WordPress experience."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:379
+msgid "Build better sites faster with Redux"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:383
+msgid ""
+"The Redux block library service allows you to build any site you want in "
+"minutes with a click of a button. With over 1,000+ templates, Redux helps "
+"you build sites fast!"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:392
+msgid ""
+"No registration is required to use Redux as you always have. By registering "
+"for our service you gain access to Google Font updates as well as access to "
+"all free templates in our block template library."
+msgstr ""
+
+#. translators: 1. Name
+#. phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:404
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:349
+msgid "No Thanks"
+msgstr "Не, Благодаря"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:442
+#| msgid "Redux Version"
+msgid "Redux Logo"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:447
+msgid ""
+"Activate essential WordPress security and performance tools by setting up "
+"Redux"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:464
+msgid "Security & Backups"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:471
+msgid ""
+"Redux protects you against brute force attacks and unauthorized logins. "
+"Basic protection is always free, while premium plans add unlimited backups "
+"of your whole site, spam protection, malware scanning, and automated fixes."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:484
+msgid "Built-in Performance"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:491
+msgid ""
+"Activate site accelerator tools and watch your page load times decrease—"
+"we'll optimize your images and serve them from our own powerful global "
+"network of servers, and speed up your mobile site to reduce bandwidth usage."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:507
+msgctxt "a link that closes the modal window that offers to connect Redux"
+msgid "Not now, thank you."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:532
+msgid ""
+"<strong>Redux is activated!</strong> Each site on your network must be "
+"connected individually by an admin on that site."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-connection-banner.php:554
+#, php-format
+msgid ""
+"By clicking the <strong>Register</strong> button, you agree to our <a href="
+"\"%1$s\" target=\"_blank\">terms of service</a>, to create an account, and "
+"to share details of your usage metrics with Redux.io."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:175
+msgid "Gutenberg is currently disabled!"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:183
+msgid "Hmm, it seems something else is disabling Gutenberg..."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:186
+msgid "Your theme author has disabled Gutenberg!"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:189
+msgid "Looks like something has disabled Gutenberg?"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:194
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:200
+msgid "Enable Gutenberg"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:198
+msgid "Your theme"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:218
+#| msgid "Disable"
+msgid "Disable Plugin"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:221
+#| msgid "Active Plugins"
+msgid "Disable Plugins"
+msgstr ""
+
+#. translators: 1. Name
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:340
+#| msgid "Redux Plugin File"
+msgid "Redux WordPress Plugin"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:510
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:316
+msgid "Redux"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enqueue.php:625
+#: includes/redux-framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:695
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Промените ви не са запазени. Да ги запазим ли сега?"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enqueue.php:641
+#: includes/redux-framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:696
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Сигурни ли сте? Нулирането ще изтрие всички ваши стойности."
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enqueue.php:657
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"Сигурен ли си? При ресет ще се изтрият всички потребителски настройки в "
+"секцията."
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enqueue.php:673
+#: includes/redux-framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:697
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Текущите настройки ще бъдат заменени с предварително зададени стойности. Ще "
+"продължиш ли?"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enqueue.php:689
+msgid ""
+"Your current options will be replaced with the values of this import. Would "
+"you like to proceed?"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enqueue.php:703
+msgid "Please Wait"
+msgstr "Моля, изчакайте"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enqueue.php:716
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+"Има грешка при запазването. Тук може да видиш резултат от действията си:"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-enqueue.php:720
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+"Има проблем с действията ти. Моля, опитай пак или презареди страницата."
+
+#. translators: %1$s Extension friendly name. %2$s: minimum Redux version.
+#: includes/redux-framework/redux-core/inc/classes/class-redux-extension-abstract.php:227
+#, php-format
+#| msgid "The version of Redux Framework installed on your site."
+msgid "The %1$s extension requires Redux Framework version %2$s or higher."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-extension-abstract.php:227
+msgid "You are currently running Redux Framework version "
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-extension-abstract.php:227
+msgid ""
+"This field will not render in your option panel, and featuress of this "
+"extension will not be available until the latest version of Redux Framework "
+"has been installed."
+msgstr ""
+
+#. translators: %s is the name of an extension
+#: includes/redux-framework/redux-core/inc/classes/class-redux-extensions.php:92
+#, php-format
+msgid "The `%s` extension was not located properly"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:37
+msgid "Field ID"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:39
+msgid "Subtitle"
+msgstr "Подзаглавие"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:41
+msgid "Class"
+msgstr "Клас"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:42
+msgid "Compiler"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:43
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:991
+msgid "Default"
+msgstr "По подразбиране"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:44
+msgid "Disabled"
+msgstr "Изключено"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:45
+msgid "Hint"
+msgstr "Подсказка"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:46
+#| msgid "File Permission Issues"
+msgid "Permissions"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-field.php:47
+msgid "Required"
+msgstr "Задължително"
+
+#. translators: %1$s: Upload URL.  %2$s: Codex URL.
+#: includes/redux-framework/redux-core/inc/classes/class-redux-filesystem.php:149
+#: includes/redux-framework/redux-core/inc/classes/class-redux-filesystem.php:443
+msgid "File Permission Issues"
+msgstr "Проблем с правата на файла"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-filesystem.php:149
+#: includes/redux-framework/redux-core/inc/classes/class-redux-filesystem.php:443
+#, php-format
+#| msgid ""
+#| "We were unable to modify required files. Please ensure that <code>%1s</"
+#| "code> has the proper read-write permissions, or modify your wp-config.php "
+#| "file to contain your FTP login credentials as <a href=\"%2s\" target="
+#| "\"_blank\">outlined here</a>."
+msgid ""
+"We were unable to modify required files. Please ensure that %1$s has the "
+"proper read-write permissions, or modify your wp-config.php file to contain "
+"your FTP login credentials as %2$s."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-filesystem.php:149
+#: includes/redux-framework/redux-core/inc/classes/class-redux-filesystem.php:443
+msgid "outlined here"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-functions.php:509
+msgid "Support hash could not be generated. Please try again later."
+msgstr "Хеша за поддръжка не може да се генерира. Моля, опитай пак после."
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-helpers.php:1269
+msgid "version"
+msgstr "версия"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-helpers.php:1269
+msgid "is out of date. The core version is"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:172
+msgid "Enable"
+msgstr "Включи"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:177
+msgid "Disable"
+msgstr "Изключи"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:184
+msgid "moving the mouse over"
+msgstr "премести мишката в/у"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:186
+msgid "clicking"
+msgstr "кликване"
+
+#. translators: %1$s: Mousr action.  %2$s: Hint status.
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:191
+#, php-format
+#| msgid ""
+#| "Hints are tooltips that popup when %d the hint icon, offering addition "
+#| "information about the field in which they appear.  They can be %d d by "
+#| "using the link below."
+msgid ""
+"Hints are tooltips that popup when %1$s the hint icon, offering addition "
+"information about the field in which they appear.  They can be %2$s by using "
+"the link below."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:196
+msgid "Hints"
+msgstr "Съвети"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:212
+msgid "Hint Tooltip Preferences"
+msgstr ""
+
+#. translators: %1$s is the field ID, %2$s is the field type.
+#: includes/redux-framework/redux-core/inc/classes/class-redux-page-render.php:516
+#, php-format
+msgid "Field %1$s could not be displayed. Field type %2$s was not found."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:86
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "Внимание - Панела с опции няма да работи коректно без javascript!"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:155
+msgid "Settings Imported!"
+msgstr "Параметрите импортирани!"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:176
+msgid "All Defaults Restored!"
+msgstr "Всичко се връща по подразбиране!"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:197
+msgid "Section Defaults Restored!"
+msgstr "Секцията по подразборане е възстановена!"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:218
+msgid "Settings Saved!"
+msgstr "Настройките са запазени!"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:245
+msgid "Settings have changed, you should save them!"
+msgstr "Настройките са променени, трябва да за запазиш!"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:259
+msgid "error(s) were found!"
+msgstr "намерени грешка(и)!"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:274
+msgid "warning(s) were found!"
+msgstr "предупреждение(я) са намерени!"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:394
+msgid ""
+"Your panel has bundled copies of Redux Framework template files that are "
+"outdated!"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-panel.php:394
+msgid "Please update them now as functionality issues could arise."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-rest-api-builder.php:68
+#: includes/redux-framework/redux-core/inc/classes/class-redux-rest-api-builder.php:83
+msgid "The field type"
+msgstr ""
+
+#. translators: Number of years
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:98
+#, php-format
+msgid "%s years"
+msgstr "%s години"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:100
+msgid "a year"
+msgstr ""
+
+#. translators: Number of weeks
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:107
+#, php-format
+msgid "%s weeks"
+msgstr "%s седмици"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:109
+msgid "a week"
+msgstr ""
+
+#. translators: Number of days
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:116
+#, php-format
+msgid "%s days"
+msgstr "%s дни"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:118
+msgid "a day"
+msgstr ""
+
+#. translators: Number of hours
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:125
+#, php-format
+msgid "%s hours"
+msgstr "%s часа"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:127
+msgid "an hour"
+msgstr ""
+
+#. translators: Number of minutes
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:134
+#, php-format
+msgid "%s minutes"
+msgstr "%s минути"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:136
+msgid "a minute"
+msgstr ""
+
+#. translators: Number of seconds
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:143
+#, php-format
+msgid "%s seconds"
+msgstr "%s секунди"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:145
+msgid "a second"
+msgstr ""
+
+#. translators: 1. Name
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:275
+#, php-format
+#| msgid "WordPress Environment"
+msgid "%s WordPress Plugin"
+msgstr ""
+
+#. translators: 1. Name
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:279
+#, php-format
+msgid "Are you enjoying %s?"
+msgstr ""
+
+#. translators: 1. Name, 2. Time
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:282
+#, php-format
+msgid ""
+"You have been using %1$s for %2$s now. Would you mind leaving a review to "
+"let us know know what you think? We'd really appreciate it!"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:286
+msgid "Leave a Review"
+msgstr "Оставете ревю"
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-user-feedback.php:287
+msgid "No thanks / I already have"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/classes/class-redux-wordpress-data.php:363
+msgid "[unassigned]"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:721
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Има промени които не са записани. Искаш ли да ги запазиш сега?"
+
+#: includes/redux-framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:722
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "Сигурен ли си? При ресет ще се загубят всички потребителски настройки."
+
+#: includes/redux-framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:723
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Текущите настройки ще бъдат заменени с предварително зададени стойности. Ще "
+"продължиш ли?"
+
+#: includes/redux-framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:97
+msgid "Press return or enter to open this panel"
+msgstr "Натисни върни се или enter за да се отвори панела"
+
+#. translators: %s is the site/panel title in the Customizer
+#: includes/redux-framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:126
+#: includes/redux-framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:167
+#| msgid "You are customizing %s"
+msgid "You are customizing"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:163
+#: includes/redux-framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-section.php:147
+msgid "Back"
+msgstr "Назад"
+
+#: includes/redux-framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:174
+msgid "Help"
+msgstr "Помощ"
+
+#: includes/redux-framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-section.php:91
+msgid "Press return or enter to expand"
+msgstr "Натисни върни се или enter  за да се разшири"
+
+#: includes/redux-framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-section.php:140
+msgid "Press return or enter to open"
+msgstr "Натисни върни се или enter за да се отвори"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/class-redux-extension-import-export.php:114
+msgid "Import / Export"
+msgstr "Импорт / Експорт"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:77
+msgid "Import Options"
+msgstr "Опции за импорт"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:83
+#| msgid "Import from File"
+msgid "Import from Clipboard"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:90
+msgid "Import from URL"
+msgstr "Импорт от URL"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:97
+msgid "Upload file"
+msgstr "Качи файл"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:104
+msgid "Paste your clipboard data here."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:114
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Въведи URL към други сайтове, като опция и натисни импорт за да зареди "
+"опциите за този сайт."
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:128
+msgid "Import"
+msgstr "Импорт"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:131
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"ВНИМАНИЕ' Това ще презапише всички съществуващи стойности! Моля, действай "
+"внимателно!"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:139
+msgid "Export Options"
+msgstr "Опции на експорт"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:143
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Тук може да копираш/изтеглиш текущите настройки. Запази ги, защото може да "
+"се ползват като резервно копие, ако нещо се обърка или да възстановиш "
+"настройките на сайта (или други сайтове)."
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:150
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:152
+msgid "Copy to Clipboard"
+msgstr "Копирай в клипборда"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:151
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:159
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:77
+msgid "Copied!"
+msgstr "Копирано!"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:155
+msgid "Export File"
+msgstr "Експортиране на файл"
+
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:158
+#: includes/redux-framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:161
+msgid "Copy Export URL"
+msgstr "Копирай експортния URL адрес"
+
+#: includes/redux-framework/redux-core/inc/extensions/options_object/class-redux-extension-options-object.php:72
+#: includes/redux-framework/redux-core/inc/extensions/options_object/options_object/class-redux-options-object.php:100
+msgid "Options Object"
+msgstr "Опции обект"
+
+#: includes/redux-framework/redux-core/inc/extensions/options_object/options_object/class-redux-options-object.php:106
+msgid "Show Object in Javascript Console Object"
+msgstr "Покажи обект в Javascript Console Object"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:124
+#: includes/redux-framework/redux-core/inc/fields/color/class-redux-color.php:63
+#: includes/redux-framework/redux-core/inc/fields/color_gradient/class-redux-color-gradient.php:116
+msgid "Transparent"
+msgstr "Прозрачно"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:142
+msgid "Background Repeat"
+msgstr "Повторение на фона"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:155
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:173
+#| msgid "Order By"
+msgid "Border Box"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:156
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:174
+#| msgid "WP Content URL"
+msgid "Content Box"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:157
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:175
+msgid "Padding Box"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:160
+msgid "Background Clip"
+msgstr "Фонов клип"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:178
+msgid "Background Origin"
+msgstr "Фон Оригинал"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:195
+msgid "Background Size"
+msgstr "Размер на фона"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:212
+msgid "Background Attachment"
+msgstr "Прикачен фон"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:224
+msgid "Left Top"
+msgstr "Ляво горе"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:225
+msgid "Left center"
+msgstr "Ляво център"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:226
+msgid "Left Bottom"
+msgstr "Ляво Долу"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:227
+msgid "Center Top"
+msgstr "Център горе"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:229
+msgid "Center Bottom"
+msgstr "Център долу"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:230
+msgid "Right Top"
+msgstr "Дясно горе"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:231
+msgid "Right center"
+msgstr "Дясно център"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:232
+msgid "Right Bottom"
+msgstr "Дясно долу"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:235
+msgid "Background Position"
+msgstr "Позиция на фона"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:290
+#: includes/redux-framework/redux-core/inc/fields/media/class-redux-media.php:51
+msgid "No media selected"
+msgstr "Няма избрана медия"
+
+#: includes/redux-framework/redux-core/inc/fields/background/class-redux-background.php:335
+#: includes/redux-framework/redux-core/inc/fields/media/class-redux-media.php:200
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:107
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:251
+msgid "Upload"
+msgstr "Качи"
+
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:123
+#: includes/redux-framework/redux-core/inc/fields/spacing/class-redux-spacing.php:223
+msgid "Top"
+msgstr "Горе"
+
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:147
+#: includes/redux-framework/redux-core/inc/fields/spacing/class-redux-spacing.php:255
+msgid "Bottom"
+msgstr "Долу"
+
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:169
+msgid "Solid"
+msgstr "Солиден"
+
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:170
+msgid "Dashed"
+msgstr "На тирета"
+
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:171
+msgid "Dotted"
+msgstr "На точки"
+
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:172
+msgid "Double"
+msgstr "Двойна"
+
+#: includes/redux-framework/redux-core/inc/fields/border/class-redux-border.php:176
+msgid "Border style"
+msgstr "Рамка стил"
+
+#: includes/redux-framework/redux-core/inc/fields/color_rgba/class-redux-color-rgba.php:42
+msgid "Choose"
+msgstr "Изберете"
+
+#: includes/redux-framework/redux-core/inc/fields/color_rgba/class-redux-color-rgba.php:43
+msgid "Cancel"
+msgstr "Отказ"
+
+#: includes/redux-framework/redux-core/inc/fields/color_rgba/class-redux-color-rgba.php:45
+msgid "Select Color"
+msgstr "Изберете Цвят"
+
+#: includes/redux-framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:144
+msgid "Width"
+msgstr "Широчина"
+
+#: includes/redux-framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:173
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:561
+msgid "Height"
+msgstr "Височина"
+
+#: includes/redux-framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:194
+#: includes/redux-framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:198
+#: includes/redux-framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:200
+#: includes/redux-framework/redux-core/inc/fields/spacing/class-redux-spacing.php:282
+#: includes/redux-framework/redux-core/inc/fields/spacing/class-redux-spacing.php:283
+msgid "Units"
+msgstr "Мерни единици"
+
+#: includes/redux-framework/redux-core/inc/fields/gallery/class-redux-gallery.php:48
+msgid "Add/Edit Gallery"
+msgstr "Добави/Редктирей галерия"
+
+#: includes/redux-framework/redux-core/inc/fields/gallery/class-redux-gallery.php:49
+msgid "Clear Gallery"
+msgstr "Изчисти Галрията"
+
+#: includes/redux-framework/redux-core/inc/fields/link_color/class-redux-link-color.php:65
+msgid "Regular"
+msgstr "Регулярен"
+
+#: includes/redux-framework/redux-core/inc/fields/link_color/class-redux-link-color.php:90
+msgid "Hover"
+msgstr "Показалец Отгоре"
+
+#: includes/redux-framework/redux-core/inc/fields/link_color/class-redux-link-color.php:115
+msgid "Visited"
+msgstr "Посетен"
+
+#: includes/redux-framework/redux-core/inc/fields/link_color/class-redux-link-color.php:140
+msgid "Active"
+msgstr "Активен"
+
+#: includes/redux-framework/redux-core/inc/fields/link_color/class-redux-link-color.php:165
+msgid "Focus"
+msgstr "Фокусиран"
+
+#: includes/redux-framework/redux-core/inc/fields/multi_text/class-redux-multi-text.php:31
+msgid "Add More"
+msgstr "Добави още"
+
+#: includes/redux-framework/redux-core/inc/fields/select/class-redux-select.php:166
+#: includes/redux-framework/redux-core/inc/fields/select_image/class-redux-select-image.php:133
+msgid "No items of this type were found."
+msgstr "Няма елементи от типа, който търсиш."
+
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:32
+msgid "Slide"
+msgstr "Слайд"
+
+#. translators: New accordion title.
+#. translators:  Content title for new accordion.
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:48
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:235
+#, php-format
+msgid "New %s"
+msgstr "Нов  %s"
+
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:154
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:290
+msgid "URL"
+msgstr "URL"
+
+#. translators:  Content title for accordion.
+#: includes/redux-framework/redux-core/inc/fields/slides/class-redux-slides.php:365
+#, php-format
+msgid "Add %s"
+msgstr "Добави %s"
+
+#: includes/redux-framework/redux-core/inc/fields/text/class-redux-text.php:27
+msgid ""
+"The Text field accepts any form of text and optionally validates the text "
+"before saving the value."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/text/class-redux-text.php:29
+msgid "Display a qTip div when active on the text field."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/text/class-redux-text.php:30
+msgid "Placeholder text."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:291
+msgid "Font Family"
+msgstr "Шрифт"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:293
+msgid "Font family"
+msgstr "Име на шрифта"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:333
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:335
+msgid "Backup Font Family"
+msgstr "Бекъп Шрифт"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:354
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:374
+msgid "Font style"
+msgstr "Стил на шрифта"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:355
+msgid "Font Weight &amp; Style"
+msgstr "Стил и дебелина на шрифта"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:372
+msgid "Style"
+msgstr "Стил"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:387
+msgid "Font subsets"
+msgstr "Шрифт на подгрупи"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:395
+msgid "Font Subsets"
+msgstr "Шрифт на подгрупи"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:398
+msgid "Subsets"
+msgstr "Подгрупа"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:400
+msgid "Font script"
+msgstr "Шрифт на скрипта"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:414
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:415
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:417
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:419
+msgid "Text Align"
+msgstr "Подравняване"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:428
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:464
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:490
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:519
+msgid "inherit"
+msgstr "наследена"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:429
+msgid "left"
+msgstr "ляво"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:430
+msgid "right"
+msgstr "дясно"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:431
+msgid "center"
+msgstr "център"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:432
+msgid "justify"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:433
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:463
+msgid "initial"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:445
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:446
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:448
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:450
+msgid "Text Transform"
+msgstr "Трансформация на текста"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:459
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:518
+msgid "none"
+msgstr "никой"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:460
+msgid "capitalize"
+msgstr "с главни букви"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:461
+msgid "uppercase"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:462
+msgid "lowercase"
+msgstr "с малки букви"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:476
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:477
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:479
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:481
+msgid "Font Variant"
+msgstr "Варианти на шрифта"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:491
+msgid "normal"
+msgstr "нормално"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:492
+msgid "small-caps"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:504
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:505
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:507
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:509
+msgid "Text Decoration"
+msgstr "Декорация на текста"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:520
+msgid "underline"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:521
+#| msgid "Cover"
+msgid "overline"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:522
+msgid "line-through"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:523
+msgid "blink"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:536
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:541
+msgid "Font Size"
+msgstr "Размер на шрифта"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:542
+msgid "Size"
+msgstr "Размер"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:555
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:560
+msgid "Line Height"
+msgstr "Височина на линията"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:575
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:580
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:581
+msgid "Word Spacing"
+msgstr "Разстояние между буквите"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:595
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:600
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:601
+msgid "Letter Spacing"
+msgstr "Разстояние между буквите"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:636
+msgid "Font Color"
+msgstr "Цвят на Шрифта"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:643
+msgid "Font color"
+msgstr "Цвят на шрифта"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:704
+msgid ""
+"Your Google Fonts are out of date. In order to update them you must register "
+"for Redux to enable updates."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:706
+msgid "to enable font updates"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:712
+msgid "Run a"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:712
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:714
+msgid "one-time update"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:714
+msgid "Automated updates"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:762
+msgid "Downloading Google Fonts..."
+msgstr ""
+
+#. translators: Aria title, link title.
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:764
+#, php-format
+msgid "Update Failed|msg. %1$s"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:764
+msgid "Retry?"
+msgstr ""
+
+#. translators: Javascript reload command, link title.
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:766
+#, php-format
+msgid "Updated! %1$s to start using your updated fonts."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:766
+msgid "Reload the page"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:1206
+msgid "Standard Fonts"
+msgstr "Стандартен шрифт"
+
+#: includes/redux-framework/redux-core/inc/fields/typography/class-redux-typography.php:1289
+msgid "Google Webfonts"
+msgstr "Google уеб шрифтове"
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:42
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:64
+msgid "RECOMMENDED"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:42
+msgid "If you are submitting to WordPress.org Theme Repository, it is"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:42
+msgid "strongly"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:42
+msgid "suggested that you read"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:42
+msgid "this document"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:42
+msgid "or your theme will be rejected because of Redux."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "REQUIRED"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "You MUST delete"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:50
+#| msgid ""
+#| "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+#| "<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+#| "submission because of Redux."
+msgid ""
+"or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:64
+#| msgid ""
+#| "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+#| "arguments MUST be used for WP.org submissions, or you will be rejected "
+#| "because of your Redux configuration."
+msgid ""
+"The following arguments MUST be used for WP.org submissions, or you will be "
+"rejected because of your Redux configuration."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:42
+msgid "Redux localization utilities"
+msgstr "Redux локализация комунални услуги"
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:43
+msgid "Redux Resting Diles"
+msgstr "Redux Resting Diles"
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:44
+msgid "Redux Code Styles"
+msgstr "Стил на Redux Кода"
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:45
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:46
+msgid "Redux Plugin File"
+msgstr "Redux плъгин файл"
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:47
+msgid "Redux Boostrap Tests"
+msgstr "Redux Boostrap тестове"
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:48
+msgid "CI Testing FIle"
+msgstr "CI Тестови файл"
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:49
+msgid "PHP Unit Testing"
+msgstr "PHP единица за тестове"
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:62
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:62
+#| msgid ""
+#| "It appears that you have embedded the full Redux package inside your "
+#| "theme. You need only embed the <strong>ReduxCore</strong> folder. "
+#| "Embedding anything else will get your rejected from theme submission. "
+#| "Suspected Redux package file(s):"
+msgid ""
+"folder. Embedding anything else will get your rejected from theme "
+"submission. Suspected Redux package file(s):"
+msgstr ""
+
+#. translators: %1$s: santizied value.  %2$s: Old value.
+#: includes/redux-framework/redux-core/inc/validation/color/class-redux-validation-color.php:34
+#, php-format
+msgid ""
+"Invalid HTML color code %1$s. Please enter a valid code. No value was saved."
+msgstr ""
+
+#. translators: %1$s: santizied value.  %2$s: Old value.
+#: includes/redux-framework/redux-core/inc/validation/color/class-redux-validation-color.php:46
+#, php-format
+msgid "Sanitized value and saved as %1$s instead of %2$s."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/validation/comma_numeric/class-redux-validation-comma-numeric.php:34
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr "Осигури списък на числови стойности разделени със запетая за опцията."
+
+#: includes/redux-framework/redux-core/inc/validation/css/class-redux-validation-css.php:27
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr "Опасни стрингове бяха намерени в CSS и са филтрирани."
+
+#: includes/redux-framework/redux-core/inc/validation/date/class-redux-validation-date.php:27
+msgid "This field must be a valid date."
+msgstr "Полето трябва да има валидна дата."
+
+#: includes/redux-framework/redux-core/inc/validation/email/class-redux-validation-email.php:27
+msgid "You must provide a valid email for this option."
+msgstr "Трябва да осигуриш валидна поща за опцията."
+
+#: includes/redux-framework/redux-core/inc/validation/html_custom/class-redux-validation-html-custom.php:27
+#| msgid ""
+#| "You must not enter any HTML in this field, all HTML tags have been "
+#| "removed."
+msgid "Unallowed HTML was found in this field and has been removed."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/validation/js/class-redux-validation-js.php:27
+msgid "Javascript has been successfully escaped."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/validation/no_html/class-redux-validation-no-html.php:27
+#| msgid ""
+#| "You must not enter any HTML in this field, all HTML tags have been "
+#| "removed."
+msgid "You must not enter any HTML in this field.  All HTML has been removed."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/validation/no_special_chars/class-redux-validation-no-special-chars.php:27
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Не трябва да се въвеждат специални символи в това поле. Всички специални "
+"символи са премахнати."
+
+#: includes/redux-framework/redux-core/inc/validation/not_empty/class-redux-validation-not-empty.php:27
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Полето нетрябва да е празно. Моля, въведи стойност."
+
+#: includes/redux-framework/redux-core/inc/validation/numeric/class-redux-validation-numeric.php:27
+msgid "You must provide a numerical value for this option."
+msgstr "Трябва да въведеш числова стойност за опцията."
+
+#: includes/redux-framework/redux-core/inc/validation/unique_slug/class-redux-validation-unique-slug.php:29
+#| msgid ""
+#| "That URL slug is in use, please choose another. <code>%s</code> is open "
+#| "for use."
+msgid "That URL slug is in use, please choose another."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/validation/url/class-redux-validation-url.php:27
+msgid "You must provide a valid URL for this option."
+msgstr "Трябва да осигуриш валиден URL за опцията."
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:87
+msgid "If you like"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:87
+msgid "please leave us a"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:87
+msgid "rating. A huge thank you in advance!"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:104
+msgid "What is Redux Framework?"
+msgstr "Какво е Redux Framework?"
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:104
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:107
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:216
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:12
+msgid "Get Support"
+msgstr "Вземи поддръжка"
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:110
+msgid "Redux Health Check"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:206
+#| msgid "What is Redux Framework?"
+msgid "What is Redux?"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:211
+msgid "Health Check"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:302
+msgid "Disable Panel Demo"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/class-redux-welcome.php:308
+msgid "Enable Panel Demo"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:17
+msgid "Welcome to"
+msgstr "Добре дошли в"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:21
+msgid ""
+"Redux is the world's most powerful and widely used WordPress interface "
+"builder. We are trusted by millions of developers and end users world-wide."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:25
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:149
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:47
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:875
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:18
+msgid "Version"
+msgstr "Версия"
+
+#. translators: %s: HTML.
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:34
+#, php-format
+msgid "Redux is Where the End User %s Interacts with WordPress"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:35
+msgid ""
+"Redux is a foundation on which to build any interface in WordPress. It's "
+"time saved, frustrations reduced, and a unified experience."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:38
+#| msgid "Meta Box"
+msgid "Metaboxes"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:39
+msgid "Taxonomies"
+msgstr "Термини"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:40
+msgid "User Meta"
+msgstr "Потребителски мета"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:41
+#| msgid "Optional"
+msgid "Options Panel"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:42
+msgid "Customizer"
+msgstr "Персонализиране"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:43
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:57
+msgid "Did I install this?"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:61
+msgid ""
+"Maybe not! These items are using Redux. If you want to keep using them, "
+"Redux will need to remain installed and activated."
+msgstr ""
+
+#. translators: %1$s: URL, %2$s: close tag.
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:72
+#, php-format
+msgid ""
+"Maybe not! If you want to see what Redux is all about, click here to "
+"%1$sActivate Demo Mode%2$s."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:99
+msgid "Version:"
+msgstr "Версия:"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:104
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:157
+msgid "By"
+msgstr "От"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:111
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:863
+msgid "Theme"
+msgstr "Тема"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/about.php:163
+msgid "Plugin"
+msgstr "Разширение"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:39
+msgid "Redux - Health Report"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:43
+#| msgid ""
+#| "Our core mantra at Redux is backwards compatibility. With hundreds of "
+#| "thousands of instances worldwide, you can be assured that we will take "
+#| "care of you and your clients."
+msgid ""
+"Our core mantra at Redux is backward compatibility. With millions instances "
+"worldwide, all we care about is keeping can be assured that we will take "
+"care of you."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:56
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"Моля, копирай и постави  информацията в блета за връзка с техническа "
+"подръжка:"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:61
+msgid "Get System Report"
+msgstr "Вземи системен доклад"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:67
+msgid "Understanding the Status Report"
+msgstr "Разбиране на системния доклад"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:78
+msgid "Copy for Support"
+msgstr "Копие за поддръжката"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:88
+msgid "WordPress Environment"
+msgstr "WordPress среда"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:95
+msgid "Home URL"
+msgstr "Начало URL"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:98
+msgid "The URL of your site's homepage."
+msgstr "URL на началната страница на сайта."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:104
+msgid "Site URL"
+msgstr "URL на сайта"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:107
+msgid "The root URL of your site."
+msgstr "Основния URL адрес на сайта."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:115
+msgid "Redux Version"
+msgstr "Redux Версия"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:118
+msgid "The version of Redux Framework installed on your site."
+msgstr "Версията на Redux Framework инсталирана на сайта."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:126
+msgid "Redux Data Directory Writable"
+msgstr "Папка Redux Data е достъпна за писане"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:129
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:152
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+"Redux и неговите разширения записват данни в папка <code>качени</code>. "
+"Папката трябва да е достъпна за писане."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:141
+#| msgid "To allow data saving, make <code>%s</code> writable."
+msgid "To allow data saving, make"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:141
+#| msgid "Disable"
+msgid "writable."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:149
+msgid "WP Content URL"
+msgstr "WP Съдържание URL"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:160
+msgid "WP Version"
+msgstr "WP Версия"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:163
+msgid "The version of WordPress installed on your site."
+msgstr "Версията на WordPress инсталирана на сайта ви."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:171
+msgid "WP Multisite"
+msgstr "WP Мултисайт"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:174
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Независимо дали използвате WordPress Multisite функцията."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:188
+msgid "Permalink Structure"
+msgstr "Структура на постоянните връзки"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:191
+msgid ""
+"The current permalink structure as defined in WordPress Settings->Permalinks."
+msgstr ""
+"Текущата структура на постоянните връзки дефинирана в WordPres->Пермалинкове."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:200
+msgid "Front Page Display"
+msgstr "Покзване на първа страница"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:203
+#| msgid "The current Reading mode of Wordpress."
+msgid "The current Reading mode of WordPress."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:212
+msgid "Front Page"
+msgstr "Front Page"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:215
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+"Избраната текуща страница, която действа като начална страница на сайта."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:223
+msgid "Posts Page"
+msgstr "Страница със статии"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:226
+msgid "The currently selected page in where blog posts are displayed."
+msgstr "Избраната текуща страница, която показва статиите в блога."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:237
+msgid "WP Memory Limit"
+msgstr "WP лимит на паметта"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:240
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "Максималния размер на паметта (RAM) която сайта ползва в даден момент."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:247
+msgid "We recommend setting memory to at least 40MB. See:"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:247
+msgid "Increasing memory allocated to PHP"
+msgstr "Увеличаване на използваната памет от PHP"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:256
+msgid "Database Table Prefix"
+msgstr "Таблица префикс БД"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:259
+#| msgid "The prefix structure of the current Wordpress database."
+msgid "The prefix structure of the current WordPress database."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:267
+msgid "WP Debug Mode"
+msgstr "WP режим за проследяване на грешки"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:270
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Показва дали WordPress е в режим подръжка."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:284
+msgid "Language"
+msgstr "Език"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:287
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+"Текущият език който се ползва от WordPress. По подразбиране = Английски"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:299
+msgid "Browser"
+msgstr "Браузър"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:306
+msgid "Browser Info"
+msgstr "Браузър инфо"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:309
+#| msgid "Information about web browser current in use."
+msgid "Information about the current web browser."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:326
+msgid "Server Environment"
+msgstr "Сървърна среда"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:333
+msgid "Server Info"
+msgstr "Информация за Сървъра"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:336
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Информация за уеб сървъра на който се хоства сайта."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:344
+msgid "Localhost Environment"
+msgstr "Среда на локален хост"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:347
+msgid "Is the server running in a localhost environment."
+msgstr "Сървъра работи в среда локален хост."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:363
+msgid "PHP Version"
+msgstr "PHP Версия"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:366
+msgid "The version of PHP installed on your hosting server."
+msgstr "Версията на PHP инсталирана на хостинг сървъра."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:374
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:377
+msgid "The ABSPATH variable on the server."
+msgstr "ABSPATH е променлива на сървъра."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:386
+msgid "PHP Memory Limit"
+msgstr "Ограничение на паметта за PHP"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:390
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:399
+msgid "The largest filesize that can be contained in one post."
+msgstr "Най-големия файл който може да съдържа една статия."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:395
+msgid "PHP Post Max Size"
+msgstr "PHP макс. размер за качване"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:404
+msgid "PHP Time Limit"
+msgstr "PHP времеви лимит"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:406
+#| msgid ""
+#| "The amount of time (in seconds) that your site will spend on a single "
+#| "operation before timing out (to avoid server lockups)"
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:411
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars (Макс. въвеждане на променливи за PHP)"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:415
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"Максималния брой варианти за една функция, които сървъра може да обработи с "
+"цел защита от претоварване."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:420
+msgid "PHP Display Errors"
+msgstr "Показва PHP грешки"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:424
+msgid "Determines if PHP will display errors within the browser."
+msgstr "Определя дали PHP ще показва грешките в браузъра."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:440
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN е инсталирана"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:443
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+"SUHOSIN е усъвършенставана защитна с-ма за PHP инсталации. Тя е "
+"предназначена да защитава сървъра ти срещу редица известни проблеми в PHP "
+"приложенията от една страна и от друга срещу потенциалните неизвестни "
+"слабости в самите приложения или в ядрото на PHP. Ако сървъра поддържа "
+"SUHOSIN, може да се наложи да се конфигурира и да се увеличи лимита за "
+"подаваните данни."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:461
+msgid "MySQL Version"
+msgstr "MySQL Версия"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:463
+msgid "The version of MySQL installed on your hosting server."
+msgstr "Версията на MySQL инсталирана на хостинг сървъра."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:468
+msgid "Max Upload Size"
+msgstr "Максимална големина при качване"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:470
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr "Най-големия файл който може да се качи в  WordPress инсталацията."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:476
+msgid "Default Timezone is UTC"
+msgstr "Часова зона по подразбиране е UTC"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:479
+msgid "The default timezone for your server."
+msgstr "Часовата зона по подразбиране за сървъра."
+
+#. translators: %s default time zone.
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:487
+#| msgid "Default Timezone is UTC"
+msgid "Default timezone is"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:487
+msgid "it should be UTC"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:502
+msgid "Used when communicating with remote services with PHP."
+msgstr "Ползвай когато комуникира с отдалечения сървър с PHP."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:508
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+"Сървъра ти няма fsockopen или не поддържа cURL - cURL се ползва за "
+"комуникация с други сървъри. Моля, свържи се с хостинг доставчика."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:512
+msgid "Remote Post"
+msgstr "Отдалечена статия"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:513
+msgid "Used to send data to remote servers."
+msgstr "Ползвай за изпращане на данни до отдалечения сървър."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:518
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+"wp_remote_post() неуспешно. Много от разширените функции може да не работят. "
+"Свържи се с хостинг доставчика."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:521
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:536
+msgid "Error:"
+msgstr "Грешка:"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:528
+msgid "Remote Get"
+msgstr "Получи достанционно"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:529
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+"Ползвай за да взмеш информация от отдалечения сървър за обновления и "
+"актуализации."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:534
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+"wp_remote_get() неуспешно. Това е необходимо за да получиш информация от "
+"отдалечени сървъри. Свържи се с хостинг доставчика."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:572
+msgid "Active Plugins"
+msgstr "Active Plugins"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:585
+msgid "Visit plugin homepage"
+msgstr "Посети страницата на плъгина"
+
+#. translators: %s Author name and URL.
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:593
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "от %s"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:613
+msgid "Redux Instance: "
+msgstr "Redux инстанция: "
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:623
+msgid "The opt_name argument for this instance of Redux."
+msgstr "Аргумента opt_name за тази инстанция на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:633
+msgid "The global_variable argument for this instance of Redux."
+msgstr "Аргумента global_variable  за тази инстанция на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:643
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr "Показва, ако режим разработчик е активиран a този случай на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:662
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+"Показва, ако запазените ajax базирани са активирани за този случай на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:681
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+"Слъг на страницата обозначава стринг ползван за опциите на панела на "
+"страница за тази инстанция на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:688
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:695
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+"Променливата определя дали да се показва или не в менюто , като админ меню "
+"елемент за версията на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:702
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+"Родителската страница с комплект променливи които ще бъдат поставени в "
+"опциите на менюто на WordPress администрацията в стр.лента за тази инстанция "
+"на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:710
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr "Показва, ако компилиран флаг е активиран за този случай на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:729
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+"Показва, ако изходен флаг за глобално спиране на всички CSS в активиран за "
+"този случай на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:748
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+"Променливата output_tag задава дали ще се генерира динамичен CSS за "
+"персонализиране и Google шрифтове за тази инстанция на Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:768
+msgid ""
+"These files are calling this opt_name. If you want to alter the config of "
+"this opt_name, modify these files."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:800
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+"Зададения път на оформяне съдържа потребитлски файлове за таи инстанция на "
+"Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:807
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+"Списък с шаблонни файлове наложени според шаблонните файлоwe във версията на "
+"Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:835
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:870
+msgid "The name of the current active theme."
+msgstr "Име на текущо активната тема."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:877
+msgid "The installed version of the current active theme."
+msgstr "Инсталираната верия на текущата активна тема."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:885
+msgid "is available"
+msgstr "е налична"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:891
+msgid "Author URL"
+msgstr "URL адрес на автора"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:893
+msgid "The theme developers URL."
+msgstr "URL на разработчиците на темата."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:898
+msgid "Child Theme"
+msgstr "Дете Тема"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:900
+msgid "Displays whether or not the current theme is a child theme."
+msgstr "Показва дали текущаа тема е Дете."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:908
+#, php-format
+#| msgid ""
+#| "If you're modifying Redux Framework or a parent theme you didn't build "
+#| "personally, we recommend using a child theme. See: <a href=\"%s\" target="
+#| "\"_blank\">How to create a child theme</a>"
+msgid ""
+"If you are modifying Redux Framework on a parent theme that you did not "
+"build personally we recommend using a child theme. See: <a href=\"%s\" "
+"target=\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:917
+msgid "Parent Theme Name"
+msgstr "Име на родителската тема"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:921
+msgid "The name of the parent theme."
+msgstr "Името на родителската тема."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:927
+msgid "Parent Theme Version"
+msgstr "Версия на родителската тема"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:930
+msgid "The installed version of the parent theme."
+msgstr "Инсталираната версия на родителската тема."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:936
+msgid "Parent Theme Author URL"
+msgstr "URL на автора на родителската тема"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/health-report.php:939
+msgid "The parent theme developers URL."
+msgstr "Родителска тема за разработчици URL."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:14
+msgid ""
+"Sometimes you just need some help. Use this form to submit a support URL and "
+"then provide that link to the product developer or our staff."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:29
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:51
+msgid "Generate a Support URL"
+msgstr "Генерира URL за поддръжка"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:30
+msgid "Select Support Type"
+msgstr "Избери типа поддръжка"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:31
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:100
+msgid "How to Get Support"
+msgstr "Как да получа поддръжка"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:37
+msgid "Submit a Support Request"
+msgstr "Предай и заявка за поддръжка"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:41
+msgid "To get started, we will need to generate a support hash."
+msgstr "За да започнеш, ще трябва да се генерира хеш за поддръжка."
+
+#. translators: %s: Redux Health page.
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:46
+#, php-format
+#| msgid ""
+#| "This will provide to your developer all the information they may need to "
+#| "remedy your issue. This action WILL send information securely to a remote "
+#| "server. To see the type of information sent, please look at the  <a href="
+#| "\"%s\">Status tab</a>."
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Health Check</a> tab."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:64
+msgid "Select Your Support Type"
+msgstr "Избери своя тип поддръжка"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:68
+msgid "What type of user are you?"
+msgstr "Какъв тип потребител си?"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:75
+msgid "User"
+msgstr "Потребител"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:77
+msgid "I am a user, using a pre-built product."
+msgstr "Аз съм потребител, ползващ предварително създадени продукти."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:82
+msgid "Developer"
+msgstr "Разработчик"
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:84
+msgid "I am a developer, building a product using Redux."
+msgstr "Аз съм програмист, разработващ продукти ползвайки Redux."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:105
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+"Моля, продължи към Redux Framework проследяване на проблеми и въпроси с "
+"използване на URL за поддръжка отдолу. Не забраавяй да дадеш всяка "
+"информация която би ни помогнала да възпроизведем проблема ти."
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:114
+#| msgid ""
+#| "Listed below are the Wordpress plugins and/or theme installed on your "
+#| "site that utilize Redux Framework. We do not directly support products "
+#| "created with our framework.  It is the responsibility of the plugin or "
+#| "theme developer to support their work. You will need to contact the "
+#| "author(s) of the products listed below with your support questions."
+msgid ""
+"Listed below are the WordPress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:118
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+"Моля, не забравяй да включиш разработчика - чрез копиране и поставяне - URL "
+"за поддръжка в полето отдолу."
+
+#. translators: %s: Support Defined URL.
+#: includes/redux-framework/redux-core/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+"Ако разработчика не е отзивчив, прочети <a href=\"%s\" target=\"_blank"
+"\">следващата статия</a> преди да попиташ директно нашата поддръжка."
+
+#: includes/redux-framework/redux-core/templates/panel/footer.tpl.php:62
+#: includes/redux-framework/redux-core/templates/panel/header-stickybar.tpl.php:26
+msgid "Reset Section"
+msgstr "Възстанови секция"
+
+#: includes/redux-framework/redux-core/templates/panel/footer.tpl.php:63
+#: includes/redux-framework/redux-core/templates/panel/header-stickybar.tpl.php:27
+msgid "Reset All"
+msgstr "Възстанови всичко"
+
+#: includes/redux-framework/redux-core/templates/panel/header-stickybar.tpl.php:16
+msgid "Expand"
+msgstr "Разгръщане"
+
+#: includes/redux-framework/redux-core/templates/panel/header.tpl.php:11
+#: includes/redux-framework/redux-core/templates/panel/header.tpl.php:48
+msgid "Developer Mode Enabled"
+msgstr "Активиран е режим на разработчик"
+
+#: includes/redux-framework/redux-core/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG е активиран"
+
+#: includes/redux-framework/redux-core/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr "работиш в среда на локаленхост"
+
+#: includes/redux-framework/redux-core/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr "и"
+
+#: includes/redux-framework/redux-core/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr "Това е активирано автоматично, защото"
+
+#: includes/redux-framework/redux-core/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+"Ако не си програмист, автора на темата/приложението се доставя с актиеиран "
+"режим на раzработчици. Свържи се с него за да го опраави."
+
+#: includes/sidebars/inspiry-sidebars.php:16
+msgid "Custom Widget Area"
+msgstr "Персонализирана зона за уиджети"
+
+#: includes/sidebars/inspiry-sidebars.php:41
+msgid "Enter new Widget Area name here"
+msgstr ""
+
+#: includes/sidebars/inspiry-sidebars.php:42
+msgid "Add Widget Area"
+msgstr "Добавяне на уиджет зона"
+
+#: includes/social-navs.php:238
+msgid "Share"
+msgstr "Сподели"
+
+#: includes/widgets/advance-search-widget.php:10
+msgid "This widget displays properties search form."
+msgstr ""
+
+#: includes/widgets/advance-search-widget.php:11
+msgid "Inspiry Property Search"
+msgstr ""
+
+#: includes/widgets/advance-search-widget.php:120
+msgid "Find Your Home"
+msgstr "Открий Своя Дом"
+
+#: includes/widgets/advance-search-widget.php:124
+#: includes/widgets/featured-properties-widget.php:112
+msgid "Widget Title"
+msgstr "Заглавие на Джаджата"
+
+#: includes/widgets/featured-properties-widget.php:8
+msgid "Displays random or recent featured properties."
+msgstr ""
+
+#: includes/widgets/featured-properties-widget.php:10
+msgid "Inspiry Featured Properties"
+msgstr ""
+
+#: includes/widgets/featured-properties-widget.php:77
+msgid "Know More"
+msgstr ""
+
+#: includes/widgets/featured-properties-widget.php:89
+msgid "No featured property found!"
+msgstr ""
+
+#: includes/widgets/featured-properties-widget.php:116
+#: vc-elements/properties.php:81
+msgid "Number of Properties"
+msgstr "Брой имоти"
+
+#: includes/widgets/featured-properties-widget.php:120
+msgid "Sort By:"
+msgstr "Подреди по:"
+
+#: includes/widgets/featured-properties-widget.php:122
+msgid "Most Recent"
+msgstr "Най-нови"
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:17
+msgid "Inspiry Mortgage Calculator"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:18
+msgid "It provides an easy to use inspiry mortgage calculator widget."
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:33
+msgid "Monthly Mortgage Payments"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:36
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:90
+msgid "Total Amount"
+msgstr "Обща сума"
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:37
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:91
+msgid "Down Payment"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:38
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:92
+#| msgid "Pinterest URL"
+msgid "Interest Rate"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:39
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:93
+msgid "Mortgage Period"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:64
+msgid "%"
+msgstr "%"
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:71
+msgid "Calculate Mortgage"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:89
+msgid "Mortgage Payments"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:110
+msgid "Total Amount Label"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:123
+#| msgid "Payment Date"
+msgid "Down Payment Label"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:136
+#| msgid "Pinterest URL"
+msgid "Interest Rate Label"
+msgstr ""
+
+#: includes/widgets/mortgage-calculator/mortgage-calculator.php:149
+msgid "Mortgage Period Label"
+msgstr ""
+
+#: includes/widgets/social-icons-widget.php:24
+msgid "RSS URL"
+msgstr ""
+
+#: includes/widgets/social-icons-widget.php:31
+msgid "Display social media icons."
+msgstr ""
+
+#: vc-elements/properties.php:65
+msgid "Display property listing."
+msgstr ""
+
+#: vc-elements/properties.php:66
+msgid "Real Places Theme"
+msgstr ""
+
+#: vc-elements/properties.php:70
+msgid "Layout"
+msgstr "Оформление"
+
+#: vc-elements/properties.php:106
+msgid "Order By"
+msgstr "Подреди по"
+
+#: vc-elements/properties.php:109
+msgid "Date"
+msgstr "Дата"
+
+#: vc-elements/properties.php:115
+msgid "Order"
+msgstr "Поръчка"
+
+#: vc-elements/properties.php:118
+msgid "Descending"
+msgstr "Низходящо"
+
+#: vc-elements/properties.php:119
+msgid "Ascending"
+msgstr "Възходящо"
+
+#: vc-elements/properties.php:145
+msgid "Minimum Bedrooms"
+msgstr "Мин. Спални"
+
+#: vc-elements/properties.php:163
+msgid "Maximum Bedrooms"
+msgstr "Макс. Спални"
+
+#: vc-elements/properties.php:184
+msgid "Minimum Bathrooms"
+msgstr "Мин. Бани"
+
+#: vc-elements/properties.php:202
+msgid "Maximum Bathrooms"
+msgstr "Макс. Бани"
+
+#: vc-elements/properties.php:224 vc-elements/properties.php:232
+#: vc-elements/properties.php:240 vc-elements/properties.php:248
+msgid "Only provide digits"
+msgstr "Само цифри"
+
+#: vc-elements/properties.php:239
+msgid "Minimum Area"
+msgstr "Мин. Площ"
+
+#: vc-elements/properties.php:247
+msgid "Maximum Area"
+msgstr "Макс. Площ"
+
+#: vc-elements/properties.php:255
+msgid "Display Only Featured Properties"
+msgstr "Покажи Само Препоръчани Имоти"
+
+#: vc-elements/properties.php:272
+msgid "Listing Container"
+msgstr ""
+
+#: vc-elements/properties.php:275
+msgid "Full Width"
+msgstr "Пълна ширина"
+
+#: vc-elements/properties.php:276
+msgid "Boxed"
+msgstr "Кутия"
+
+#: vc-elements/properties.php:319
+msgid ""
+"Real Places theme must be activated to use Property Listing Visual Composer "
+"element!"
+msgstr ""
+
+#: vc-elements/properties.php:647
+msgid "Show Details"
+msgstr "Покажи детайли"
+
+#: vc-elements/properties.php:840
+msgid "Bed"
+msgid_plural "Beds"
+msgstr[0] "Спалня"
+msgstr[1] "Етаж/и"
+
+#: vc-elements/properties.php:853
+msgid "Bath"
+msgid_plural "Baths"
+msgstr[0] "Баня"
+msgstr[1] "Бани"
+
+#: vc-elements/properties.php:866
+msgid "Garage"
+msgid_plural "Garages"
+msgstr[0] "Гараж"
+msgstr[1] "Гаражи"
+
+#. Plugin Name of the plugin/theme
+msgid "Inspiry Real Estate"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/real-places-responsive-wordpress-real-estate-"
+"theme/12579089"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Inspiry real estate plugin provides plugin territory functionality for Real "
+"Places theme."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/inspirythemes/portfolio"
+msgstr ""
+
+#~ msgid "Subscribe"
+#~ msgstr "Абонирайте се"
+
+#~ msgid ""
+#~ "<strong>Your panel has bundled outdated copies of Redux Framework "
+#~ "template files</strong> &#8211; if you encounter functionality issues "
+#~ "this could be the reason. Ensure you update or remove them."
+#~ msgstr ""
+#~ "<strong>Панелът има пакет от остарели копия на Redux Framework шаблонни "
+#~ "файлове</strong> &#8211; Ако имате проблеми с функционалността е възможно "
+#~ "това да е причината. Обнови ли го премахни."
+
+#, php-format
+#~ msgid "Options panel created using %1$s"
+#~ msgstr "Пнел с опции е създаден за %1$s"
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the "
+#~ "Redux Framework support site in your config's <code>admin_bar_links</"
+#~ "code> argument.  This is sample data.  Please change or remove this data "
+#~ "before shipping your product."
+#~ msgstr ""
+#~ "<strong>Redux Framework Известие: </strong>Има препратка към сайта за "
+#~ "поддръжка на Redux Framework в конфигурационнния <code>admin_bar_links</"
+#~ "code> аргумент.  Това са примерни данни.  Моля, промени или премахни "
+#~ "информацията преди изпращане на продукта."
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the "
+#~ "Redux Framework support site in your config's <code>share_icons</code> "
+#~ "argument.  This is sample data.  Please change or remove this data before "
+#~ "shipping your product."
+#~ msgstr ""
+#~ "<strong>Redux Framework Известие: </strong>Има препратка към сайта за "
+#~ "поддръжка на Redux Framework в конфигурационния <code>share_icons</code> "
+#~ "аргумент.  Това са примерни данни.  Моля, промени или премахни "
+#~ "информацията преди изпращане на продукта."
+
+#, php-format
+#~ msgid ""
+#~ "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+#~ "date. The core version is %s"
+#~ msgstr ""
+#~ "<code>%s</code> версия <strong style=\"color:red\">%s</strong> е "
+#~ "остаряла. Версията на ядрото е %s"
+
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Въведи своя бекъп файл отдолу и натисни импорт за възстановяване на сайта "
+#~ "от бекъпа."
+
+#~ msgid "Copy Data"
+#~ msgstr "Копирай данните"
+
+#~ msgid "Download Data File"
+#~ msgstr "Сваля файл с данни"
+
+#~ msgid "From "
+#~ msgstr "От"
+
+#~ msgid "To "
+#~ msgstr "До"
+
+#, php-format
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+#~ "submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+#~ "strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+#~ "document</a>, or your theme will be rejected because of Redux."
+#~ msgstr ""
+#~ "<span class=\"tc-lead tc-recommended\">ПРЕПОРЪЧИТЕЛНО</span>: Ако темата "
+#~ "е изтеглена от хранилището на WordPress <strong>strongly</strong> се "
+#~ "предполага, че си прочел <a href=\"%s\" target=\"_blank\">този документ</"
+#~ "a>, ако не си темата ще се отхвърли от Redux."
+
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Полето трябва да има валидна стойност за цвят."
+
+#, php-format
+#~ msgid "Welcome to Redux Framework %s"
+#~ msgstr "Добре дошли в Redux Framework %s"
+
+#, php-format
+#~ msgid ""
+#~ "Thank you for updating to the latest version! Redux Framework %s is a "
+#~ "huge step forward in Redux Development. Look at all that's new."
+#~ msgstr ""
+#~ "Благодаря, че обнови до последна верисия! Redux Framework %s е голяма "
+#~ "крачка напред в развитието и разработка на Redux. Виж какво е новото."
+
+#, php-format
+#~ msgid "Version %s"
+#~ msgstr "Издание %s"
+
+#~ msgid ""
+#~ "Redux Framework is the core of many products on the web. It is an option "
+#~ "framework which developers use to\n"
+#~ "            enhance their products."
+#~ msgstr ""
+#~ "Redux Framework е в основата на много продукти в интернет. Това е една "
+#~ "опционална рамка, която разработчиците използват да подобрят своите "
+#~ "продукти."
+
+#~ msgid "New in this Release"
+#~ msgstr "Ново в това издание"
+
+#~ msgid "Redux Framework - A Community Effort"
+#~ msgstr "Redux Framework - с помощта на цялата Общност"
+
+#~ msgid ""
+#~ "We recognize we are nothing without our community. We would like to thank "
+#~ "all of those who help Redux to be what it is. Thank you for your "
+#~ "involvement."
+#~ msgstr ""
+#~ "Признаваме си, че сме нищо без нашата общност. Искаме да благодарим на "
+#~ "всички онези, които  помагат на Redux да бъде това което е днес. "
+#~ "Благодаря ви, за участието."
+
+#, php-format
+#~ msgid ""
+#~ "Redux is created by a community of developers world wide. Want to have "
+#~ "your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to "
+#~ "Redux</a>."
+#~ msgstr ""
+#~ "Redux е създадена от една общност от разработчици по целия свят. Искате "
+#~ "ли и вашето име да бъде вписано? <a href=\"%d\" target=\"_blank\">Принос "
+#~ "за Redux.</a>"
+
+#~ msgid ""
+#~ "Supercharge your Redux experience. Our extensions provide you with "
+#~ "features that will take your products to the next level."
+#~ msgstr ""
+#~ "Увеличи товоя Redux опит. Нашите разширения ще ти дадат функции, които ще "
+#~ "изведат твоя продукт до следващо ниво."
+
+#~ msgid ""
+#~ "While some are built specificially for developers, extensions such as "
+#~ "Custom Fonts are sure to make any user happy."
+#~ msgstr ""
+#~ "Докато някои са създадени специялно за разработчици, разширения като "
+#~ "персонализирани шрифтове ще зарадват потребителите."
+
+#~ msgid "Redux Framework - System Status"
+#~ msgstr "Redux Framework - Състоянието на системата"
+
+#~ msgid "The location of Wordpress's content URL."
+#~ msgstr "Местоположение на WordPress съдържанието URL."
+
+#, php-format
+#~ msgid ""
+#~ "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+#~ "target=\"_blank\">Increasing memory allocated to PHP</a>"
+#~ msgstr ""
+#~ "%s - Препоръчва настройка на паметта на минимум 40MB. Виж: <a href=\"%s\" "
+#~ "target=\"_blank\">Увеличаване на паметта разпределена за PHP</a>"
+
+#, php-format
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "Часовата зона по подразбиране е %s - трябва да е  по UTC"
+
+#~ msgid "Redux Framework - Support"
+#~ msgstr "Redux Framework - Поддръжка"
+
+#~ msgid ""
+#~ "We are an open source project used by developers to make powerful control "
+#~ "panels."
+#~ msgstr ""
+#~ "Ние сме проект с отворен код ползван от разработчици да направят мощни "
+#~ "контролни панели."
+
+#~ msgid ""
+#~ "If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/redux-framework?"
+#~ "filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+#~ "rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A "
+#~ "huge thank you from Redux in advance!"
+#~ msgstr ""
+#~ "Ако харесваш <strong>Redux</strong>, моля остави ни <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/redux-framework?"
+#~ "filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+#~ "rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> оценка. "
+#~ "Предварителни благодарности от Redux!"
+
+#~ msgid "Welcome to Redux Framework"
+#~ msgstr "Добре дошли в Redux Framework"
+
+#~ msgid "Redux Extensions"
+#~ msgstr "Redux Разширения"
+
+#~ msgid "The people that develop Redux Framework"
+#~ msgstr "Хората разработили Redux Framework"
+
+#~ msgid "Redux Framework Status"
+#~ msgstr "Redux Framework - Състояние"
+
+#~ msgid "What's New"
+#~ msgstr "Какво ново"
+
+#~ msgid "Changelog"
+#~ msgstr "Дневник на промените"
+
+#~ msgid "Credits"
+#~ msgstr "Кредити"
+
+#, php-format
+#~ msgid "View %s"
+#~ msgstr "Изглед %s"
+
+#~ msgid "FORCED DEV MODE OFF ENABLED"
+#~ msgstr "ПРИНУДИТЕЛЕН РЕЖИМ Е ИЗКЛЮ."
+
+#~ msgid "Google Plus URL"
+#~ msgstr "Google Plus URL адрес"

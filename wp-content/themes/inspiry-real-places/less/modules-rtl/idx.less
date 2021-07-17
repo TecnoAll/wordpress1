@@ -1,0 +1,41 @@
+/*-----------------------------------------------------------------------------------*/
+/* 8.0 - RTL IDX Module Styles
+/*-----------------------------------------------------------------------------------*/
+#dsidx,
+.dsidx-widget-single-listing-wrap,
+.dsidx-widget-listings,
+.dsidx-widget-list-areas,
+.dsidx-widget-quick-search,
+.dsidx-widget-guided-search {
+  direction: ltr;
+}
+
+#dsidx{
+  blockquote:before {
+    content: "\f10d";
+    left: 28px;
+    right: auto;
+  }
+}
+
+.dsidx-widget-single-listing-wrap,
+.dsidx-widget-listings,
+.dsidx-widget-list-areas,
+.dsidx-widget-quick-search,
+.dsidx-widget-guided-search,
+.dsidx-widget {
+  .select2-container[dir="rtl"] .select2-selection--single .select2-selection__rendered {
+    padding-right: 20px;
+    padding-left: 15px;
+    text-align: left;
+  }
+
+  .select2-container--default[dir="rtl"] .select2-selection--single .select2-selection__arrow {
+    left: auto;
+    right: 1px;
+  }
+}
+
+#dsidx .dsidx-sorting-control .select2-container--default .select2-selection--single {
+  text-align: right;
+}

@@ -1,0 +1,49 @@
+/*-----------------------------------------------------------------------------------*/
+/* 12.3 - Header Variation Three
+/*-----------------------------------------------------------------------------------*/
+.header-variation-three {
+
+  #inspiry_language_list {
+    float: left;
+  }
+
+  .contact-number {
+    margin-right: 10px;
+    margin-left: 0;
+  }
+
+  .user-nav {
+    > li {
+      margin-right: 20px;
+      margin-left: 0;
+      &:first-child {
+        margin-right: 0;
+      }
+    }
+
+    .fa,
+    .fas,
+    .far {
+      margin-right: 0;
+      margin-left: 6px;
+    }
+  }
+
+  .header-social-nav {
+    margin: 4px 15px 0 0;
+    > a {
+      margin-left: 0;
+      margin-right: 5px;
+      text-align: left;
+      &:first-child {
+        margin-right: 0;
+      }
+    }
+  }
+
+  @media (max-width: @screen-md-max) and ( min-width: @screen-md-min) {
+    .site-main-nav{
+      text-align: right;
+    }
+  }
+}

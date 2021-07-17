@@ -1,0 +1,58 @@
+/*-----------------------------------------------------------------------------------*/
+/* 21.5 - Mobile Header Module Styles
+/*-----------------------------------------------------------------------------------*/
+.mobile-header {
+  & {
+    position: relative;
+    min-height: 38px;
+    width: 100%;
+  }
+
+  .mobile-header-nav-wrapper {
+    display: none;
+  }
+
+  .contact-number {
+    position: relative;
+    z-index: 100;
+    padding: 6px 15px 4px;
+  }
+
+  > .mobile-header-nav {
+    display: none;
+  }
+
+  .user-nav {
+    .contacts-icon-container,
+    .fa,
+    .fas,
+    .far {
+      display: none;
+    }
+    a {
+      font-size: 14px;
+    }
+  }
+
+  .user-nav,
+  .header-social-nav {
+    display: block;
+    border-top: 1px solid;
+    clear: both;
+  }
+
+  .header-social-nav {
+    padding: 20px;
+    text-align: center;
+    a {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
+}
+
+.mobile-menu-backdrop {
+  &:extend(.modal-backdrop all);
+  z-index: 10000;
+}
+

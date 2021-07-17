@@ -1,0 +1,50 @@
+/*-----------------------------------------------------------------------------------*/
+/* 12.2 - RTL Header Variation Two
+/*-----------------------------------------------------------------------------------*/
+.header-variation-two {
+  .contact-number {
+    float: right;
+  }
+
+  .user-nav {
+    .fa,
+    .fas,
+    .far {
+      margin-right: 0;
+      margin-left: 5px;
+    }
+  }
+}
+
+.header-variation-two,
+.header-variation-three {
+  .user-nav {
+    float: left;
+
+    > li {
+      float: right;
+    }
+  }
+
+  .header-social-nav {
+    float: left;
+    > a {
+      float: right;
+    }
+  }
+
+  @media (min-width: @screen-lg-min) {
+    .header-bottom {
+      right: auto;
+      left: 0;
+    }
+
+    .site-logo {
+      text-align: right;
+    }
+
+    .site-main-nav {
+      float: left;
+    }
+  }
+}

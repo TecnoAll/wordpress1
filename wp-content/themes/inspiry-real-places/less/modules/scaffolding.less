@@ -1,0 +1,349 @@
+/*-----------------------------------------------------------------------------------*/
+/* 2.0 - Scaffolding
+/*-----------------------------------------------------------------------------------*/
+//
+// Scaffolding
+// --------------------------------------------------
+a:focus {
+  outline: none;
+}
+
+// Page Loader
+.page-loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10000;
+  background-color: @white;
+ }
+
+.page-loader-img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+
+// Transition
+.btn-transition {
+  .transition(all 0.1s linear);
+}
+
+.text-transition {
+  .transition(color 0.1s linear);
+}
+
+// Images Transition
+.image-transition{
+  .img-responsive {
+    .scale(1.15);
+    .opacity(1);
+    .backface-visibility(hidden);
+    .transition(all 0.35s ease);
+  }
+  &:hover {
+    .img-responsive {
+      .scale(1);
+      .opacity(.9);
+    }
+  }
+}
+
+.disable-image-transition{
+  .img-responsive {
+    .scale(1);
+    .opacity(1);
+  }
+  &:hover {
+    .img-responsive {
+      .opacity(1);
+    }
+  }
+}
+
+// Utility Classes
+//
+.zero-padding {
+  padding: 0;
+}
+
+.zero-horizontal-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.zero-margin {
+  margin: 0;
+}
+
+.zero-horizontal-margin {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.list-style-reset {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+// Embeds responsive
+//
+.embed-responsive {
+
+  // Modifier class for 100 aspect ratio
+  &.embed-responsive-full {
+    padding-bottom: 75%;
+  }
+}
+
+// Property Status Tag
+//
+.price-and-status {
+
+  span {
+    vertical-align: middle;
+  }
+}
+
+.property-status-tag-common {
+  display: inline-block;
+  position: relative;
+  padding: 0 12px;
+  height: 24px;
+  font-size: 12px;
+  line-height: 25px;
+  text-transform: uppercase;
+
+  &:before,
+  &:after {
+    position: absolute;
+    top: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+  }
+}
+
+
+.property-status-tag {
+  &:extend(.property-status-tag-common all);
+  margin-left: 12px;
+
+  &:before {
+    content: '';
+    left: -12px;
+    border-width: 12px 12px 12px 0;
+  }
+}
+
+.property-status-tag-flipped {
+  &:extend(.property-status-tag-common all);
+  margin-right: 12px;
+
+  &:after {
+    content: '';
+    right: -12px;
+    border-width: 12px 0 12px 12px;
+  }
+}
+
+// List Grid Layout
+//
+
+.list-grid-layout {
+  list-style: none;
+  text-align: center;
+  margin-bottom: 0;
+
+  > li {
+    display: inline-block;
+    padding: 10px 14px;
+    vertical-align: middle;
+  }
+}
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+  margin: 5px 30px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+  display: block;
+  margin: 5px auto 5px auto;
+}
+
+.alignright {
+  float: right;
+  margin: 5px 0 20px 30px;
+}
+
+.alignleft {
+  float: left;
+  margin: 5px 30px 20px 0;
+}
+
+a img.alignright {
+  float: right;
+  margin: 5px 0 20px 30px;
+}
+
+a img.alignnone {
+  margin: 5px 30px 20px 0;
+}
+
+a img.alignleft {
+  float: left;
+  margin: 5px 30px 20px 0;
+}
+
+a img.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.wp-caption {
+  border: 1px solid;
+  max-width: 96%; /* Image does not overflow the content area */
+  padding: 5px 5px 3px;
+  text-align: center;
+}
+
+.wp-caption.alignnone {
+  margin: 5px 30px 20px 0;
+}
+
+.wp-caption.alignleft {
+  margin: 5px 30px 20px 0;
+}
+
+.wp-caption.alignright {
+  margin: 5px 0 20px 30px;
+}
+
+.wp-caption img {
+  border: 0 none;
+  height: auto;
+  margin: 0;
+  max-width: 98.5%;
+  padding: 0;
+  width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+  font-size: 11px;
+  line-height: 17px;
+  margin: 0;
+  padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+  border-radius: 3px;
+  clip: auto !important;
+  display: block;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000; /* Above WP toolbar. */
+}
+
+.wp-caption {
+  margin-bottom: 1.6em;
+  max-width: 100%;
+}
+
+.wp-caption img[class*="wp-image-"] {
+  display: block;
+  margin: 0;
+}
+
+.wp-caption-text {
+  line-height: 1.5;
+  padding: 0.5em 0;
+}
+
+.gallery {
+  margin-bottom: 1.6em;
+}
+
+.gallery-item {
+  display: inline-block;
+  padding: 1.79104477%;
+  text-align: center;
+  vertical-align: top;
+  width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+  max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+  max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+  max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+  max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+  max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+  max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+  max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+  max-width: 11.11%;
+}
+
+.gallery-icon img {
+  margin: 0 auto;
+}
+
+.gallery-caption {
+  display: block;
+  line-height: 1.5;
+  padding: 0.5em 0;
+}
+
+.gallery-columns-6 .gallery-caption,
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption {
+  display: none;
+}

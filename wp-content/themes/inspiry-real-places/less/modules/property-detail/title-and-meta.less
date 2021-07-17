@@ -1,0 +1,155 @@
+.container-property-single {
+
+  .meta-item {
+    margin-bottom: 14px;
+    width: 25%;
+  }
+
+  .meta-item-value {
+    font-size: 18px;
+  }
+
+  .meta-item-label {
+    font-size: 13px;
+  }
+}
+
+.property-title-wrapper {
+
+  .single-property-wrapper {
+    padding: 30px 30px 16px;
+  }
+
+  .single-property-header {
+    margin-bottom: 20px;
+  }
+
+  .favorite-and-print {
+    width: 100%;
+    text-align: center;
+
+    > a {
+      padding: 20px 10px;
+      width: 49.75%;
+    }
+
+    > .take-full-width{
+      width: 100%;
+    }
+  }
+}
+
+.single-property-title {
+  font-size: 21px;
+  margin-bottom: 10px;
+}
+
+.single-property-price {
+  font-size: 20px;
+}
+
+.favorite-and-print {
+
+  > a {
+    display: inline-block;
+    &:extend(.btn-transition);
+  }
+}
+
+.add-to-fav {
+  float: left;
+}
+
+.printer-icon {
+  float: right;
+}
+
+.slider-thumbnail-nav-wrapper {
+  position: absolute;
+  bottom: 24px;
+  width: 100%;
+  text-align: center;
+}
+
+.property-single-content {
+
+  .single-property-slider {
+    position: relative;
+    margin: -35px -25px 0;
+    overflow: hidden;
+
+    &:hover {
+
+      .lSPrev {
+        left: 20px;
+      }
+
+      .lSNext {
+        right: 20px;
+      }
+    }
+  }
+
+  .lSAction {
+
+    > a {
+      background-repeat: no-repeat;
+      background-size: 20px;
+      .opacity(.9);
+      .transition(all .3s ease;);
+
+      &:hover {
+        .opacity(1);
+      }
+    }
+
+    > .lSPrev {
+      left: -60px;
+    }
+
+    > .lSNext {
+      right: -60px;
+    }
+  }
+
+  .lSSlideOuter .lSPager {
+    display: inline-block;
+
+    li {
+      img {
+        border: 3px solid transparent;
+      }
+
+      &.active,
+      &:hover {
+        border-radius: 0;
+      }
+    }
+  }
+
+  .single-property-wrapper {
+    padding: 25px 0 20px;
+  }
+
+  .single-property-variation-three{
+    padding-top: 0;
+  }
+
+  .single-property-header {
+    margin-bottom: 30px;
+  }
+
+  .favorite-and-print {
+    float: right;
+    padding: 1px;
+    margin: 0 0 8px 8px;
+
+    > a {
+      padding: 7px 15px;
+
+      + a {
+        margin-left: 1px;
+      }
+    }
+  }
+}

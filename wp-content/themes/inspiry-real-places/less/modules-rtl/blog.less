@@ -1,0 +1,110 @@
+/*-----------------------------------------------------------------------------------*/
+/* 27.0 - RTL Blog Module Styles
+/*-----------------------------------------------------------------------------------*/
+.blog-post-entry-meta {
+
+  > span {
+    margin-right: 0;
+    margin-left: 3px;
+
+    &:last-child {
+      margin-left: 0;
+    }
+  }
+}
+
+blockquote {
+  padding-left: 36px;
+  padding-right: 56px;
+
+  &:before {
+    content: "\f10e";
+    left: auto;
+    right: 28px;
+  }
+
+  &.wp-block-quote:not(.is-large):not(.is-style-large){
+    padding: 34px 56px 46px 36px;
+  }
+
+}
+
+.tag-links {
+  .fa-tag {
+    margin-right: 0;
+    margin-left: 8px;
+  }
+
+  a {
+    margin: 0 0 2px 2px;
+  }
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* Lists
+/*-----------------------------------------------------------------------------------*/
+.list-bullet-arrow {
+
+  li {
+    &:before {
+      content: "\f100";
+      margin-right: 0;
+      margin-left: 10px;
+    }
+  }
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* Comments
+/*-----------------------------------------------------------------------------------*/
+#comments {
+
+  .pingback {
+    padding-left: 10px;
+    padding-right: 0;
+  }
+
+  time {
+    margin-left: 0;
+    margin-right: 4px;
+  }
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* Respond
+/*-----------------------------------------------------------------------------------*/
+@media (min-width: @screen-xs) {
+  #comments .author-photo {
+    float: right;
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+
+  #comments {
+    .depth-2 article {
+      margin-left: 0;
+      margin-right: 68px;
+    }
+
+    .depth-3 article {
+      margin-left: 0;
+      margin-right: 156px;
+    }
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+
+  #comments {
+    .depth-4 article {
+      margin-left: 0;
+      margin-right: 244px;
+    }
+
+    .depth-5 article {
+      margin-left: 0;
+      margin-right: 332px;
+    }
+  }
+}

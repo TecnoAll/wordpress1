@@ -1,0 +1,101 @@
+/*-----------------------------------------------------------------------------------*/
+/* 12.0 - RTL Header Module Styles
+/*-----------------------------------------------------------------------------------*/
+/* Contact Number Module Styles */
+.contact-number {
+  float: left;
+
+  .contacts-icon-container {
+    &:extend(.fa-flip-horizontal);
+    margin-right: 0;
+    margin-left: 5px;
+  }
+}
+
+.header-variation-one{
+  .switcher__currency{
+    float: right;
+    margin-right: 13px;
+    ul{
+      padding-right: 0;
+    }
+  }
+  #selected-currency{
+    &:before{
+      left: inherit;
+      right: 0;
+    }
+  }
+}
+.header-variation-two{
+  .switcher__currency{
+    margin-right: 13px;
+    ul{
+      padding-right: 0;
+    }
+  }
+  #selected-currency{
+    &:before{
+      left: inherit;
+      right: 0;
+    }
+  }
+}
+
+.header-variation-three{
+  .switcher__currency{
+    float: left;
+    ul{
+      padding-right: 0;
+    }
+  }
+  #selected-currency{
+    &:before{
+      left: inherit;
+      right: 0;
+      top: -2px;;
+    }
+  }
+}
+
+#mobile-header .switcher__currency{
+  float: left;
+  margin-left: 60px;
+  ul{
+    padding-right: 0;
+  }
+}
+
+/* Logo Module Styles */
+.button-menu-close {
+  right:  auto;
+  left: 15px;
+}
+
+.switcher__currency{
+  #currency-switcher-list{
+    li{
+      &:hover{
+        padding-left: 10px;
+        padding-right: 20px;
+      }
+    }
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .button-menu-reveal {
+    float: right;
+  }
+}
+
+@import "main-menu";
+
+@import "header-one";
+
+@import "header-two";
+
+@import "header-three";
+
+@import "mean-menu";
+

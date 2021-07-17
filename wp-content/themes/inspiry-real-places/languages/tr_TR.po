@@ -1,0 +1,5966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Places\n"
+"POT-Creation-Date: 2021-05-09 16:49+0500\n"
+"PO-Revision-Date: 2021-05-09 16:57+0500\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:28
+msgid "Look like something went wrong!"
+msgstr "Bir şey ters gitti gibi geldi!"
+
+#: 404.php:30
+msgid "The page you were looking for is not here"
+msgstr "Aradığın sayfa burada değil"
+
+#: 404.php:32
+msgid "Go to Home"
+msgstr "Ana Sayfaya Git"
+
+#: author.php:75 single-agent.php:78
+msgid "Properties by"
+msgstr "Emlaklara Göre"
+
+#: comments.php:15
+msgid "No Comment"
+msgstr "Yorum yok"
+
+#: comments.php:15
+msgid "One Comment"
+msgstr "Bir Yorum"
+
+#: comments.php:15
+msgid "% Comments"
+msgstr "% Yorumlar"
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Birincil Menü"
+
+#: functions.php:185
+msgctxt "Varela Round font: on or off"
+msgid "on"
+msgstr "açık"
+
+#: functions.php:703 functions.php:726
+msgid "Valid file formats"
+msgstr "Geçerli dosya biçimleri"
+
+#: functions.php:819
+#| msgid "Select an item"
+msgid "Select an Agent or more"
+msgstr ""
+
+#: functions.php:871
+msgid "Default Sidebar"
+msgstr "Varsayılan Kenar Çubuğu"
+
+#: functions.php:873
+msgid "Widget area for default sidebar on news and post pages."
+msgstr "Haber ve posta sayfalarında varsayılan kenar çubuğu için Widget alanı."
+
+#: functions.php:884
+msgid "Pages Sidebar"
+msgstr "Sayfalar Kenar Çubuğu"
+
+#: functions.php:886
+msgid "Widget area for default page template sidebar."
+msgstr "Varsayılan sayfa şablonu kenar çubuğu için Widget alanı."
+
+#: functions.php:897
+msgid "Properties List Sidebar"
+msgstr "İlanlar Listesi Kenar Çubuğu"
+
+#: functions.php:899
+msgid "Widget area for properties list template with sidebar support."
+msgstr "Widget alanı kenar çubuğu desteği ile özellik listesi şablonu."
+
+#: functions.php:910
+msgid "Properties Grid Sidebar"
+msgstr "Izgaralı Emlaklar Kenar Çubuğu"
+
+#: functions.php:912
+msgid "Widget area for properties grid template with sidebar support."
+msgstr "Izgaralı Emlak Şablonu kenar çubuğu için Widget alanı."
+
+#: functions.php:923
+msgid "Property Sidebar"
+msgstr "Emlak Kenar Çubuğu"
+
+#: functions.php:925
+msgid "Widget area for property detail page sidebar."
+msgstr "İlan detay sayfası için yanbant bileşen alanı."
+
+#: functions.php:936
+msgid "dsIDXpress Sidebar"
+msgstr "dsIDXpress Kenar Çubuğu"
+
+#: functions.php:938
+msgid "Widget area for dsIDX related pages."
+msgstr "DsIDX ile ilgili sayfalar için Widget alanı."
+
+#: functions.php:949
+msgid "Footer First Column"
+msgstr "Altbilgi Birinci Sütun"
+
+#: functions.php:951
+msgid "Widget area for first column in footer."
+msgstr "Altbilgide ilk sütun için Widget alanı."
+
+#: functions.php:962
+msgid "Footer Second Column"
+msgstr "Altbilgi İkinci Sütun"
+
+#: functions.php:964
+msgid "Widget area for second column in footer."
+msgstr "Altbilgide ikinci sütun için Widget alanı."
+
+#: functions.php:975
+msgid "Footer Third Column"
+msgstr "Altbilgi Üçüncü Sütun"
+
+#: functions.php:977
+msgid "Widget area for third column in footer."
+msgstr "Altbilgide üçüncü sütun için Widget alanı."
+
+#: functions.php:988
+msgid "Footer Fourth Column"
+msgstr "Altbilgi Dördüncü Sütun"
+
+#: functions.php:990
+msgid "Widget area for fourth column in footer."
+msgstr "Altbilgide dördüncü sütun için Widget alanı."
+
+#: functions.php:1170
+msgid "Added to Compare"
+msgstr "Karşılaştırma için eklendi"
+
+#: functions.php:1182 inc/util/favorites-functions.php:24
+#: inc/util/favorites-functions.php:45
+msgid "Failed!"
+msgstr "Başarısız!"
+
+#: functions.php:1191
+msgid "Invalid Parameters"
+msgstr "Hatalı Parametre"
+
+#: functions.php:1253 inc/util/favorites-functions.php:138
+msgid "Removed Successfully!"
+msgstr "Başarıyla Kaldırıldı!"
+
+#: functions.php:1261 inc/util/favorites-functions.php:124
+#: inc/util/favorites-functions.php:145
+msgid "Failed to remove!"
+msgstr "Kaldırılamadı!"
+
+#: functions.php:1273
+msgid "Invalid Parameters!"
+msgstr "Hatalı Parametre!"
+
+#: header.php:26
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: inc/meta-boxes/config.php:24 inc/meta-boxes/config.php:33
+msgid "Video Embed Code"
+msgstr "Video Embed Kodu"
+
+#: inc/meta-boxes/config.php:34
+msgid ""
+"If you are not using self hosted videos then please provide the video embed "
+"code and remove the width and height attributes."
+msgstr ""
+"Kendi kendine barındırılan videoları kullanmıyorsanız, lütfen video "
+"yerleştirme kodunu sağlayın ve genişlik ve yükseklik niteliklerini kaldırın."
+
+#: inc/meta-boxes/config.php:49
+msgid "Gallery Images"
+msgstr "Galeri Resimleri"
+
+#: inc/meta-boxes/config.php:58
+msgid "Upload Gallery Images"
+msgstr "Galeri Resimleri Yükle"
+
+#: inc/meta-boxes/config.php:60
+msgid ""
+"Images should have minimum width of 850px and minimum height of 567px, "
+"Bigger size images will be cropped automatically."
+msgstr ""
+"Resimler minimum genişliği 850 piksel ve minimum yüksekliği 567 piksel "
+"olmalı, daha büyük boyutlu resimler otomatik olarak kırpılacaktır."
+
+#: inc/meta-boxes/config.php:73 inc/meta-boxes/config.php:97
+msgid "Banner Settings"
+msgstr "Banner Ayarları"
+
+#: inc/meta-boxes/config.php:82 inc/meta-boxes/config.php:108
+#: inc/theme-options/header-options.php:84
+msgid "Banner Image"
+msgstr "Banner Resmi"
+
+#: inc/meta-boxes/config.php:84 inc/meta-boxes/config.php:110
+#: inc/theme-options/header-options.php:85
+msgid ""
+"Banner image should have minimum width of 2000px and minimum height of 320px."
+msgstr ""
+"Banner imajının minimum genişliği 2000px ve minimum yüksekliği 320px "
+"olmalıdır."
+
+#: inc/meta-boxes/config.php:115 inc/theme-options/home-options.php:71
+msgid "Revolution Slider Alias"
+msgstr "Revolution Slider Alias"
+
+#: inc/meta-boxes/config.php:117
+msgid ""
+"If you want to replace banner with revolution slider then provide its alias "
+"here."
+msgstr ""
+"Eğer banner yerine Revolution Slider kullanmak isterseniz buraya onun "
+"yükleme adını yazmanız gerekir."
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri yükleyin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Eklentileri Kur"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Eklenti Yükleniyor: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Eklenti Güncelleniyor: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'sında bir sorun oluştu."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema aşağıdaki eklentiyi gerektirir:%1$s."
+msgstr[1] "Bu tema aşağıdaki eklentileri gerektirir: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema aşağıdaki eklentiyi önermektedir:%1$s."
+msgstr[1] "Bu tema aşağıdaki eklentileri önermektedir: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Aşağıdaki eklentinin bu temayla en yüksek uyumluluğu sağlamak için en son "
+"sürümüne güncellenmesi gerekiyor: %1$s."
+msgstr[1] ""
+"Aşağıdaki eklentinin bu temayla en yüksek uyumluluğu sağlamak için en son "
+"sürümüne güncellenmesi gerekiyor: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s için bir güncelleme var."
+msgstr[1] "Aşağıdaki eklentiler için güncellemeler mevcut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki zorunlu eklenti şu anda etkin değil:%1$s."
+msgstr[1] "Aşağıdaki zorunlu eklentiler şu anda etkin değil: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki önerilen eklenti şu anda etkin değil:%1$s."
+msgstr[1] "Aşağıdaki önerilen eklentiler şu anda etkin değil: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi yüklemeye başla"
+msgstr[1] "Eklentileri yüklemeye başla"
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Güncelleme eklentisine başla"
+msgstr[1] "Eklentileri güncellemeye başla"
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Etkinleştirici eklentiyi başlat"
+msgstr[1] "Etkinleştirici eklentiyi başlat"
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklentilere Dön Installer'a Dön"
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:912
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+#: inc/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Gösterge Tablosuna Geri Dön"
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aşağıdaki eklenti başarıyla etkinleştirildi:"
+msgstr[1] "Aşağıdaki eklentiler başarıyla etkinleştirildi:"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Hiçbir işlem yapılmadı. %1$s eklentisi zaten etkin."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Eklenti etkinleştirilmedi. Bu tema için %s daha yüksek bir sürümü gerekiyor. "
+"Lütfen eklentiyi güncelleyin."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla yüklendi ve etkinleştirildi. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı kapat"
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Yüklemek, güncellemek veya etkinleştirmek için gereken bir veya daha fazla "
+"gerekli veya önerilen eklenti vardır."
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için bu sitenin yöneticisiyle iletişime geçin."
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Bu eklentinin temanızla uyumlu olması için güncellenmesi gerekiyor."
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Güncelleştirme gerekli"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Uzaktaki eklenti paketi istenen sümüklü bir klasörü içermiyor ve yeniden "
+"adlandırma çalışmadı."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Lütfen eklenti sağlayıcısına başvurun ve eklentilerini WordPress "
+"yönergelerine göre paketlemelerini isteyin."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Uzaktan eklenti paketi birden fazla dosyadan oluşur, ancak dosyalar bir "
+"klasöre paketlenmez."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1206
+#: inc/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Gerekli"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Tavsiye edilen"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Deposu"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Dış kaynak"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Ön Paketlenmiş"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Yüklü değil"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Yüklü Ama Aktif Değil"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Gerekli Güncelleme Kullanılmıyor"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Güncelleme Gerektirir"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Güncelleme önerilir"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tüm <span class = \"sayısı\"> (%s) </ span>"
+msgstr[1] "Tüm <span class = \"sayısı\"> (%s) </ span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Yükle <span class=\"count\">(%s)</span>"
+msgstr[1] "Yükle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme Uygun <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncelleme Uygun <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Etkinleştir  <span class=\"count\">(%s)</span>"
+msgstr[1] "Etkinleştir  <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmeyen"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Kurulu sürümü:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Minimum gerekli sürüm:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Mevcut sürüm:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Yüklemek, güncellemek veya etkinleştirmek için hiçbir eklenti yok."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2634
+#: inc/theme-options/search-options.php:182
+#: inc/util/real-estate-functions.php:120
+msgid "Type"
+msgstr "Tip"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Versiyon"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2639
+#: inc/theme-options/search-options.php:179
+#: inc/util/real-estate-functions.php:135
+msgid "Status"
+msgstr "Durum"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Yükle %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Güncelle %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Etkinleştir %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti yazarından mesajı yeni sürüme geçir:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Yükle"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Güncelle"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Kurulacak herhangi bir eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncellenecek hiçbir eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu anda kurulacak herhangi bir eklenti yok."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu anda güncellenecek hiçbir eklenti yok."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilecek eklenti seçilmedi. Hiçbir işlem yapılmadı."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu anda etkinleştirilecek eklentiler yok."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti Güncelleniyor %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Yüklenirken bir hata oluştu %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem bazı konut sunucuları "
+"üzerinde biraz zaman alabilir, bu yüzden lütfen sabırlı olun."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s kuruldu ve başarıyla etkinleştirildi."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#: inc/theme-options/property-card-options.php:52
+#: partials/property/templates/property-for-list.php:39
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Detayları Gizle"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulumlar ve etkinleştirmeler tamamlandı."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklentiyi Kurma ve Etkinleştirme %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Kurulum işlemi başlıyor. Bu işlem bazı konut sunucuları üzerinde biraz zaman "
+"alabilir, bu yüzden lütfen sabırlı olun."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla yüklendi."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti Yükleme %1$s (%2$d/%3$d)"
+
+#: inc/theme-options/archive-options.php:7
+msgid "Archives"
+msgstr "Arşivler"
+
+#: inc/theme-options/archive-options.php:9
+msgid ""
+"This section contains options related property post type archive and "
+"taxonomy archives pages like property city, property status, property type "
+"and property feature."
+msgstr ""
+"Bu bölüm, emlak sonrası kategori kayıtları ve emlak şehri, emlak durumu, "
+"emlak türü ve emlak özelliği gibi taksonomi kayıtları sayfalarına ilişkin "
+"seçenekleri içerir."
+
+#: inc/theme-options/archive-options.php:15
+msgid "What to Display Below Header on Archive Pages"
+msgstr "Arşiv Sayfalarında Üstbilgi Kısmında Görüntülenecekler"
+
+#: inc/theme-options/archive-options.php:17
+#: inc/theme-options/home-options.php:16
+#: inc/theme-options/search-options.php:72
+msgid "Image Banner"
+msgstr "Resim Afişi"
+
+#: inc/theme-options/archive-options.php:18
+#: inc/theme-options/home-options.php:17
+#: inc/theme-options/search-options.php:73
+msgid "Google Map"
+msgstr "Google Harita"
+
+#: inc/theme-options/archive-options.php:25
+msgid "Number of Properties on an Archive Page"
+msgstr "Arşiv Sayfasındaki İlanların Sayısı"
+
+#: inc/theme-options/archive-options.php:44
+msgid "Archive Page Layout"
+msgstr "Arşiv Sayfa Düzeni"
+
+#: inc/theme-options/archive-options.php:46
+#: inc/theme-options/search-options.php:35
+msgid "List Layout - Full Width"
+msgstr "Liste Düzeni - Tam Genişlik"
+
+#: inc/theme-options/archive-options.php:47
+#: inc/theme-options/search-options.php:36
+msgid "Grid Layout - Full Width"
+msgstr "Izgara Düzeni - Tam Genişlik"
+
+#: inc/theme-options/archive-options.php:55
+msgid "Default Order of Properties on an Archive Page."
+msgstr "Arşiv Sayfasındaki Varsayılan Sıra Siparişi."
+
+#: inc/theme-options/archive-options.php:57
+#: inc/theme-options/home-options.php:283
+#: inc/theme-options/search-options.php:48
+#: partials/property/templates/listing-control-search.php:34
+#: partials/property/templates/listing-control.php:34
+msgid "Sort by Price Low to High"
+msgstr "Fiyata Göre Sırala (Önce En Düşük)"
+
+#: inc/theme-options/archive-options.php:58
+#: inc/theme-options/home-options.php:284
+#: inc/theme-options/search-options.php:49
+#: partials/property/templates/listing-control-search.php:35
+#: partials/property/templates/listing-control.php:35
+msgid "Sort by Price High to Low"
+msgstr "Fiyata Göre Sırala (Önce En Yüksek)"
+
+#: inc/theme-options/archive-options.php:59
+#: inc/theme-options/home-options.php:285
+#: inc/theme-options/search-options.php:50
+#: partials/property/templates/listing-control-search.php:36
+#: partials/property/templates/listing-control.php:36
+msgid "Sort by Date Old to New"
+msgstr "Tarihe Göre Sırala ( Önce en eski ilan )"
+
+#: inc/theme-options/archive-options.php:60
+#: inc/theme-options/home-options.php:286
+#: inc/theme-options/search-options.php:51
+#: partials/property/templates/listing-control-search.php:37
+#: partials/property/templates/listing-control.php:37
+msgid "Sort by Date New to Old"
+msgstr "Tarihe Göre Sırala ( Önce en yeni ilan )"
+
+#: inc/theme-options/compare-options.php:7
+#: inc/theme-options/compare-options.php:17
+msgid "Properties Compare"
+msgstr ""
+
+#: inc/theme-options/compare-options.php:11
+msgid "This section contains options related to properties compare."
+msgstr ""
+
+#: inc/theme-options/compare-options.php:19
+#: inc/theme-options/gdpr-options.php:34 inc/theme-options/gdpr-options.php:42
+#: inc/theme-options/header-options.php:39
+#: inc/theme-options/header-options.php:104
+#: inc/theme-options/home-options.php:398 inc/theme-options/misc-options.php:30
+#: inc/theme-options/misc-options.php:38
+#: inc/theme-options/payments-options.php:18
+#: inc/theme-options/payments-options.php:42
+#: inc/theme-options/styles-options/basic-styles-options.php:130
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: inc/theme-options/compare-options.php:20
+#: inc/theme-options/gdpr-options.php:35 inc/theme-options/gdpr-options.php:43
+#: inc/theme-options/header-options.php:40
+#: inc/theme-options/header-options.php:105
+#: inc/theme-options/home-options.php:399 inc/theme-options/misc-options.php:31
+#: inc/theme-options/misc-options.php:39
+#: inc/theme-options/payments-options.php:19
+#: inc/theme-options/payments-options.php:43
+#: inc/theme-options/styles-options/basic-styles-options.php:131
+msgid "Disable"
+msgstr "Devre Dışı"
+
+#: inc/theme-options/compare-options.php:27
+msgid "Properties Compare Page"
+msgstr ""
+
+#: inc/theme-options/compare-options.php:28
+msgid "Select a page for properties compare."
+msgstr ""
+
+#: inc/theme-options/compare-options.php:29
+msgid "Make sure the selected page is using Compare Properties template."
+msgstr ""
+
+#: inc/theme-options/footer-options.php:7
+#: inc/theme-options/styles-options/footer-styles-options.php:8
+msgid "Footer"
+msgstr "Altbilgi"
+
+#: inc/theme-options/footer-options.php:9
+msgid "This section contains options for footer."
+msgstr "Bu bölüm altbilgi için seçenekler içerir."
+
+#: inc/theme-options/footer-options.php:16
+msgid "Footer Logo"
+msgstr "Altbilgi Logosu"
+
+#: inc/theme-options/footer-options.php:17
+msgid "Upload footer logo."
+msgstr "Altbilgi logosunu yükleyin."
+
+#: inc/theme-options/footer-options.php:22
+msgid "Footer Copyright Text"
+msgstr "Altbilgi Telif Hakkı Metni"
+
+#: inc/theme-options/footer-options.php:23
+msgid "Allowed html tags are a, br, em and strong."
+msgstr "İzin verilen html etiketleri a, br, em ve strong."
+
+#: inc/theme-options/gdpr-options.php:7
+msgid "GDPR"
+msgstr "GDPR"
+
+#: inc/theme-options/gdpr-options.php:8
+msgid "This section contains GDPR related settings."
+msgstr ""
+
+#: inc/theme-options/gdpr-options.php:13
+msgid "GDPR Agreement Checkbox Label"
+msgstr "GSYİH Sözleşmesi Onay Kutusu Etiketi"
+
+#: inc/theme-options/gdpr-options.php:14
+msgid "GDPR Agreement"
+msgstr "GSYİH Anlaşması"
+
+#: inc/theme-options/gdpr-options.php:19
+msgid "GDPR Agreement Checkbox Text"
+msgstr "GSYİH Sözleşmesi Onay Kutusu Metni"
+
+#: inc/theme-options/gdpr-options.php:20
+msgid ""
+"I consent to having this website store my submitted information so they can "
+"respond to my inquiry."
+msgstr ""
+"Bu web sitesinin gönderdiğim bilgileri depolamasına izin veriyorum, böylece "
+"sorguma yanıt verebilecekler."
+
+#: inc/theme-options/gdpr-options.php:21
+msgid "You can use strong, em and a tags in agreement text."
+msgstr ""
+
+#: inc/theme-options/gdpr-options.php:26
+msgid "GDPR Agreement Validation Message"
+msgstr "GSYİH Anlaşması Doğrulama Mesajı"
+
+#: inc/theme-options/gdpr-options.php:27
+msgid "* Please accept GDPR Agreement"
+msgstr ""
+
+#: inc/theme-options/gdpr-options.php:32
+msgid "GDPR checkbox for Contact Form"
+msgstr ""
+
+#: inc/theme-options/gdpr-options.php:40
+msgid "GDPR checkbox for Agent Contact Form"
+msgstr ""
+
+#: inc/theme-options/header-options.php:7
+#: inc/theme-options/styles-options/header-styles-options.php:8
+msgid "Header"
+msgstr "Başlık"
+
+#: inc/theme-options/header-options.php:9
+msgid "This section contains options for header."
+msgstr "Bu bölüm üstbilgi için seçenekler içerir."
+
+#: inc/theme-options/header-options.php:15
+msgid "Header Design Variation"
+msgstr "Üstbilgi Tasarım Varyasyonu"
+
+#: inc/theme-options/header-options.php:16
+msgid "Select the design variation that you want to use for site header."
+msgstr "Site başlığı için kullanmak istediğiniz tasarım varyasyonunu seçin."
+
+#: inc/theme-options/header-options.php:19
+#: inc/theme-options/home-options.php:147
+#: inc/theme-options/home-options.php:591
+msgid "1st Variation"
+msgstr "1. Varyasyon"
+
+#: inc/theme-options/header-options.php:23
+#: inc/theme-options/home-options.php:151
+#: inc/theme-options/home-options.php:595
+msgid "2nd Variation"
+msgstr "2. Varyasyon"
+
+#: inc/theme-options/header-options.php:27
+#: inc/theme-options/home-options.php:155
+#: inc/theme-options/home-options.php:599
+msgid "3rd Variation"
+msgstr "3. Varyasyon"
+
+#: inc/theme-options/header-options.php:36
+msgid "Sticky Header"
+msgstr "Yapışkan Başlık"
+
+#: inc/theme-options/header-options.php:37
+msgid "This feature only works above 992px screen size."
+msgstr "Bu özellik yalnızca 992px ekran boyutunun üstünde çalışır."
+
+#: inc/theme-options/header-options.php:45
+msgid "Keep the Menu Visible?"
+msgstr ""
+
+#: inc/theme-options/header-options.php:46
+msgid "Do you want to keep the menu visible and disable the menu button?"
+msgstr ""
+
+#: inc/theme-options/header-options.php:48
+#: inc/theme-options/members-options.php:61
+#: inc/theme-options/styles-options/basic-styles-options.php:27
+#: inc/theme-options/styles-options/header-styles-options.php:27
+#: inc/theme-options/styles-options/header-styles-options.php:36
+msgid "Yes"
+msgstr "Evet"
+
+#: inc/theme-options/header-options.php:49
+#: inc/theme-options/members-options.php:62
+#: inc/theme-options/styles-options/basic-styles-options.php:28
+#: inc/theme-options/styles-options/header-styles-options.php:28
+#: inc/theme-options/styles-options/header-styles-options.php:37
+msgid "No"
+msgstr "Hayır"
+
+#: inc/theme-options/header-options.php:55
+msgid "Menu Button Title"
+msgstr "Menü Düğmesi Başlığı"
+
+#: inc/theme-options/header-options.php:56 partials/header/variation-one.php:7
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/theme-options/header-options.php:63
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/theme-options/header-options.php:64
+msgid ""
+"Upload logo image for your Website. Otherwise site title will be displayed "
+"in place of logo."
+msgstr ""
+"Web siteniz için logo resmi yükleyin. Aksi halde, logonun yerine site "
+"başlığı görüntülenecektir."
+
+#: inc/theme-options/header-options.php:69
+msgid "Email Address"
+msgstr "E-posta Adresi"
+
+#: inc/theme-options/header-options.php:77
+msgid "Phone Number"
+msgstr "Telefon Numarası"
+
+#: inc/theme-options/header-options.php:86
+msgid ""
+"This banner image will be displayed on all the pages where banner image is "
+"not overridden by page specific banner settings."
+msgstr ""
+"Bu banner resmi, banner resminin sayfaya özel banner ayarları tarafından "
+"geçersiz kılınmadığı tüm sayfalarda görüntülenecektir."
+
+#: inc/theme-options/header-options.php:91
+msgid "WPML/POLYLANG Language Switcher Flags"
+msgstr "WPML / POLYLANG Dil Değiştirici Bayraklar"
+
+#: inc/theme-options/header-options.php:92
+msgid ""
+"Do you want to display WPML or POLYLANG language switcher flags in header "
+"top bar ?"
+msgstr ""
+"Üstbilgi kısmında WPML veya POLYLANG dil değiştirici bayrakları görüntülemek "
+"istiyor musunuz?"
+
+#: inc/theme-options/header-options.php:93
+msgid ""
+"This option only works if WPML or POLYLANG plugin is installed and activated."
+msgstr ""
+"Bu seçenek yalnızca WPML veya POLYLANG eklentisi kurulu ve "
+"etkinleştirildiğinde çalışır."
+
+#: inc/theme-options/header-options.php:95
+#: inc/theme-options/home-options.php:553
+msgid "Display"
+msgstr "Görüntüle"
+
+#: inc/theme-options/header-options.php:96
+#: inc/theme-options/home-options.php:104
+#: inc/theme-options/home-options.php:554
+#: inc/theme-options/members-options.php:18
+#: inc/theme-options/members-options.php:255
+#: inc/theme-options/members-options.php:264
+#: inc/theme-options/members-options.php:273
+#: inc/theme-options/members-options.php:282
+#: inc/theme-options/members-options.php:291
+#: inc/theme-options/members-options.php:300
+#: inc/theme-options/members-options.php:309
+#: inc/theme-options/members-options.php:318
+#: inc/theme-options/members-options.php:327
+#: inc/theme-options/members-options.php:336
+#: inc/theme-options/members-options.php:345
+#: inc/theme-options/members-options.php:354
+#: inc/theme-options/members-options.php:364
+#: inc/theme-options/members-options.php:373
+#: inc/theme-options/members-options.php:382
+#: inc/theme-options/members-options.php:391
+#: inc/theme-options/members-options.php:400
+#: inc/theme-options/members-options.php:410
+#: inc/theme-options/members-options.php:421
+#: inc/theme-options/members-options.php:431
+#: inc/theme-options/members-options.php:440
+#: inc/theme-options/members-options.php:449
+#: inc/theme-options/property-options.php:227
+#: inc/theme-options/property-options.php:334
+#: inc/theme-options/property-options.php:359
+#: inc/theme-options/property-options.php:367
+#: inc/theme-options/property-options.php:398
+#: inc/theme-options/property-options.php:483
+#: inc/theme-options/search-options.php:64
+#: inc/theme-options/search-options.php:111
+#: inc/theme-options/search-options.php:128
+msgid "Hide"
+msgstr "Gizle"
+
+#: inc/theme-options/header-options.php:101
+msgid "Page Loader"
+msgstr "Sayfa Yükleyici"
+
+#: inc/theme-options/header-options.php:102
+msgid "You can enable or disable page loader."
+msgstr "Sayfa yükleyiciyi etkinleştirebilir veya devre dışı bırakabilirsiniz."
+
+#: inc/theme-options/header-options.php:111
+msgid "Page Loader Gif"
+msgstr "Sayfa Yükleyici Gif"
+
+#: inc/theme-options/header-options.php:112
+msgid ""
+"You can upload your page loader gif here or default one will be displayed."
+msgstr ""
+"Sayfa yükleyicinizin gif dosyasını buraya yükleyebilirsiniz. Yüklemediğiniz "
+"takdirde varsayılan yükleyiciniz görüntülenecektir."
+
+#: inc/theme-options/header-options.php:118
+msgid "Quick JavaScript"
+msgstr "Hızlı JavaScript"
+
+#: inc/theme-options/header-options.php:119
+msgid "You can paste your JavaScript code here."
+msgstr "JavaScript kodunu buraya yapıştırabilirsiniz."
+
+#: inc/theme-options/header-options.php:141
+msgid "Currency Switcher"
+msgstr "Para Değiştirici"
+
+#: inc/theme-options/header-options.php:143
+msgid "This section contains currency switch related options."
+msgstr ""
+
+#: inc/theme-options/header-options.php:148
+msgid "Base Currency"
+msgstr "Temel Para Birimi"
+
+#: inc/theme-options/header-options.php:153
+msgid ""
+"Selected currency will be used as base currency for all conversions. You can "
+"find full list of supported currencies at <a target=\"_blank\" href="
+"\"https://openexchangerates.org/currencies\">https://openexchangerates.org/"
+"currencies</a>"
+msgstr ""
+"Seçilen dönüşümler, tüm dönüşümler için temel para birimi olarak "
+"kullanılacaktır. Desteklenen para birimlerinin tam listesini <a target="
+"\"_blank\" href=\"https://openexchangerates.org/currencies\">https://"
+"openexchangerates.org/currencies adresinde bulabilirsiniz.</a>"
+
+#: inc/theme-options/header-options.php:159
+msgid "Currencies You Want to Support"
+msgstr "Desteklemek İstediğiniz Para Birimleri"
+
+#: inc/theme-options/header-options.php:162
+msgid ""
+"Only provide comma separated list of currency codes in capital letters. Do "
+"not add dashes, spaces or currency signs."
+msgstr ""
+"Yalnızca büyük harfle virgülle ayrılmış para birimi listesi sağlayın. Çizgi, "
+"boşluk veya para birimi işareti eklemeyin."
+
+#: inc/theme-options/header-options.php:168
+msgid "Expiry Period for Switched Currency"
+msgstr "Anahtarlamalı Para Birimi için Bitiş Süresi"
+
+#: inc/theme-options/header-options.php:172
+msgid "One Hour"
+msgstr "Bir Saat"
+
+#: inc/theme-options/header-options.php:173
+msgid "One Day"
+msgstr "Bir Gün"
+
+#: inc/theme-options/header-options.php:174
+msgid "One Week"
+msgstr "Bir Hafta"
+
+#: inc/theme-options/header-options.php:175
+msgid "One Month"
+msgstr "Bir Ay"
+
+#: inc/theme-options/home-options.php:7 inc/util/breadcrumbs-functions.php:15
+msgid "Home"
+msgstr "Anasayfa"
+
+#: inc/theme-options/home-options.php:9
+msgid "This section contains options for homepage."
+msgstr "Bu bölüm, ana sayfa için seçenekler içerir."
+
+#: inc/theme-options/home-options.php:14
+msgid "What to display below header"
+msgstr "Başlığın altında ne gösterileceği"
+
+#: inc/theme-options/home-options.php:18
+#: inc/theme-options/styles-options/slider-styles-options.php:8
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/theme-options/home-options.php:25
+msgid "Select the type of slider"
+msgstr "Slider türünü seçin"
+
+#: inc/theme-options/home-options.php:27
+msgid "Properties Slider"
+msgstr "İlanlar Sliderı"
+
+#: inc/theme-options/home-options.php:28
+msgid "Properties Slider Two"
+msgstr "İlanlar Slider İki"
+
+#: inc/theme-options/home-options.php:29
+msgid "Properties Slider Three"
+msgstr "İlanlar Slider Üç"
+
+#: inc/theme-options/home-options.php:30
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/theme-options/home-options.php:39
+msgid "Number of slides to display"
+msgstr "Görüntülenecek slayt sayısı"
+
+#: inc/theme-options/home-options.php:64
+msgid "Slider Button Text"
+msgstr "Slider Düğme Metni"
+
+#: inc/theme-options/home-options.php:65
+msgid "More Details"
+msgstr "Daha fazla detay"
+
+#: inc/theme-options/home-options.php:81
+#: inc/theme-options/search-options.php:166
+msgid "Layout"
+msgstr "Düzen"
+
+#: inc/theme-options/home-options.php:83
+msgid "This section contains homepage layout related options."
+msgstr "Bu bölüm, ana sayfa düzeni ile ilgili seçenekleri içerir."
+
+#: inc/theme-options/home-options.php:89
+msgid "Home sections width"
+msgstr "Anasayfa bölüm genişliği"
+
+#: inc/theme-options/home-options.php:90
+msgid "Some section can appear in full width."
+msgstr "Bazı bölüm tam genişlikte görüntülenebilir."
+
+#: inc/theme-options/home-options.php:92
+msgid "Keep Boxed"
+msgstr "Kutudan çıkar"
+
+#: inc/theme-options/home-options.php:93
+msgid "Allow Full Width"
+msgstr "Tam Genişliğe İzin Ver"
+
+#: inc/theme-options/home-options.php:100
+msgid "Property Search Form"
+msgstr "İlan Arama Formu"
+
+#: inc/theme-options/home-options.php:101
+msgid ""
+"The 1st header variation already includes it, So this applies only with "
+"other header variations."
+msgstr ""
+"İlk başlık varyasyonu zaten içeriyor, Dolayısıyla bu yalnızca diğer başlık "
+"varyasyonları için geçerlidir."
+
+#: inc/theme-options/home-options.php:103
+#: inc/theme-options/members-options.php:17
+#: inc/theme-options/members-options.php:254
+#: inc/theme-options/members-options.php:263
+#: inc/theme-options/members-options.php:272
+#: inc/theme-options/members-options.php:281
+#: inc/theme-options/members-options.php:290
+#: inc/theme-options/members-options.php:299
+#: inc/theme-options/members-options.php:308
+#: inc/theme-options/members-options.php:317
+#: inc/theme-options/members-options.php:326
+#: inc/theme-options/members-options.php:335
+#: inc/theme-options/members-options.php:344
+#: inc/theme-options/members-options.php:353
+#: inc/theme-options/members-options.php:363
+#: inc/theme-options/members-options.php:372
+#: inc/theme-options/members-options.php:381
+#: inc/theme-options/members-options.php:390
+#: inc/theme-options/members-options.php:399
+#: inc/theme-options/members-options.php:409
+#: inc/theme-options/members-options.php:420
+#: inc/theme-options/members-options.php:430
+#: inc/theme-options/members-options.php:439
+#: inc/theme-options/members-options.php:448
+#: inc/theme-options/property-options.php:226
+#: inc/theme-options/property-options.php:333
+#: inc/theme-options/property-options.php:358
+#: inc/theme-options/property-options.php:366
+#: inc/theme-options/property-options.php:397
+#: inc/theme-options/property-options.php:482
+#: inc/theme-options/search-options.php:63
+#: inc/theme-options/search-options.php:110
+#: inc/theme-options/search-options.php:127
+msgid "Show"
+msgstr "Göster"
+
+#: inc/theme-options/home-options.php:110
+msgid "Homepage layout manager"
+msgstr "Ana sayfa düzeni yöneticisi"
+
+#: inc/theme-options/home-options.php:111
+msgid "Organize homepage sections in the way you want them to appear."
+msgstr "Ana sayfa bölümlerini görünmelerini istediğiniz şekilde düzenleyin."
+
+#: inc/theme-options/home-options.php:114
+msgid "Page Contents"
+msgstr "Sayfa İçeriği"
+
+#: inc/theme-options/home-options.php:117
+#: inc/theme-options/home-options.php:134
+msgid "Properties"
+msgstr "İlanlar"
+
+#: inc/theme-options/home-options.php:118
+#: inc/theme-options/home-options.php:298
+msgid "Featured"
+msgstr "Öne Çıkan"
+
+#: inc/theme-options/home-options.php:119
+msgid "How It Works"
+msgstr "Nasıl çalışır"
+
+#: inc/theme-options/home-options.php:120
+#: inc/theme-options/home-options.php:685
+msgid "Partners"
+msgstr "Ortaklar"
+
+#: inc/theme-options/home-options.php:121
+#: inc/theme-options/home-options.php:730
+msgid "News"
+msgstr "Haberler"
+
+#: inc/theme-options/home-options.php:136
+msgid "This section contains homepage properties related options."
+msgstr "Bu bölüm, ana sayfa özellikleri ile ilgili seçenekleri içerir."
+
+#: inc/theme-options/home-options.php:143
+msgid "Properties design variation"
+msgstr "İlan tasarım varyasyonu"
+
+#: inc/theme-options/home-options.php:144
+msgid ""
+"Select the design variation that you want to use for homepage properties."
+msgstr ""
+"Ana sayfa ilanları için kullanmak istediğiniz tasarım varyasyonunu seçin."
+
+#: inc/theme-options/home-options.php:159
+msgid "4th Variation"
+msgstr "4. Varyasyon"
+
+#: inc/theme-options/home-options.php:168
+#: inc/theme-options/home-options.php:210
+#: inc/theme-options/home-options.php:251
+#: inc/theme-options/home-options.php:266
+msgid "Number of properties to display"
+msgstr "Görüntülenecek ilanların sayısı"
+
+#: inc/theme-options/home-options.php:184
+msgid "Multiple Photos"
+msgstr "Birden Fazla Fotoğraf"
+
+#: inc/theme-options/home-options.php:185
+msgid "* This can slow website performance"
+msgstr "* Bu, web sitesi performansını yavaşlatabilir"
+
+#: inc/theme-options/home-options.php:186
+msgid "Each property can display multiple photos sliding over each other"
+msgstr "Her İlanda (slider) birden fazla fotoğraf gösterebilir"
+
+#: inc/theme-options/home-options.php:188
+#: inc/theme-options/members-options.php:211
+#: inc/theme-options/members-options.php:224
+msgid "Enabled"
+msgstr "Etkin"
+
+#: inc/theme-options/home-options.php:189
+#: inc/theme-options/members-options.php:212
+#: inc/theme-options/members-options.php:225
+msgid "Disabled"
+msgstr "Devre dışı"
+
+#: inc/theme-options/home-options.php:195
+msgid "Max number of photos"
+msgstr "Maksimum fotoğraf sayısı"
+
+#: inc/theme-options/home-options.php:225
+msgid "Welcome Board Title"
+msgstr "Hoşgeldiniz Kısmı Başlığı"
+
+#: inc/theme-options/home-options.php:226
+msgid "We are Offering the Best Real Estate Deals"
+msgstr "En İyi Gayrimenkul Fırsatlarını Sunuyoruz"
+
+#: inc/theme-options/home-options.php:232
+msgid "Welcome Board Text"
+msgstr "Hoşgeldiniz Metini"
+
+#: inc/theme-options/home-options.php:233
+#: inc/theme-options/home-options.php:380
+#: inc/theme-options/home-options.php:458
+#: inc/theme-options/home-options.php:496
+#: inc/theme-options/home-options.php:534
+msgid "Following html tags are allowed: a, br, em and strong."
+msgstr "Aşağıdaki html etiketlerine izin verilir: a, br, em ve strong."
+
+#: inc/theme-options/home-options.php:281
+msgid "Sort Order"
+msgstr "Sıralama düzeni"
+
+#: inc/theme-options/home-options.php:294
+msgid "Select the kind of properties you want to display"
+msgstr "Görüntülemek istediğiniz ilanların türünü seçin"
+
+#: inc/theme-options/home-options.php:296
+msgid "Default ( No Filtration )"
+msgstr "Varsayılan (Filtreleme Yok)"
+
+#: inc/theme-options/home-options.php:297
+#: inc/theme-options/property-options.php:450
+msgid "Random"
+msgstr "Rastgele"
+
+#: inc/theme-options/home-options.php:299
+msgid "Based on my selection of Locations, Statuses and Types."
+msgstr "Konumlar, Durumlar ve Türler seçimim temel alındı."
+
+#: inc/theme-options/home-options.php:306
+msgid "Exclude Featured Properties?"
+msgstr "Öne Çıkan İlanları Dışla?"
+
+#: inc/theme-options/home-options.php:307
+msgid ""
+"Check this option if you want to exclude Featured Properties from Recent "
+"Properties on Homepage ."
+msgstr ""
+"Öne Çıkan İlanları Ana Sayfadaki Son ilanlardan çıkarmak istiyorsanız bu "
+"seçeneği işaretleyin."
+
+#: inc/theme-options/home-options.php:315
+#: inc/theme-options/search-options.php:201
+msgid "Locations"
+msgstr "Konumlar"
+
+#: inc/theme-options/home-options.php:327
+msgid "Statuses"
+msgstr "Durumlar"
+
+#: inc/theme-options/home-options.php:339
+msgid "Types"
+msgstr "Tipler"
+
+#: inc/theme-options/home-options.php:358
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:8
+msgid "How it Works"
+msgstr "Nasıl çalışır"
+
+#: inc/theme-options/home-options.php:360
+msgid "This section contains options related to \"How It Works\" section."
+msgstr "Bu bölüm, \"Nasıl Çalışır\" bölümüyle ilgili seçenekleri içerir."
+
+#: inc/theme-options/home-options.php:367
+msgid "Welcome Text"
+msgstr "Hoş Geldiniz Metni"
+
+#: inc/theme-options/home-options.php:368
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: inc/theme-options/home-options.php:373
+#: inc/theme-options/home-options.php:673
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/theme-options/home-options.php:374
+msgid "An Awesome title"
+msgstr "Müthiş bir başlık"
+
+#: inc/theme-options/home-options.php:379
+#: inc/theme-options/property-card-options.php:40
+#: inc/theme-options/property-options.php:10
+#: inc/theme-options/property-options.php:12
+#: inc/theme-options/property-options.php:237
+#: partials/property/templates/property-for-list.php:31
+msgid "Description"
+msgstr "Açıklama"
+
+#: inc/theme-options/home-options.php:396
+msgid "Background Image"
+msgstr "Arka plan görüntüsü"
+
+#: inc/theme-options/home-options.php:406
+msgid "Provide a background image for \"How it Works\" section."
+msgstr "\"Nasıl Çalışır\" bölümü için bir arka plan resmi sağlayın."
+
+#: inc/theme-options/home-options.php:413
+msgid "Number of Columns"
+msgstr "Sütun sayısı"
+
+#: inc/theme-options/home-options.php:414
+msgid ""
+"Choose the number of columns to display below basic introduction on \"How it "
+"Works\" section."
+msgstr ""
+"\"Nasıl Çalışır\" bölümündeki temel giriş bölümünün altında görüntülenecek "
+"sütun sayısını seçin."
+
+#: inc/theme-options/home-options.php:416
+msgid "None"
+msgstr "Yok"
+
+#: inc/theme-options/home-options.php:417
+msgid "1 Column"
+msgstr "1 Sütun"
+
+#: inc/theme-options/home-options.php:418
+msgid "2 Columns"
+msgstr "2 Sütun"
+
+#: inc/theme-options/home-options.php:419
+msgid "3 Columns"
+msgstr "3 Sütun"
+
+#: inc/theme-options/home-options.php:426
+msgid "Content alignment in a column"
+msgstr "Bir sütundaki içerik hizalama"
+
+#: inc/theme-options/home-options.php:428
+msgid "Left"
+msgstr "Sol"
+
+#: inc/theme-options/home-options.php:429
+msgid "Center"
+msgstr "Merkez"
+
+#: inc/theme-options/home-options.php:442
+msgid "1st Column Icon"
+msgstr "1. Sütun Simgesi"
+
+#: inc/theme-options/home-options.php:450
+msgid "1st Column Title"
+msgstr "1. Sütun Başlığı"
+
+#: inc/theme-options/home-options.php:451 partials/members/register.php:4
+msgid "Register"
+msgstr "Kayıt Ol"
+
+#: inc/theme-options/home-options.php:457
+msgid "1st Column Description"
+msgstr "1. Sütun Açıklaması"
+
+#: inc/theme-options/home-options.php:480
+msgid "2nd Column Icon"
+msgstr "2. Sütun Simgesi"
+
+#: inc/theme-options/home-options.php:488
+msgid "2nd Column Title"
+msgstr "2. Sütun Başlığı"
+
+#: inc/theme-options/home-options.php:489
+msgid "Fill Up Property Details"
+msgstr "İlan Doldurma Detayları"
+
+#: inc/theme-options/home-options.php:495
+msgid "2nd Column Description"
+msgstr "2. Sütun Açıklaması"
+
+#: inc/theme-options/home-options.php:518
+msgid "3rd Column Icon"
+msgstr "3. Sütun Simgesi"
+
+#: inc/theme-options/home-options.php:526
+msgid "3rd Column Title"
+msgstr "3. Sütun Başlığı"
+
+#: inc/theme-options/home-options.php:527
+msgid "You are Done!"
+msgstr "Bitirdiniz!"
+
+#: inc/theme-options/home-options.php:533
+msgid "3rd Column Description"
+msgstr "3. Sütun Açıklaması"
+
+#: inc/theme-options/home-options.php:551
+msgid "Submit Property Button"
+msgstr "İlan Gönder Düğmesi"
+
+#: inc/theme-options/home-options.php:559
+msgid "Button Text"
+msgstr "Düğme Metni"
+
+#: inc/theme-options/home-options.php:560
+msgid "Submit Your Property"
+msgstr "İlanınızı Gönderin"
+
+#: inc/theme-options/home-options.php:566
+msgid "Button Target URL"
+msgstr "Hedef Düğme URL'si"
+
+#: inc/theme-options/home-options.php:578
+#: inc/theme-options/home-options.php:674
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:8
+msgid "Featured Properties"
+msgstr "Öne Çıkan İlanlar"
+
+#: inc/theme-options/home-options.php:580
+msgid ""
+"This section contains options related to featured properties on homepage."
+msgstr ""
+"Bu bölüm, ana sayfadaki özellikli özelliklerle ilgili seçenekleri içerir."
+
+#: inc/theme-options/home-options.php:587
+msgid "Featured properties design variation"
+msgstr "Öne çıkan ilanların tasarım varyasyonu"
+
+#: inc/theme-options/home-options.php:588
+msgid ""
+"Select the design variation that you want to use for featured properties."
+msgstr ""
+"İlanların özellikleri için kullanmak istediğiniz tasarım varyasyonunu seçin."
+
+#: inc/theme-options/home-options.php:608
+msgid "Number of columns"
+msgstr "Sütun sayısı"
+
+#: inc/theme-options/home-options.php:621
+#: inc/theme-options/home-options.php:639
+#: inc/theme-options/home-options.php:657
+msgid "Number of properties"
+msgstr "İlan Sayısı"
+
+#: inc/theme-options/home-options.php:687
+msgid "This section contains options related to partners on homepage."
+msgstr "Bu bölüm, ana sayfadaki iş ortaklarıyla ilgili seçenekleri içerir."
+
+#: inc/theme-options/home-options.php:693
+msgid "Number of partners"
+msgstr "Ortak sayısı"
+
+#: inc/theme-options/home-options.php:713
+msgid "Partners Title"
+msgstr "İş Ortakları Başlığı"
+
+#: inc/theme-options/home-options.php:714
+msgid "You can use span tag to highlight a part of title."
+msgstr "Bir başlık parçasını vurgulamak için span etiketi kullanabilirsiniz."
+
+#: inc/theme-options/home-options.php:732
+msgid "This section contains options related to news on homepage."
+msgstr "Bu bölüm, ana sayfadaki haberlerle ilgili seçenekleri içerir."
+
+#: inc/theme-options/home-options.php:738
+msgid "Number of posts to display"
+msgstr "Görüntülenecek ileti sayısı"
+
+#: inc/theme-options/home-options.php:756
+msgid "News Title"
+msgstr "Haber Başlıkları"
+
+#: inc/theme-options/home-options.php:757
+msgid "Latest News"
+msgstr "Son Haberler"
+
+#: inc/theme-options/home-options.php:762
+msgid "Type of News Posts"
+msgstr "Haber Gönderi Tipleri"
+
+#: inc/theme-options/home-options.php:763
+msgid "Choose the type of news posts to display on homepage."
+msgstr "Ana sayfada görüntülenecek haber postalarının türünü seçin."
+
+#: inc/theme-options/home-options.php:765
+msgid "Recent"
+msgstr "Son"
+
+#: inc/theme-options/home-options.php:766
+msgid "Based on Categories"
+msgstr "Kategorilere Göre"
+
+#: inc/theme-options/home-options.php:767
+msgid "Based on Tags"
+msgstr "Etiketler Göre"
+
+#: inc/theme-options/home-options.php:776
+msgid "Select Categories"
+msgstr "Kategorileri Seç"
+
+#: inc/theme-options/home-options.php:784
+msgid "Select Tags"
+msgstr "Etiketler'i Seç"
+
+#: inc/theme-options/home-options.php:790
+msgid "More Link Text"
+msgstr "Daha Fazla Bağlantı Metni"
+
+#: inc/theme-options/home-options.php:791
+msgid "More"
+msgstr "Daha"
+
+#: inc/theme-options/members-options.php:7
+msgid "Members"
+msgstr "Üyeler"
+
+#: inc/theme-options/members-options.php:9
+msgid "This section contains options related to registered users."
+msgstr "Bu bölüm, kayıtlı kullanıcılar ile ilgili seçenekleri içerir."
+
+#: inc/theme-options/members-options.php:15
+msgid "User Navigation in Header"
+msgstr "Üstbilgide Kullanıcı Gezgini"
+
+#: inc/theme-options/members-options.php:23
+msgid "Label For \"Favourite\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:30
+msgid "Label For \"Logout\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:37
+msgid "Label For \"Profile\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:44
+msgid "Label For \"My Properties\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:51
+msgid "Label For \"Submit\" "
+msgstr ""
+
+#: inc/theme-options/members-options.php:58
+msgid "Display Submit button for Registered Users only"
+msgstr ""
+
+#: inc/theme-options/members-options.php:59
+msgid ""
+"Do you want to display the submit property link for registered members only?"
+msgstr ""
+
+#: inc/theme-options/members-options.php:67
+msgid "Restrict Admin Access"
+msgstr "Yönetici Erişimini Kısıtla"
+
+#: inc/theme-options/members-options.php:68
+msgid ""
+"Restrict admin access to any user level equal to or below the selected user "
+"level."
+msgstr ""
+"Yönetici erişimini, seçili kullanıcı düzeyine eşit veya daha düşük herhangi "
+"bir kullanıcı düzeyiyle sınırlandırın."
+
+#: inc/theme-options/members-options.php:70
+msgid "Subscriber ( Level 0 )"
+msgstr "Abone (Seviye 0)"
+
+#: inc/theme-options/members-options.php:71
+msgid "Contributor ( Level 1 )"
+msgstr "Katılımcı (Düzey 1)"
+
+#: inc/theme-options/members-options.php:72
+msgid "Author ( Level 2 )"
+msgstr "Yazar (Düzey 2)"
+
+#: inc/theme-options/members-options.php:97
+msgid "Edit Profile Page"
+msgstr "Profil Sayfasını Düzenle"
+
+#: inc/theme-options/members-options.php:98
+msgid "Make sure the selected page is using Edit Profile template."
+msgstr "Seçilen sayfanın Profil Düzenle şablonunu kullandığından emin olun."
+
+#: inc/theme-options/members-options.php:109
+msgid "Favorites Page"
+msgstr "Sık Kullanılanlar Sayfası"
+
+#: inc/theme-options/members-options.php:110
+msgid "Select a page to display favorite properties."
+msgstr "Sık kullanılan İlanları görüntülemek için bir sayfa seçin."
+
+#: inc/theme-options/members-options.php:111
+msgid "Make sure the selected page is using Favorites template."
+msgstr "Seçilen sayfanın Favoriler şablonunu kullandığından emin olun."
+
+#: inc/theme-options/members-options.php:116
+msgid "Number of Properties on Favorites Page"
+msgstr "Sık Kullanılanlar Sayfasındaki İlanların Sayısı"
+
+#: inc/theme-options/members-options.php:137
+msgid "My Properties Page"
+msgstr "İlanlarım Sayfası"
+
+#: inc/theme-options/members-options.php:138
+msgid "Make sure the selected page is using My Properties template."
+msgstr "Seçili sayfanın İlanlarım şablonunu kullandığından emin olun."
+
+#: inc/theme-options/members-options.php:143
+msgid "Number of Properties on My Properties Page"
+msgstr "Özelliklerim Sayfasındaki Özellik Sayısı"
+
+#: inc/theme-options/members-options.php:169
+msgid "Submit Property Page"
+msgstr "İlan Sayfasını Gönder"
+
+#: inc/theme-options/members-options.php:170
+msgid "Make sure the selected page is using Submit Property template."
+msgstr "Seçilen sayfanın İlan Şablonu. Şablonun kullanıldığından emin olun."
+
+#: inc/theme-options/members-options.php:175
+msgid "Default Status of Submitted Property"
+msgstr "Gönderilen İlanın Varsayılan Statüsü"
+
+#: inc/theme-options/members-options.php:177
+msgid "Pending for Review"
+msgstr "İncelenmeyi Bekliyor"
+
+#: inc/theme-options/members-options.php:178
+msgid "Publish"
+msgstr "Yayınla"
+
+#: inc/theme-options/members-options.php:186
+msgid "Default Address for Property Submit Form"
+msgstr "İlan Formu için Varsayılan Adres"
+
+#: inc/theme-options/members-options.php:193
+msgid "Default Location Coordinates for Property Submit Map"
+msgstr "Varsayılan Lokasyon İçin Gayrimenkul Haritası Gönder"
+
+#: inc/theme-options/members-options.php:201
+msgid "Email for Property Submit Notice"
+msgstr "Gayrimenkul İçin E-posta Bildirimi Gönder"
+
+#: inc/theme-options/members-options.php:202
+msgid ""
+"This email address will receive a notice whenever a user submits a property."
+msgstr "Bu e-posta adresi, kullanıcı bir ilan gönderirken bir bildirim alacak."
+
+#: inc/theme-options/members-options.php:209
+msgid "Message for Reviewer on Property Submit Form"
+msgstr "İlan Formunu Onaylayan Mesaj"
+
+#: inc/theme-options/members-options.php:222
+msgid "Auto-Generate Property ID"
+msgstr ""
+
+#: inc/theme-options/members-options.php:235
+msgid "Auto-Generated Property ID Pattern"
+msgstr "Otomatik Üretilen Mülk Kimliği Deseni"
+
+#: inc/theme-options/members-options.php:236
+msgid ""
+"Please use {ID} in your pattern as it will be replaced by the Property ID."
+msgstr ""
+"Lütfen şablonunuzda {ID} kullanın, bu, İlan Kimliğinizle değiştirilecektir."
+
+#: inc/theme-options/members-options.php:245
+msgid "Property Submit"
+msgstr "Emlak Ekle"
+
+#: inc/theme-options/members-options.php:247
+msgid "This section contains Property Submit related options."
+msgstr ""
+
+#: inc/theme-options/members-options.php:253
+msgid "Address Field"
+msgstr "Adres alanı No"
+
+#: inc/theme-options/members-options.php:262
+msgid "Property Description Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:271
+msgid "Type Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:280
+msgid "Location Field"
+msgstr "Lokasyon Alanı"
+
+#: inc/theme-options/members-options.php:289
+msgid "Status Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:298
+msgid "Bedrooms Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:307
+msgid "Bathrooms Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:316
+msgid "Garages Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:325
+msgid "Sale OR Rent Price Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:334
+msgid "Price Postfix Text Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:343
+msgid "Area Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:352
+msgid "Area Postfix Text Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:362
+msgid "Property ID Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:371
+msgid "Property Video URL Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:380
+msgid "Year Built Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:389
+msgid "Parent Property Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:398
+msgid "Virtual Tour Embed Code Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:408
+msgid "Drag And Drop Image Box Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:419
+msgid "Agent Information Option Field "
+msgstr ""
+
+#: inc/theme-options/members-options.php:429
+msgid "Mark As Featured Property Checkbox"
+msgstr ""
+
+#: inc/theme-options/members-options.php:438
+msgid "Features Field"
+msgstr ""
+
+#: inc/theme-options/members-options.php:447
+msgid "Additional Details Field"
+msgstr ""
+
+#: inc/theme-options/misc-options.php:7
+msgid "Misc"
+msgstr "Çeşitli"
+
+#: inc/theme-options/misc-options.php:9
+msgid ""
+"This section contains options related to various features across the theme."
+msgstr "Bu bölüm, temanın çeşitli özellikleri ile ilgili seçenekleri içerir."
+
+#: inc/theme-options/misc-options.php:14
+msgid "CC Email Address for Messages to Agents"
+msgstr "Danışman Mesajları için CC E-posta Adresi"
+
+#: inc/theme-options/misc-options.php:15
+msgid ""
+"Given email address will receive a carbon copy of every message sent to any "
+"agent."
+msgstr ""
+"Girilen e-posta adresinden herhangi danışmanlara gönderilen her mesajın bir "
+"kopyasını alacaktır."
+
+#: inc/theme-options/misc-options.php:16 inc/theme-options/misc-options.php:23
+msgid "You can provide multiple email addresses separated with comma."
+msgstr "Virgülle ayrılmış birden fazla e-posta adresi sağlayabilirsiniz."
+
+#: inc/theme-options/misc-options.php:21
+msgid "BCC Email Address for Messages to Agents"
+msgstr "Danışmanlar için İletilerin BCC E-posta Adresi"
+
+#: inc/theme-options/misc-options.php:22
+msgid ""
+"Given email address will receive a blind carbon copy of every message sent "
+"to any agent."
+msgstr ""
+"Girilen e-posta adresine, herhangi bir temsilciye gönderilen her iletinin "
+"bir kopyası gönderilir."
+
+#: inc/theme-options/misc-options.php:28
+msgid "Link to Previous and Next Property "
+msgstr "Önceki ve Sonraki İlanlara Bağla "
+
+#: inc/theme-options/misc-options.php:36
+msgid "Link to Previous and Next Post "
+msgstr "Önceki ve Sonraki Gönderiye Bağla "
+
+#: inc/theme-options/options-config.php:36
+#: inc/theme-options/options-config.php:37
+msgid "Theme Options"
+msgstr "Tema Ayarları"
+
+#: inc/theme-options/payments-options.php:7
+msgid "Payments"
+msgstr "Ödemeler"
+
+#: inc/theme-options/payments-options.php:9
+msgid ""
+"This section contains options related to payments for submitted properties."
+msgstr "Bu bölüm, gönderilen malların ödemeleri ile ilgili seçenekleri içerir."
+
+#: inc/theme-options/payments-options.php:15
+msgid "PayPal Payments"
+msgstr "PayPal Ödemeleri"
+
+#: inc/theme-options/payments-options.php:16
+msgid "Enable payment via PayPal ?"
+msgstr "PayPal ile ödeme etkinleştirilsin mi?"
+
+#: inc/theme-options/payments-options.php:24
+msgid "PayPal IPN URL"
+msgstr "PayPal IPN URL'si"
+
+#: inc/theme-options/payments-options.php:25
+msgid "It is a must"
+msgstr "Bu bir zorunluluktur"
+
+#: inc/theme-options/payments-options.php:26
+msgid ""
+"Install \"PayPal IPN for WordPress\" plugin and get IPN URL from Settings > "
+"PayPal IPN."
+msgstr ""
+"\"WordPress için PayPal IPN\" eklentisini yükleyin ve Ayarlar> PayPal "
+"IPN'den IPN URL'si alın."
+
+#: inc/theme-options/payments-options.php:33
+msgid "PayPal Merchant Account ID or Email"
+msgstr "PayPal Tüccar Hesabı Kimliği veya E-postası"
+
+#: inc/theme-options/payments-options.php:39
+msgid "PayPal Sandbox"
+msgstr "PayPal Sandbox"
+
+#: inc/theme-options/payments-options.php:40
+msgid "Enable PayPal sandbox for testing"
+msgstr "Test için PayPal sanal alanını etkinleştir"
+
+#: inc/theme-options/payments-options.php:49
+msgid "Payment Amount for a Property"
+msgstr "Bir İlanın Ödeme Tutarı"
+
+#: inc/theme-options/payments-options.php:50
+msgid ""
+"Provide the amount that you want to charge for a property. Example: 20.00"
+msgstr ""
+"Bir ilan için ücret talep etmek istediğiniz miktarı sağlayın. Örnek: 20.00"
+
+#: inc/theme-options/payments-options.php:57
+msgid "Currency Code"
+msgstr "Para Birimi Kodu"
+
+#: inc/theme-options/payments-options.php:58
+msgid "Provide the currency code that you want to use. Example: USD"
+msgstr "Kullanmak istediğiniz para birimi kodunu sağlayın. Örnek: USD"
+
+#: inc/theme-options/payments-options.php:65
+msgid "Auto Action on Successful Payment"
+msgstr "Başarılı Ödeme Sırasındaki Otomatik İşlem"
+
+#: inc/theme-options/payments-options.php:67
+msgid "Publish the Property"
+msgstr "İlan Yayınla"
+
+#: inc/theme-options/payments-options.php:68
+msgid "Do Nothing"
+msgstr "Hiçbir şey yapma"
+
+#: inc/theme-options/property-card-options.php:7
+msgid "Property Card"
+msgstr "Gayrimenkul Kartı"
+
+#: inc/theme-options/property-card-options.php:9
+msgid ""
+"This section contains options for property card displayed in various pages "
+"across the theme."
+msgstr ""
+"Bu bölüm, temanın çeşitli sayfalarında görüntülenen gayrimenkul kartıyla "
+"ilgili seçenekleri içerir."
+
+#: inc/theme-options/property-card-options.php:15
+msgid "Display images gallery for property card in list and grid layout"
+msgstr "Liste ve ızgara düzeninde gayrimenkul kartı için görüntü galerisi"
+
+#: inc/theme-options/property-card-options.php:16
+msgid "This option has performance implications."
+msgstr "Bu seçeneğin performans sonuçları vardır."
+
+#: inc/theme-options/property-card-options.php:24
+msgid "Maximum number of images allowed in property card gallery."
+msgstr "İlan kart galerisinde izin verilen maksimum resim sayısı."
+
+#: inc/theme-options/property-card-options.php:39
+msgid "Description title for property card in list layout"
+msgstr "İlan kartında listeleme düzeninde açıklama başlığı"
+
+#: inc/theme-options/property-card-options.php:45
+msgid "Price title for property card in list layout"
+msgstr "Liste düzeninde mülkiyet kartı için fiyat başlığı"
+
+#: inc/theme-options/property-card-options.php:46
+#: partials/property/templates/property-for-list.php:23
+msgid "Price"
+msgstr "Fiyat"
+
+#: inc/theme-options/property-card-options.php:51
+msgid "Button text for property card in list layout"
+msgstr "Gayrimenkul kartının liste düzenindeki düğme metni"
+
+#: inc/theme-options/property-options.php:16
+#: inc/theme-options/property-options.php:18
+#: inc/theme-options/property-options.php:248
+msgid "Additional Details"
+msgstr "Ek Detaylar"
+
+#: inc/theme-options/property-options.php:22
+#: inc/theme-options/property-options.php:24
+#: inc/theme-options/property-options.php:259
+msgid "Features"
+msgstr "Özellikler"
+
+#: inc/theme-options/property-options.php:28
+#: inc/theme-options/property-options.php:30
+#| msgid "Floor Plans"
+msgid "Floor plans"
+msgstr "Kat Planları"
+
+#: inc/theme-options/property-options.php:34
+#: inc/theme-options/property-options.php:36
+#| msgid "Video Title"
+msgid "Video"
+msgstr "Video"
+
+#: inc/theme-options/property-options.php:40
+#: inc/theme-options/property-options.php:42
+#: inc/theme-options/property-options.php:289
+msgid "Virtual Tour"
+msgstr "Sanal Tur"
+
+#: inc/theme-options/property-options.php:46
+#: inc/theme-options/property-options.php:48
+msgid "Map"
+msgstr "Harita"
+
+#: inc/theme-options/property-options.php:52
+#: inc/theme-options/property-options.php:54
+#: inc/theme-options/property-options.php:299
+msgid "Attachments"
+msgstr "Ekler"
+
+#: inc/theme-options/property-options.php:58
+#: inc/theme-options/property-options.php:60
+msgid "Share"
+msgstr "Paylaş"
+
+#: inc/theme-options/property-options.php:64
+#: inc/theme-options/property-options.php:66
+#| msgid "Child Theme"
+msgid "Children"
+msgstr "Çocuk"
+
+#: inc/theme-options/property-options.php:68
+#: inc/theme-options/property-options.php:512
+#: inc/theme-options/property-options.php:521
+msgid "WalkScore"
+msgstr "WalkScore"
+
+#: inc/theme-options/property-options.php:182
+msgid "Property Detail"
+msgstr "İlan Bilgileri"
+
+#: inc/theme-options/property-options.php:184
+msgid "This section contains options for property detail page."
+msgstr "Bu bölüm İlan ayrıntı sayfası için seçenekler içerir."
+
+#: inc/theme-options/property-options.php:189
+msgid "Section Manager"
+msgstr ""
+
+#: inc/theme-options/property-options.php:196
+msgid "Property Header Design Variation"
+msgstr "İlan Üstbilgi Tasarım Varyasyonu"
+
+#: inc/theme-options/property-options.php:198
+msgid ""
+"Variation One - Simple slider with basic information on right side of slider."
+msgstr ""
+"Varyasyon Bir - Sliderın sağ tarafında temel bilgilere sahip basit slider."
+
+#: inc/theme-options/property-options.php:199
+msgid "Variation Two - Thumbnail slider with basic information below slider."
+msgstr ""
+"Varyasyon İki - Temel bilgilerle birlikte küçük resim kaydırma çubuğu "
+"sliderı."
+
+#: inc/theme-options/property-options.php:200
+msgid ""
+"Variation Three - Horizontally scrollable slider with basic information "
+"below slider."
+msgstr ""
+"Varyasyon Üç - Yatay kaydırılabilir slider, slider temel bilgileri içerir."
+
+#: inc/theme-options/property-options.php:213
+#: inc/theme-options/search-options.php:99
+#: inc/theme-options/styles-options/basic-styles-options.php:8
+msgid "Basic"
+msgstr "Temel"
+
+#: inc/theme-options/property-options.php:215
+#| msgid "This section contains styles related options."
+msgid "This section contains Basic Property Details related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:224
+msgid "Property Breadcrumbs"
+msgstr "Property Breadcrumbs"
+
+#: inc/theme-options/property-options.php:236
+msgid "Description Title"
+msgstr "Açıklama Başlığı"
+
+#: inc/theme-options/property-options.php:247
+msgid "Additional Details Title"
+msgstr "Ek Detaylar Başlığı"
+
+#: inc/theme-options/property-options.php:258
+msgid "Features Title"
+msgstr "Özellikler Başlığı"
+
+#: inc/theme-options/property-options.php:268
+msgid "Floor Plans Title"
+msgstr "Kat Planları Başlığı"
+
+#: inc/theme-options/property-options.php:269
+msgid "Floor Plans"
+msgstr "Kat Planları"
+
+#: inc/theme-options/property-options.php:278
+msgid "Video Title"
+msgstr "Video Başlığı"
+
+#: inc/theme-options/property-options.php:279
+msgid "Property Video"
+msgstr "İlan Videosu"
+
+#: inc/theme-options/property-options.php:288
+msgid "Virtual Tour Title"
+msgstr ""
+
+#: inc/theme-options/property-options.php:298
+msgid "Attachments Title"
+msgstr "Ekler Başlığı"
+
+#: inc/theme-options/property-options.php:309
+msgid "Share This Property Title"
+msgstr "Bu İlan Başlığını Paylaş"
+
+#: inc/theme-options/property-options.php:310
+msgid "Share This Property"
+msgstr "Bu İlanı Paylaş"
+
+#: inc/theme-options/property-options.php:320
+msgid "Children Properties Title"
+msgstr "Çocuk İlanları Başlığı"
+
+#: inc/theme-options/property-options.php:321
+msgid "Sub Properties"
+msgstr "Alt İlanlar"
+
+#: inc/theme-options/property-options.php:331
+msgid "Property Comments"
+msgstr "İlan Yorumları"
+
+#: inc/theme-options/property-options.php:348
+#: inc/theme-options/property-options.php:356
+msgid "Agent Information"
+msgstr "Danışman Bilgisi"
+
+#: inc/theme-options/property-options.php:350
+#| msgid "This section contains homepage properties related options."
+msgid "This section contains Agent Information related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:364
+msgid "Agent Contact Form"
+msgstr "Danışman İletişim Formu"
+
+#: inc/theme-options/property-options.php:373
+msgid "Agent Contact Form Title"
+msgstr "Danışman İletişim Formu Başlığı"
+
+#: inc/theme-options/property-options.php:374
+msgid "Contact Agent"
+msgstr "Danışman İletişim"
+
+#: inc/theme-options/property-options.php:387
+#: inc/theme-options/property-options.php:395
+#: inc/theme-options/property-options.php:404
+msgid "Similar Properties"
+msgstr "Benzer İlanlar"
+
+#: inc/theme-options/property-options.php:389
+#| msgid "This section contains homepage properties related options."
+msgid "This section contains Similar Properties related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:403
+msgid "Similar Properties Title"
+msgstr "Benzer İlanlar Başlığı"
+
+#: inc/theme-options/property-options.php:410
+msgid "Maximum number of similar properties"
+msgstr "Maksimum benzer ilanların sayısı"
+
+#: inc/theme-options/property-options.php:425
+msgid "Show similar properties based on"
+msgstr "Benzer özelliklere sahip ilanları göster"
+
+#: inc/theme-options/property-options.php:427
+msgid "Property Location"
+msgstr "İlan Konumu"
+
+#: inc/theme-options/property-options.php:428
+#: inc/theme-options/search-options.php:141
+msgid "Property Status"
+msgstr "İlan Durumu"
+
+#: inc/theme-options/property-options.php:429
+#: inc/theme-options/search-options.php:134
+msgid "Property Type"
+msgstr "İlan Tipi"
+
+#: inc/theme-options/property-options.php:430
+msgid "Property Feature"
+msgstr "Emlak Özelliği"
+
+#: inc/theme-options/property-options.php:444
+msgid "Sort Similar Properties By"
+msgstr ""
+
+#: inc/theme-options/property-options.php:447
+msgid "Time - Recent First"
+msgstr "Zaman - Önce Sonuncu"
+
+#: inc/theme-options/property-options.php:448
+msgid "Price - High to Low"
+msgstr "Fiyat - Yüksekten Düşüğe"
+
+#: inc/theme-options/property-options.php:449
+msgid "Proce - Low to High"
+msgstr ""
+
+#: inc/theme-options/property-options.php:465
+#| msgid "Google Maps Api Key"
+msgid "Google Maps & Nearby"
+msgstr ""
+
+#: inc/theme-options/property-options.php:467
+#| msgid "This section contains homepage layout related options."
+msgid "This section contains Google Maps and Nearby related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:473
+msgid "Map Title"
+msgstr "Harita Başlığı"
+
+#: inc/theme-options/property-options.php:474
+#: inc/theme-options/search-options.php:178
+#: inc/util/real-estate-functions.php:151
+msgid "Location"
+msgstr "Konum"
+
+#: inc/theme-options/property-options.php:480
+#| msgid "Property Location"
+msgid "Nearby Locations"
+msgstr ""
+
+#: inc/theme-options/property-options.php:488
+msgid "Nearby Locations Radius (in meters)"
+msgstr ""
+
+#: inc/theme-options/property-options.php:514
+#| msgid "This section contains styles related options."
+msgid "This section contains WalkScore related options."
+msgstr ""
+
+#: inc/theme-options/property-options.php:520
+#| msgid "Welcome Board Title"
+msgid "WalkScore Title"
+msgstr ""
+
+#: inc/theme-options/property-options.php:526
+msgid "WalkScore API Key"
+msgstr ""
+
+#: inc/theme-options/property-options.php:528
+msgid ""
+"Click here to get your <a target=\"_blank\" href=\"https://www.walkscore.com/"
+"professional/api-sign-up.php\">WalkScore API Key</a>"
+msgstr ""
+"<a target=\"_blank\" href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\">WalkScore API Anahtarınızı</a> almak için burayı tıklayın"
+
+#: inc/theme-options/search-options.php:9
+#| msgid "Properties Search Page"
+msgid "Properties Search"
+msgstr "İlan Arama"
+
+#: inc/theme-options/search-options.php:11
+msgid "This section contains options related to property search."
+msgstr "Bu bölüm, ilan arama ile ilgili seçenekleri içerir."
+
+#: inc/theme-options/search-options.php:17
+msgid "Properties Search Page"
+msgstr "İlan Arama Sayfası"
+
+#: inc/theme-options/search-options.php:18
+msgid "Select a page for properties search results."
+msgstr "İlan arama sonuçları için bir sayfa seçin."
+
+#: inc/theme-options/search-options.php:19
+msgid "Make sure the selected page is using Property Search template."
+msgstr "Seçilen sayfanın İlan Arama şablonu kullandığından emin olun."
+
+#: inc/theme-options/search-options.php:24
+msgid "Number of Properties on Search Page"
+msgstr "Arama Sayfasındaki İlanların Sayısı"
+
+#: inc/theme-options/search-options.php:31
+msgid "Search Page Layout"
+msgstr "Arama Sayfası Düzeni"
+
+#: inc/theme-options/search-options.php:33
+msgid "List Layout - Sidebar"
+msgstr "Liste Düzeni - Kenar Çubuğu"
+
+#: inc/theme-options/search-options.php:34
+msgid "Grid Layout - Sidebar"
+msgstr "Izgara Düzeni - Kenar Çubuğu"
+
+#: inc/theme-options/search-options.php:37
+msgid "Half Map - Left Side"
+msgstr ""
+
+#: inc/theme-options/search-options.php:38
+msgid "Half Map - Right Side"
+msgstr ""
+
+#: inc/theme-options/search-options.php:46
+msgid "Default Order of Search Results"
+msgstr "Varsayılan Arama Sonuç Sırası"
+
+#: inc/theme-options/search-options.php:60
+msgid "Search Form In Properties Pages"
+msgstr ""
+
+#: inc/theme-options/search-options.php:61
+msgid "Not applicable for Header Variation One."
+msgstr ""
+
+#: inc/theme-options/search-options.php:70
+msgid "What to Display Below Header on Property Search Page"
+msgstr "İlan Arama Sayfasında Başlık Altında Görüntülenecek Şeyler"
+
+#: inc/theme-options/search-options.php:80
+msgid "How do you want to Sort All the Taxonomies?"
+msgstr ""
+
+#: inc/theme-options/search-options.php:81
+msgid ""
+"How would you like to sort the taxonomies (Locations, Property Status, "
+"Property Types etc. For example, by properties count (taxonomies with "
+"highest properties assigned) or by the alphabetic order."
+msgstr ""
+
+#: inc/theme-options/search-options.php:83
+msgid "Alphabetically"
+msgstr "Alfabetik"
+
+#: inc/theme-options/search-options.php:84
+msgid "Properties Count"
+msgstr "İlan sayısı"
+
+#: inc/theme-options/search-options.php:101
+#| msgid "This sub section contains basic styles options."
+msgid "This section contains Advance Search Basic options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:107
+#| msgid "Search Form Title"
+msgid "Display Search Form Title"
+msgstr ""
+
+#: inc/theme-options/search-options.php:108
+#| msgid "Property features will be displayed below other search form fields."
+msgid "Property title will be displayed above the search form."
+msgstr ""
+
+#: inc/theme-options/search-options.php:116
+msgid "Search Form Title"
+msgstr "Arama Formu Başlığı"
+
+#: inc/theme-options/search-options.php:117
+msgid "Quick Search"
+msgstr "Hızlı Arama"
+
+#: inc/theme-options/search-options.php:124
+msgid "Property Features in Search Form"
+msgstr "Arama Formundaki Gayrimenkul Özellikleri"
+
+#: inc/theme-options/search-options.php:125
+msgid "Property features will be displayed below other search form fields."
+msgstr "İlan özellikleri diğer arama formu alanlarının altında görüntülenir."
+
+#: inc/theme-options/search-options.php:133
+msgid "Title for search \"Property Type\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:140
+msgid "Title for search \"Property Status\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:146
+msgid "Title for search \"Keyword\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:147
+#: inc/theme-options/search-options.php:177
+msgid "Keyword"
+msgstr "Anahtar Kelime"
+
+#: inc/theme-options/search-options.php:153
+msgid "Title for search \"Property ID\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:154
+#: inc/theme-options/search-options.php:187
+#: inc/util/real-estate-functions.php:36
+msgid "Property ID"
+msgstr "İlanın ID'si"
+
+#: inc/theme-options/search-options.php:168
+#| msgid "This section contains homepage layout related options."
+msgid "This section contains Advance Search layout related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:174
+msgid "Search Form Fields Manager"
+msgstr "Arama Formu Alan Yöneticisi"
+
+#: inc/theme-options/search-options.php:183
+msgid "Min Beds"
+msgstr "Minimum Odalar"
+
+#: inc/theme-options/search-options.php:184
+msgid "Min Baths"
+msgstr "Minimum Banyolar"
+
+#: inc/theme-options/search-options.php:185
+msgid "Min Max Price"
+msgstr "Min Max Fiyat"
+
+#: inc/theme-options/search-options.php:186
+msgid "Min Max Area"
+msgstr "Min Max Alan"
+
+#: inc/theme-options/search-options.php:203
+#| msgid "This section contains homepage properties related options."
+msgid "This section contains Advance Search Locations related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:209
+msgid "Number of Location Select Boxes"
+msgstr "Yer Seçme Kutularının Sayısı"
+
+#: inc/theme-options/search-options.php:222
+msgid "Title for 1st Location Select Box"
+msgstr "1. Konum Seçme Kutusu Başlığı"
+
+#: inc/theme-options/search-options.php:223
+msgid "Country"
+msgstr "Ülke"
+
+#: inc/theme-options/search-options.php:229
+msgid "Title for 2nd Location Select Box"
+msgstr "2. Konum Seçme Kutusu Başlığı"
+
+#: inc/theme-options/search-options.php:230
+msgid "State"
+msgstr "Şehir"
+
+#: inc/theme-options/search-options.php:236
+msgid "Title for 3rd Location Select Box"
+msgstr "3. Konum Seçme Kutusu Başlığı"
+
+#: inc/theme-options/search-options.php:237
+#: page-templates/template-compare.php:91
+msgid "City"
+msgstr "Şehir"
+
+#: inc/theme-options/search-options.php:243
+msgid "Title for 4th Location Select Box"
+msgstr "4. Konum Başlığı Seçme Kutusu"
+
+#: inc/theme-options/search-options.php:244
+#: inc/theme-options/search-options.php:376
+#: inc/util/real-estate-functions.php:51 page-templates/template-compare.php:93
+msgid "Area"
+msgstr "Alan"
+
+#: inc/theme-options/search-options.php:257
+#| msgid "%d Baths"
+msgid "Beds and Baths"
+msgstr ""
+
+#: inc/theme-options/search-options.php:259
+#| msgid "This section contains styles related options."
+msgid "This section contains Advance Search Beds and Baths related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:266
+msgid "Title for search \"Min Beds\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:267
+msgid "Min Beds (Any)"
+msgstr "Min Oda Sayısı (Any)"
+
+#: inc/theme-options/search-options.php:272
+msgid "Values for Min Beds Field"
+msgstr ""
+
+#: inc/theme-options/search-options.php:273
+#: inc/theme-options/search-options.php:290
+#: inc/theme-options/search-options.php:320
+#: inc/theme-options/search-options.php:336
+#: inc/theme-options/search-options.php:354
+#: inc/theme-options/search-options.php:362
+msgid ""
+"Only provide comma separated numbers. Do not add decimal points, dashes, "
+"spaces or currency signs."
+msgstr ""
+"Yalnızca virgülle ayrılmış numaralar sağlayın. Ondalık basamak, kesik çizgi, "
+"boşluk veya para birimi işareti eklemeyin."
+
+#: inc/theme-options/search-options.php:281
+msgid "Title for search \"Min Bath\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:282
+msgid "Min Baths (Any)"
+msgstr "Min Banyo (Herhangi)"
+
+#: inc/theme-options/search-options.php:289
+msgid "Values for Min Baths Field"
+msgstr ""
+
+#: inc/theme-options/search-options.php:304
+#| msgid "Price"
+msgid "Prices"
+msgstr "Fiyatlar"
+
+#: inc/theme-options/search-options.php:306
+#| msgid "This section contains homepage properties related options."
+msgid "This section contains Advance Search Prices related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:312
+msgid "Title for search \"Min Price\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:313
+msgid "Min Price (Any)"
+msgstr "Asgari Fiyat (tümü)"
+
+#: inc/theme-options/search-options.php:319
+msgid "Values for Minimum Prices Field"
+msgstr "Minimum Fiyatlar Alanının Değerleri"
+
+#: inc/theme-options/search-options.php:328
+msgid "Title for search \"Max Price\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:329
+msgid "Max Price (Any)"
+msgstr "Maksimum Fiyat"
+
+#: inc/theme-options/search-options.php:335
+msgid "Values for Maximum Prices Field"
+msgstr "Maksimum Fiyat Sahası İçin Değerler"
+
+#: inc/theme-options/search-options.php:343
+msgid "Status That Represents Rent"
+msgstr "Kirayı Temsil Eden Tür"
+
+#: inc/theme-options/search-options.php:344
+msgid ""
+"Visitor expects smaller values for rent prices. So provide the list of "
+"minimum and maximum rent prices below. The rent prices will be displayed "
+"based on rent status selected above."
+msgstr ""
+"Ziyaretçi, kira fiyatları için daha küçük değer bekliyor ise, aşağıda asgari "
+"ve azami kiralama fiyatlarının listesini girin. Kira fiyatları, yukarıda "
+"seçilen kira durumuna göre görüntülenecektir."
+
+#: inc/theme-options/search-options.php:353
+msgid "Values for Minimum Rent Prices Field"
+msgstr "Minimum Kira Fiyatları Alanının Değerleri"
+
+#: inc/theme-options/search-options.php:361
+msgid "Values for Maximum Rent Prices Field"
+msgstr "Maksimum Kira Fiyatları Alanının Değerleri"
+
+#: inc/theme-options/search-options.php:378
+#| msgid "This section contains styles related options."
+msgid "This section contains Advance Search area related options."
+msgstr ""
+
+#: inc/theme-options/search-options.php:384
+msgid "Title for search \"Min Area\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:385
+msgid "Min Area (sq ft)"
+msgstr "Min. Alan (m²)"
+
+#: inc/theme-options/search-options.php:391
+msgid "Title for search \"Max Area\""
+msgstr ""
+
+#: inc/theme-options/search-options.php:392
+msgid "Max Area (sq ft)"
+msgstr "Maks. Alan (m2)"
+
+#: inc/theme-options/styles-options.php:8
+msgid "Styles"
+msgstr "Stiller"
+
+#: inc/theme-options/styles-options.php:10
+msgid "This section contains styles related options."
+msgstr "Bu bölüm stiller ile ilgili seçenekleri içerir."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:10
+msgid "This sub section contains basic styles options."
+msgstr "Bu bölümde temel stil seçenekleri yer almaktadır."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:18
+msgid "Main Background"
+msgstr "Ana Arka Plan"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:19
+msgid "Configure body background of your choice. ( default:#eff1f5 )"
+msgstr "İstediğiniz body arka planını yapılandırın. (Varsayılan: # eff1f5)"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:25
+msgid "Do you want to change fonts?"
+msgstr "Fontları değiştirmek istiyor musunuz?"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:33
+msgid "Headings Font"
+msgstr "Başlıkların Yazı Tipi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:34
+msgid "Select the font for headings."
+msgstr "Başlıklar için yazı tipi seçin."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:35
+#: inc/theme-options/styles-options/basic-styles-options.php:55
+msgid "Varela Round is default font."
+msgstr "Varsayılan yazı tipi Varela Round'dur."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:53
+msgid "Text Font"
+msgstr "Metin Yazı Tipi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:54
+msgid "Select the font for body text."
+msgstr "Gövde metni için yazı tipini seçin."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:74
+#: inc/theme-options/styles-options/property-details-styles-options.php:18
+msgid "Headings Color"
+msgstr "Başlık Rengi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:85
+msgid "Text Color"
+msgstr "Metin Rengi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:94
+msgid "Quote Text Color"
+msgstr "Alıntı Metni Rengi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:103
+msgid "Link Color"
+msgstr "Bağlantı Rengi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:115
+msgid "Link Color in Page and Post Contents"
+msgstr "Sayfa ve Yayın İçeriğinde Link Rengi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:127
+msgid "Animation"
+msgstr "Animasyon"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:128
+msgid "You can enable or disable CSS3 animation on various components."
+msgstr ""
+"CSS3 animasyonunu çeşitli bileşenler üzerinde etkinleştirebilir veya devre "
+"dışı bırakabilirsiniz."
+
+#: inc/theme-options/styles-options/basic-styles-options.php:136
+msgid "Background Color of Scroll to Top"
+msgstr "Başa Dön İkonu Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:146
+msgid "Icon Color of Scroll to Top"
+msgstr "Başa Dön İkonu Rengi"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:156
+msgid "Quick CSS"
+msgstr "Hızlı CSS"
+
+#: inc/theme-options/styles-options/basic-styles-options.php:157
+msgid ""
+"You can use this box for some quick css changes. For big changes, Use the "
+"custom.css file in css folder. In case of child theme please use style.css "
+"file in child theme."
+msgstr ""
+"Bazı hızlı css değişiklikleri için bu kutuyu kullanabilirsiniz. Büyük "
+"değişiklikler için, css klasöründe custom.css dosyasını kullanın. Çocuk "
+"teması olması durumunda lütfen alt temada style.css dosyasını kullanın."
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:10
+msgid "This section contains featured properties styles options."
+msgstr "Bu bölüm, İlan stilleri seçeneklerini içerir."
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:24
+msgid "Background Color for Odd Properties"
+msgstr "Farklı İlanlar İçin Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:37
+msgid "Background Color for Even Properties"
+msgstr "Aynı İlanlar İçin Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:52
+#: inc/theme-options/styles-options/properties-styles-options.php:347
+msgid "Background Color on Hover"
+msgstr "Fare Üzerindeyken Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:67
+msgid "Overall Text Color on Hover"
+msgstr "Üzerinde Genel Metin Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:79
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:200
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:352
+#: inc/theme-options/styles-options/properties-styles-options.php:59
+#: inc/theme-options/styles-options/properties-styles-options.php:205
+#: inc/theme-options/styles-options/properties-styles-options.php:359
+#: inc/theme-options/styles-options/properties-styles-options.php:539
+msgid "Title Color"
+msgstr "Başlık Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:93
+msgid "Title Color on Hover"
+msgstr "Fare Üzerindeyken Başlık Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:105
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:227
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:366
+#: inc/theme-options/styles-options/properties-styles-options.php:75
+#: inc/theme-options/styles-options/properties-styles-options.php:221
+#: inc/theme-options/styles-options/properties-styles-options.php:372
+#: inc/theme-options/styles-options/properties-styles-options.php:552
+#: inc/theme-options/styles-options/property-details-styles-options.php:25
+msgid "Price Color"
+msgstr "Fiyat Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:116
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:239
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:378
+#: inc/theme-options/styles-options/properties-styles-options.php:88
+#: inc/theme-options/styles-options/properties-styles-options.php:235
+#: inc/theme-options/styles-options/properties-styles-options.php:383
+#: inc/theme-options/styles-options/properties-styles-options.php:478
+msgid "Status Tag Text Color"
+msgstr "Durum Etiketi Metin Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:131
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:254
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:393
+#: inc/theme-options/styles-options/properties-styles-options.php:105
+#: inc/theme-options/styles-options/properties-styles-options.php:252
+#: inc/theme-options/styles-options/properties-styles-options.php:397
+#: inc/theme-options/styles-options/properties-styles-options.php:492
+msgid "Status Tag Background Color"
+msgstr "Durum Etiketi Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:144
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:267
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:406
+#: inc/theme-options/styles-options/properties-styles-options.php:120
+#: inc/theme-options/styles-options/properties-styles-options.php:267
+#: inc/theme-options/styles-options/properties-styles-options.php:409
+#: inc/theme-options/styles-options/properties-styles-options.php:504
+msgid "Status Tag Background Color on Hover"
+msgstr "Fare Üzerindeyken Durum Etiketi Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:162
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:310
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:45
+msgid "Section Title Color"
+msgstr "Bölüm Başlığı Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:175
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:323
+#: inc/theme-options/styles-options/properties-styles-options.php:516
+msgid "Description Background Color"
+msgstr "Açıklama Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:188
+msgid "Description Text Color"
+msgstr "Açıklama Metin Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:215
+msgid "Title Bottom Border Color"
+msgstr "Başlık Alt Kenarlık Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:279
+#: inc/theme-options/styles-options/properties-styles-options.php:162
+#: inc/theme-options/styles-options/properties-styles-options.php:308
+#: inc/theme-options/styles-options/properties-styles-options.php:431
+#: inc/theme-options/styles-options/property-details-styles-options.php:32
+msgid "Meta Icons Color"
+msgstr "Meta İkon Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:298
+msgid "Section Background Color"
+msgstr "Bölüm Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:340
+#: inc/theme-options/styles-options/properties-styles-options.php:568
+msgid "Description and Meta Text Color"
+msgstr "Açıklama ve Meta Metin Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:419
+#: inc/theme-options/styles-options/properties-styles-options.php:580
+msgid "Meta Wrapper Background Color"
+msgstr "Meta Sarmalayıcı Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/featured-properties-styles-options.php:431
+#: inc/theme-options/styles-options/properties-styles-options.php:603
+msgid "Meta value Color"
+msgstr "Meta değeri Rengi"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:10
+msgid "This sub section contains footer styles options."
+msgstr "Bu bölüm, altbilgi stil seçenekleri içerir."
+
+#: inc/theme-options/styles-options/footer-styles-options.php:17
+msgid "Overall Footer Style"
+msgstr "Genel Altbilgi Stili"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:19
+msgid "Light"
+msgstr "Açık"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:20
+msgid "Dark"
+msgstr "Koyu"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:38
+#: inc/theme-options/styles-options/footer-styles-options.php:100
+msgid "Footer Background Color"
+msgstr "Altbilgi Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:61
+#: inc/theme-options/styles-options/footer-styles-options.php:123
+msgid "Footer Headings Color"
+msgstr "Alt Bilgi Başlıklar Rengi"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:71
+#: inc/theme-options/styles-options/footer-styles-options.php:133
+msgid "Footer Text Color"
+msgstr "Altbilgi Metin Rengi"
+
+#: inc/theme-options/styles-options/footer-styles-options.php:80
+#: inc/theme-options/styles-options/footer-styles-options.php:142
+msgid "Footer Link Color"
+msgstr "Altbilgi Bağlantısı Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:10
+msgid "This sub section contains header styles options."
+msgstr "Bu bölüm Üst Bilgi stili seçeneklerini içerir."
+
+#: inc/theme-options/styles-options/header-styles-options.php:24
+msgid "Hide Logo in Printing"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:25
+msgid "Do you want to hide the logo while printing?"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:33
+msgid "Invert Logo Colors in Printing?"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:34
+msgid ""
+"Are you using a white logo, this option will invert the colors of the logo "
+"in printing?"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:48
+msgid "Menu Button Background Color"
+msgstr "Menü Düğmesi Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:60
+msgid "Menu Button Text Color"
+msgstr "Menü Düğmesi Metin Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:83
+msgid "Main Menu Background Color"
+msgstr "Ana Menü Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:93
+#: inc/theme-options/styles-options/header-styles-options.php:551
+#: inc/theme-options/styles-options/header-styles-options.php:725
+msgid "Main Menu Text Color"
+msgstr "Ana Menü Metin Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:107
+#: inc/theme-options/styles-options/header-styles-options.php:562
+#: inc/theme-options/styles-options/header-styles-options.php:736
+msgid "Main Menu Text Color on Hover"
+msgstr "Üzerine Gelince Ana Menü Metin Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:123
+#: inc/theme-options/styles-options/header-styles-options.php:577
+#: inc/theme-options/styles-options/header-styles-options.php:752
+msgid "Main Menu Hover and Dropdown Background Color"
+msgstr "Ana Menü Hover ve Dropdown Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:133
+#: inc/theme-options/styles-options/header-styles-options.php:587
+#: inc/theme-options/styles-options/header-styles-options.php:762
+msgid "Main Menu Dropdown Text Color"
+msgstr "Ana Menü Açılır Pencere Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:144
+#: inc/theme-options/styles-options/header-styles-options.php:598
+#: inc/theme-options/styles-options/header-styles-options.php:773
+msgid "Main Menu Dropdown Text Color on Hover"
+msgstr "Fare Üzerindeyken Açılır Ana Menü Metin Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:156
+#: inc/theme-options/styles-options/header-styles-options.php:610
+#: inc/theme-options/styles-options/header-styles-options.php:785
+msgid "Main Menu Dropdown Separator Color"
+msgstr "Main Menu Dropdown Separator Color"
+
+#: inc/theme-options/styles-options/header-styles-options.php:167
+msgid "Main Menu Close Button Background Color"
+msgstr "Ana Menü Kapat Düğmesi Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:179
+msgid "Main Menu Close Button Icon Color"
+msgstr "Ana Menü Kapat Düğmesi İkon Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:203
+msgid "Logo Background Color"
+msgstr "Logo Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:212
+msgid "Logo Text Color"
+msgstr "Logo Metin Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:226
+msgid "Header Tagline Text Color"
+msgstr "Üst Bilgi Etiketi Metin Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:247
+msgid "Header Top Bar Background Color"
+msgstr "Header Üst Çubuk Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:256
+msgid "User Navigation Link Color"
+msgstr "Kullanıcı Navigasyonu Link Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:280
+msgid "Phone Background Color"
+msgstr "Telefon Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:293
+#: inc/theme-options/styles-options/header-styles-options.php:523
+#: inc/theme-options/styles-options/header-styles-options.php:697
+msgid "Phone Text Color"
+msgstr "Telefon Metin Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:303
+#: inc/theme-options/styles-options/header-styles-options.php:533
+#: inc/theme-options/styles-options/header-styles-options.php:707
+msgid "Phone Icon Color"
+msgstr "Telefon İkonu Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:327
+msgid "Search Fields Background Color"
+msgstr "Arama Alanları Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:348
+msgid "Search Fields Background Color on Hover"
+msgstr "Arama Düğmesi Arkaplan Rengi (Üzerine Gelindiğinde)"
+
+#: inc/theme-options/styles-options/header-styles-options.php:362
+msgid "Search Fields Dropdown Background Color on Hover"
+msgstr "Arama Düğmesi Aşağı Açılır Menü Arka Plan Rengi (Üzerine Gelindiğinde)"
+
+#: inc/theme-options/styles-options/header-styles-options.php:373
+msgid "Search Fields Expand & Collapse Toggle Button Background Color"
+msgstr "Arama Alanındaki Genişlet & Daralt Butonu Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:385
+msgid "Search Fields Expand & Collapse Toggle Button Icon Color"
+msgstr "Arama Alanındaki Genişlet & Daralt Butonu İkon Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:397
+msgid "Search Button Background Color"
+msgstr "Arama Düğmesi Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:421
+#: inc/theme-options/styles-options/header-styles-options.php:628
+msgid "Header Background Color"
+msgstr "Başlık Arka Planı Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:430
+#: inc/theme-options/styles-options/header-styles-options.php:637
+msgid "Text Logo Color"
+msgstr "Metin Logosu Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:444
+#: inc/theme-options/styles-options/header-styles-options.php:651
+msgid "Tagline Color"
+msgstr "Slogan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:463
+#: inc/theme-options/styles-options/header-styles-options.php:669
+msgid "Border Color"
+msgstr "Sınır rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:473
+msgid "Social Icons Color"
+msgstr "Sosyal Medya İcon Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:484
+msgid "Submit Button Background Color"
+msgstr "Gönder Düğmesi Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:496
+msgid "Submit Button Text Color"
+msgstr "Gönder Düğmesi Metin Rengi"
+
+#: inc/theme-options/styles-options/header-styles-options.php:507
+#: inc/theme-options/styles-options/header-styles-options.php:678
+msgid "User Navigation Colors"
+msgstr "Kullanıcı Navigasyon Renkleri"
+
+#: inc/theme-options/styles-options/header-styles-options.php:670
+msgid "This border appears on smaller screen sizes."
+msgstr "Bu kenarlık daha küçük ekran boyutlarında görünüyor."
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:10
+msgid "This section contains how it works section styles options."
+msgstr "Bu bölüm, bölüm stilleri seçeneklerinin nasıl çalıştığını içerir."
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:17
+#: inc/theme-options/styles-options/properties-styles-options.php:45
+#: inc/theme-options/styles-options/properties-styles-options.php:191
+#: inc/theme-options/styles-options/properties-styles-options.php:334
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:29
+#: inc/theme-options/styles-options/slider-styles-options.php:23
+#: inc/theme-options/styles-options/slider-styles-options.php:214
+msgid "Overlay Background Color"
+msgstr "Kaplama Arka Plan Rengi"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:56
+msgid "Overall Text Color"
+msgstr "Genel Metin Rengi"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:67
+msgid "Title Color in Columns"
+msgstr "Sütunlarda Başlık Rengi"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:78
+msgid "Button Text Color"
+msgstr "Düğme Metin Rengi"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:92
+#: inc/theme-options/styles-options/slider-styles-options.php:185
+#: inc/theme-options/styles-options/slider-styles-options.php:320
+msgid "Button Background Color"
+msgstr "Düğme Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/how-it-works-styles-options.php:107
+#: inc/theme-options/styles-options/slider-styles-options.php:197
+msgid "Button Background Color on Hover"
+msgstr "Düğme Arkaplan Rengi (Üzerine Gelindiğinde)"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:8
+msgid "Home Properties"
+msgstr "Anasayfa İlanları"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:10
+msgid "This section contains home properties styles options."
+msgstr "Bu bölümde anasayfa stil seçenekleri yer almaktadır."
+
+#: inc/theme-options/styles-options/properties-styles-options.php:18
+msgid "Home Properties Variation One"
+msgstr "Anasayfa İlanları Birinci Varyasyon"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:19
+msgid "This variation consists of two different designs."
+msgstr "Bu varyasyon iki farklı tasarımdan oluşur."
+
+#: inc/theme-options/styles-options/properties-styles-options.php:32
+msgid "Property Design One"
+msgstr "Gayrimenkul Tasarımı Bir"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:136
+#: inc/theme-options/styles-options/properties-styles-options.php:283
+msgid "Meta Text Color"
+msgstr "Meta Metin Rengi"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:151
+#: inc/theme-options/styles-options/properties-styles-options.php:297
+msgid "Meta Value Text Color"
+msgstr "Meta Değer Metni Rengi"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:178
+msgid "Property Design Two"
+msgstr "Gayrimenkul Tasarımı İki"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:324
+msgid "Home Properties Variation Two"
+msgstr "Anasayfa İlanları İkinci Varyasyon"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:420
+msgid "Meta and Price Text Color on hover"
+msgstr "Fare Üzerindeyken Meta ve Fiyat Metni Rengi"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:447
+msgid "Home Properties Variation Three"
+msgstr "Anasayfa İlanları Üçüncü Varyasyon"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:456
+msgid "Welcome Board Title Color"
+msgstr "Hoşgeldiniz Kısmı Başlık Rengi"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:467
+msgid "Welcome Board Text Color"
+msgstr "Hoşgeldiniz Kısmı Metin Rengi"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:528
+msgid "Description Border Color"
+msgstr "Açıklama Kenarlık Rengi"
+
+#: inc/theme-options/styles-options/properties-styles-options.php:592
+msgid "Meta Wrpper Top Border Color"
+msgstr "Meta Wrpper Üst Sınır Rengi"
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:8
+msgid "Property Details Page"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:10
+msgid "This section contains property details styles options."
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:39
+msgid "Agent Section Background Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:46
+msgid "Agent Meta Icons Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:53
+msgid "Agent Social Heading Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:60
+msgid "Agent Social Information Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:67
+#: inc/theme-options/styles-options/property-details-styles-options.php:81
+msgid "Agent Section Buttons Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/property-details-styles-options.php:74
+#: inc/theme-options/styles-options/property-details-styles-options.php:88
+msgid "Agent Section Buttons Hover Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/slider-styles-options.php:10
+msgid "This section contains properties slider styles options."
+msgstr "Bu bölümde ilanlar kaydırma çubuğu stili seçenekleri bulunur."
+
+#: inc/theme-options/styles-options/slider-styles-options.php:36
+#: inc/theme-options/styles-options/slider-styles-options.php:227
+msgid "Property Title Color"
+msgstr "İlan Başlığı Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:50
+#: inc/theme-options/styles-options/slider-styles-options.php:241
+msgid "Property Price Color"
+msgstr "Gayrimenkul Fiyatı Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:62
+#: inc/theme-options/styles-options/slider-styles-options.php:253
+msgid "Property Status Text Color"
+msgstr "İlan  Durumu Metin Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:77
+#: inc/theme-options/styles-options/slider-styles-options.php:268
+msgid "Property Status Background Color"
+msgstr "İlan Durumu Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:90
+#: inc/theme-options/styles-options/slider-styles-options.php:281
+msgid "Property Status Background Color on Hover"
+msgstr "Fare Üzerindeyken Gayrimenkul Durumu Arkaplan Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:102
+msgid "Property Meta Text Color"
+msgstr "İlan Meta Metin Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:117
+msgid "Property Meta Value and Unit Text Color"
+msgstr "Gayrimenkul Meta Değeri ve Birimi Metin Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:129
+msgid "Property Meta Icons Color"
+msgstr "Gayrimenkul Meta İkon Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:147
+msgid "Overlay Top Border Color"
+msgstr "Kaplama Üst Kenarlık Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:159
+msgid "Overlay Middle Border Color"
+msgstr "Kaplama Orta Kenarlık Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:170
+#: inc/theme-options/styles-options/slider-styles-options.php:305
+msgid "Button Color"
+msgstr "Buton Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:293
+msgid "Property Description Text Color"
+msgstr "İlan Açıklama Metin Rengi"
+
+#: inc/theme-options/styles-options/slider-styles-options.php:332
+msgid "Button Hover Background Color"
+msgstr "Düğme Üzerinde Arka Plan Rengi"
+
+#: inc/util/basic-functions.php:296
+msgid "Nothing Found"
+msgstr "Bulunamadı"
+
+#: inc/util/basic-functions.php:297
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Görünüşe göre, aradığınız şeyi bulamıyoruz. Belki de arama yardımcı olabilir."
+
+#: inc/util/basic-functions.php:619
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/util/basic-functions.php:619
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: inc/util/basic-functions.php:642
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/util/basic-functions.php:682
+msgid ""
+"Images should have minimum size of 850px by 600px. Bigger size images will "
+"be cropped automatically."
+msgstr ""
+"Resimler en az 850 piksel x 600 piksel boyutlarında olmalıdır. Daha büyük "
+"boyutlu resimler otomatik olarak boyutlandırılacaktır."
+
+#: inc/util/basic-functions.php:696
+msgid ""
+"The recommended image size is 2000px by 1000px. You can use a bigger or "
+"smaller size but keep the same height to width ratio and use exactly same "
+"size images for all slider entries."
+msgstr ""
+"Önerilen görüntü boyutu 2000px x 1000px'dir. Daha büyük veya daha küçük bir "
+"boyut kullanabilirsiniz, ancak aynı yükseklik ve genişlik oranını "
+"koruyabilir ve tüm Sliderlar için tam olarak aynı boyuttaki resimleri "
+"kullanabilirsiniz."
+
+#: inc/util/basic-functions.php:710
+msgid ""
+"Provided image will be used as a video place holder and when user will click "
+"on it the video will be opened in a lightbox. Minimum required image size is "
+"850px by 600px."
+msgstr ""
+"Sağlanan görüntü video yer tutucusu olarak kullanılacak ve kullanıcı "
+"tıkladığında video kutusunda açılacaktır. Minimum gerekli görüntü boyutu 850 "
+"piksele 600 pikseldir."
+
+#: inc/util/favorites-functions.php:18 inc/util/favorites-functions.php:40
+#: partials/property/single/favorite-and-print.php:10
+msgid "Added to Favorites"
+msgstr "Favorilere Eklendi"
+
+#: inc/util/favorites-functions.php:52
+msgid "Invalid parameters"
+msgstr "Geçersiz parametreler"
+
+#: inc/util/favorites-functions.php:157
+msgid "Invalid parameters!"
+msgstr "Geçersiz parametreler!"
+
+#: inc/util/real-estate-functions.php:75 page-templates/template-compare.php:97
+#: partials/property/single/floor-plans.php:53
+msgid "Bedrooms"
+msgstr "Yatak Odaları"
+
+#: inc/util/real-estate-functions.php:90 page-templates/template-compare.php:99
+#: partials/property/single/floor-plans.php:64
+msgid "Bathrooms"
+msgstr "Banyolar"
+
+#: inc/util/real-estate-functions.php:105
+msgid "Garages"
+msgstr "Garajlar"
+
+#: inc/util/real-estate-functions.php:168
+msgid "Year Built"
+msgstr "Yapım Yılı"
+
+#: inc/util/real-estate-functions.php:368
+msgid "(Any)"
+msgstr "(Herhangi)"
+
+#: index.php:62 loop.php:58
+msgid "Read More"
+msgstr "Devamını Oku"
+
+#: page-templates/agents-list-2-columns.php:63
+#: page-templates/agents-list-3-columns.php:63
+#: page-templates/agents-list-4-columns.php:63
+msgid "No agent found!"
+msgstr "Danışman bulunamadı!"
+
+#: page-templates/contact.php:70
+msgid "Address"
+msgstr "Adres"
+
+#: page-templates/contact.php:109
+msgid "Contact Details"
+msgstr "İletişim Detayları"
+
+#: page-templates/contact.php:119 page-templates/contact.php:131
+#: partials/property/single/agent-information.php:62
+#: partials/property/single/agent-information.php:70
+msgid "Make a Call"
+msgstr "Arama yap"
+
+#: page-templates/contact.php:170
+msgid "Working Hours"
+msgstr "Çalışma saatleri"
+
+#: page-templates/favorites.php:97 page-templates/my-properties.php:180
+#: page-templates/submit-property.php:58
+msgid "Oops"
+msgstr "Hata"
+
+#: page-templates/favorites.php:97
+msgid "You have not added any property to favorites!"
+msgstr "Favorilere eklediğiniz herhangi bir ilan yok!"
+
+#: page-templates/full-width.php:35 page.php:34 single.php:57
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: page-templates/full-width.php:42 page.php:41
+msgid "Edit"
+msgstr "Düzenle"
+
+#: page-templates/my-properties.php:30
+msgid "Property Removed!"
+msgstr "İlan Kaldırıldı!"
+
+#: page-templates/my-properties.php:34
+msgid "Property Added Successfully!"
+msgstr "İlan Başarıyla Eklendi!"
+
+#: page-templates/my-properties.php:38
+msgid "Property Updated Successfully!"
+msgstr "İlan Başarıyla Güncellendi!"
+
+#: page-templates/my-properties.php:92
+msgid "Posted on:"
+msgstr "Yayınlanan:"
+
+#: page-templates/my-properties.php:97
+msgid "Last Modified:"
+msgstr "Son düzenleme:"
+
+#: page-templates/my-properties.php:102
+msgid "Status:"
+msgstr "Durum:"
+
+#: page-templates/my-properties.php:121
+msgid "Payment Completed"
+msgstr "Ödeme Tamamlandı"
+
+#: page-templates/my-properties.php:180
+msgid "It appears that you have not submitted any property yet!"
+msgstr "Henüz bir ilan göndermediğiniz anlaşılıyor!"
+
+#: page-templates/my-properties.php:184 page-templates/submit-property.php:73
+msgid "Login Required"
+msgstr "Oturum Açmak Gereklidir"
+
+#: page-templates/my-properties.php:184
+msgid "You need to login to view your properties!"
+msgstr "İlanlarınızı görüntülemek için giriş yapmanız gerekmektedir!"
+
+#: page-templates/submit-property.php:58
+msgid "Security check failed!"
+msgstr "Güvenlik kontrolü başarısız oldu!"
+
+#: page-templates/submit-property.php:61
+msgid "Submitted"
+msgstr "Gönderilen"
+
+#: page-templates/submit-property.php:61
+msgid "Property successfully submitted."
+msgstr "İlan başarıyla gönderildi."
+
+#: page-templates/submit-property.php:63
+msgid "Updated"
+msgstr "Güncellenmiş"
+
+#: page-templates/submit-property.php:63
+msgid "Property updated successfully."
+msgstr "İlan başarıyla güncellendi."
+
+#: page-templates/submit-property.php:73
+msgid "You need to login to submit a property!"
+msgstr "Bir ilan göndermek için giriş yapmalısınız!"
+
+#: page-templates/template-compare.php:95
+msgid "Size"
+msgstr "Boyut"
+
+#: page-templates/template-compare.php:344
+#: page-templates/template-compare.php:362
+msgid "No Properties Found to compare!"
+msgstr ""
+
+#: partials/agent/single/agent-info.php:51 partials/common/author-info.php:51
+#: partials/property/single/agent-information.php:62
+#: partials/property/single/author-information.php:62
+msgid "Mobile:"
+msgstr "Mobil:"
+
+#: partials/agent/single/agent-info.php:59 partials/common/author-info.php:58
+#: partials/property/single/agent-information.php:70
+#: partials/property/single/author-information.php:70
+msgid "Office:"
+msgstr "Ofis:"
+
+#: partials/agent/single/agent-info.php:67 partials/common/author-info.php:65
+#: partials/property/single/agent-information.php:78
+#: partials/property/single/author-information.php:78
+msgid "Fax:"
+msgstr "Faks:"
+
+#: partials/agent/single/agent-info.php:76
+#: partials/property/single/agent-information.php:87
+#| msgid "Email"
+msgid "Email:"
+msgstr "E-Posta:"
+
+#: partials/agent/single/agent-info.php:76
+#: partials/property/single/agent-information.php:87
+#| msgid "Email: %s"
+msgid "Email Us!"
+msgstr ""
+
+#: partials/agent/single/agent-info.php:96
+#: partials/property/single/agent-information.php:108
+#: partials/property/single/author-information.php:100
+msgid "View Profile"
+msgstr "Profili Görüntüle"
+
+#: partials/header/banner.php:79
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Arama Sonuçları: %s"
+
+#: partials/header/user-nav.php:49
+msgid "Favourite"
+msgstr "Favori"
+
+#: partials/header/user-nav.php:79
+msgid "Logout"
+msgstr "Çıkış"
+
+#: partials/header/user-nav.php:93
+msgid "Profile"
+msgstr "Profil"
+
+#: partials/header/user-nav.php:108
+msgid "My Properties"
+msgstr "Özelliklerim"
+
+#: partials/header/user-nav.php:123
+msgid "Submit"
+msgstr "Gönder"
+
+#: partials/header/user-nav.php:139
+msgid "Login / Sign up"
+msgstr "Giriş / Kayıt"
+
+#: partials/header/user-nav.php:145
+msgid "Submit Property"
+msgstr "İlan Gönder"
+
+#: partials/home/featured-three.php:106 partials/home/properties-three.php:120
+msgid "Bed"
+msgid_plural "Beds"
+msgstr[0] "Yatak"
+msgstr[1] "Yatak"
+
+#: partials/home/featured-three.php:119 partials/home/properties-three.php:133
+msgid "Bath"
+msgid_plural "Baths"
+msgstr[0] "Banyo"
+msgstr[1] "Banyo"
+
+#: partials/home/featured-three.php:132 partials/home/properties-four.php:128
+#: partials/home/properties-three.php:146
+msgid "Garage"
+msgid_plural "Garages"
+msgstr[0] "Garaj"
+msgstr[1] "Garajlar"
+
+#: partials/home/news.php:160 partials/post/entry-meta.php:4
+#, php-format
+msgctxt "author byline"
+msgid "By %s"
+msgstr "%s tarafından"
+
+#: partials/home/properties-four.php:100
+#: partials/property/single/floor-plans.php:53
+msgid "Bedroom"
+msgid_plural "Bedrooms"
+msgstr[0] "Yatak Odası"
+msgstr[1] "Yatak Odası"
+
+#: partials/home/properties-four.php:114
+#: partials/property/single/floor-plans.php:64
+msgid "Bathroom"
+msgid_plural "Bathrooms"
+msgstr[0] "Banyo"
+msgstr[1] "Banyo"
+
+#: partials/members/login.php:4 partials/members/register.php:16
+#: partials/members/reset-password.php:28
+msgid "Login"
+msgstr "Giriş"
+
+#: partials/members/login.php:28 partials/members/reset-password.php:20
+msgid "Not a Member?"
+msgstr "Üye değil misiniz?"
+
+#: partials/members/login.php:29 partials/members/reset-password.php:21
+msgid "Sign up now"
+msgstr "Şimdi kayıt ol"
+
+#: partials/members/login.php:35 partials/members/register.php:19
+msgid "Forgot Password?"
+msgstr "Parolanızı mı unuttunuz?"
+
+#: partials/members/reset-password.php:4
+msgid "Forgot Password"
+msgstr "Parolanızı mı unuttunuz"
+
+#: partials/post/entry-meta.php:12
+msgid "Posted in"
+msgstr "Yayınlanan"
+
+#: partials/post/entry-meta.php:13
+msgid "On "
+msgstr "Açık "
+
+#: partials/property/single/favorite-and-print.php:14
+msgid "Add to Favorites"
+msgstr "Favorilere ekle"
+
+#: partials/property/single/favorite-and-print.php:27
+msgid "Print"
+msgstr "Baskı yapmak"
+
+#: partials/property/single/map.php:84
+msgid "Bus"
+msgstr "Otobüs"
+
+#: partials/property/single/map.php:89
+msgid "Subway"
+msgstr ""
+
+#: partials/property/single/map.php:94
+msgid "Grocery"
+msgstr "Manav"
+
+#: partials/property/single/map.php:99
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: partials/property/single/map.php:104
+msgid "School"
+msgstr "Okul"
+
+#: partials/property/single/map.php:109
+msgid "Hospital"
+msgstr "Hastane"
+
+#: partials/property/single/map.php:114
+msgid "Cafe"
+msgstr "Kafe"
+
+#: partials/property/single/map.php:119
+msgid "Gym"
+msgstr "Spor Salonu"
+
+#: partials/property/single/map.php:134
+msgid "Clear Icons"
+msgstr ""
+
+#: partials/property/single/video.php:28
+msgid "Video Placeholder"
+msgstr ""
+
+#: partials/property/templates/add-to-compare-button.php:16
+#: partials/property/templates/add-to-compare-button.php:31
+msgid "Added To Compare"
+msgstr "Karşılaştırma için eklendi"
+
+#: partials/property/templates/add-to-compare-button.php:22
+#: partials/property/templates/add-to-compare-button.php:37
+msgid "Add To Compare"
+msgstr "Karşılaştırmak İçin Ekle"
+
+#: partials/property/templates/compare-view.php:53
+msgid "Compare Properties"
+msgstr "İlanları Karşılaştır"
+
+#: partials/property/templates/compare-view.php:80
+msgid "Compare"
+msgstr "Karşılaştır"
+
+#: partials/property/templates/gallery.php:9
+msgid "All"
+msgstr "Tümü"
+
+#: partials/property/templates/listing-control-search.php:10
+#: partials/property/templates/listing-control.php:10
+msgid "No Property Found"
+msgstr "İlan Bulunamadı"
+
+#: partials/property/templates/listing-control-search.php:12
+#: partials/property/templates/listing-control.php:12
+#, php-format
+msgid "%d Property Found"
+msgid_plural "%d Properties Found"
+msgstr[0] "%d Bulunan İlan"
+msgstr[1] "%d İlan bulundu"
+
+#: partials/property/templates/listing-control-search.php:33
+#: partials/property/templates/listing-control.php:33
+msgid "Default Order"
+msgstr "Varsayılan Sıralama"
+
+#: partials/property/templates/property-for-grid.php:38
+msgid "Remove from favorites"
+msgstr "Favorilerden çıkar"
+
+#: partials/property/templates/property-for-grid.php:89
+#, php-format
+msgid "%d Beds"
+msgstr "%d Oda"
+
+#: partials/property/templates/property-for-grid.php:102
+#, php-format
+msgid "%d Baths"
+msgstr "%d Banyo"
+
+#. Theme Name of the plugin/theme
+msgid "Real Places"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/real-places-responsive-wordpress-real-estate-"
+"theme/12579089"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A purpose oriented WordPress theme for Real Estate Websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Inspiry Themes"
+msgstr "Meander Multimedya"
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/inspirythemes/portfolio"
+msgstr ""
+
+#~ msgid "Property Description"
+#~ msgstr "İlan Açıklaması"
+
+#~ msgid "Property Additional Details"
+#~ msgstr "İlan Ek Detaylar"
+
+#~ msgid "Property Features"
+#~ msgstr "İlan Özellikleri"
+
+#~ msgid "Property Floor Plans"
+#~ msgstr "İlan Kat Planları"
+
+#~ msgid "Property Virtual Tour"
+#~ msgstr "İlan Sanal Turu"
+
+#~ msgid "Property Map"
+#~ msgstr "İlan Haritası"
+
+#~ msgid "Property Attachments"
+#~ msgstr "İlan Ekleri"
+
+#~ msgid "Children Properties"
+#~ msgstr "Çocuk İlanları"
+
+#~ msgid "Search"
+#~ msgstr "Arama"
+
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#~ msgid "Upload your website favicon."
+#~ msgstr "Web sitenizin favicon'nu yükleyin."
+
+#~ msgid "Facebook URL"
+#~ msgstr "Facebook URL"
+
+#~ msgid "Twitter URL"
+#~ msgstr "Twitter URL"
+
+#~ msgid "Google Plus URL"
+#~ msgstr "Google Plus URL"
+
+#~ msgid "LinkedIn URL"
+#~ msgstr "LinkedIn URL"
+
+#~ msgid "Instagram URL"
+#~ msgstr "Instagram URL'si"
+
+#~ msgid "YouTube URL"
+#~ msgstr "YouTube URL'si"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "Pinterest URL"
+
+#~ msgid "Rss URL"
+#~ msgstr "Rss URL"
+
+#~ msgid "Skype Username"
+#~ msgstr "Skype Kullanıcı Adı"
+
+#~ msgid "Google reCAPTCHA"
+#~ msgstr "Google reCAPTCHA"
+
+#~ msgid "reCAPTCHA Site Key"
+#~ msgstr "reCAPTCHA Site Anahtarı"
+
+#~ msgid "reCAPTCHA Secret Key"
+#~ msgstr "reCAPTCHA Secret Key"
+
+#~ msgid "reCAPTCHA Language"
+#~ msgstr "reCAPTCHA Dili"
+
+#~ msgid "Automatically Switch Google Map Language"
+#~ msgstr "Google Harita Dili otomatik olarak değiştir"
+
+#~ msgid ""
+#~ "Based on site language from general settings OR current language if you "
+#~ "are using WPML."
+#~ msgstr ""
+#~ "Genel ayarlardan site diline veya WPML kullanıyorsanız mevcut dile "
+#~ "dayanmaktadır."
+
+#~ msgid "Job Title"
+#~ msgstr "İş Ünvanı"
+
+#~ msgid "Mobile Number"
+#~ msgstr "Cep Telefonu"
+
+#~ msgid "Office Number"
+#~ msgstr "Ofis Numarası"
+
+#~ msgid "Fax Number"
+#~ msgstr "Faks Numarası"
+
+#~ msgid "Office Address"
+#~ msgstr "Ofis Adresi"
+
+#~ msgid "Contact Page Information"
+#~ msgstr "İletişim Sayfası Bilgileri"
+
+#~ msgid "Contact Form"
+#~ msgstr "İletişim Formu"
+
+#~ msgid "Leaving it empty will hide the google map."
+#~ msgstr "Boş bırakmak google haritasını gizleyecektir."
+
+#~ msgid "Office Location"
+#~ msgstr "Ofis Konumu"
+
+#~ msgid ""
+#~ "Drag the marker to point your office location. You can also use the "
+#~ "address field above to search for your address."
+#~ msgstr ""
+#~ "Ofisinizin bulunduğu yere gelmek için işaretçiyi sürükleyin. Adresinizi "
+#~ "aramak için yukarıdaki adres alanını da kullanabilirsiniz."
+
+#~ msgid "Map Zoom Level"
+#~ msgstr "Haritanın Zum Seviyesi"
+
+#~ msgid "Zoom level for resulted map on contact page."
+#~ msgstr "İletişim sayfasındaki harita için yakınlaştırma seviyesi."
+
+#~ msgid "Office Address to Display"
+#~ msgstr "Görüntülenecek Ofis Adresi"
+
+#~ msgid "Given address will be displayed on contact page."
+#~ msgstr "Verilen adres, iletişim sayfasında görüntülenecektir."
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "Fax"
+#~ msgstr "Faks"
+
+#~ msgid "Email to Display"
+#~ msgstr "Görüntülenecek E-posta"
+
+#~ msgid "Given email address will be displayed on contact page."
+#~ msgstr "Verilen e-posta adresi iletişim sayfasında görüntülenecektir."
+
+#~ msgid "Contact Form Heading"
+#~ msgstr "İletişim Formu Başlığı"
+
+#~ msgid "Send Us a Message"
+#~ msgstr "Bize mesaj gönder"
+
+#~ msgid "Contact Form Email"
+#~ msgstr "İletişim Formu E-postası"
+
+#~ msgid ""
+#~ "Given email address will receive messages from theme based contact form"
+#~ msgstr ""
+#~ "Verilen e-posta adresi, temaya dayalı iletişim formundan mesajlar "
+#~ "alacaktır"
+
+#~ msgid "Contact Form 7 Shortcode"
+#~ msgstr "İletişim Formu 7 Kısa Kod"
+
+#~ msgid ""
+#~ "You can provide contact form 7 shortcode, If you want to use a custom "
+#~ "form. It will be displayed if above given email address is empty."
+#~ msgstr ""
+#~ "Özel bir form kullanmak isterseniz, iletişim formu 7 kısa kod "
+#~ "sağlayabilirsiniz. Yukarıdaki e-posta adresi boşsa, görüntülenir."
+
+#~ msgid "Choose a sidebar"
+#~ msgstr "Bir kenar çubuğu seçin"
+
+#~ msgid "Sidebar Settings"
+#~ msgstr "Kenar Çubuğu Ayarları"
+
+#~ msgid "Sidebar (optional)"
+#~ msgstr "Kenar Çubuğu (isteğe bağlı)"
+
+#~ msgid ""
+#~ "Choose a custom sidebar for this entry. Otherwise, default entry's "
+#~ "sidebar will be displayed."
+#~ msgstr ""
+#~ "Bu girdi için özel bir kenar çubuğu seçin. Aksi takdirde, varsayılan "
+#~ "kenar çubuğu görüntülenecektir."
+
+#~ msgid "Gallery Settings"
+#~ msgstr "Galeri Ayarları"
+
+#~ msgid "Number of Properties Per Page"
+#~ msgstr "Sayfa Başına İlan Sayısı"
+
+#~ msgid "Properties Settings"
+#~ msgstr "İlan Ayarları"
+
+#~ msgid "Order Properties By"
+#~ msgstr "İlanları Sırala"
+
+#~ msgid "Date New to Old"
+#~ msgstr "Eski Tarihten Yeniye"
+
+#~ msgid "Date Old to New"
+#~ msgstr "Tarih Eskiden Yeniye"
+
+#~ msgid "Price Low to High"
+#~ msgstr "Düşük Fiyattan Yüksek Fiyata"
+
+#~ msgid "Price High to Low"
+#~ msgstr "Yüksek Fiyattan Düşük Fiyata"
+
+#~ msgid "Minimum Beds"
+#~ msgstr "Minimum Oda"
+
+#~ msgid "Minimum Baths"
+#~ msgstr "Minimum Banyo"
+
+#~ msgid "Minimum Price"
+#~ msgstr "Minimum Fiyat"
+
+#~ msgid "Maximum Price"
+#~ msgstr "Maksimum Fiyat"
+
+#~ msgid "Google Map in Header"
+#~ msgstr "Başlıkta Google Haritası"
+
+#~ msgid "Display Google Map with Properties Markers"
+#~ msgstr "Google harita özellikleri imleçli görüntülemek"
+
+#~ msgid "Right"
+#~ msgstr "Sağ"
+
+#~ msgid "Agents Settings"
+#~ msgstr "Danışman Ayarları"
+
+#~ msgid "Number of Agents Per Page"
+#~ msgstr "Sayfa Başına Emlak Danışmanı Sayısı"
+
+#~ msgid "Custom Widget Area"
+#~ msgstr "Özel Widget Alanı"
+
+#~ msgid "Enter new Widget Area name here"
+#~ msgstr "Yeni Widget Alanı adını buraya girin"
+
+#~ msgid "Add Widget Area"
+#~ msgstr "Widget Alanı Ekle"
+
+#~ msgid "Unverified Nonce!"
+#~ msgstr "Doğrulanmamış Kelime!"
+
+#~ msgid "Failed to updated cookie !"
+#~ msgstr "Çerezler güncelleme başarısız oldu!"
+
+#~ msgid "wp-currencies plugin is missing !"
+#~ msgstr "wp-currencies eksik eklenti !"
+
+#~ msgid "Invalid Request !"
+#~ msgstr "Geçersiz istek !"
+
+#~ msgid "Image upload failed!"
+#~ msgstr "Resim yüklenemedi!"
+
+#~ msgid "Provided email address is invalid."
+#~ msgstr "Girilen e-posta adresi geçersiz."
+
+#~ msgid ""
+#~ "Provided email is already in use by another user. Try a different one."
+#~ msgstr ""
+#~ "Girilen E-posta başka bir kullanıcı tarafından zaten kullanılıyor. Farklı "
+#~ "bir E-posta deneyin."
+
+#~ msgid ""
+#~ "The passwords you entered do not match.  Your password is not updated."
+#~ msgstr "Girdiğiniz parolalar uyuşmuyor. Parolanız güncellenmedi."
+
+#~ msgid "Profile information is updated successfully!"
+#~ msgstr "Profil bilgileri başarıyla güncellendi!"
+
+#~ msgid "Edit Property"
+#~ msgstr "Emlak Düzenle"
+
+#~ msgid "Name*"
+#~ msgstr "İsim*"
+
+#~ msgid "* Please provide your name"
+#~ msgstr "*Lütfen isminizi girin"
+
+#~ msgid "Email*"
+#~ msgstr "E-posta*"
+
+#~ msgid "* Please provide a valid email address"
+#~ msgstr "* Lütfen geçerli bir e-posta adresi girin"
+
+#~ msgid "Number"
+#~ msgstr "Numara"
+
+#~ msgid "Message*"
+#~ msgstr "Mesaj*"
+
+#~ msgid "* Please provide your message"
+#~ msgstr "* Lütfen mesajınızı yazınız"
+
+#~ msgid "Send Message"
+#~ msgstr "Mesaj Gönder"
+
+#~ msgid "Profile image should have minimum width and height of 220px."
+#~ msgstr "Profil resmi en az 220px genişlik ve yüksekliğe sahip olmalıdır."
+
+#~ msgid "Make sure to save changes after uploading the new image."
+#~ msgstr ""
+#~ "Yeni resmi yükledikten sonra değişiklikleri kaydettiğinizden emin olun."
+
+#~ msgid "Change"
+#~ msgstr "Değiştir"
+
+#~ msgid "Remove"
+#~ msgstr "Kaldır"
+
+#~ msgid "Biographical Information"
+#~ msgstr "Biyografik bilgi"
+
+#~ msgid "First Name"
+#~ msgstr "İsim"
+
+#~ msgid "* Provide First Name!"
+#~ msgstr "* İsim Girin!"
+
+#~ msgid "Last Name"
+#~ msgstr "Soyadı"
+
+#~ msgid "* Provide Last Name!"
+#~ msgstr "* Soyadını Girin!"
+
+#~ msgid "Display Name"
+#~ msgstr "Ekran adı"
+
+#~ msgid "* Provide Display Name!"
+#~ msgstr "* Görünen İsim Girin!"
+
+#~ msgid "* Provide Valid Email Address!"
+#~ msgstr "* Geçerli E-posta Adresini Girin!"
+
+#~ msgid "* Only Digits are allowed!"
+#~ msgstr "* Yalnızca Rakamlara izin verilir!"
+
+#~ msgid "* Provide Valid URL!"
+#~ msgstr "* Geçerli URL Girin!"
+
+#~ msgid "Password"
+#~ msgstr "Şifre"
+
+#~ msgid "( Fill it only when you want to change )"
+#~ msgstr "( Sadece değiştirmek istediğinizde doldurun )"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Şifreyi Onayla"
+
+#~ msgid "Save Changes"
+#~ msgstr "Değişiklikleri Kaydet"
+
+#~ msgid "You need to login to edit your profile!"
+#~ msgstr "Profilinizi düzenlemek için giriş yapmanız gerekmektedir!"
+
+#~ msgid "Name"
+#~ msgstr "İsim"
+
+#~ msgid "* Please provide valid email address"
+#~ msgstr "Lütfen Geçerli Bir E-posta Adresi Giriniz"
+
+#~ msgid "Contact Number"
+#~ msgstr "İletişim Numarası"
+
+#~ msgid "* Please provide your contact number"
+#~ msgstr "* Lütfen iletişim numaranızı girin"
+
+#~ msgid "Message"
+#~ msgstr "Mesaj"
+
+#~ msgid "Username"
+#~ msgstr "Kullanıcı Adı"
+
+#~ msgid "* Provide your username"
+#~ msgstr "* Kullanıcı adınızı girin"
+
+#~ msgid "* Provide your password"
+#~ msgstr "* Parolanızı girin"
+
+#~ msgid "Working..."
+#~ msgstr "Çalışıyor..."
+
+#~ msgid "* Please enter a valid username."
+#~ msgstr "* Lütfen geçerli bir kullanıcı adı girin."
+
+#~ msgid "* Please provide valid email address!"
+#~ msgstr "* Geçerli e-posta adresi veriniz!"
+
+#~ msgid "Username or Email"
+#~ msgstr "Kullanıcı adı ya da email"
+
+#~ msgid "* Provide a valid username or email!"
+#~ msgstr "* Geçerli bir kullanıcı adı veya e-posta girin!"
+
+#~ msgid "Reset Password"
+#~ msgstr "Şifreyi Yenile"
+
+#~ msgid "Property Title"
+#~ msgstr "İlan Başlığı"
+
+#~ msgid "* Please provide property title!"
+#~ msgstr "* Lütfen ilan  başlığını sağlayın!"
+
+#~ msgid "* Please provide a property address!"
+#~ msgstr "* Lütfen Geçerli Bir İlan Adresi Giriniz!"
+
+#~ msgid "Find Address"
+#~ msgstr "Adresi bul"
+
+#~ msgid "* Only numbers allowed!"
+#~ msgstr "* Sadece sayılara izin verildi!"
+
+#~ msgid "Sale OR Rent Price"
+#~ msgstr "Satılık veya Kiralık fiyatı"
+
+#~ msgid "Price Postfix Text"
+#~ msgstr "Postfix Metn Fİyatı"
+
+#~ msgid "Area Postfix Text"
+#~ msgstr "Postfix  Alan Metni"
+
+#~ msgid "Parent Property"
+#~ msgstr "Ana İlan"
+
+#~ msgid "Drag and drop images here"
+#~ msgstr "Resimleri sürükleyip buraya bırakın"
+
+#~ msgid "OR"
+#~ msgstr "VEYA"
+
+#~ msgid "Select Images"
+#~ msgstr "Resimleri Seç"
+
+#~ msgid ""
+#~ "An image should have minimum width of 850px and minimum height of 600px."
+#~ msgstr ""
+#~ "Bir görüntünün minimum genişliği 850 piksel ve minimum yükseklik 600 "
+#~ "piksel olmalıdır."
+
+#~ msgid ""
+#~ "You can mark an image as featured by clicking the star icon, Otherwise "
+#~ "first image will be considered featured image."
+#~ msgstr ""
+#~ "Bir resmi, yıldız simgesini tıklayarak özellikli olarak "
+#~ "işaretleyebilirsiniz, aksi takdirde ilk resim, öne çıkarılmış resim "
+#~ "olarak değerlendirilir."
+
+#~ msgid "What to display in agent information box ?"
+#~ msgstr "Danışman bilgi kutusunda ne gösterilsin?"
+
+#~ msgid "( Agent information box will not be displayed )"
+#~ msgstr "(Danışman bilgi kutusu görüntülenmeyecek)"
+
+#~ msgid "My Profile Information"
+#~ msgstr "Profil Bilgilerim"
+
+#~ msgid "( Edit Profile Information )"
+#~ msgstr "(Profil Bilgilerini Düzenle)"
+
+#~ msgid "Display Agent Information"
+#~ msgstr "Danışman Bilgisi Görüntüle"
+
+#~ msgid "Mark this property as featured property"
+#~ msgstr "Bu ilanı öne çıkarılmış ilan olarak işaretle"
+
+#~ msgid "Value"
+#~ msgstr "Değer"
+
+#~ msgid "Update Property"
+#~ msgstr "İlanı Güncelle"
+
+#~ msgid "It appears that, Provided property does not belong to you!"
+#~ msgstr "Görünen, sağlanan ilan sana ait değil!"
+
+#~ msgid "It appears that, Provided property id is invalid!"
+#~ msgstr "Görünen o ki, sağlanan mülk kimliği geçersiz!"
+
+#~ msgid "( No information will be displayed )"
+#~ msgstr "( Hiçbir bilgi gösterilmeyecektir )"
+
+#~ msgid "Message to the Reviewer"
+#~ msgstr "İnceleyene Notunuz"
+
+#~ msgid "Looking for certain features"
+#~ msgstr "Belirli özellikler aranıyor"
+
+#~ msgid "Please only provide digits!"
+#~ msgstr "Lütfen yalnızca rakam girin!"
+
+#~ msgid ""
+#~ "You have changes that are not saved. Would you like to save them now?"
+#~ msgstr ""
+#~ "Kaydedilmemiş değişiklikleriniz var. Onları şimdi kaydetmek ister misiniz?"
+
+#~ msgid "Are you sure? Resetting will lose all custom values."
+#~ msgstr "Emin misiniz? Sıfırlama, tüm özel değerleri kaybedecek."
+
+#~ msgid "Are you sure? Resetting will lose all custom values in this section."
+#~ msgstr ""
+#~ "Emin misiniz? Sıfırlama, bu bölümdeki tüm özel değerleri kaybedecek."
+
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset. "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Geçerli seçenekleriniz bu hazır ayarın değerleriyle değiştirilir. Devam "
+#~ "etmek ister misiniz?"
+
+#~ msgid "Please Wait"
+#~ msgstr "Lütfen Bekleyin"
+
+#~ msgid "There was an error saving. Here is the result of your action:"
+#~ msgstr "Bir hata oluştu. İşte eyleminizin sonucu:"
+
+#~ msgid ""
+#~ "There was a problem with your action. Please try again or reload the page."
+#~ msgstr ""
+#~ "Eyleminizle ilgili bir sorun vardı. Lütfen tekrar deneyin veya sayfayı "
+#~ "yeniden yükleyin."
+
+#~ msgid ""
+#~ "Warning- This options panel will not work properly without javascript!"
+#~ msgstr "Uyarı - Bu seçenekler paneli javascript olmadan düzgün çalışmaz!"
+
+#~ msgid "Settings Imported!"
+#~ msgstr "Ayarlar İçe Aktarıldı!"
+
+#~ msgid "All Defaults Restored!"
+#~ msgstr "Tüm Varsayılanlar Geri Yüklendi!"
+
+#~ msgid "Section Defaults Restored!"
+#~ msgstr "Bölüm Varsayılanları Geri Yüklendi!"
+
+#~ msgid "Settings Saved!"
+#~ msgstr "Ayarlar Kaydedildi!"
+
+#~ msgid "Settings have changed, you should save them!"
+#~ msgstr "Ayarlar değişti, onları kaydetmelisiniz!"
+
+#~ msgid "error(s) were found!"
+#~ msgstr "hata(lar) bulundu!"
+
+#~ msgid "warning(s) were found!"
+#~ msgstr "uyarı(lar) bulundu!"
+
+#~ msgid ""
+#~ "<strong>Your panel has bundled outdated copies of Redux Framework "
+#~ "template files</strong> &#8211; if you encounter functionality issues "
+#~ "this could be the reason. Ensure you update or remove them."
+#~ msgstr ""
+#~ "<strong> Panelinizde Redux Çerçeve şablon dosyalarının güncel olmayan "
+#~ "kopyaları paketlenmiştir </strong> - işlevsellik sorunları ile "
+#~ "karşılaşırsanız, bunun nedeni olabilir. Onların güncellenmesini veya "
+#~ "kaldırılmasını sağlayın."
+
+#~ msgid "Options panel created using %1$s"
+#~ msgstr "%1$s kullanılarak seçenekler paneli oluşturuldu"
+
+#~ msgid "Redux Framework"
+#~ msgstr "Redux Framework"
+
+#~ msgid "Options"
+#~ msgstr "Seçenekler"
+
+#~ msgid "moving the mouse over"
+#~ msgstr "fareyi üzerinde hareket ettir"
+
+#~ msgid "clicking"
+#~ msgstr "tıklayarak"
+
+#~ msgid ""
+#~ "Hints are tooltips that popup when %d the hint icon, offering addition "
+#~ "information about the field in which they appear.  They can be %d d by "
+#~ "using the link below."
+#~ msgstr ""
+#~ "Hints are tooltips that popup when %d the hint icon, offering addition "
+#~ "information about the field in which they appear.  They can be %d d by "
+#~ "using the link below."
+
+#~ msgid "Hints"
+#~ msgstr "İpuçları"
+
+#~ msgid "Default"
+#~ msgstr "Varsayılan"
+
+#~ msgid "Invalid security credential.  Please reload the page and try again."
+#~ msgstr "Geçersiz güvenlik kimliği. Lütfen sayfayı yenileyip tekrar deneyin."
+
+#~ msgid "Invalid user capability.  Please reload the page and try again."
+#~ msgstr ""
+#~ "Geçersiz kullanıcı yeteneği. Lütfen sayfayı tekrar yükleyin ve tekrar "
+#~ "deneyin."
+
+#~ msgid "Your panel has no fields. Nothing to save."
+#~ msgstr "Panelde hiç alan yok. Kurtarılacak bir şey bulunamadı."
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the "
+#~ "Redux Framework support site in your config's <code>admin_bar_links</"
+#~ "code> argument.  This is sample data.  Please change or remove this data "
+#~ "before shipping your product."
+#~ msgstr ""
+#~ "<Strong> Redux Çerçeve Bildirimi: </ strong> Yapılandırmanızın <code> "
+#~ "admin_bar_links </ code> argümanında Redux Framework destek sitesine "
+#~ "referanslar vardır. Bu örnek veri. Ürününüzü göndermeden önce lütfen bu "
+#~ "verileri değiştirin veya kaldırın."
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the "
+#~ "Redux Framework support site in your config's <code>share_icons</code> "
+#~ "argument.  This is sample data.  Please change or remove this data before "
+#~ "shipping your product."
+#~ msgstr ""
+#~ "<Strong> Redux Çerçeve Bildirimi: </ strong> Reduce Framework destek "
+#~ "sitesine yapılandırmanızın <code> share_icons </ code> argümanında "
+#~ "referanslar var. Bu örnek veri. Ürününüzü göndermeden önce lütfen bu "
+#~ "verileri değiştirin veya kaldırın."
+
+#~ msgid "Dismiss"
+#~ msgstr "Reddet"
+
+#~ msgid ""
+#~ "Please wait a few minutes, then try refreshing the page. Unable to load "
+#~ "some remotely hosted scripts."
+#~ msgstr ""
+#~ "Lütfen birkaç dakika bekleyin, ardından sayfayı yenilemeyi deneyin. "
+#~ "Uzaktan barındırılan bazı komut dosyaları yüklenemiyor."
+
+#~ msgid "Redux Framework Warning"
+#~ msgstr "Redux Çerçeve Uyarısı"
+
+#~ msgid "%s CDN unavailable.  Some controls may not render properly."
+#~ msgstr "%s CDN kullanılamaz. Bazı denetimler düzgün halde olmayabilir."
+
+#~ msgid ""
+#~ "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+#~ "installed or not activated and thus, some controls may not render "
+#~ "properly.  Please ensure that it is installed and <a href=\"%s"
+#~ "\">activated</a>"
+#~ msgstr ""
+#~ "<a href=“%s”>Satıcı Destek eklentisi</a> (veya uzatma) yüklü ya da aktif "
+#~ "ve dolayısıyla bazı kontroller düzgün hale olmayabilir. Yüklü ve aktif "
+#~ "olduğundan emin olun: <a href=“%s”>aktive</a>"
+
+#~ msgid "File Permission Issues"
+#~ msgstr "Dosya İzin Sorunları"
+
+#~ msgid ""
+#~ "We were unable to modify required files. Please check your permissions, "
+#~ "or modify your wp-config.php file to contain your FTP login credentials "
+#~ "as <a href=\"%s\" target=\"_blank\">outlined here</a>."
+#~ msgstr ""
+#~ "Biz gerekli dosyaları değiştirmek için koyamadık. Izinlerinizi "
+#~ "denetlemek, ya da FTP oturum açma bilgilerini içeren wp-config.php "
+#~ "dosyasını değiştirmek lütfen <a href=“%s” target=“_blank”>buraya</a> "
+#~ "bakın."
+
+#~ msgid ""
+#~ "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+#~ "date. The core version is %s"
+#~ msgstr ""
+#~ "<code>%s</code> sürüm <strong style =\"color:red\">%s</strong> "
+#~ "güncelliğini yitirmiş. Çekirdek sürümü %s"
+
+#~ msgid ""
+#~ "You have changes that are not saved.  Would you like to save them now?"
+#~ msgstr ""
+#~ "Kaydedilmemiş değişiklikleriniz var. Onları şimdi kurtarmak ister misiniz?"
+
+#~ msgid "Are you sure?  Resetting will lose all custom values."
+#~ msgstr "Emin misiniz? Sıfırlama, tüm özel değerleri kaybedecek."
+
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset.  "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Geçerli seçenekleriniz bu hazır ayarın değerleriyle değiştirilir. Devam "
+#~ "etmek ister misiniz?"
+
+#~ msgid "Press return or enter to open this panel"
+#~ msgstr "Bu paneli açmak için return veya enter tuşuna basın"
+
+#~ msgid "You are customizing %s"
+#~ msgstr "Özelleştiriyorsun %s"
+
+#~ msgid "Back"
+#~ msgstr "Geri"
+
+#~ msgid "Help"
+#~ msgstr "Yardım"
+
+#~ msgid "Press return or enter to open"
+#~ msgstr "Açmak için return tuşuna basın veya girin"
+
+#~ msgid "Press return or enter to expand"
+#~ msgstr "Genişletmek için return tuşuna basın veya girin"
+
+#~ msgid "Import / Export"
+#~ msgstr "İçe Aktar / Dışa Aktar"
+
+#~ msgid "Import Options"
+#~ msgstr "İçe Aktarma Seçenekleri"
+
+#~ msgid "Import from File"
+#~ msgstr "Dosyadan İçe Aktar"
+
+#~ msgid "Import from URL"
+#~ msgstr "URL'den içe aktar"
+
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Yedek dosyanızı aşağıdaki gibi girin ve sitelerinizin seçeneklerini bir "
+#~ "yedeklemeden geri yüklemek için İçe Aktar'ı tıklayın."
+
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Başka bir site seçenekleri ayarına URL girin ve bu sitenin seçeneklerini "
+#~ "yüklemek için Al'ı tıklayın."
+
+#~ msgid "Import"
+#~ msgstr "İçe Aktar"
+
+#~ msgid ""
+#~ "WARNING! This will overwrite all existing option values, please proceed "
+#~ "with caution!"
+#~ msgstr ""
+#~ "UYARI! Bu mevcut tüm seçenek değerlerinin üzerine yazacaktır, lütfen "
+#~ "dikkatli olun!"
+
+#~ msgid "Export Options"
+#~ msgstr "Dışa Aktarma Seçenekleri"
+
+#~ msgid ""
+#~ "Here you can copy/download your current option settings. Keep this safe "
+#~ "as you can use it as a backup should anything go wrong, or you can use it "
+#~ "to restore your settings on this site (or any other site)."
+#~ msgstr ""
+#~ "Burada şu anda geçerli seçenek ayarlarınızı kopyalayabilir/"
+#~ "indirebilirsiniz. Bunu güvenli bir yerde saklayın çünkü herhangi bir şey "
+#~ "ters gittiğinde bunu yedek olarak kullanabilirsiniz veya bu sitedeki "
+#~ "(veya başka her hangi bir sitedeki) ayarlarınızı geri yüklemek için "
+#~ "kullanabilirsiniz ."
+
+#~ msgid "Copy Data"
+#~ msgstr "Verileri Kopyala"
+
+#~ msgid "Download Data File"
+#~ msgstr "Veri Dosyasını İndir"
+
+#~ msgid "Copy Export URL"
+#~ msgstr "Dışa Aktarma URLsini Kopyala"
+
+#~ msgid "Options Object"
+#~ msgstr "Nesne Seçenekleri"
+
+#~ msgid "Show Object in Javascript Console Object"
+#~ msgstr "Javascript Konsol Nesnesinde Nesneyi Göster"
+
+#~ msgid "Transparent"
+#~ msgstr "Şeffaf"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Arka Plan Tekrarı"
+
+#~ msgid "Background Clip"
+#~ msgstr "Arka Plan Klibi"
+
+#~ msgid "Background Origin"
+#~ msgstr "Arka Plan Menşei"
+
+#~ msgid "Background Size"
+#~ msgstr "Arkaplan Boyutu"
+
+#~ msgid "Background Attachment"
+#~ msgstr "Arka Plan Ekleri"
+
+#~ msgid "Background Position"
+#~ msgstr "Arka Plan Konumu"
+
+#~ msgid "No media selected"
+#~ msgstr "Hiçbir medya seçilmedi"
+
+#~ msgid "Upload"
+#~ msgstr "Yükle"
+
+#~ msgid "Top"
+#~ msgstr "Üst"
+
+#~ msgid "Bottom"
+#~ msgstr "Alt"
+
+#~ msgid "Border style"
+#~ msgstr "Kenarlık stili"
+
+#~ msgid "From "
+#~ msgstr "Kimden "
+
+#~ msgid "To "
+#~ msgstr "Kime "
+
+#~ msgid "Choose"
+#~ msgstr "Seç"
+
+#~ msgid "Cancel"
+#~ msgstr "İptal"
+
+#~ msgid "Select Color"
+#~ msgstr "Renk Seç"
+
+#~ msgid "Width"
+#~ msgstr "Genişlik"
+
+#~ msgid "Height"
+#~ msgstr "Yükseklik"
+
+#~ msgid "Units"
+#~ msgstr "Birimler"
+
+#~ msgid "Add/Edit Gallery"
+#~ msgstr "Galeri Ekle/Düzenle"
+
+#~ msgid "Clear Gallery"
+#~ msgstr "Galeriyi Temizle"
+
+#~ msgid "Regular"
+#~ msgstr "Düzenli"
+
+#~ msgid "Hover"
+#~ msgstr "Vurgu"
+
+#~ msgid "Visited"
+#~ msgstr "Ziyaret"
+
+#~ msgid "Focus"
+#~ msgstr "Odak"
+
+#~ msgid "Add More"
+#~ msgstr "Daha ekle"
+
+#~ msgid "No items of this type were found."
+#~ msgstr "Bu tür hiçbir öğe bulunamadı."
+
+#~ msgid "Slide"
+#~ msgstr "Slayt"
+
+#~ msgid "New %s"
+#~ msgstr "Yeni %s"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+#~ msgid "Add %s"
+#~ msgstr "Ekle %s"
+
+#~ msgid "On"
+#~ msgstr "Açık"
+
+#~ msgid "Off"
+#~ msgstr "Kapalı"
+
+#~ msgid "Font Family"
+#~ msgstr "Font Ailesi"
+
+#~ msgid "Font family"
+#~ msgstr "Font ailesi"
+
+#~ msgid "Backup Font Family"
+#~ msgstr "Yedek Yazı Ailesi"
+
+#~ msgid "Font style"
+#~ msgstr "Yazı stili"
+
+#~ msgid "Font Weight &amp; Style"
+#~ msgstr "Font Genişliği &amp; Stili"
+
+#~ msgid "Style"
+#~ msgstr "Stil"
+
+#~ msgid "Font subsets"
+#~ msgstr "Yazı tipi altkümeleri"
+
+#~ msgid "Font Subsets"
+#~ msgstr "Yazı Tipi Altkümeleri"
+
+#~ msgid "Subsets"
+#~ msgstr "Altkümeler"
+
+#~ msgid "Font script"
+#~ msgstr "Yazı tipi komut dosyası"
+
+#~ msgid "Text Align"
+#~ msgstr "Metin hizalama"
+
+#~ msgid "Text Transform"
+#~ msgstr "Metin Dönüşümü"
+
+#~ msgid "Font Variant"
+#~ msgstr "Yazı Tipi Varyantı"
+
+#~ msgid "Text Decoration"
+#~ msgstr "Metin Dekorasyonu"
+
+#~ msgid "Font Size"
+#~ msgstr "Yazı Boyutu"
+
+#~ msgid "Line Height"
+#~ msgstr "Satır yüksekliği"
+
+#~ msgid "Word Spacing"
+#~ msgstr "Kelime Aralığı"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Harf boşluğu"
+
+#~ msgid "Font Color"
+#~ msgstr "Yazı rengi"
+
+#~ msgid "Font color"
+#~ msgstr "Yazı tipi rengi"
+
+#~ msgid "Standard Fonts"
+#~ msgstr "Standart Fontlar"
+
+#~ msgid "Google Webfonts"
+#~ msgstr "Google Webfonts"
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+#~ "submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+#~ "strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+#~ "document</a>, or your theme will be rejected because of Redux."
+#~ msgstr ""
+#~ "<span class=“tc-lead tc-recommended”>ÖNERİLEN</span>: Eğer WordPress.org "
+#~ "tema havuzuna gönderi yapacaksanız, <a href=“%s” target=“_blank”>bu "
+#~ "belgeyi</a> okumanız <strong>şiddetle</strong> önerilmektedir ya da "
+#~ "temanız Redux nedeniyle reddedilecektir."
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+#~ "<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+#~ "submission because of Redux."
+#~ msgstr ""
+#~ "<span class=“tc-lead tc-recommended”>ÖNERİLEN</span>: <strong> %s </"
+#~ "strong> silmeniz GEREKLİDİR, aksi durumda temanız WP.org tema gönderiniz "
+#~ "Redux nedeniyle reddedilecektir."
+
+#~ msgid "Optional"
+#~ msgstr "İsteğe bağlı"
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+#~ "arguments MUST be used for WP.org submissions, or you will be rejected "
+#~ "because of your Redux configuration."
+#~ msgstr ""
+#~ "<span class=“tc-lead tc-recommended”>ÖNERİLEN</span>: Aşağıdaki "
+#~ "argümanlar WP.org gönderimlerinde kullanılması ZORUNLUDUR, aksi durumda "
+#~ "Redux yapılandırmanız sebebiyle reddedileceksiniz."
+
+#~ msgid "Redux localization utilities"
+#~ msgstr "Redux yerelleştirme yardımcı programları"
+
+#~ msgid "Redux Resting Diles"
+#~ msgstr "Redux Dinlenme Diles"
+
+#~ msgid "Redux Code Styles"
+#~ msgstr "Redux Kod Stilleri"
+
+#~ msgid "Redux Unit Testing"
+#~ msgstr "Redüktör Birimi Testi"
+
+#~ msgid "Redux Plugin File"
+#~ msgstr "Redux Eklenti Dosyası"
+
+#~ msgid "Redux Boostrap Tests"
+#~ msgstr "Redux önyükleme testleri"
+
+#~ msgid "CI Testing FIle"
+#~ msgstr "CI deneme dosyası"
+
+#~ msgid "PHP Unit Testing"
+#~ msgstr "PHP ünite testi"
+
+#~ msgid ""
+#~ "It appears that you have embedded the full Redux package inside your "
+#~ "theme. You need only embed the <strong>ReduxCore</strong> folder. "
+#~ "Embedding anything else will get your rejected from theme submission. "
+#~ "Suspected Redux package file(s):"
+#~ msgstr ""
+#~ "Temanız içerisinde Redux paketinin gömülü olduğu anlaşılıyor. Sadece "
+#~ "<strong>ReduxCore</strong> klasörünün yerleştirilmesi gerekmektedir. "
+#~ "Başka bir şeyin yerleştirilmesi, tema gönderinizin reddedilmesine neden "
+#~ "olacaktır. Şüpheli Redux paket dosya(ları):"
+
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Bu alanın geçerli bir renk değeri olması gerekir."
+
+#~ msgid ""
+#~ "You must provide a comma separated list of numerical values for this "
+#~ "option."
+#~ msgstr ""
+#~ "Bu seçenek için virgülle ayrılmış sayısal değerler listesi sağlamanız "
+#~ "gerekir."
+
+#~ msgid "Unsafe strings were found in your CSS and have been filtered out."
+#~ msgstr "CSS'nizde güvensiz dizeler bulundu ve bunlar filtrelendi."
+
+#~ msgid "This field must be a valid date."
+#~ msgstr "Bu alanın geçerli bir tarih olması gerekir."
+
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "Bu seçenek için geçerli bir e-posta sağlamalısınız."
+
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "Bu alanda herhangi bir HTML girmemelisiniz, tüm HTML etiketleri "
+#~ "kaldırılmıştır."
+
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "Bu alanda herhangi bir özel karakter girmemelisiniz, tüm özel karakterler "
+#~ "kaldırıldı."
+
+#~ msgid "This field cannot be empty. Please provide a value."
+#~ msgstr "Bu alan boş olamaz. Lütfen bir değer verin."
+
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "Bu seçenek için sayısal bir değer sağlamalısınız."
+
+#~ msgid ""
+#~ "That URL slug is in use, please choose another. <code>%s</code> is open "
+#~ "for use."
+#~ msgstr ""
+#~ "Bu URL slug kullanılıyor, lütfen başka birini seçin. <code>%s</code>, "
+#~ "kullanıma açık."
+
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "Bu seçenek için geçerli bir URL sağlaması gerekir."
+
+#~ msgid "Welcome to Redux Framework %s"
+#~ msgstr "Redux Çerçevesine hoş geldiniz %s"
+
+#~ msgid ""
+#~ "Thank you for updating to the latest version! Redux Framework %s is a "
+#~ "huge step forward in Redux Development. Look at all that's new."
+#~ msgstr ""
+#~ "En son sürüme güncellendiğiniz için teşekkür ederiz! Redux Çerçevesi %s, "
+#~ "Redux Geliştirmesinde atılmış büyük bir adımdır. Bunların hepsine yeni "
+#~ "bak."
+
+#~ msgid "Version %s"
+#~ msgstr "Sürüm %s"
+
+#~ msgid "What is Redux Framework?"
+#~ msgstr "Redux Çerçevesi Nedir?"
+
+#~ msgid "Learn More"
+#~ msgstr "Daha fazla bilgi edin"
+
+#~ msgid "New in this Release"
+#~ msgstr "Bu Sürümdeki Yeni"
+
+#~ msgid "Redux Framework - Changelog"
+#~ msgstr "Redux Çerçevesi - Değişiklik Takibi"
+
+#~ msgid ""
+#~ "Our core mantra at Redux is backwards compatibility. With hundreds of "
+#~ "thousands of instances worldwide, you can be assured that we will take "
+#~ "care of you and your clients."
+#~ msgstr ""
+#~ "Redux'teki çekirdek mantra geriye dönük uyumluluğa sahip. Dünya çapında "
+#~ "yüzbinlerce örneği ile siz ve müşterilerinizle ilgileneceğimizden emin "
+#~ "olabilirsiniz."
+
+#~ msgid "Redux Framework - A Community Effort"
+#~ msgstr "Redux Çerçevesi - Bir Topluluk Hareketi"
+
+#~ msgid ""
+#~ "We recognize we are nothing without our community. We would like to thank "
+#~ "all of those who help Redux to be what it is. Thank you for your "
+#~ "involvement."
+#~ msgstr ""
+#~ "Topluluğumuz olmadan hiçbir şey olduğumuzun farkındayız. Redux'a ne "
+#~ "olduğu konusunda yardımcı olan herkese çok teşekkür ederiz. Katılımınız "
+#~ "için teşekkür ederiz."
+
+#~ msgid ""
+#~ "Redux is created by a community of developers world wide. Want to have "
+#~ "your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to "
+#~ "Redux</a>."
+#~ msgstr ""
+#~ "Redux is created by a community of developers world wide. Want to have "
+#~ "your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to "
+#~ "Redux</a>."
+
+#~ msgid "Redux Framework - Extensions"
+#~ msgstr "Redux Çerçevesi - Uzantılar"
+
+#~ msgid ""
+#~ "Supercharge your Redux experience. Our extensions provide you with "
+#~ "features that will take your products to the next level."
+#~ msgstr ""
+#~ "Redux deneyiminizi güçlendirin. Uzantılarımız, ürünlerinizi bir sonraki "
+#~ "seviyeye taşıyacak özellikler sunar."
+
+#~ msgid ""
+#~ "While some are built specificially for developers, extensions such as "
+#~ "Custom Fonts are sure to make any user happy."
+#~ msgstr ""
+#~ "Bazıları geliştiriciler için özel olarak oluşturulmuş olmakla birlikte, "
+#~ "Özel Fontlar gibi uzantılar herhangi bir kullanıcıyı mutlu edecektir."
+
+#~ msgid "Redux Framework - System Status"
+#~ msgstr "Redux Çerçevesi - Sistem Durumu"
+
+#~ msgid ""
+#~ "Please copy and paste this information in your ticket when contacting "
+#~ "support:"
+#~ msgstr ""
+#~ "Destek ekibine başvururken lütfen bu bilgileri kopyalayıp yapıştırın:"
+
+#~ msgid "Get System Report"
+#~ msgstr "Sistem Raporu Al"
+
+#~ msgid "Understanding the Status Report"
+#~ msgstr "Durum Raporunu Anlama"
+
+#~ msgid "Copied!"
+#~ msgstr "Kopyalandı!"
+
+#~ msgid "Copy for Support"
+#~ msgstr "Destek İçin Kopyala"
+
+#~ msgid "WordPress Environment"
+#~ msgstr "WordPress Ortamı"
+
+#~ msgid "Home URL"
+#~ msgstr "Anasayfa URL"
+
+#~ msgid "The URL of your site's homepage."
+#~ msgstr "Sitenizin ana sayfasının URL'si."
+
+#~ msgid "Site URL"
+#~ msgstr "Site URL"
+
+#~ msgid "The root URL of your site."
+#~ msgstr "Sitenizin kök URL'si."
+
+#~ msgid "Redux Version"
+#~ msgstr "Redux Sürümü"
+
+#~ msgid "The version of Redux Framework installed on your site."
+#~ msgstr "Sitenizde kurulu Redux Framework sürümü."
+
+#~ msgid "Redux Data Directory Writable"
+#~ msgstr "Redux Veri Dizini Yazılabilir"
+
+#~ msgid ""
+#~ "Redux and its extensions write data to the <code>uploads</code> "
+#~ "directory. This directory must be writable."
+#~ msgstr ""
+#~ "Redux and its extensions write data to the <code>uploads</code> "
+#~ "directory. This directory must be writable."
+
+#~ msgid "To allow data saving, make <code>%s</code> writable."
+#~ msgstr "To allow data saving, make <code>%s</code> writable."
+
+#~ msgid "WP Content URL"
+#~ msgstr "WP İçerik URL'si"
+
+#~ msgid "The location of Wordpress's content URL."
+#~ msgstr "Wordpress içerik URL'si konumu."
+
+#~ msgid "WP Version"
+#~ msgstr "WP Sürümü"
+
+#~ msgid "The version of WordPress installed on your site."
+#~ msgstr "Sitenize yüklenen WordPress sürümü."
+
+#~ msgid "WP Multisite"
+#~ msgstr "WP Multisite"
+
+#~ msgid "Whether or not you have WordPress Multisite enabled."
+#~ msgstr "WordPress Çok Siteli'nin etkin olup olmadığı."
+
+#~ msgid "Permalink Structure"
+#~ msgstr "Permalink Yapısı"
+
+#~ msgid ""
+#~ "The current permalink structure as defined in Wordpress Settings-"
+#~ ">Permalinks."
+#~ msgstr ""
+#~ "The current permalink structure as defined in Wordpress Settings-"
+#~ ">Permalinks."
+
+#~ msgid "Front Page Display"
+#~ msgstr "Önden Sayfa Gösterimi"
+
+#~ msgid "The current Reading mode of Wordpress."
+#~ msgstr "Wordpress'in geçerli Okuma modu."
+
+#~ msgid "Front Page"
+#~ msgstr "Ön Sayfa"
+
+#~ msgid "The currently selected page which acts as the site's Front Page."
+#~ msgstr "Sitenin Ön Sayfası görevi gören seçili sayfadır."
+
+#~ msgid "Posts Page"
+#~ msgstr "Mesajlar Sayfası"
+
+#~ msgid "The currently selected page in where blog posts are displayed."
+#~ msgstr "Blog gönderilerinin görüntülendiği şu an seçili olan sayfa."
+
+#~ msgid "WP Memory Limit"
+#~ msgstr "WP Bellek Sınırı"
+
+#~ msgid ""
+#~ "The maximum amount of memory (RAM) that your site can use at one time."
+#~ msgstr "Sitenizin bir defada kullanabileceği maksimum bellek miktarı (RAM)."
+
+#~ msgid ""
+#~ "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+#~ "target=\"_blank\">Increasing memory allocated to PHP</a>"
+#~ msgstr ""
+#~ "%s - Belleği en az 40MB olarak ayarlamanızı öneririz. Bakınız: <a href="
+#~ "\"%s\" target=\"_blank\"> PHP'ye ayrılan belleğin artırılması </a>"
+
+#~ msgid "Database Table Prefix"
+#~ msgstr "Veritabanı tablosu öneki"
+
+#~ msgid "The prefix structure of the current Wordpress database."
+#~ msgstr "Geçerli Wordpress veritabanının önek yapısı."
+
+#~ msgid "WP Debug Mode"
+#~ msgstr "WP Hata Ayıklama Modu"
+
+#~ msgid "Displays whether or not WordPress is in Debug Mode."
+#~ msgstr "WordPress'in Hata Ayıklama Modunda olup olmadığını görüntüler."
+
+#~ msgid "Language"
+#~ msgstr "Dil"
+
+#~ msgid "The current language used by WordPress. Default = English"
+#~ msgstr "WordPress tarafından kullanılan geçerli dil. Varsayılan = İngilizce"
+
+#~ msgid "Browser"
+#~ msgstr "Tarayıcı"
+
+#~ msgid "Browser Info"
+#~ msgstr "Tarayıcı Bilgisi"
+
+#~ msgid "Information about web browser current in use."
+#~ msgstr "Kullanılan web tarayıcısı hakkında bilgi."
+
+#~ msgid "Server Environment"
+#~ msgstr "Sunucu Ortamı"
+
+#~ msgid "Server Info"
+#~ msgstr "Sunucu Bilgisi"
+
+#~ msgid ""
+#~ "Information about the web server that is currently hosting your site."
+#~ msgstr "Şu anda sitenizi barındıran web sunucusu hakkında bilgi."
+
+#~ msgid "Localhost Environment"
+#~ msgstr "Yerel Evre Ortamı"
+
+#~ msgid "Is the server running in a localhost environment."
+#~ msgstr "Sunucu bir localhost ortamında çalışıyor mu."
+
+#~ msgid "PHP Version"
+#~ msgstr "PHP Sürümü"
+
+#~ msgid "The version of PHP installed on your hosting server."
+#~ msgstr "Barındırma sunucunuzda PHP'nin sürümü kuruldu."
+
+#~ msgid "ABSPATH"
+#~ msgstr "ABSPATH"
+
+#~ msgid "The ABSPATH variable on the server."
+#~ msgstr "Sunucu üzerindeki ABSPATH değişkeni."
+
+#~ msgid "PHP Memory Limit"
+#~ msgstr "PHP Bellek Sınırı"
+
+#~ msgid "The largest filesize that can be contained in one post."
+#~ msgstr "Bir postta bulunabilecek en büyük dosya boyutu."
+
+#~ msgid "PHP Post Max Size"
+#~ msgstr "PHP Post Max Boyutu"
+
+#~ msgid "PHP Time Limit"
+#~ msgstr "PHP Zaman Sınırı"
+
+#~ msgid ""
+#~ "The amount of time (in seconds) that your site will spend on a single "
+#~ "operation before timing out (to avoid server lockups)"
+#~ msgstr ""
+#~ "Sitenizin zaman aşımına uğramadan önce tek bir işlemle harcayacağı süre "
+#~ "(saniye olarak) (sunucu kilitlenmelerini önlemek için)"
+
+#~ msgid "PHP Max Input Vars"
+#~ msgstr "PHP Max Giriş Vars"
+
+#~ msgid ""
+#~ "The maximum number of variables your server can use for a single function "
+#~ "to avoid overloads."
+#~ msgstr ""
+#~ "Aşırı yüklemeyi önlemek için sunucunuzun tek bir işlev için "
+#~ "kullanabileceği maksimum değişken sayısı."
+
+#~ msgid "PHP Display Errors"
+#~ msgstr "PHP Görüntü Hataları"
+
+#~ msgid "Determines if PHP will display errors within the browser."
+#~ msgstr "PHP'nin tarayıcıda hatalar gösterip gösteremeyeceğini belirler."
+
+#~ msgid "SUHOSIN Installed"
+#~ msgstr "SUHOSIN Yüklendi"
+
+#~ msgid ""
+#~ "Suhosin is an advanced protection system for PHP installations. It was "
+#~ "designed to protect your servers on the one hand against a number of well "
+#~ "known problems in PHP applications and on the other hand against "
+#~ "potential unknown vulnerabilities within these applications or the PHP "
+#~ "core itself.  If enabled on your server, Suhosin may need to be "
+#~ "configured to increase its data submission limits."
+#~ msgstr ""
+#~ "Suhosin, PHP kurulumları için gelişmiş bir koruma sistemidir. "
+#~ "Sunucularınızı bir yandan PHP uygulamalarında bilinen bir dizi soruna "
+#~ "karşı korumak ve diğer taraftan bu uygulamalardaki veya PHP "
+#~ "çekirdeğindeki potansiyel bilinmeyen açıklara karşı korumak için "
+#~ "tasarlanmıştır. Sunucunuzda etkinleştirildiyse, Veri gönderme sınırlarını "
+#~ "artırmak için Suhosin'in yapılandırılması gerekebilir."
+
+#~ msgid "MySQL Version"
+#~ msgstr "MySQL Sürümü"
+
+#~ msgid "The version of MySQL installed on your hosting server."
+#~ msgstr "Barındırma sunucunuza yüklenen MySQL sürümü."
+
+#~ msgid "Max Upload Size"
+#~ msgstr "Maksimum Yükleme Boyutu"
+
+#~ msgid ""
+#~ "The largest filesize that can be uploaded to your WordPress installation."
+#~ msgstr "WordPress kurulumunuza yüklenebilecek en büyük dosya boyutu."
+
+#~ msgid "Default Timezone is UTC"
+#~ msgstr "Varsayılan Saat Dilimi UTC"
+
+#~ msgid "The default timezone for your server."
+#~ msgstr "Sunucunuz için varsayılan saat dilimi."
+
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "Varsayılan saat dilimi %s - UTC olmalıdır"
+
+#~ msgid "Used when communicating with remote services with PHP."
+#~ msgstr "Uzak servislerle PHP ile iletişim kurarken kullanılır."
+
+#~ msgid ""
+#~ "Your server does not have fsockopen or cURL enabled - cURL is used to "
+#~ "communicate with other servers. Please contact your hosting provider."
+#~ msgstr ""
+#~ "Sunucunuzda fsockopen veya cURL etkin değil - cURL, diğer sunucularla "
+#~ "iletişim kurmak için kullanılır. Lütfen barındırma sağlayıcınıza başvurun."
+
+#~ msgid "Remote Post"
+#~ msgstr "Uzaktan Mesaj"
+
+#~ msgid "Used to send data to remote servers."
+#~ msgstr "Uzak sunuculara veri göndermek için kullanılır."
+
+#~ msgid ""
+#~ "wp_remote_post() failed. Many advanced features may not function. Contact "
+#~ "your hosting provider."
+#~ msgstr ""
+#~ "wp_remote_post() başarısız oldu. Birçok gelişmiş özellik çalışmayabilir. "
+#~ "Barındırma sağlayıcınıza başvurun."
+
+#~ msgid "Error: %s"
+#~ msgstr "Hata: %s"
+
+#~ msgid "Remote Get"
+#~ msgstr "Uzaktan Al"
+
+#~ msgid "Used to grab information from remote servers for updates updates."
+#~ msgstr ""
+#~ "Güncelleme güncellemeleri için uzak sunuculardan bilgi toplamak için "
+#~ "kullanılır."
+
+#~ msgid ""
+#~ "wp_remote_get() failed. This is needed to get information from remote "
+#~ "servers. Contact your hosting provider."
+#~ msgstr ""
+#~ "wp_remote_get() başarısız oldu. Bu, uzak sunuculardan bilgi almak için "
+#~ "gereklidir. Barındırma sağlayıcınıza başvurun."
+
+#~ msgid "Active Plugins"
+#~ msgstr "Etkin Eklentiler"
+
+#~ msgid "Visit plugin homepage"
+#~ msgstr "Eklenti ana sayfasını ziyaret edin"
+
+#~ msgctxt "by author"
+#~ msgid "by %s"
+#~ msgstr "%s tarafından"
+
+#~ msgid "Redux Instance: "
+#~ msgstr "Redux Örneği: "
+
+#~ msgid "The opt_name argument for this instance of Redux."
+#~ msgstr "Redux'un bu örneğinin opt_name argümanı."
+
+#~ msgid "The global_variable argument for this instance of Redux."
+#~ msgstr "Redux'un bu örneğinin global_variable argümanı."
+
+#~ msgid "Indicates if developer mode is enabled for this instance of Redux."
+#~ msgstr ""
+#~ "Bu Redux örneği için geliştirici modunun etkin olup olmadığını gösterir."
+
+#~ msgid ""
+#~ "Indicates if ajax based saving is enabled for this instance of Redux."
+#~ msgstr ""
+#~ "Bu Redux örneği için ajax tabanlı tasarrufun etkin olup olmadığını "
+#~ "belirtir."
+
+#~ msgid ""
+#~ "The page slug denotes the string used for the options panel page for this "
+#~ "instance of Redux."
+#~ msgstr ""
+#~ "Sayfa sümükbağı, bu Redux örneğinin seçenekler paneli sayfası için "
+#~ "kullanılan dizeyi belirtir."
+
+#~ msgid ""
+#~ "The page permissions variable sets the permission level required to "
+#~ "access the options panel for this instance of Redux."
+#~ msgstr ""
+#~ "Sayfa izinleri değişkeni, bu Redux örneği için seçenekler paneline "
+#~ "erişmek için gereken izin düzeyini ayarlar."
+
+#~ msgid ""
+#~ "This variable set whether or not the menu is displayed as an admin menu "
+#~ "item for this instance of Redux."
+#~ msgstr ""
+#~ "Bu değişken, menünün Redux örneği için bir yönetici menü öğesi olarak "
+#~ "görüntülenip görüntülenmediğini belirler."
+
+#~ msgid ""
+#~ "The page parent variable sets where the options menu will be placed on "
+#~ "the WordPress admin sidebar for this instance of Redux."
+#~ msgstr ""
+#~ "Seçenekler menüsü Redux bu örneği için WordPress yönetici kenar çubuğu "
+#~ "alınacaktır sayfa ana değişken setleri."
+
+#~ msgid ""
+#~ "Indicates if the compiler flag is enabled for this instance of Redux."
+#~ msgstr ""
+#~ "Bu Redux örneği için derleyici bayrağının etkin olup olmadığını gösterir."
+
+#~ msgid ""
+#~ "Indicates if output flag for globally shutting off all CSS output is "
+#~ "enabled for this instance of Redux."
+#~ msgstr ""
+#~ "Bu CSS Redux örneği için tüm CSS çıktısını genel olarak kapatmak için "
+#~ "çıkış bayrağının etkin olup olmadığını gösterir."
+
+#~ msgid ""
+#~ "The output_tag variable sets whether or not dynamic CSS will be generated "
+#~ "for the customizer and Google fonts for this instance of Redux."
+#~ msgstr ""
+#~ "Output_tag değişkeni, bu Redux örneği için özelleştirici ve Google "
+#~ "fontları için dinamik CSS oluşturulup oluşturulmayacağını belirtir."
+
+#~ msgid ""
+#~ "The specified template path containing custom template files for this "
+#~ "instance of Redux."
+#~ msgstr ""
+#~ "Redux örneği için özel şablon dosyaları içeren belirtilen şablon yolu."
+
+#~ msgid "List of template files overriding the default Redux template files."
+#~ msgstr ""
+#~ "Varsayılan Redux şablon dosyalarını geçersiz kılan şablon dosyalarının "
+#~ "listesi."
+
+#~ msgid "Indicates the installed Redux extensions and their version numbers."
+#~ msgstr "Yüklü Redux eklentilerini ve sürüm numaralarını gösterir."
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "The name of the current active theme."
+#~ msgstr "Geçerli etkin temanın adı."
+
+#~ msgid "The installed version of the current active theme."
+#~ msgstr "Geçerli etkin temanın yüklü sürümü."
+
+#~ msgid "is available"
+#~ msgstr "gecerli"
+
+#~ msgid "Author URL"
+#~ msgstr "Yazar URL"
+
+#~ msgid "The theme developers URL."
+#~ msgstr "Tema geliştiricileri URL'si."
+
+#~ msgid "Displays whether or not the current theme is a child theme."
+#~ msgstr "Geçerli temanın bir alt tema olup olmadığını görüntüler."
+
+#~ msgid ""
+#~ "If you're modifying Redux Framework or a parent theme you didn't build "
+#~ "personally, we recommend using a child theme. See: <a href=\"%s\" target="
+#~ "\"_blank\">How to create a child theme</a>"
+#~ msgstr ""
+#~ "Redux Framework'ü veya kişisel olarak oluşturmadığınız bir üst temayı "
+#~ "değiştiriyorsanız, bir alt temayı kullanmanızı öneririz. Bakınız: <a href="
+#~ "\"%s\" target=\"_blank\"> Çocuk teması oluşturma </a>"
+
+#~ msgid "Parent Theme Name"
+#~ msgstr "Ana Tema Adı"
+
+#~ msgid "The name of the parent theme."
+#~ msgstr "Üst temanın adı."
+
+#~ msgid "Parent Theme Version"
+#~ msgstr "Ana Tema Sürümü"
+
+#~ msgid "The installed version of the parent theme."
+#~ msgstr "Ana temanın yüklü sürümü."
+
+#~ msgid "Parent Theme Author URL"
+#~ msgstr "Ana Tema Yazar URL'si"
+
+#~ msgid "The parent theme developers URL."
+#~ msgstr "Ana tema geliştiricilerinin URL'si."
+
+#~ msgid "Redux Framework - Support"
+#~ msgstr "Redux Çerçevesi - Destek"
+
+#~ msgid ""
+#~ "We are an open source project used by developers to make powerful control "
+#~ "panels."
+#~ msgstr ""
+#~ "Geliştiriciler tarafından güçlü kontrol panelleri oluşturmak için "
+#~ "kullanılan açık kaynaklı bir projeyiz."
+
+#~ msgid "Generate a Support URL"
+#~ msgstr "Destek URL'si oluştur"
+
+#~ msgid "Select Support Type"
+#~ msgstr "Destek Türü Seçin"
+
+#~ msgid "How to Get Support"
+#~ msgstr "Destek Nasıl Alınır"
+
+#~ msgid "Submit a Support Request"
+#~ msgstr "Bir Destek İsteği Gönderebilirsiniz"
+
+#~ msgid "To get started, we will need to generate a support hash."
+#~ msgstr "Başlamak için bir destek karması oluşturmamız gerekecek."
+
+#~ msgid "Select Your Support Type"
+#~ msgstr "Destek Türünüzü Seçiniz"
+
+#~ msgid "What type of user are you?"
+#~ msgstr "Ne tür bir kullanıcısın?"
+
+#~ msgid "User"
+#~ msgstr "Kullanıcı"
+
+#~ msgid "I am a user, using a pre-built product."
+#~ msgstr "Ben, önceden yapılmış bir ürünü kullanan bir kullanıcıyım."
+
+#~ msgid "Developer"
+#~ msgstr "Geliştirici"
+
+#~ msgid "I am a developer, building a product using Redux."
+#~ msgstr "Redux kullanarak bir ürün geliştiren bir geliştiriciyim."
+
+#~ msgid ""
+#~ "Please proceed to the Redux Framework issue tracker and supply us with "
+#~ "your support URL below. Please also provide any information that will "
+#~ "help us to reproduce your issue."
+#~ msgstr ""
+#~ "Lütfen Redux Çerçeve sorun izleyicisine geçin ve aşağıdaki destek "
+#~ "URL'inizi bize sağlayın. Lütfen, sorununuzu tekrar üretmemize yardımcı "
+#~ "olacak tüm bilgileri sağlayın."
+
+#~ msgid ""
+#~ "Listed below are the Wordpress plugins and/or theme installed on your "
+#~ "site that utilize Redux Framework. We do not directly support products "
+#~ "created with our framework.  It is the responsibility of the plugin or "
+#~ "theme developer to support their work. You will need to contact the "
+#~ "author(s) of the products listed below with your support questions."
+#~ msgstr ""
+#~ "Aşağıda listelenen Wordpress eklentileri ve / veya sitenizde Reduce "
+#~ "Framework'ü kullanan temalar bulunmaktadır. Çerçevemizle oluşturulan "
+#~ "ürünleri doğrudan desteklemiyoruz. Çalışmalarını desteklemek eklentinin "
+#~ "veya tema geliştiricisinin sorumluluğundadır. Destek sorularınız ile "
+#~ "birlikte aşağıda listelenen ürünlerin yazarlarına / yazışmalısınız."
+
+#~ msgid ""
+#~ "Please be sure to include for your developer - via cut and paste - the "
+#~ "Support URL in the box below."
+#~ msgstr ""
+#~ "Lütfen aşağıdaki kutuda Destek URL'sini kesip yapıştırarak "
+#~ "geliştiricinize eklediğinizden emin olun."
+
+#~ msgid ""
+#~ "Should the developer not be responsive, read the <a href=\"%s\" target="
+#~ "\"_blank\">following article</a> before asking for support from us "
+#~ "directly."
+#~ msgstr ""
+#~ "Geliştirici yanıt vermiyorsa, doğrudan bize destek istemek için <a href="
+#~ "\"%s\" target=\"_blank\"> aşağıdaki makaleyi </a> okuyun."
+
+#~ msgid ""
+#~ "If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/redux-framework?"
+#~ "filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+#~ "rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A "
+#~ "huge thank you from Redux in advance!"
+#~ msgstr ""
+#~ "Eğer <strong>Redux</strong> isterseniz bize bırakın lütfen <a href="
+#~ "\"https://wordpress.org/support/view/plugin-reviews/redux-framework?"
+#~ "filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+#~ "rated=\"Thanks :)\">★★★★★</a> değerlendirmesi. Büyük önceden Redux "
+#~ "teşekkür ederim!"
+
+#~ msgid "Support hash could not be generated. Please try again later."
+#~ msgstr "Destek karması oluşturulamadı. Lütfen daha sonra tekrar deneyiniz."
+
+#~ msgid "Welcome to Redux Framework"
+#~ msgstr "Redux Çerçevesine Hoş Geldiniz"
+
+#~ msgid "Redux Framework Changelog"
+#~ msgstr "Redux Çerçeve Değişikliği"
+
+#~ msgid "Get Support"
+#~ msgstr "Destek Al"
+
+#~ msgid "Redux Extensions"
+#~ msgstr "Redux Eklentileri"
+
+#~ msgid "The people that develop Redux Framework"
+#~ msgstr "Redux Çerçevesi geliştiren insanlar"
+
+#~ msgid "Redux Framework Status"
+#~ msgstr "Redux Çerçeve Durumu"
+
+#~ msgid "What's New"
+#~ msgstr "Neler Yeni"
+
+#~ msgid "Extensions"
+#~ msgstr "Uzantılar"
+
+#~ msgid "Changelog"
+#~ msgstr "Değişiklikler"
+
+#~ msgid "Credits"
+#~ msgstr "Kredi"
+
+#~ msgid "Support"
+#~ msgstr "Destek"
+
+#~ msgid "View %s"
+#~ msgstr "Görüntüle %s"
+
+#~ msgid "Reset Section"
+#~ msgstr "Bölümü Sıfırla"
+
+#~ msgid "Reset All"
+#~ msgstr "Hepsini sıfırla"
+
+#~ msgid "Developer Mode Enabled"
+#~ msgstr "Geliştirici Modu Etkin"
+
+#~ msgid "WP_DEBUG is enabled"
+#~ msgstr "WP_DEBUG etkinleştirildi"
+
+#~ msgid "and"
+#~ msgstr "ve"
+
+#~ msgid "This has been automatically enabled because"
+#~ msgstr "Bu otomatik olarak aktifleştirildi çünkü"
+
+#~ msgid ""
+#~ "If you are not a developer, your theme/plugin author shipped with "
+#~ "developer mode enabled. Contact them directly to fix it."
+#~ msgstr "Eğer geliştirici değilseniz, tema geliştiriciyse irtibat kurun."
+
+#~ msgid "Expand"
+#~ msgstr "Genişlet"
+
+#~ msgid "Redux Framework plugin is no longer required!"
+#~ msgstr "Redux Framework eklentisi artık gerekli değil!"
+
+#~ msgid "As its core files are embedded with in this theme."
+#~ msgstr "Temel dosyalar bu tema içinde gömülü olduğu için."
+
+#~ msgid "So, You should deactivate and remove it from your plugins."
+#~ msgstr ""
+#~ "Bu yüzden, devre dışı bırakmalı ve eklentilerinizden kaldırmalısınız."
+
+#~ msgid "Best if used on new WordPress install."
+#~ msgstr "En iyisi yeni WordPress kurulumu."
+
+#~ msgid "Images are for demo purpose only."
+#~ msgstr "Resimler yalnızca demo amaçlıdır."
+
+#~ msgid "Demo Already Imported"
+#~ msgstr "Demo Zaten İçeri Aktarılmış"
+
+#~ msgid "Demo Importer"
+#~ msgstr "Demo içeri aktarıcı"
+
+#~ msgid "Works best to import on a new install of WordPress"
+#~ msgstr "WordPress'in yeni bir kurulumunda içe aktarılacak en iyi iş"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "Bu WXR dosyasını okurken bir hata oluştu"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "Ayrıntılar yukarıda gösterilmiştir. İthalatçı şimdi farklı bir "
+#~ "ayrıştırıcıyla tekrar deneyecek ..."
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "Bu bir WXR dosyası, eksik / geçersiz WXR sürüm numarası gibi görünmüyor"
+
+#~ msgid "Theme options Import file could not be found. Please try again."
+#~ msgstr ""
+#~ "Tema seçenekleri İçe aktarma dosyası bulunamadı. Lütfen tekrar deneyin."
+
+#~ msgid "Widget Import file could not be found. Please try again."
+#~ msgstr "Widget İçe aktarma dosyası bulunamadı. Lütfen tekrar deneyin."
+
+#~ msgid "Sidebar does not exist in theme (using Inactive)"
+#~ msgstr "Temanın kenar çubuğu yok (Etkin değilken)"
+
+#~ msgid "Site does not support widget"
+#~ msgstr "Site, widget'i desteklemez"
+
+#~ msgid "Widget already exists"
+#~ msgstr "Widget zaten mevcut"
+
+#~ msgid "Imported"
+#~ msgstr "Eklendi"
+
+#~ msgid "Imported to Inactive"
+#~ msgstr "Aktif Olmayana Aktarılanlar"
+
+#~ msgid "No Title"
+#~ msgstr "Başlık Yok"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Maalesef bir hata oldu."
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "Dosya mevcut değil, lütfen tekrar deneyin."
+
+#~ msgid "All done."
+#~ msgstr "Hepsi tamam."
+
+#~ msgid "Have fun!"
+#~ msgstr "İyi eğlenceler!"
+
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr ""
+#~ "Alınan kullanıcıların şifrelerini ve rollerini güncellemeyi unutmayın."
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "Dışa aktarma dosyası <code>% s </ code> adresinde bulunamadı. Buna olası "
+#~ "bir izin sorununun sebep olduğu düşünülmektedir."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "Bu WXR dosyası (sürüm% s) ithalatçının bu sürümü tarafından "
+#~ "desteklenmiyor olabilir. Lütfen güncellenmeyi düşünün."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "%s yazarını içe aktarma başarısız oldu. Yayınları mevcut kullanıcıya atıf "
+#~ "yapılacaktır."
+
+#~ msgid "Assign Authors"
+#~ msgstr "Yazarları Ata"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "İçe aktarılan içeriği düzenlemenizi ve kaydetmenizi kolaylaştırmak için, "
+#~ "içe aktarılan öğenin yazarını bu sitenin mevcut bir kullanıcısına atamak "
+#~ "isteyebilirsiniz. Örneğin, tüm girdileri <code> admin </ code> s "
+#~ "girdileri olarak almak isteyebilirsiniz."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+
+#~ msgid "Import Attachments"
+#~ msgstr "Ekleri Al"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "Dosya eklerini indirin ve içe aktarın"
+
+#~ msgid "Import author:"
+#~ msgstr "Yazarı içe aktar:"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "veya giriş adı ile yeni bir kullanıcı oluşturun:"
+
+#~ msgid "as a new user:"
+#~ msgstr "yeni bir kullanıcı olarak:"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "mevcut bir kullanıcıya ileti ata:"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "veya varolan bir kullanıcıya ileti atamak:"
+
+#~ msgid "- Select -"
+#~ msgstr "- Seçiniz -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "%s için yeni kullanıcı oluşturulamadı. Yayınları mevcut kullanıcıya atıf "
+#~ "yapılacaktır."
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "Kategori içe aktarılamadı %s"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "Posta etiketi içe aktarılamadı %s"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "%s %s içe aktarılamadı"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "Içe aktarılamadı &#8220;%s&#8221;: Geçersiz posta türü %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; zaten var."
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "Failed to import %s &#8220;%s&#8221;"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "Menü slug eksik olması nedeniyle atlanan menü öğesi"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "Geçersiz menü slug nedeniyle menü öğesi atlandı: %s"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "Ekleri getirmek etkin değil"
+
+#~ msgid "Invalid file type"
+#~ msgstr "Geçersiz dosya türü"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "Uzak sunucu yanıt vermedi"
+
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "Uzak sunucu, hata cevabı %1$d %2$s döndürdü"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "Uzak dosya boyutu yanlış"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "Sıfır boyutlu dosya indirildi"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "Uzak dosya çok büyük, limit %s"
+
+#~ msgid "Import WordPress"
+#~ msgstr "İthalat WordPress"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "Yeni bir sürümü mevcut. Yeni dışa aktarma dosyaları ile uyumluluk "
+#~ "sağlamak için lütfen% s sürümüne güncelleyin."
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "Yüklemek için bir WXR (.xml) dosyasını seçin, ardından Dosya yükle ve içe "
+#~ "aktarı tıklayın."
+
+#~ msgid "Import Demo"
+#~ msgstr "Demoyu İçe Aktar"
+
+#~ msgid "Demo Imported"
+#~ msgstr "Demo İçe Aktarıldı"
+
+#~ msgid "Please Wait..."
+#~ msgstr "Lütfen bekleyin..."
+
+#~ msgid "Re-Import"
+#~ msgstr "Yeniden İthalat"
+
+#~ msgid "No Demo Data Provided"
+#~ msgstr "Hiçbir Demo Veri Sağlanamadı"
+
+#~ msgid "Only use demo importer on new WordPress install."
+#~ msgstr "Yeni WordPress kurulumunda yalnızca demo içe aktarıcısını kullanın."
+
+#~ msgid "Imported images are only for demo purpose."
+#~ msgstr "İçe aktarılan fotoğraflar yalnızca demo amaçlıdır."
+
+#~ msgid ""
+#~ "Import process can take few minutes to complete so please be patient and "
+#~ "wait for its completion."
+#~ msgstr ""
+#~ "İçe aktarma işleminin tamamlanması birkaç dakika sürebilir, bu nedenle "
+#~ "sabırlı olun ve tamamlanmasını bekleyin."
+
+#~ msgid "<i class=\"fa fa-angle-left\"></i>"
+#~ msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+#~ msgid "<i class=\"fa fa-angle-right\"></i>"
+#~ msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+#~ msgid "reCAPTCHA Failed:"
+#~ msgstr "reCAPTCHA Başarısız Oldu:"
+
+#~ msgid "Target Email address is not properly configured!"
+#~ msgstr "Hedef e-posta adresi doğru yapılandırılmadı!"
+
+#~ msgid "Provided Email address is invalid!"
+#~ msgstr "Verilen e-posta adresi geçersiz!"
+
+#~ msgid "New message sent by"
+#~ msgstr "Tarafından gönderilen yeni mesaj"
+
+#~ msgid "using contact form at"
+#~ msgstr "iletişim formunu kullanarak"
+
+#~ msgid "You have received a message from: "
+#~ msgstr "Şu adresten bir mesaj aldınız: "
+
+#~ msgid "Phone Number : "
+#~ msgstr "Telefon Numarası : "
+
+#~ msgid "Their additional message is as follows."
+#~ msgstr "Ek mesajları aşağıdaki gibidir."
+
+#~ msgid "You can contact %1$s via email %2$s"
+#~ msgstr "%1$s adlı kişiye %2$s e-postasıyla ulaşabilirsiniz"
+
+#~ msgid "Message Sent Successfully!"
+#~ msgstr "Mesaj Başarıyla gönderilmiştir!"
+
+#~ msgid "Server Error: WordPress mail function failed!"
+#~ msgstr "Sunucu Hatası: WordPress posta işlevi başarısız oldu!"
+
+#~ msgid "New message sent by %1$s using agent contact form at %2$s"
+#~ msgstr ""
+#~ "%2$s adresindeki temsilci iletişim formunu kullanarak %1$s tarafından "
+#~ "gönderilen yeni ileti"
+
+#~ msgid "You have received a message from:"
+#~ msgstr "Şu adresten bir mesaj aldınız:"
+
+#~ msgid "Property Title :"
+#~ msgstr "İlan Başlığı :"
+
+#~ msgid "Property URL :"
+#~ msgstr "İlan URL:"
+
+#~ msgid "You can also contact %1$s via contact number %2$s"
+#~ msgstr "Ayrıca irtibat numarası %2$s üzerinden %1$s başvurabilirsiniz"
+
+#~ msgid "* Wrong username or password."
+#~ msgstr "* Yanlış kullanıcı adı veya parola."
+
+#~ msgid "successful. Redirecting..."
+#~ msgstr "başarılı. Yönlendiriliyor ..."
+
+#~ msgid "This username already exists."
+#~ msgstr "Bu kullanıcı adı zaten mevcut."
+
+#~ msgid "This email is already registered."
+#~ msgstr "Bu e-posta adresi zaten kayıtlı."
+
+#~ msgid "Registration is complete. Check your email for details!"
+#~ msgstr "Kayıt tamamlandı. Ayrıntılar için e-postanızı kontrol edin!"
+
+#~ msgid "Provide a valid username or email address!"
+#~ msgstr "Geçerli bir kullanıcı adı veya e-posta adresi girin!"
+
+#~ msgid "No user found for given email!"
+#~ msgstr "Verilen e-posta için kullanıcı bulunamadı!"
+
+#~ msgid "No user found for given username!"
+#~ msgstr "Verilen kullanıcı adı için kullanıcı bulunamadı!"
+
+#~ msgid "Invalid username or email!"
+#~ msgstr "Geçersiz kullanıcı adı veya e-posta!"
+
+#~ msgid "Your New Password For %s"
+#~ msgstr "%s için Yeni Parolanız"
+
+#~ msgid "Your new password is: %s"
+#~ msgstr "Yeni şifreniz: %s"
+
+#~ msgid "Check your email for new password"
+#~ msgstr "Yeni şifre için e-postanızı kontrol edin"
+
+#~ msgid "Failed to send you new password email!"
+#~ msgstr "Size yeni şifre e-postası gönderilemedi!"
+
+#~ msgid "Oops! Something went wrong while resetting your password!"
+#~ msgstr "Hata! Şifrenizi sıfırlarken bir sorun oluştu!"
+
+#~ msgid "New user registration on your site %s:"
+#~ msgstr "Sitenize yeni kullanıcı kaydı %s:"
+
+#~ msgid "Username: %s"
+#~ msgstr "Kullanıcı Adı: %s"
+
+#~ msgid "[%s] New User Registration"
+#~ msgstr "[%s] Yeni Kullanıcı Kaydı"
+
+#~ msgid "Welcome to %s"
+#~ msgstr "Hoşgeldiniz %s"
+
+#~ msgid "Your username is: %s"
+#~ msgstr "Kullanıcı adınız: %s"
+
+#~ msgid "You can login using following password: %s"
+#~ msgstr "Aşağıdaki şifreyi kullanarak giriş yapabilirsiniz:%s"
+
+#~ msgid "It is highly recommended to change your password after login."
+#~ msgstr "Giriş yaptıktan sonra şifrenizi değiştirmeniz kesinlikle önerilir."
+
+#~ msgid "For more details visit:"
+#~ msgstr "Daha fazla ayrıntı için:"
+
+#~ msgid "A new property is submitted by %s at %s"
+#~ msgstr "%s tarafından%s adresine yeni bir ilan gönderildi"
+
+#~ msgid "You can preview it here :"
+#~ msgstr "Buradan önizleme yapabilirsiniz :"
+
+#~ msgid "Message to the Reviewer : %s"
+#~ msgstr "İnceleyene Not : %s"
+
+#~ msgid "You can contact the submitter %1$s via email %2$s"
+#~ msgstr "%2$s E-Posta aracılığıyla %1$s ile iletişime geçebilirsiniz"
+
+#~ msgid "This widget displays properties search form."
+#~ msgstr "Bu widget, ilan arama formunu görüntüler."
+
+#~ msgid "Inspiry Property Search"
+#~ msgstr "İlan Arama"
+
+#~ msgid "Find Your Home"
+#~ msgstr "Evinizi Bulun"
+
+#~ msgid "Widget Title"
+#~ msgstr "Widget Başlığı"
+
+#~ msgid "Displays random or recent featured properties."
+#~ msgstr "Rastgele veya öne çıkan güncel ilanları görüntüler."
+
+#~ msgid "Inspiry Featured Properties"
+#~ msgstr "İnspiry Güncel İlanlar"
+
+#~ msgid "Know More"
+#~ msgstr "Daha Fazlasını Öğren"
+
+#~ msgid "No featured property found!"
+#~ msgstr "Belirlenen özellikte birşey bulunamadı!"
+
+#~ msgid "Number of Properties"
+#~ msgstr "İlan Sayısı"
+
+#~ msgid "Sort By:"
+#~ msgstr "Sırala:"
+
+#~ msgid "Most Recent"
+#~ msgstr "En Yeni"
+
+#~ msgid "RSS URL"
+#~ msgstr "RSS URL"
+
+#~ msgid "Display social media icons."
+#~ msgstr "Sosyal medya simgelerini gösterin."

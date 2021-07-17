@@ -1,0 +1,49 @@
+/*-----------------------------------------------------------------------------------*/
+/* 12.1 - RTL Header Variation One
+/*-----------------------------------------------------------------------------------*/
+.header-variation-one {
+
+  .header-top {
+    text-align: left;
+  }
+
+  .contact-number {
+    float: right;
+  }
+
+  .user-nav {
+    margin-right: 0;
+    margin-left: 10px;
+
+    .fa,
+    .fas,
+    .far {
+      margin-right: 0;
+      margin-left: 7px;
+    }
+  }
+
+  .header-social-nav {
+
+    > a {
+      padding-right: 0;
+      padding-left: 15px;
+    }
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+
+  .left-column,
+  .right-column {
+    float: right;
+  }
+
+  .modal-open {
+    .header-variation-one {
+      padding-right: 0;
+      padding-left: 17px;
+    }
+  }
+}
+

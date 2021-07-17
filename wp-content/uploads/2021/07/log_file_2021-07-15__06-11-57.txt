@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Real Places were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress1
+Data file = C:\xampp\htdocs\wordpress1/wp-content/themes/inspiry-real-places/inc/demo-import/default-demo/content.xml
+Widget file = C:\xampp\htdocs\wordpress1/wp-content/themes/inspiry-real-places/inc/demo-import/default-demo/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress1/wp-content/themes/inspiry-real-places/inc/demo-import/default-demo/inspiry-customizer.dat
+Redux files:
+inspiry_options -> C:\xampp\htdocs\wordpress1/wp-content/themes/inspiry-real-places/inc/demo-import/default-demo/inspiry_options.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Barra lateral por defecto : 
+
+Búsqueda de propiedades - Find Your Home - Imported
+Categorías - No Title - Imported
+Entradas recientes - No Title - Imported
+
+Barra lateral de páginas : 
+
+Búsqueda de propiedades - Find Your Home - Imported
+List Custom Taxonomy - Property Types - Imported
+List Custom Taxonomy - Locations - Imported
+
+Barra lateral para la Lista de Propiedades : 
+
+Búsqueda de propiedades - Find Your Home - Imported
+Propiedades Destacadas - Featured Properties - Imported
+
+Propiedades Barra lateral de la cuadrícula : 
+
+Búsqueda de propiedades - Find Your Home - Imported
+Propiedades Destacadas - Featured Properties - Imported
+
+Barra lateral de propiedades : 
+
+Inspiry Mortgage Calculator - Mortgage Payments - Imported
+
+Columna de segundo pie de página : 
+
+Entradas recientes - No Title - Imported
+
+Columna de tercer pie de página : 
+
+List Custom Taxonomy - Property Statuses - Imported
+
+Columna de cuarto pie de página : 
+
+Inspiry Social Media Icons - Connect with Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: inspiry_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

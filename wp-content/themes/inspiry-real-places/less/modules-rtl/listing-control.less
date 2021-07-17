@@ -1,0 +1,35 @@
+/*-----------------------------------------------------------------------------------*/
+/* 11.0 - RTL Listing Control Module Styles
+/*-----------------------------------------------------------------------------------*/
+.sort-controls,
+.view-switcher {
+  float: left;
+}
+
+.view-btn {
+  float: left;
+  margin-right: 0;
+  margin-left: 4px;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .properties-with-half-map {
+    .sort-controls,.view-switcher {
+      float: right;
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .properties-with-half-map {
+    .sort-controls,.view-switcher {
+      float: left;
+    }
+  }
+}
+@media (max-width: 767px){
+  .sort-controls,
+  .view-switcher {
+    float: none;
+  }
+}

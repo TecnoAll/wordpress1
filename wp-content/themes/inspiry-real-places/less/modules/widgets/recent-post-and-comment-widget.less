@@ -1,0 +1,48 @@
+/* Widget Recent Entries and Recent Comments */
+.sidebar {
+  .widget_recent_entries,
+  .widget_recent_comments {
+    li {
+      &:not(:last-child) {
+        margin-bottom: 4px;
+      }
+    }
+  }
+}
+
+
+.widget-post-image {
+  float: left;
+
+  &:hover {
+    img {
+      .opacity(.9);
+      &:extend(.btn-transition);
+    }
+  }
+}
+
+
+.widget-post-content {
+  display: table;
+  padding: 6px 0 0 15px;
+}
+
+
+.widget-post-title {
+  font-size: 15px;
+  margin-bottom: 6px;
+}
+
+
+.widget-post-comments {
+
+  .fa-comments {
+    margin-right: 5px;
+  }
+}
+
+
+.widget-post-link {
+  &:extend(.widget-post-comments);
+}

@@ -1,0 +1,19 @@
+/*
+ *	Admin Styles
+ */
+.redux-dev-mode-notice-container {
+    display: none !important;
+}
+
+.rAds {
+    display: none !important;
+}
+
+.theme-browser .theme .theme-actions, .theme-browser .theme.active .theme-actions {
+    top: auto;
+    bottom: -23px !important;
+}
+
+.redux-main .wp-picker-container .wp-color-result-text {
+	line-height: 28px;
+}

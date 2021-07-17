@@ -1,0 +1,19 @@
+/*-----------------------------------------------------------------------------------*/
+/* 5.0 - RTL Pagination Module Styles
+/*-----------------------------------------------------------------------------------*/
+.pagination {
+  .fa-angle-right{
+    right: 0;
+  }
+
+  .fa-angle-left{
+    position: relative;
+    right: -2px;
+  }
+}
+
+.fa-angle-left,
+.fa-angle-right{
+  &:extend(.fa-flip-horizontal);
+}
+

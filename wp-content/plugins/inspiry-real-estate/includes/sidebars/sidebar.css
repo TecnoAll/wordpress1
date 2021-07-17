@@ -1,0 +1,40 @@
+.sidebar-inspiry-custom {
+	position: relative;
+}
+
+.inspiry-custom-sidebar-area-delete {
+	height: 24px;
+	width: 24px;
+	position: absolute;
+	z-index: 100;
+	top: 11px;
+	right: 38px;
+	font-size: 24px;
+}
+
+.inspiry-custom-sidebar-area-delete:hover {
+	cursor: pointer;
+	color: #CB4A1F;
+}
+
+.activate_spinner {
+	visibility: visible;
+}
+
+.inspiry-add-widget {
+	background-color: #FFF;
+	padding: 28px 10px;
+	text-align: center;
+	margin: 10px 0 0 0;
+	border: 1px solid #E5E5E5;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.inspiry-add-widget h3 {
+	margin-top: 0;
+}
+
+.inspiry-add-widget .inspiry_style_wrap input {
+	padding: 5px;
+}

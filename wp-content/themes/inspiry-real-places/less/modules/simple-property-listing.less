@@ -1,0 +1,317 @@
+/*-----------------------------------------------------------------------------------*/
+/* 32.0 - Simple Property Listing Module Styles
+/*-----------------------------------------------------------------------------------*/
+.entry-content {
+
+  .property-listing-simple {
+
+    .btn-default {
+      color: @white;
+    }
+  }
+}
+
+.property-listing-simple {
+  &:extend(.image-transition all);
+
+  .property-thumbnail {
+    position: relative;
+  }
+
+  .entry-title {
+    font-size: 18px;
+  }
+
+  .meta-item-value {
+    font-size: 17px;
+  }
+
+  .title-and-meta {
+
+    .prefix-text {
+      margin-right: 5px;
+    }
+  }
+
+  .property-description {
+
+    .prefix-text {
+      display: block;
+    }
+
+    .prefix-text,
+    .postfix-text {
+      font-size: 18px;
+      text-transform: uppercase;
+    }
+
+    .price {
+      line-height: 1.3;
+    }
+  }
+
+  .btn-default {
+    font-size: 16px;
+  }
+}
+
+.property-listing-simple-1 {
+
+  .property-description {
+
+    .price {
+      font-size: 30px;
+    }
+  }
+
+  .property-thumbnail {
+    max-height: 311px;
+  }
+}
+
+.property-listing-simple-2 {
+  position: relative;
+  border: 1px solid;
+
+  .price-wrapper {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 111;
+    padding: 8px 22px;
+    font-size: 18px;
+  }
+
+  .flex-control-nav {
+    padding-right: 15px;
+    text-align: right;
+  }
+
+  .flex-control-paging a {
+    text-indent: 9999px;
+  }
+}
+
+.btn-default {
+
+  .fa-angle-right {
+    margin-left: 16px;
+  }
+}
+
+.fa-map-marker-alt {
+  margin-right: 5px;
+}
+
+@media (max-width: @screen-xs-max) {
+  .property-listing-simple {
+    max-width: 450px;
+    margin: 0 auto 20px;
+
+    .title-and-meta {
+      padding: 25px 25px 10px;
+    }
+
+    .meta-item {
+      width: 50%;
+      margin-bottom: 13px;
+    }
+  }
+
+  .property-listing-simple-1 {
+
+    .entry-title {
+      margin-bottom: 10px;
+    }
+
+    .price-wrapper {
+      margin-bottom: 15px;
+    }
+  }
+}
+
+@media (max-width: 380px) {
+  .property-listing-simple {
+    .meta-item {
+      width: 100%;
+    }
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+
+  .entry-content {
+    .property-listing-simple-2,
+    .property-listing-simple-1 {
+      margin: 0 -68px 20px;
+    }
+
+    .inspiry-vc-property-listing {
+      .property-listing-simple-2,
+      .property-listing-simple-1 {
+        margin-right: 0;
+        margin-left: 0;
+      }
+    }
+  }
+
+  .property-listing-simple {
+
+    .meta-item {
+      width: 33.33%;
+    }
+  }
+
+  .property-listing-simple-1 {
+    margin-bottom: 20px;
+
+    .title-and-meta {
+      padding: 15px 20px 0;
+    }
+
+    .entry-title {
+      margin-bottom: 5px;
+    }
+
+    .meta-item {
+      margin-bottom: 13px;
+    }
+
+    .price-wrapper {
+      margin-bottom: 12px;
+    }
+  }
+
+  .property-listing-simple-2 {
+    margin-bottom: 30px;
+
+    .meta-item {
+      margin-bottom: 10px;
+    }
+
+    .title-and-meta {
+      padding: 15px 25px 0;
+    }
+  }
+}
+
+@media (min-width: @screen-md-min) {
+
+  .entry-content {
+    .property-listing-simple-1 {
+      .title-and-meta {
+        padding: 25px 25px 0;
+      }
+    }
+
+    .property-listing-simple-2 {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  .property-listing-simple-1 {
+
+    .meta-item {
+      width: 25%;
+    }
+
+    .entry-title {
+      margin-bottom: 10px;
+    }
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+
+  .entry-content {
+    .property-listing-simple-1 {
+      margin-bottom: 0;
+
+      .property-description {
+        padding: 25px;
+      }
+    }
+  }
+
+  .property-listing-simple-1 {
+    margin-bottom: 0;
+
+    .property-thumbnail {
+      width: 30%;
+    }
+
+    .title-and-meta {
+      width: 40%;
+      padding: 25px 35px 0;
+    }
+
+    .meta-item {
+      width: 50%;
+    }
+
+    .property-description {
+      float: left;
+      width: 30%;
+      min-height: 311px;
+      padding: 25px 45px 0;
+
+      .price-wrapper {
+        margin-bottom: 20px;
+      }
+    }
+
+    .property-address {
+      margin-bottom: 20px;
+    }
+
+    .title-heading {
+      margin-bottom: 10px;
+    }
+  }
+
+  .property-listing-simple-2 {
+
+    .title-and-meta {
+      padding: 25px 30px 0;
+    }
+
+    .meta-item {
+      margin-bottom: 20px;
+    }
+  }
+}
+
+
+/* Property Content */
+.property-content {
+  background: @white;
+  margin-bottom: 40px;
+
+  .entry-content {
+    padding-top: 45px;
+    padding-bottom: 20px;
+    &:extend(.center-post-content);
+
+    a {
+      &:extend(.text-transition);
+    }
+
+    p {
+      font-size: 15px;
+    }
+
+    blockquote p {
+      font-size: 17px;
+    }
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+
+  .property-content .entry-content {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+}

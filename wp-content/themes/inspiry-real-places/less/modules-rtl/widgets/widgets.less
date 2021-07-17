@@ -1,0 +1,29 @@
+/*-----------------------------------------------------------------------------------*/
+/* 10.0 - RTL Widget Module Styles
+/*-----------------------------------------------------------------------------------*/
+.sidebar {
+  .widget_categories,
+  .widget_pages,
+  .widget_meta,
+  .widget_archive,
+  .widget_lc_taxonomy{
+
+    li {
+      padding-right: 24px;
+      padding-left: 0;
+    }
+  }
+}
+
+@import "search-widget";
+@import "recent-post-and-comment-widget";
+@import "advance-search-widgets";
+
+.site-footer {
+  @media (min-width: @screen-md-max) {
+    .advance-search-widget-title .fa-search {
+      margin-right: 0;
+      margin-left: 5px;
+    }
+  }
+}

@@ -1,0 +1,198 @@
+/**
+ * Table of Contents
+ *
+ * 1.0 - Scaffolding
+ * 2.0 - Home Properties
+ * 3.0 - Simple Property Listing
+ *   3.1 - Property Listing Two
+ * 4.0 - Featured Properties
+ * 5.0 - Advance Search
+ *    5.1 - Header Advance Search for header area
+ * 6.0 - Widget
+ * 7.0 - Gallery
+ * 8.0 - Blog
+ */
+
+
+/*
+* 1.0 - Scaffolding
+*/
+.property-status-tag {
+  &:hover {
+    &:before {
+      border-left-color: @brand-warning;
+    }
+  }
+  &:before {
+    border-color: transparent  transparent transparent @text-color;
+  }
+}
+
+.property-status-tag-flipped {
+  &:hover {
+    &:after {
+      border-right-color: @brand-warning;
+    }
+  }
+  &:after {
+    border-color: transparent @text-color transparent transparent ;
+  }
+}
+
+.slide-overlay {
+  .property-status-tag {
+    &:before {
+      border-left-color: @white;
+    }
+    &:hover {
+      &:before {
+        border-left-color: @brand-warning;
+      }
+    }
+  }
+}
+
+.slider-variation-three {
+
+  .property-status-tag:before {
+    border-left-color: #50b848;
+  }
+
+  .property-status-tag:hover:before {
+    border-left-color: darken(#50b848, 10%);
+  }
+}
+
+/*
+* 2.0 - Home Properties
+*/
+.odd-property-skin {
+  .property-status-tag {
+    &:hover {
+      &:before {
+        border-left-color: @brand-warning;
+      }
+    }
+    &:before {
+      border-left-color: @white;
+    }
+  }
+}
+
+.even-property-skin {
+  .property-status-tag {
+    &:hover {
+      &:before {
+        border-left-color: @brand-warning;
+      }
+    }
+    &:before {
+      border-left-color:  @text-color;
+    }
+  }
+}
+
+.row-odd .property-post-odd,
+.row-even .property-post-even {
+  &:extend(.odd-property-skin all);
+}
+
+.row-odd .property-post-even,
+.row-even .property-post-odd {
+  &:extend(.even-property-skin all);
+}
+
+
+/*
+* 3.0 - Simple Property Listing
+* 3.1 - Property Listing Two
+*/
+.property-listing-two {
+  .property-status-tag {
+    &:hover {
+      &:before {
+        border-left-color: darken(@brand-warning, 20%);
+      }
+    }
+    &:before {
+      border-left-color: @white;
+    }
+  }
+}
+
+/*
+* 4.0 - Featured Properties
+*/
+.featured-properties-one {
+  .property-status-tag {
+    &:hover {
+      &:before {
+        border-left-color: darken(@brand-success, 25%);
+      }
+    }
+  }
+}
+
+.featured-properties-two {
+  .property-status-tag {
+    &:hover {
+      &:before {
+        border-left-color: @brand-warning;
+      }
+    }
+    &:before {
+      border-left-color: #2a3139;
+    }
+  }
+}
+
+
+/*
+* 5.0 - Advance Search
+* 5.1 - Header Advance Search for header area
+*/
+.header-advance-search {
+  .form-submit-btn {
+    background-position: 91% center;
+  }
+}
+
+
+/*
+* 6.0 - Widget Module
+*/
+.sidebar {
+  .widget_categories,
+  .widget_pages,
+  .widget_meta,
+  .widget_archive,
+  .widget_lc_taxonomy{
+    li {
+      background-position: 100% 15px;
+    }
+  }
+}
+
+.action-buttons {
+  border-right-color: #e3e5ea;
+}
+
+
+/*
+* 7.0 - Gallery
+*/
+.gallery-items-filter {
+   a {
+    &:after {
+      border-left-color: #e4e5eb;
+    }
+  }
+}
+
+
+/*
+* 8.0 - Blog
+*/
+blockquote {
+  border-color: @brand-primary;
+}

@@ -1,0 +1,105 @@
+/*-----------------------------------------------------------------------------------*/
+/* 24.0 - Advance Search
+/*-----------------------------------------------------------------------------------*/
+.advance-search input[type="text"],
+.select2-container .select2-choice,
+.form-submit-btn,
+.hidden-fields-reveal-btn {
+  font-size: 14px;
+  height: 48px;
+}
+
+.advance-search {
+  input[type="text"] {
+    width: 100%;
+    padding: 12px 15px;
+    border: none;
+    text-transform: inherit;
+  }
+}
+
+.option-bar {
+  float: left;
+}
+
+@import "header-search";
+@import "main-search";
+@import "extra-search-fields";
+@import "submit-btn";
+@import "reveal-btn";
+
+@media (max-width: @screen-xs-max) {
+  .search-title {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .main-advance-search {
+    .option-bar {
+      width: 50%;
+    }
+  }
+}
+
+@media (max-width: 700px) {
+  .header-advance-search {
+    .option-bar {
+      width: 50%;
+    }
+  }
+}
+
+@media (max-width: 400px) {
+  .header-advance-search {
+    .option-bar {
+      width: 100%;
+    }
+  }
+}
+
+@media (max-width: @screen-xs) {
+  .main-advance-search .option-bar {
+    width: 100%;
+  }
+
+  .features-checkboxes-wrapper > li {
+    width: 50%;
+    &:nth-child(2n+1) {
+      clear: left;
+    }
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+
+    .layout-wide {
+      .search-title {
+        left: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+      }
+    }
+
+  .inspiry-slider-two,
+  .inspiry-slider-three {
+
+    .main-advance-search .container {
+      padding-top: 30px;
+    }
+
+    .search-title {
+      position: absolute;
+      top: 0;
+      z-index: 200;
+      margin: 0;
+      .translate(0, -100%);
+    }
+  }
+
+  .main-advance-search {
+    .advance-search-form {
+      margin-left: -5px;
+      margin-right: -5px;
+    }
+  }
+}

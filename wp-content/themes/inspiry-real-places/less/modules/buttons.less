@@ -1,0 +1,62 @@
+/*-----------------------------------------------------------------------------------*/
+/* 7.0 - Buttons Module Styles
+/*-----------------------------------------------------------------------------------*/
+.btn {
+  display: inline-block;
+  margin-bottom: 0; // For input.btn
+  font-weight: @btn-font-weight;
+  background-image: none;
+  text-align: center;
+  touch-action: manipulation;
+  cursor: pointer;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  .user-select(none);
+  &:extend(.btn-transition);
+}
+
+// Alternate buttons
+// --------------------------------------------------
+
+.btn-default {
+  .project-button-variant(@white; @brand-primary);
+}
+
+.btn-large{
+  .project-button-variant(@white; @brand-primary);
+}
+
+.btn-small{
+  .project-button-variant(@white; @brand-primary);
+}
+
+// Green
+.btn-green {
+  .project-button-variant(@white; @brand-success);
+}
+// Orange
+.btn-orange {
+  .project-button-variant(@white; @brand-warning);
+}
+// Red
+.btn-red {
+  .project-button-variant(@white; @brand-danger);
+}
+
+
+// Button Sizes
+// --------------------------------------------------
+
+.btn-default {
+  .project-button-size(@padding-base-vertical; @padding-base-horizontal; @font-size-base; @line-height-base);
+}
+
+.btn-large {
+  // line-height: ensure even-numbered height of button next to large input
+  .project-button-size(@padding-large-vertical; @padding-large-horizontal; 18px; @line-height-large);
+}
+
+.btn-small {
+  // line-height: ensure proper height of button next to small input
+  .project-button-size(@padding-small-vertical; @padding-small-horizontal; 16px; @line-height-small);
+}

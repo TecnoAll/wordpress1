@@ -1,0 +1,189 @@
+/*-----------------------------------------------------------------------------------*/
+/* 21.2 - Header Variation Two
+/*-----------------------------------------------------------------------------------*/
+.header-variation-two {
+  .contact-number {
+    float: left;
+    padding: 13px 1px 11px;
+  }
+
+  .user-nav {
+    a {
+      display: inline-block;
+      padding: 16px 8px;
+    }
+
+    .submit-property-link {
+      padding-right: 15px;
+    }
+
+    .fa,
+    .fas,
+    .fab,
+    .far {
+      margin-right: 5px;
+    }
+  }
+
+  .header-social-nav {
+    > a {
+      float: left;
+      text-align: center;
+      .transition(color 0.1s ease);
+    }
+    .fa,
+    .fas,
+    .fab,
+    .far {
+      padding: 16px 16px 16px 0;
+    }
+  }
+
+  .main-menu > li > a {
+    padding: 9px 20px;
+  }
+
+  @media (min-width: @screen-md-min) {
+    .site-main-nav {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }
+
+  @media (min-width: @screen-lg-min) {
+    .header-top {
+      margin-bottom: 73px;
+    }
+
+    .header-bottom {
+      bottom: 15px;
+    }
+
+    .main-menu > li > a {
+      padding-left: 25px;
+      padding-right: 25px;
+    }
+
+    .site-main-nav {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+
+    .user-nav {
+      .submit-property-link {
+        padding-left: 15px;
+      }
+    }
+
+    .header-social-nav {
+      > a {
+        position: relative;
+        border-bottom: 5px solid;
+
+        &:after {
+          content: "";
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          z-index: 1;
+          display: block;
+          width: 100%;
+          height: 0;
+          .transition(height 0.2s ease);
+        }
+
+        &:hover {
+          &:after {
+            height: 100%;
+          }
+          i {
+            border-right: 0;
+          }
+        }
+      }
+
+      .fa,
+      .fas,
+      .fab,
+      .far {
+        position: relative;
+        z-index: 2;
+        padding: 16px 18px 12px;
+        width: 52px;
+        border-right: 1px solid;
+      }
+    }
+  }
+  .current-menu-ancestor {
+    > a {
+      background-color: #4a525d;
+      color: #ffffff !important;
+    }
+  }
+}
+
+.header-variation-two,
+.header-variation-three {
+  position: relative;
+
+  .site-logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .user-nav {
+    float: right;
+
+    > li {
+      float: left;
+    }
+  }
+
+  .header-social-nav {
+    float: right;
+  }
+
+  .header-top {
+    border-bottom: 1px solid;
+  }
+
+  @media (min-width: @screen-lg-min) {
+    .zero-horizontal-margin {
+      position: relative;
+    }
+
+    .zero-horizontal-padding {
+      position: static;
+    }
+
+    .header-bottom {
+      position: absolute;
+      right: 0;
+    }
+
+    .site-logo {
+      height: 129px;
+      min-height: 129px;
+      text-align: left;
+    }
+
+    .site-main-nav {
+      float: right;
+    }
+  }
+}
+
+.ie-userAgent {
+  .header-variation-two .user-nav a,
+  .header-variation-three .user-nav a {
+    padding-bottom: 15px;
+  }
+}
+
+// Firefox hack
+@-moz-document url-prefix() {
+  .header-variation-two .user-nav a,
+  .header-variation-three .user-nav a {
+    padding-bottom: 15px;
+  }
+}

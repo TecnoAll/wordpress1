@@ -1,0 +1,69 @@
+/*-----------------------------------------------------------------------------------*/
+/* 22.0 - RTL Grid Property Listing Module Styles
+/*-----------------------------------------------------------------------------------*/
+.property-listing-grid {
+
+  .property-status-tag-flipped {
+
+    &:after {
+      right: auto;
+      left: -16px;
+      border-width: 16px 16px 16px 0;
+    }
+  }
+
+  .price-wrapper {
+    float: left;
+  }
+
+  .meta-icon-container {
+    margin-right: 0;
+    margin-left: 6px;
+  }
+}
+.add-to-compare-span{
+  left: 30px;
+  right: auto;
+
+}
+.compare-carousel-slide{
+  float: right;
+}
+.compare-carousel-slide .compare-remove{
+  right: auto;
+  left: 10px;
+}
+.compare-feature-column{
+  margin-right: 0;
+  margin-left: -3px;
+}
+
+.price-and-status-wrapper {
+
+  .price-wrapper {
+    float: right;
+  }
+
+  .property-status-tag {
+    float: right;
+    margin-right: 16px;
+    margin-left: 0;
+  }
+}
+
+.trash-favorite {
+  right: auto;
+  left: 0;
+}
+
+@media (max-width: @screen-sm-max) {
+  .col-grid-post:nth-child(2n+1) {
+    clear: right;
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .col-grid-post:nth-child(3n+1) {
+    clear: right;
+  }
+}

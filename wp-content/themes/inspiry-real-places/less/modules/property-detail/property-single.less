@@ -1,0 +1,243 @@
+/*-----------------------------------------------------------------------------------*/
+/* 31.0 - Property Single Module Styles
+/*-----------------------------------------------------------------------------------*/
+.fancy-title {
+  margin-bottom: 15px;
+
+  &:after {
+    content: '';
+    display: block;
+    width: 21px;
+    height: 3px;
+    margin: 3px 0 0 2px;
+  }
+}
+
+.container-property-single {
+  position: relative;
+}
+
+.meta-inner-wrapper {
+  position: relative;
+  padding-left: 35px;
+  .meta-item-value {
+    white-space: normal;
+  }
+}
+
+.property-single-content {
+  padding: 35px 25px 20px;
+  font-size: 15px;
+
+  p {
+    margin-bottom: 20px;
+  }
+}
+
+.iframe-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  height: 0;
+  overflow: hidden;
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.only-for-print {
+  display: none;
+}
+
+@import "title-and-meta";
+@import "property-additional-details";
+@import "property-features";
+@import "property-share";
+@import "property-attachments";
+@import "property-location";
+@import "property-floor-plans";
+@import "property-video";
+@import "property-virtual-tour";
+@import "similar-properties";
+@import "property-horizontal-scrolling";
+
+.sidebar-property-detail {
+  .widget {
+    padding: 30px 35px;
+    margin-bottom: 0;
+  }
+}
+
+.single-property {
+  #comments {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #comments-title {
+    padding-bottom: 15px;
+    border-bottom: none;
+
+    &:after {
+      content: '';
+      display: block;
+      width: 21px;
+      height: 3px;
+      margin: 3px 0 0 2px;
+    }
+  }
+
+  .commentlist {
+    border: none;
+  }
+}
+
+.widget_inspiry_social_media_icons {
+  a {
+    margin: 0 10px;
+  }
+}
+
+@media (max-width: @screen-xs-max) {
+  .container-property-single .meta-item {
+    width: 50%;
+  }
+
+  .property-additional-details-list {
+    dt,
+    dd {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
+}
+
+@media (max-width: @screen-xs) {
+  .property-single-content .favorite-and-print {
+    text-align: center;
+    width: 100%;
+    margin: 0 0 15px;
+
+    .add-to-fav {
+      margin-bottom: 1px;
+    }
+
+    a {
+      width: 100%;
+    }
+  }
+
+  .property-additional-details-list {
+    dt,
+    dd {
+      display: block;
+      width: 100%;
+
+      &:empty {
+        display: none;
+      }
+    }
+  }
+}
+
+@media (max-width: 479px) {
+  .property-title-wrapper .favorite-and-print > a {
+    width: 100%;
+    margin-top: 1px;
+  }
+}
+
+@media (max-width: 380px) {
+  .container-property-single .meta-item {
+    width: 100%;
+  }
+
+  .property-share-networks .share-this.sharer-0 .social ul li {
+    width: 40px;
+    height: 24px;
+    font-size: 15px;
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+  .property-additional-details-list {
+    dt,
+    dd {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  }
+}
+
+@media (max-width: @screen-md-max) and (min-width: @screen-md-min) {
+  .property-single-content .property-listing-simple .meta-item {
+    width: 50%;
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .similar-properties .meta-item {
+    width: 50%;
+  }
+}
+
+.similar-properties {
+
+  .property-thumbnail {
+    position: relative;
+    z-index: 1;
+  }
+
+  .property-description {
+    z-index: 2;
+  }
+
+  .arrow {
+    left: auto;
+    width: 0;
+    height: 0;
+    margin-left: 0;
+
+    &:after {
+      display: none;
+    }
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+  .property-title-wrapper {
+    min-height: 510px;
+
+    .meta-item {
+      width: 50%;
+    }
+  }
+
+  .property-title-wrapper {
+    .single-property-wrapper {
+      padding-bottom: 70px;
+    }
+
+    .favorite-and-print {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+    }
+  }
+
+  .similar-properties {
+    .arrow {
+      position: absolute;
+      top: -16px;
+      right: 35px;
+      border-style: solid;
+      border-width: 0 16px 16px 16px;
+    }
+  }
+}

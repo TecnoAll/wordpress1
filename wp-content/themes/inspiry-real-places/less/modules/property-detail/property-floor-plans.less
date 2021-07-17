@@ -1,0 +1,85 @@
+/*-----------------------------------------------------------------------------------*/
+/* Property Floor Plans
+/*-----------------------------------------------------------------------------------*/
+.floor-plans{
+  margin-bottom: 30px;
+  position: relative;
+
+  img {
+    margin-bottom: 0;
+    max-width: 100%;
+  }
+
+  .floor-plan{
+    margin-bottom: 12px;
+    &:last-child{
+      margin-bottom: 0;
+    }
+  }
+
+  .floor-plan-title{
+    padding: 12px 15px;
+    border: 2px solid;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    .fa{
+      margin-right: 6px;
+      font-size: 14px;
+      line-height: 22px;
+    }
+    h3{
+      display: inline-block;
+      margin: 0;
+      font-size: 16px;
+      font-weight: normal;
+      line-height: 24px;
+      -webkit-user-select: text;
+      -moz-user-select: text;
+      -ms-user-select: text;
+      user-select: text;
+    }
+  }
+
+  .floor-plan-meta {
+    float: right;
+    margin: 1px 0 0;
+    padding: 0 ;
+    width: auto;
+    overflow:hidden;
+    font-size: 14px;
+    @media ( max-width: 600px ){
+      margin-top: 3px;
+      font-size: 12px;
+    }
+    
+    div{
+      display: inline-block;
+      margin-right: 10px;
+      -webkit-user-select: text;
+      -moz-user-select: text;
+      -ms-user-select: text;
+      user-select: text;
+      &:last-child{
+        margin-right: 0;
+      }
+    }
+  }
+
+  .floor-plan-content{
+    padding:20px 20px 25px;
+    border: 2px solid;
+    border-top: none;
+    display: none;
+  }
+
+  .floor-plan-desc{
+    margin: 0 0 20px;
+  }
+
+  .floor-plan-map{
+    margin: 0;
+  }
+}

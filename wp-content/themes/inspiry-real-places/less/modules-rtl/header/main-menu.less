@@ -1,0 +1,22 @@
+/*-----------------------------------------------------------------------------------*/
+/* 12.4 - RTL Main Menu Module Styles
+/*-----------------------------------------------------------------------------------*/
+@sub-menu-width : 240px;
+
+.site-main-nav {
+  .main-menu {
+    > li {
+      float: right;
+    }
+  }
+  .sub-menu {
+    left: auto;
+    right: 0;
+    li {
+      .sub-menu {
+        left: auto;
+        right: @sub-menu-width;
+      }
+    }
+  }
+}

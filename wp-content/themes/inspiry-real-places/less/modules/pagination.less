@@ -1,0 +1,34 @@
+/*-----------------------------------------------------------------------------------*/
+/* 9.0 - Pagination Module Styles
+/*-----------------------------------------------------------------------------------*/
+.pagination {
+  margin: 60px auto 0;
+  text-align: center;
+
+  .fa-angle-right {
+    position: relative;
+    right: -2px;
+  }
+
+  .page-numbers {
+    .square(50px);
+    line-height: 50px;
+    &:extend(.btn-transition);
+  }
+}
+
+.pagination .page-numbers,
+.page-links a {
+  display: inline-block;
+  margin: 0 2px 8px;
+  font-size: 15px;
+}
+
+.page-links {
+  a {
+    .square(27px);
+    line-height: 27px;
+    text-align: center;
+    border: 1px solid;
+  }
+}

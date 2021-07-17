@@ -1,0 +1,127 @@
+/*-----------------------------------------------------------------------------------*/
+/* 33.0 - Grid Property Listing Module Styles
+/*-----------------------------------------------------------------------------------*/
+.property-listing-grid {
+  margin-bottom: 35px;
+
+  &:extend(.image-transition all);
+
+  .property-thumbnail {
+    position: relative;
+
+    > .status-tag-wrapper {
+      position: absolute;
+      top: 23px;
+      z-index: 100;
+    }
+  }
+
+  .property-status-tag-flipped {
+    height: 32px;
+    line-height: 33px;
+
+    &:after {
+      right: -16px;
+      border-width: 16px 0 16px 16px;
+    }
+  }
+
+  .title-and-meta {
+    border: 1px solid;
+  }
+
+  .entry-header {
+    padding: 15px 20px 0;
+    min-height: 116px;
+  }
+
+  .entry-title {
+    margin-bottom: 10px;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  .property-address {
+    margin-top: 3px;
+    display: inline-block;
+  }
+
+  .price-wrapper {
+    float: right;
+  }
+
+  .price {
+    font-size: 18px;
+  }
+
+  .entry-meta {
+    padding: 16px 3px 12px;
+    border-top: 1px solid;
+    text-align: center;
+  }
+
+  .meta-item {
+    display: inline-block;
+    float: none;
+    margin: 0 7px 7px;
+  }
+
+  .meta-icon-container {
+    .square(18px);
+    margin: 2px 6px 1px 0;
+  }
+}
+
+.price-and-status-wrapper {
+  margin: 0 -20px;
+  padding: 12px 20px 11px;
+  border-top: 1px solid;
+  text-align: center;
+
+  .price-wrapper {
+    float: left;
+  }
+
+  .property-status-tag {
+    float: left;
+    margin: 3px 0 0 16px;
+  }
+}
+
+.trash-favorite {
+  position: absolute;
+  top: 23px;
+  right: 0;
+  z-index: 50;
+
+  .loader,
+  .fa-trash-alt{
+    width: 40px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    &:extend(.btn-transition);
+  }
+
+  .loader{
+    display: none;
+  }
+}
+
+@media (max-width: @screen-sm-max) {
+  .col-grid-post:nth-child(2n+1) {
+    clear: left;
+  }
+}
+
+@media (max-width: @screen-xs) {
+  .col-grid-post {
+    width: 100%;
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .col-grid-post:nth-child(3n+1) {
+    clear: left;
+  }
+}

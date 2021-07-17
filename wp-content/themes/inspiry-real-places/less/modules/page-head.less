@@ -1,0 +1,55 @@
+/*-----------------------------------------------------------------------------------*/
+/* 18.0 - Page Head Module Styles
+/*-----------------------------------------------------------------------------------*/
+.page-head {
+  position: relative;
+  min-height: 100px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+}
+
+.page-head-content {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+.page-title {
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.page-description {
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+@media (min-width: @screen-sm-min) {
+  .page-head-content {
+    padding-top: 52px;
+    padding-bottom: 52px;
+  }
+
+  .page-title {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: @screen-md-max) {
+  .inspiry-revolution-slider .add-padding-top,
+  .inspiry-google-map-header .add-padding-top {
+    display: none;
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+  // Add top padding to Page Head when header variation one is selected.
+  .add-padding-top {
+    padding-top: 175px;
+  }
+
+  .inspiry-revolution-slider .add-padding-top,
+  .inspiry-google-map-header .add-padding-top {
+    padding-top: 68px;
+  }
+}

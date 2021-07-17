@@ -1,0 +1,102 @@
+/*-----------------------------------------------------------------------------------*/
+/* 16.0 - Select2 Module Styles
+/*-----------------------------------------------------------------------------------*/
+.select2-container {
+  width: 100%;
+
+  .select2-selection--single .select2-selection__rendered {
+    padding: 0 15px;
+    height: 100%;
+    line-height: 48px;
+    font-size: 14px;
+  }
+}
+
+.select2-container--default {
+
+  .select2-selection--single {
+    height: 48px;
+    border: 1px solid transparent;
+    border-radius: 0;
+
+    &:focus {
+      outline: none;
+    }
+
+    .select2-selection__arrow {
+      top: 0;
+      right: 0;
+      width: 30px;
+      height: 48px;
+      line-height: 48px;
+      text-align: center;
+
+      b {
+        position: static;
+        margin: 0;
+        border: none;
+
+        &:after {
+          content: "\f078";
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          margin: auto;
+          height: 10px;
+         font-family: "Font Awesome 5 Free";
+         -moz-osx-font-smoothing: grayscale;
+         -webkit-font-smoothing: antialiased;
+         display: inline-block;
+         font-style: normal;
+         font-variant: normal;
+         text-rendering: auto;
+         line-height: 1;
+          text-rendering: auto;
+          -webkit-font-smoothing: antialiased;
+          -moz-osx-font-smoothing: grayscale;
+          font-size: 9px;
+        }
+      }
+    }
+  }
+
+  &.select2-container--open .select2-selection--single .select2-selection__arrow b {
+    border: none;
+    &:after {
+      content: "\f077";
+    }
+  }
+
+  .select2-results > .select2-results__options {
+    max-height: 225px;
+  }
+}
+
+.select2-dropdown {
+  border-radius: 0;
+}
+
+.select2-results__option {
+  padding: 10px 16px;
+}
+
+.select2-results {
+  li {
+    border-top: 1px solid;
+    &:extend(.btn-transition);
+  }
+}
+
+@media (max-device-width: 1199px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
+@media (max-width: 767px) {
+  .select2-search--dropdown {
+    display: block;
+  }
+}

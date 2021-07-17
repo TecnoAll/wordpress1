@@ -1,0 +1,70 @@
+/*-----------------------------------------------------------------------------------*/
+/* 25.0 - Property Meta Module Styles
+/*-----------------------------------------------------------------------------------*/
+.meta-item {
+  float: left;
+}
+
+.meta-item-full {
+
+  .meta-item {
+    width: 100%;
+  }
+}
+
+.meta-item-half {
+
+  .meta-item {
+    width: 50%;
+  }
+}
+
+.meta-item-inline {
+
+  .meta-item {
+    width: 20%;
+  }
+}
+
+.meta-item-label {
+  display: block;
+  line-height: 18px;
+}
+
+.meta-item-value {
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.meta-item-unit {
+  bottom: 0;
+  left: 2px;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.meta-icon-container {
+  float: left;
+  .square(24px);
+  margin: 6px 10px 6px 0;
+}
+
+@media (max-width: @screen-xs) {
+
+  .meta-item-inline {
+    .meta-item {
+      width: 50%;
+    }
+  }
+}
+
+@media (max-width: 320px) {
+
+  .meta-item-half,
+  .meta-item-inline {
+
+    .meta-item {
+      width: 100%;
+    }
+  }
+}

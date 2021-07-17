@@ -1,0 +1,316 @@
+// Google Map
+.property-location-section {
+  margin-bottom: 40px;
+  position: relative;
+}
+
+#property-map {
+  width: 100%;
+  height: 450px;
+  .prop-thumb {
+    height: 100px;
+  }
+  img {
+    max-width: none;
+    background: none;
+  }
+  .map-info-window {
+    background: #fff;
+    border-bottom-color: #4dc7ec !important;
+  }
+
+  .arrow-down {
+    border-color: #4dc7ec transparent transparent transparent;
+  }
+
+  .prop-title a {
+    font-family: inherit;
+    color: #394041;
+  }
+
+  .prop-title a:hover {
+    color: #ff8000;
+  }
+
+  span.price {
+    color: #ff8000;
+    font-family: inherit;
+  }
+
+  p {
+    margin: 10px;
+    text-align: left;
+  }
+
+  img {
+    max-width: none;
+  }
+
+  .infoBox > img {
+    z-index: 999;
+  }
+
+  .gm-style-iw {
+    left: 22px !important;
+  }
+
+  .map-info-window {
+    position: relative;
+    width: 244px;
+    border-bottom: 3px solid;
+    margin-bottom: 17px;
+    text-align: center;
+  }
+
+  .map-info-window img {
+    max-width: 244px;
+  }
+
+  .arrow-down {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 10px 0 10px;
+    position: absolute;
+    bottom: -13px;
+    left: 112px;
+  }
+  .prop-title {
+    margin: 5px;
+    display: inline-block;
+  }
+  span.price {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .map-icon-label {
+    margin-top: -12px;
+  }
+  .map-icon-label i {
+    background: #fff;
+    font-size: 11px;
+    color: #f35b00;
+    line-height: 18px;
+    text-align: center;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    white-space: nowrap;
+  }
+  .map-icon-label i.fa-bus {
+    color: #4a525d;
+  }
+  .map-icon-label i.fa-shopping-bag {
+    color: #a7c462;
+  }
+  .map-icon-label i.fa-utensils {
+    color: #6ebe3b;
+  }
+  .map-icon-label i.fa-school {
+    color: #000;
+  }
+  .map-icon-label i.fa-hospital-alt {
+    color: #f15b5a;
+  }
+  .map-icon-label i.fa-coffee {
+    color: #6d4c35;
+  }
+  .map-icon-label i.fa-dumbbell {
+    color: #000;
+  }
+}
+.rh_property__walkscore_wrap {
+  margin-bottom: 40px;
+}
+
+#property_nearby_locations {
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+  }
+  li {
+    display: inline-block;
+    margin: 0 15px 15px 0;
+  }
+
+  input[type="radio"] + label:before,
+  input[type="checkbox"] + label:before {
+    border: 1px solid #4a525d;
+  }
+  label:before {
+    display: none;
+  }
+  #clear-nearby-icons {
+    padding: 2px 7px;
+    position: absolute;
+    left: 10px;
+    bottom: 30px;
+    z-index: 9;
+  }
+}
+
+/** Open Street Map - Cluster styles. */
+.leaflet-cluster-anim .leaflet-marker-icon,
+.leaflet-cluster-anim .leaflet-marker-shadow {
+  -webkit-transition: -webkit-transform 0.3s ease-out, opacity 0.3s ease-in;
+  -webkit-transition: opacity 0.3s ease-in, -webkit-transform 0.3s ease-out;
+  transition: opacity 0.3s ease-in, -webkit-transform 0.3s ease-out;
+  transition: transform 0.3s ease-out, opacity 0.3s ease-in;
+  transition: transform 0.3s ease-out, opacity 0.3s ease-in,
+    -webkit-transform 0.3s ease-out;
+}
+
+.leaflet-cluster-spider-leg {
+  /* stroke-dashoffset (duration and function) should match with leaflet-marker-icon transform in order to track it exactly */
+  -webkit-transition: -webkit-stroke-dashoffset 0.3s ease-out,
+    -webkit-stroke-opacity 0.3s ease-in;
+  -webkit-transition: stroke-dashoffset 0.3s ease-out,
+    stroke-opacity 0.3s ease-in;
+  transition: stroke-dashoffset 0.3s ease-out, stroke-opacity 0.3s ease-in;
+}
+
+.marker-cluster-small {
+  background-color: rgba(89, 186, 227, 0.5);
+  color: #fff;
+}
+
+.marker-cluster-small div {
+  background-color: #59bae3;
+}
+
+.marker-cluster-medium {
+  background-color: rgba(234, 114, 61, 0.6);
+  color: #fff;
+}
+
+.marker-cluster-medium div {
+  background-color: #ea723d;
+}
+
+.marker-cluster-large {
+  background-color: rgba(253, 156, 115, 0.6);
+  color: #fff;
+}
+
+.marker-cluster-large div {
+  background-color: rgba(241, 128, 23, 0.6);
+}
+
+/* IE 6-8 fallback colors */
+.leaflet-oldie .marker-cluster-small {
+  background-color: #59bae3;
+  color: #fff;
+}
+
+.leaflet-oldie .marker-cluster-small div {
+  background-color: #59bae3;
+}
+
+.leaflet-oldie .marker-cluster-medium {
+  background-color: #f1d357;
+  color: #fff;
+}
+
+.leaflet-oldie .marker-cluster-medium div {
+  background-color: #f0c20c;
+}
+
+.leaflet-oldie .marker-cluster-large {
+  background-color: #fd9c73;
+  color: #fff;
+}
+
+.leaflet-oldie .marker-cluster-large div {
+  background-color: #f18017;
+}
+
+.marker-cluster {
+  background-clip: padding-box;
+  border-radius: 20px;
+}
+
+.marker-cluster div {
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.marker-cluster span {
+  line-height: 30px;
+}
+
+body .leaflet-popup-content-wrapper {
+  border-radius: 0;
+  padding: 0 0 20px;
+  border-bottom: 3px solid #59bae3;
+}
+
+body .leaflet-popup-content {
+  margin: 0;
+  width: 244px !important;
+}
+
+body .leaflet-popup-content img,
+body #property-map .leaflet-popup-content img {
+  max-width: 100% !important;
+}
+
+body .leaflet-popup-content .osm-popup-title {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: initial;
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+body .leaflet-popup-content .osm-popup-title a {
+  color: #1a1a1a;
+  -webkit-transition: 0.2s all ease-in-out;
+  transition: 0.2s all ease-in-out;
+}
+
+body .leaflet-popup-content .osm-popup-title a:hover {
+  color: #59bae3;
+}
+
+.rh_agent_form body .leaflet-popup-content .rh_agent_form__row,
+body .leaflet-popup-content .rh_agent_form .rh_agent_form__row,
+body .leaflet-popup-content p {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 0;
+  margin-top: 13px;
+  text-align: initial;
+  color: #1ea69a;
+}
+
+body .leaflet-popup-tip {
+  background: #59bae3;
+}
+
+body .leaflet-container a.leaflet-popup-close-button {
+  background: #fff;
+  display: block;
+  width: auto;
+  height: auto;
+  padding: 2px;
+  color: #1a1a1a;
+}
+
+body .rh_leaflet_controls_zoom {
+  z-index: 999999;
+}
+.property-features-list li.active a:after {
+  background-color: #0dbae8;
+}
+.property-features-list li.active a {
+  color: #0dbae8;
+}
+#property-map .infoBox > img {
+  display: none;
+}

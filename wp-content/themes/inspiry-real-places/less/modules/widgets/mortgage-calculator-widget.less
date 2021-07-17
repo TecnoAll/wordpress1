@@ -1,0 +1,108 @@
+/* Responsive Mortgage Calculator Widget */
+.widget_lidd_mc_widget {
+  padding: 30px 35px 20px;
+
+  .lidd_mc_input {
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 13px;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    border: none;
+    padding: 6px 15px;
+  }
+
+  input[type="text"],
+  .select2-container--default .select2-selection--single {
+    height: 46px;
+  }
+
+  .select2-container .select2-selection--single .select2-selection__rendered {
+    line-height: 46px;
+  }
+
+  input[type="submit"] {
+    &:extend(.btn-default);
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+}
+
+#lidd_mc_total_amount-error,
+#lidd_mc_down_payment-error,
+#lidd_mc_interest_rate-error,
+#lidd_mc_payment_period-error,
+#lidd_mc_amortization_period-error,
+#lidd_mc_results,
+#lidd_mc_summary {
+  font-size: 95%;
+}
+
+#lidd_mc_results,
+#lidd_mc_inspector {
+  display: inline-block;
+}
+
+#lidd_mc_summary {
+  padding: 10px 10px 0;
+  border: 1px solid;
+}
+
+#lidd_mc_inspector {
+  top: 2px;
+}
+
+.lidd_mc_select_fancy_light {
+  border: none;
+}
+
+.lidd_mc_select_fancy_light,
+.lidd_mc_select_fancy_dark {
+  padding: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.lidd_mc_input_dark {
+  .select2-container--default .select2-selection--single {
+    background-color: #000;
+  }
+}
+
+.lidd_mc_select_fancy_light:before,
+.lidd_mc_select_fancy_dark:before,
+.lidd_mc_select_fancy_light:after,
+.lidd_mc_select_fancy_dark:after {
+  display: none;
+}
+
+/* Mortgage Calculator Widget - https://wordpress.org/plugins/mortgage-calculator/ */
+.widget_mortgage-calculator,
+.widget_inspiry-mortgage-calculator {
+  padding: 20px;
+  input[type="text"],
+  input[type="number"] {
+    width: 100%;
+    border: none;
+    padding: 6px 15px;
+  }
+
+  input[type="submit"] {
+    &:extend(.btn-default);
+    margin-top: 20px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+
+  #mc-output,
+  #inspiry-mc-output {
+    color: #ffffff;
+  }
+
+}

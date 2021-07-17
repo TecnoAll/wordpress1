@@ -1,0 +1,316 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/**
+ *  General Meta Boxes
+ */
+
+#REAL_HOMES_property_address {
+    width: 100%;
+}
+
+.rwmb-column .rwmb-label {
+    margin-bottom: 5px;
+}
+
+.rwmb-column .rwmb-field {
+    margin-bottom: 15px;
+}
+
+.rwmb-column .rwmb-input input[type="text"], .rwmb-column .rwmb-input input[type="password"], .rwmb-column .rwmb-input input[type="email"], .rwmb-column .rwmb-input input[type="number"], .rwmb-column .rwmb-input input[type="search"], .rwmb-column .rwmb-input input[type="tel"], .rwmb-column .rwmb-input input[type="time"], .rwmb-column .rwmb-input input[type="url"], .rwmb-column .rwmb-input select, .rwmb-column .rwmb-input textarea {
+    width: 90%;
+}
+
+.rwmb-column.rwmb-column-12 .rwmb-input input[type="text"], .rwmb-column.rwmb-column-12 .rwmb-input input[type="url"], .rwmb-column.rwmb-column-12 .rwmb-input input[type="search"], .rwmb-column.rwmb-column-12 .rwmb-input input[type="number"], .rwmb-column.rwmb-column-12 .rwmb-input textarea {
+    width: 99%;
+}
+
+/**
+ *  Additional details meta box
+ */
+
+.inspiry-detail {
+    overflow: hidden;
+    margin: 5px 0;
+}
+
+.detail-placeholder {
+    margin: 5px 0;
+    background: #fafafa;
+    height: 29px;
+}
+
+.inspiry-detail label {
+    display: block;
+}
+
+.inspiry-detail input[type="text"] {
+    width: 97%;
+}
+
+.inspiry-detail-control {
+    width: 3%;
+    float: left;
+    color: #aaa;
+}
+
+.sort-detail {
+    cursor: move;
+}
+
+.sort-detail:hover {
+    color: #666;
+}
+
+.inspiry-detail-title {
+    width: 34%;
+    float: left;
+}
+
+.inspiry-detail-value {
+    width: 60%;
+    float: left;
+}
+
+.inspiry-details-wrapper a {
+    color: #aaa;
+}
+
+.inspiry-details-wrapper a:hover, .inspiry-details-wrapper a:focus {
+    color: #666;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.inspiry-details-wrapper .dashicons {
+    text-decoration: none;
+    margin-top: 3px;
+}
+
+@media all and ( max-width: 1200px) {
+    .inspiry-detail-control {
+        width: 4%;
+    }
+    .inspiry-detail-title {
+        width: 34%;
+    }
+    .inspiry-detail-value {
+        width: 58%;
+    }
+}
+
+@media all and ( max-width: 500px) {
+    .inspiry-detail-control {
+        width: 5%;
+    }
+    .inspiry-detail-title {
+        width: 32%;
+    }
+    .inspiry-detail-value {
+        width: 58%;
+    }
+    .inspiry-details-wrapper .dashicons {
+        margin-top: 8px;
+    }
+}
+
+/*
+ * Inspiry Settings Page
+ */
+
+label.inspiry-field-description {
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+input.currency_sign, input.decimal_separator, input.thousand_separator, input.number_of_decimals {
+    width: 50px;
+}
+
+/*
+ * Payments table
+ */
+
+#payments-table {
+    border: 1px solid #dedede;
+    background: #fff;
+    margin: 25px 0;
+    border-collapse: collapse;
+}
+
+#payments-table th, #payments-table td {
+    border: 1px solid #dedede;
+    text-align: left;
+}
+
+#payments-table a {
+    text-decoration: none;
+}
+
+#payments-table a:hover {
+    text-decoration: underline;
+}
+
+#payments-table .pagination {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#payments-table .pagination li {
+    display: inline;
+}
+
+#payments-table .pagination li.active a {
+    font-weight: bold;
+}
+
+#payments-table .pagination a {
+    display: inline-block;
+    padding: 2px 3px;
+    text-decoration: none;
+}
+
+#payments-table .pagination a:hover {
+    text-decoration: underline;
+}
+
+/*
+ * IRE Settings Page Styles
+ */
+
+.inspiry-ire-logo-wrap img {
+    width: 32px;
+    height: auto;
+    margin-right: 2px;
+    vertical-align: middle;
+}
+
+.inspiry-ire-page {
+    position: relative;
+    margin: 20px 0 0 0;
+    font-size: 14px;
+    box-sizing: border-box;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    background: #fff;
+}
+
+.inspiry-ire-page #setting-error-ire_settings_updated {
+    display: none;
+}
+
+.inspiry-ire-page-header {
+    margin-bottom: 30px;
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.inspiry-ire-page-header, .inspiry-ire-page-footer {
+    padding: 15px 25px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.inspiry-ire-page-header *, .inspiry-ire-page-footer * {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.inspiry-ire-page-footer {
+    border-top: 1px solid #eee;
+}
+
+.inspiry-ire-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0 30px;
+    padding: 0 25px;
+    border-bottom: 1px solid #ddd;
+}
+
+.inspiry-ire-tabs a {
+    width: 100%;
+    margin: 0;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background 0.3s linear;
+    box-shadow: none;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    background: #eee;
+    color: #000;
+}
+
+@media (min-width: 700px) {
+    .inspiry-ire-tabs a {
+        width: auto;
+        margin-right: 10px;
+    }
+}
+
+.inspiry-ire-tabs a:last-child {
+    margin-right: 0;
+}
+
+.inspiry-ire-tabs a:hover, .inspiry-ire-tabs a:focus, .inspiry-ire-tabs a:focus:active {
+    box-shadow: none;
+    background: #fff;
+    color: #000;
+}
+
+.inspiry-ire-tabs .inspiry-is-active-tab {
+    margin-bottom: -1px;
+    background: #fff;
+}
+
+.inspiry-ire-page-content {
+    margin-top: 30px;
+    padding: 0 25px 25px;
+}
+
+.inspiry-ire-page-content .form-table {
+    margin-top: 0;
+}
+
+@media (min-width: 783px) {
+    .inspiry-ire-page-content .form-table select {
+        width: 25em;
+    }
+}
+
+.inspiry-ire-page-content .submit {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+div[id*="_inspiry-"].widget .widget-title h3, div[id*="_inspiry_"].widget .widget-title h3 {
+    background: #0dbae8;
+    color: #fff;
+}
+
+div[id*="_inspiry-"].widget .widget-title span,
+div[id*="_inspiry_"].widget .widget-title span {
+    color: #fff;
+}

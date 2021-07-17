@@ -1,0 +1,4860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inspiry Real Estate\n"
+"POT-Creation-Date: 2020-03-22 21:21+0500\n"
+"PO-Revision-Date: 2021-05-09 16:48+0500\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: inspiry-real-estate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-inspiry-additional-details-meta-box.php:46
+#: includes/forms/property.php:737 includes/forms/property.php:1306
+msgid "Additional Details"
+msgstr "Detalhes Adicionais"
+
+#: admin/class-inspiry-additional-details-meta-box.php:77
+#: includes/forms/property.php:741 includes/forms/property.php:1310
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: includes/widgets/social-icons-widget.php:125
+msgid "Title"
+msgstr "Título"
+
+#: admin/class-inspiry-additional-details-meta-box.php:78
+#: includes/forms/property.php:743 includes/forms/property.php:1313
+#: includes/meta-boxes/meta-box/inc/fields/key-value.php:136
+msgid "Value"
+msgstr "Valor"
+
+#: admin/class-inspiry-agent-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Agents"
+msgstr "Agentes"
+
+#: admin/class-inspiry-agent-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Agent"
+msgstr "Corretor"
+
+#: admin/class-inspiry-agent-post-type.php:23
+msgid "Agents"
+msgstr "Agentes"
+
+#: admin/class-inspiry-agent-post-type.php:24
+#: admin/class-inspiry-property-post-type.php:664
+#: admin/class-inspiry-real-estate-admin.php:445
+msgid "Agent"
+msgstr "Corretor"
+
+#: admin/class-inspiry-agent-post-type.php:25
+msgid "Parent Agent:"
+msgstr "Supervisor:"
+
+#: admin/class-inspiry-agent-post-type.php:26
+msgid "All Agents"
+msgstr "Todos os agentes"
+
+#: admin/class-inspiry-agent-post-type.php:27
+msgid "Add New Agent"
+msgstr "Adicionar Novo Corretor"
+
+#: admin/class-inspiry-agent-post-type.php:28
+#: admin/class-inspiry-partner-post-type.php:28
+#: admin/class-inspiry-property-post-type.php:28
+msgid "Add New"
+msgstr "Adicionar Nova"
+
+#: admin/class-inspiry-agent-post-type.php:29
+msgid "New Agent"
+msgstr "Novo Corretor"
+
+#: admin/class-inspiry-agent-post-type.php:30
+msgid "Edit Agent"
+msgstr "Editar Corretor"
+
+#: admin/class-inspiry-agent-post-type.php:31
+msgid "Update Agent"
+msgstr "Atualizar Corretor"
+
+#: admin/class-inspiry-agent-post-type.php:32
+msgid "View Agent"
+msgstr "Ver Corretor"
+
+#: admin/class-inspiry-agent-post-type.php:33
+msgid "Search Agent"
+msgstr "Pesquisar Corretor"
+
+#: admin/class-inspiry-agent-post-type.php:34
+#: admin/class-inspiry-partner-post-type.php:34
+#: admin/class-inspiry-property-post-type.php:34
+msgid "Not found"
+msgstr "Não encontrada"
+
+#: admin/class-inspiry-agent-post-type.php:35
+#: admin/class-inspiry-partner-post-type.php:35
+#: admin/class-inspiry-property-post-type.php:35
+msgid "Not found in Trash"
+msgstr "Não encontrada na lixeira"
+
+#: admin/class-inspiry-agent-post-type.php:39
+#: admin/class-inspiry-agent-post-type.php:46
+#: admin/class-inspiry-real-estate-admin.php:452
+msgid "agent"
+msgstr "corretor"
+
+#: admin/class-inspiry-agent-post-type.php:47
+msgid "Real Estate Agent"
+msgstr "Agente imobiliário"
+
+#: admin/class-inspiry-agent-post-type.php:64
+msgid "agents"
+msgstr "corretores"
+
+#: admin/class-inspiry-agent-post-type.php:82
+#: admin/class-inspiry-property-post-type.php:279
+msgid "Photo"
+msgstr "Foto"
+
+#: admin/class-inspiry-agent-post-type.php:83 includes/forms/agent.php:29
+#: includes/forms/agent.php:92 includes/forms/members.php:68
+#: includes/forms/members.php:71 includes/forms/profile.php:111
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/class-inspiry-agent-post-type.php:84
+#: includes/meta-boxes/contact.php:87
+msgid "Mobile"
+msgstr "Telefone Celular"
+
+#: admin/class-inspiry-agent-post-type.php:120
+#: admin/class-inspiry-partner-post-type.php:104
+#: admin/class-inspiry-property-post-type.php:327
+msgid "No Image"
+msgstr "Sem Imagem"
+
+#: admin/class-inspiry-agent-post-type.php:129
+#: admin/class-inspiry-agent-post-type.php:138
+#: admin/class-inspiry-property-post-type.php:336
+#: admin/class-inspiry-property-post-type.php:347
+msgid "NA"
+msgstr "N/D"
+
+#: admin/class-inspiry-agent-post-type.php:161
+#: includes/meta-boxes/contact.php:25
+msgid "Contact Details"
+msgstr "Detalhes de contato"
+
+#: admin/class-inspiry-agent-post-type.php:167 includes/social-navs.php:177
+msgid "Job Title"
+msgstr "Título do emprego"
+
+#: admin/class-inspiry-agent-post-type.php:173
+msgid "Email Address"
+msgstr "Endereço de e-mail"
+
+#: admin/class-inspiry-agent-post-type.php:175
+msgid ""
+"Agent related messages from contact form on property details page, will be "
+"sent on this email address."
+msgstr ""
+"Mensagens relacionadas ao formulário de contato na página detalhes de "
+"imóvel, serão enviados a este endereço de e-mail."
+
+#: admin/class-inspiry-agent-post-type.php:180 includes/forms/profile.php:122
+#: includes/social-navs.php:178
+msgid "Mobile Number"
+msgstr "Número do Celular"
+
+#: admin/class-inspiry-agent-post-type.php:186 includes/forms/profile.php:133
+#: includes/social-navs.php:179
+msgid "Office Number"
+msgstr "Número do Escritório"
+
+#: admin/class-inspiry-agent-post-type.php:192 includes/forms/profile.php:150
+#: includes/social-navs.php:180
+msgid "Fax Number"
+msgstr "Número de Fax"
+
+#: admin/class-inspiry-agent-post-type.php:198
+#: includes/meta-boxes/contact.php:40 includes/social-navs.php:181
+msgid "Office Address"
+msgstr "Endereço do escritório"
+
+#: admin/class-inspiry-agent-post-type.php:204
+#: admin/class-inspiry-real-estate-admin.php:478 includes/forms/profile.php:161
+#: includes/social-navs.php:182 includes/widgets/social-icons-widget.php:19
+msgid "Facebook URL"
+msgstr "URL do Facebook"
+
+#: admin/class-inspiry-agent-post-type.php:210
+#: admin/class-inspiry-real-estate-admin.php:492 includes/forms/profile.php:172
+#: includes/social-navs.php:183 includes/widgets/social-icons-widget.php:18
+msgid "Twitter URL"
+msgstr "URL do Twitter"
+
+#: admin/class-inspiry-agent-post-type.php:216
+#: admin/class-inspiry-real-estate-admin.php:506 includes/forms/profile.php:189
+#: includes/social-navs.php:184 includes/widgets/social-icons-widget.php:20
+msgid "LinkedIn URL"
+msgstr "URL do LinkedIn"
+
+#: admin/class-inspiry-agent-post-type.php:222
+#: admin/class-inspiry-real-estate-admin.php:534 includes/social-navs.php:185
+#: includes/widgets/social-icons-widget.php:23
+msgid "Pinterest URL"
+msgstr "URL do Pinterest"
+
+#: admin/class-inspiry-agent-post-type.php:228
+#: admin/class-inspiry-real-estate-admin.php:520 includes/social-navs.php:186
+#: includes/widgets/social-icons-widget.php:21
+msgid "Instagram URL"
+msgstr "URL do Instagram"
+
+#: admin/class-inspiry-partner-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Partners"
+msgstr "Parceiros"
+
+#: admin/class-inspiry-partner-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Partner"
+msgstr "Parceiro"
+
+#: admin/class-inspiry-partner-post-type.php:23
+#: admin/class-inspiry-partner-post-type.php:39
+#: admin/class-inspiry-partner-post-type.php:40
+msgid "Partners"
+msgstr "Parceiros"
+
+#: admin/class-inspiry-partner-post-type.php:24
+msgid "Partner"
+msgstr "Parceiro"
+
+#: admin/class-inspiry-partner-post-type.php:25
+msgid "Parent Partner:"
+msgstr "Parceiro Principal:"
+
+#: admin/class-inspiry-partner-post-type.php:26
+msgid "All Partners"
+msgstr "Todos os Parceiros"
+
+#: admin/class-inspiry-partner-post-type.php:27
+msgid "Add New Partner"
+msgstr "Adicionar Novo Parceiro"
+
+#: admin/class-inspiry-partner-post-type.php:29
+msgid "New Partner"
+msgstr "Novo Parceiro"
+
+#: admin/class-inspiry-partner-post-type.php:30
+msgid "Edit Partners"
+msgstr "Editar Parceiros"
+
+#: admin/class-inspiry-partner-post-type.php:31
+msgid "Update Partner"
+msgstr "Atualizar Parceiro"
+
+#: admin/class-inspiry-partner-post-type.php:32
+msgid "View Partner"
+msgstr "Visualizar Parceiro"
+
+#: admin/class-inspiry-partner-post-type.php:33
+msgid "Search Partner"
+msgstr "Pesquisar Parceiro"
+
+#: admin/class-inspiry-partner-post-type.php:54
+msgid "partners"
+msgstr "parceiros"
+
+#: admin/class-inspiry-partner-post-type.php:72
+msgid "Logo"
+msgstr "Logotipo"
+
+#: admin/class-inspiry-partner-post-type.php:127
+msgid "Partner Information"
+msgstr "Informação do parceiro"
+
+#: admin/class-inspiry-partner-post-type.php:133
+msgid "Website URL"
+msgstr "URL do site"
+
+#: admin/class-inspiry-partner-post-type.php:135
+msgid "Provide website URL"
+msgstr "Fornecer a URL do site"
+
+#: admin/class-inspiry-property-post-type.php:21
+msgctxt "Post Type General Name"
+msgid "Properties"
+msgstr "Propriedades"
+
+#: admin/class-inspiry-property-post-type.php:22
+msgctxt "Post Type Singular Name"
+msgid "Property"
+msgstr "Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:23 vc-elements/properties.php:63
+msgid "Properties"
+msgstr "Propriedades"
+
+#: admin/class-inspiry-property-post-type.php:24
+#: admin/class-inspiry-property-post-type.php:388
+#: admin/class-inspiry-real-estate-admin.php:375
+msgid "Property"
+msgstr "Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:25
+msgid "Parent Property:"
+msgstr "Imóvel Principal:"
+
+#: admin/class-inspiry-property-post-type.php:26
+msgid "All Properties"
+msgstr "Todos os Imóveis"
+
+#: admin/class-inspiry-property-post-type.php:27
+msgid "Add New Property"
+msgstr "Adicionar Novo Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:29
+msgid "New Property"
+msgstr "Novo Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:30 includes/forms/property.php:25
+msgid "Edit Property"
+msgstr "Editar Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:31
+#: includes/forms/property.php:1385
+msgid "Update Property"
+msgstr "Atualizar imóvel"
+
+#: admin/class-inspiry-property-post-type.php:32
+msgid "View Property"
+msgstr "Ver Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:33
+msgid "Search Property"
+msgstr "Pesquisar Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:39
+#: admin/class-inspiry-property-post-type.php:46
+#: admin/class-inspiry-real-estate-admin.php:382
+msgid "property"
+msgstr "imóvel"
+
+#: admin/class-inspiry-property-post-type.php:47
+msgid "Real Estate Property"
+msgstr "Roberto Carlos Imobiliária"
+
+#: admin/class-inspiry-property-post-type.php:64
+msgid "properties"
+msgstr "imóveis"
+
+#: admin/class-inspiry-property-post-type.php:79
+msgctxt "Taxonomy General Name"
+msgid "Property Type"
+msgstr "Tipo de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:80
+msgctxt "Taxonomy Singular Name"
+msgid "Property Type"
+msgstr "Tipo de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:81
+#: includes/meta-boxes/properties-pages.php:83 vc-elements/properties.php:138
+msgid "Types"
+msgstr "Tipo"
+
+#: admin/class-inspiry-property-post-type.php:82
+msgid "All Property Types"
+msgstr "Todos os Tipos de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:83
+msgid "Parent Property Type"
+msgstr "Tipo de Imóvel Principal"
+
+#: admin/class-inspiry-property-post-type.php:84
+msgid "Parent Property Type:"
+msgstr "Tipo de Imóvel Principal:"
+
+#: admin/class-inspiry-property-post-type.php:85
+msgid "New Property Type Name"
+msgstr "Nome do Novo Tipo de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:86
+msgid "Add New Property Type"
+msgstr "Adicionar Novo Tipo de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:87
+msgid "Edit Property Type"
+msgstr "Editar Tipo de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:88
+msgid "Update Property Type"
+msgstr "Atualizar Tipo de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:89
+msgid "View Property Type"
+msgstr "Visualizar Tipo de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:90
+msgid "Separate Property Types with commas"
+msgstr "Separe os tipos de imóvel com vírgulas"
+
+#: admin/class-inspiry-property-post-type.php:91
+msgid "Add or remove Property Types"
+msgstr "Adicionar ou Remover Tipos de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:92
+#: admin/class-inspiry-property-post-type.php:141
+#: admin/class-inspiry-property-post-type.php:190
+#: admin/class-inspiry-property-post-type.php:239
+msgid "Choose from the most used"
+msgstr "Escolha entre as características do imóvel mais usadas"
+
+#: admin/class-inspiry-property-post-type.php:93
+msgid "Popular Property Types"
+msgstr "Tipos de Imóvel Populares"
+
+#: admin/class-inspiry-property-post-type.php:94
+msgid "Search Property Types"
+msgstr "Pesquisar Tipos de Imóveis"
+
+#: admin/class-inspiry-property-post-type.php:95
+#: admin/class-inspiry-property-post-type.php:144
+#: admin/class-inspiry-property-post-type.php:193
+#: admin/class-inspiry-property-post-type.php:242
+msgid "Not Found"
+msgstr "Não encontrado"
+
+#: admin/class-inspiry-property-post-type.php:99
+#: admin/class-inspiry-real-estate-admin.php:396
+msgid "property-type"
+msgstr "imóvel-tipo"
+
+#: admin/class-inspiry-property-post-type.php:114
+msgid "property-types"
+msgstr "imóvel-tipos"
+
+#: admin/class-inspiry-property-post-type.php:128
+msgctxt "Taxonomy General Name"
+msgid "Property Status"
+msgstr "Estado do imóvel"
+
+#: admin/class-inspiry-property-post-type.php:129
+msgctxt "Taxonomy Singular Name"
+msgid "Property Status"
+msgstr "Estado do imóvel"
+
+#: admin/class-inspiry-property-post-type.php:130
+#: includes/meta-boxes/properties-pages.php:74 vc-elements/properties.php:131
+msgid "Statuses"
+msgstr "Estado"
+
+#: admin/class-inspiry-property-post-type.php:131
+msgid "All Property Statuses"
+msgstr "Todas Finalidade do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:132
+msgid "Parent Property Status"
+msgstr "Estado do Imóvel Principal"
+
+#: admin/class-inspiry-property-post-type.php:133
+msgid "Parent Property Status:"
+msgstr "Estado do Imóvel principal:"
+
+#: admin/class-inspiry-property-post-type.php:134
+msgid "New Property Status Name"
+msgstr "Novo Nome de Estado do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:135
+msgid "Add New Property Status"
+msgstr "Adicionar Novo Estado de Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:136
+msgid "Edit Property Status"
+msgstr "Editar Estado do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:137
+msgid "Update Property Status"
+msgstr "Atualizar Estado do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:138
+msgid "View Property Status"
+msgstr "Ver Condições dos Imóveis"
+
+#: admin/class-inspiry-property-post-type.php:139
+msgid "Separate Property Statuses with commas"
+msgstr "Condições dos Imóveis separados por vírgulas"
+
+#: admin/class-inspiry-property-post-type.php:140
+msgid "Add or remove Property Statuses"
+msgstr "Adicionar ou remover Condição do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:142
+msgid "Popular Property Statuses"
+msgstr "Condições Populares dos Imóveis"
+
+#: admin/class-inspiry-property-post-type.php:143
+msgid "Search Property Statuses"
+msgstr "Buscar imóvel por Finalidade"
+
+#: admin/class-inspiry-property-post-type.php:148
+#: admin/class-inspiry-real-estate-admin.php:410
+msgid "property-status"
+msgstr "imóvel-estado"
+
+#: admin/class-inspiry-property-post-type.php:163
+msgid "property-statuses"
+msgstr "imóvel-estados"
+
+#: admin/class-inspiry-property-post-type.php:177
+msgctxt "Taxonomy General Name"
+msgid "Property City"
+msgstr "Cidade do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:178
+msgctxt "Taxonomy Singular Name"
+msgid "Property City"
+msgstr "Cidade do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:179
+#: includes/meta-boxes/properties-pages.php:65 vc-elements/properties.php:124
+msgid "Locations"
+msgstr "Localização"
+
+#: admin/class-inspiry-property-post-type.php:180
+msgid "All Property Cities"
+msgstr "Todas as Cidades"
+
+#: admin/class-inspiry-property-post-type.php:181
+msgid "Parent Property City"
+msgstr "Cidade Principal"
+
+#: admin/class-inspiry-property-post-type.php:182
+msgid "Parent Property City:"
+msgstr "Cidade Principal:"
+
+#: admin/class-inspiry-property-post-type.php:183
+msgid "New Property City Name"
+msgstr "Nome da Nova Cidade"
+
+#: admin/class-inspiry-property-post-type.php:184
+msgid "Add New Property City"
+msgstr "Adicionar Nova Cidade"
+
+#: admin/class-inspiry-property-post-type.php:185
+msgid "Edit Property City"
+msgstr "Editar Cidade do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:186
+msgid "Update Property City"
+msgstr "Atualizar Cidade do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:187
+msgid "View Property City"
+msgstr "Ver Cidades dos Imóveis"
+
+#: admin/class-inspiry-property-post-type.php:188
+msgid "Separate Property Cities with commas"
+msgstr "Separe as cidades com vírgulas"
+
+#: admin/class-inspiry-property-post-type.php:189
+msgid "Add or remove Property Cities"
+msgstr "Adicionar ou remover cidades"
+
+#: admin/class-inspiry-property-post-type.php:191
+msgid "Popular Property Cities"
+msgstr "Cidades com Imóveis Populares"
+
+#: admin/class-inspiry-property-post-type.php:192
+msgid "Search Property Cities"
+msgstr "Pesquisa de Imóveis por Cidade"
+
+#: admin/class-inspiry-property-post-type.php:197
+#: admin/class-inspiry-real-estate-admin.php:424
+msgid "property-city"
+msgstr "imóvel-cidade"
+
+#: admin/class-inspiry-property-post-type.php:212
+msgid "property-cities"
+msgstr "imóveis-cidades"
+
+#: admin/class-inspiry-property-post-type.php:226
+msgctxt "Taxonomy General Name"
+msgid "Property Features"
+msgstr "Características do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:227
+msgctxt "Taxonomy Singular Name"
+msgid "Property Feature"
+msgstr "Característica do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:228
+#: includes/forms/property.php:705 includes/forms/property.php:1258
+#: includes/meta-boxes/properties-pages.php:92 vc-elements/properties.php:265
+msgid "Features"
+msgstr "Características"
+
+#: admin/class-inspiry-property-post-type.php:229
+msgid "All Property Features"
+msgstr "Todas as Características do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:230
+msgid "Parent Property Feature"
+msgstr "Característica do Imóvel Principal"
+
+#: admin/class-inspiry-property-post-type.php:231
+msgid "Parent Property Feature:"
+msgstr "Característica do Imóvel principal:"
+
+#: admin/class-inspiry-property-post-type.php:232
+msgid "New Property Feature Name"
+msgstr "Nome de Nova Característica do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:233
+msgid "Add New Property Feature"
+msgstr "Adicionar nova característica do imóvel"
+
+#: admin/class-inspiry-property-post-type.php:234
+msgid "Edit Property Feature"
+msgstr "Editar Característica do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:235
+msgid "Update Property Feature"
+msgstr "Atualizar Característica do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:236
+msgid "View Property Feature"
+msgstr "Ver Características dos Imóveis"
+
+#: admin/class-inspiry-property-post-type.php:237
+msgid "Separate Property Features with commas"
+msgstr "Separe as características do imóvel com vírgulas"
+
+#: admin/class-inspiry-property-post-type.php:238
+msgid "Add or remove Property Features"
+msgstr "Adicionar ou Remover Características do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:240
+msgid "Popular Property Features"
+msgstr "Características Populares do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:241
+msgid "Search Property Features"
+msgstr "Pesquisar Características do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:246
+#: admin/class-inspiry-real-estate-admin.php:438
+msgid "property-feature"
+msgstr "imóvel-características"
+
+#: admin/class-inspiry-property-post-type.php:261
+msgid "property-features"
+msgstr "imóvel-características"
+
+#: admin/class-inspiry-property-post-type.php:280
+msgid "Custom ID"
+msgstr "ID personalizado"
+
+#: admin/class-inspiry-property-post-type.php:281
+#: vc-elements/properties.php:110 vc-elements/properties.php:631
+msgid "Price"
+msgstr "Preço"
+
+#: admin/class-inspiry-property-post-type.php:298
+#: includes/forms/property.php:386 includes/forms/property.php:898
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/class-inspiry-property-post-type.php:299
+#: includes/forms/property.php:434 includes/forms/property.php:924
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:359
+msgid "Status"
+msgstr "Estado"
+
+#: admin/class-inspiry-property-post-type.php:300
+#: includes/forms/property.php:410 includes/forms/property.php:911
+msgid "Location"
+msgstr "Localização"
+
+#: admin/class-inspiry-property-post-type.php:368
+#: includes/forms/property.php:388 includes/forms/property.php:412
+#: includes/forms/property.php:436 includes/forms/property.php:581
+#: includes/forms/property.php:652 includes/forms/property.php:1088
+#: includes/forms/property.php:1188 includes/functions/real-estate.php:382
+#: includes/functions/real-estate.php:384
+#: includes/meta-boxes/meta-box/inc/fields/select.php:92
+msgid "None"
+msgstr "Nenhum"
+
+#: admin/class-inspiry-property-post-type.php:381
+msgid "Consult theme documentation for required image size."
+msgstr "Consulte a documentação do tema para o tamanho de imagem necessário."
+
+#: admin/class-inspiry-property-post-type.php:392
+msgid "Basic Information"
+msgstr "Informação básica"
+
+#: admin/class-inspiry-property-post-type.php:396
+msgid "Gallery Images"
+msgstr "Galeria de imagens"
+
+#: admin/class-inspiry-property-post-type.php:400
+msgid "Floor Plans"
+msgstr "Plantas"
+
+#: admin/class-inspiry-property-post-type.php:404
+msgid "Property Video"
+msgstr "Vídeo do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:408
+msgid "Agent Information"
+msgstr "Informação do Corretor"
+
+#: admin/class-inspiry-property-post-type.php:412
+msgid "Misc"
+msgstr "Diversos"
+
+#: admin/class-inspiry-property-post-type.php:416
+msgid "Homepage Slider"
+msgstr "Slider da Página Inicial"
+
+#: admin/class-inspiry-property-post-type.php:420
+msgid "Top Banner"
+msgstr "Banner do Topo"
+
+#: admin/class-inspiry-property-post-type.php:430
+msgid "Sale or Rent Price ( Only digits )"
+msgstr "Preço de Venda ou Aluguel ( apenas números )"
+
+#: admin/class-inspiry-property-post-type.php:431
+msgid "Example Value: 435000"
+msgstr "Valor de exemplo: 435000"
+
+#: admin/class-inspiry-property-post-type.php:439
+#: admin/class-inspiry-property-post-type.php:571
+msgid "Price Postfix"
+msgstr "Texto após o preço"
+
+#: admin/class-inspiry-property-post-type.php:440
+msgid "Example Value: Per Month"
+msgstr "Exemplo: Por mês"
+
+#: admin/class-inspiry-property-post-type.php:448
+msgid "Area Size ( Only digits )"
+msgstr "Tamanho da Área ( apenas números )"
+
+#: admin/class-inspiry-property-post-type.php:449
+msgid "Example Value: 2500"
+msgstr "Valor de exemplo: 100"
+
+#: admin/class-inspiry-property-post-type.php:457
+#: admin/class-inspiry-property-post-type.php:585
+msgid "Size Postfix"
+msgstr "Texto após o tamanho"
+
+#: admin/class-inspiry-property-post-type.php:458
+msgid "Example Value: Sq Ft"
+msgstr "Exemplo de valor: Sq Ft"
+
+#: admin/class-inspiry-property-post-type.php:466
+#: admin/class-inspiry-property-post-type.php:592
+#: includes/forms/property.php:458 includes/forms/property.php:937
+msgid "Bedrooms"
+msgstr "Quartos"
+
+#: admin/class-inspiry-property-post-type.php:467
+msgid "Example Value: 4"
+msgstr "Valor de Exemplo: 3"
+
+#: admin/class-inspiry-property-post-type.php:475
+#: admin/class-inspiry-property-post-type.php:599
+#: includes/forms/property.php:469 includes/forms/property.php:951
+msgid "Bathrooms"
+msgstr "Banheiros"
+
+#: admin/class-inspiry-property-post-type.php:476
+msgid "Example Value: 2"
+msgstr "Valor de Exemplo: 2"
+
+#: admin/class-inspiry-property-post-type.php:484
+#: includes/forms/property.php:480 includes/forms/property.php:965
+msgid "Garages"
+msgstr "Garagens"
+
+#: admin/class-inspiry-property-post-type.php:485
+msgid "Example Value: 1"
+msgstr "Valor de Exemplo: 1"
+
+#: admin/class-inspiry-property-post-type.php:493
+#: includes/forms/property.php:536 includes/forms/property.php:544
+#: includes/forms/property.php:1036 includes/forms/property.php:1040
+#: includes/forms/search-fields/property-id.php:9
+#: includes/widgets/fields/property-id.php:2
+msgid "Property ID"
+msgstr "ID do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:494
+msgid "It will help you search a property directly."
+msgstr "Isso ajudará você a pesquisar diretamente um imóvel."
+
+#: admin/class-inspiry-property-post-type.php:503
+#: includes/forms/property.php:568 includes/forms/property.php:1071
+msgid "Year Built"
+msgstr "Ano de construção"
+
+#: admin/class-inspiry-property-post-type.php:504
+#| msgid "Example Value: 2"
+msgid "Example value: 2019"
+msgstr ""
+
+#: admin/class-inspiry-property-post-type.php:520
+msgid "Property Address"
+msgstr "Endereço do Imóvel"
+
+#: admin/class-inspiry-property-post-type.php:521
+msgid "Leaving it empty will hide the google map on property detail page."
+msgstr ""
+"Deixá-lo vazio irá esconder o mapa do google na página de detalhes do imóvel."
+
+#: admin/class-inspiry-property-post-type.php:529
+msgid "Property Location at Google Map*"
+msgstr "Localização da Propriedade no Google Map *"
+
+#: admin/class-inspiry-property-post-type.php:530
+msgid ""
+"Drag the google map marker to point your property location. You can also use "
+"the address field above to search for your property."
+msgstr ""
+"Arraste o marcador do Google Map para apontar a localização do seu imóvel. "
+"Pode também usar o campo de endereço acima para pesquisar o seu imóvel."
+
+#: admin/class-inspiry-property-post-type.php:540
+msgid "Property Gallery Images"
+msgstr "Galeria de imagens"
+
+#: admin/class-inspiry-property-post-type.php:558
+msgid "Floor Name"
+msgstr "Título do Andar"
+
+#: admin/class-inspiry-property-post-type.php:560
+msgid "Example: Ground Floor"
+msgstr "Exemplo: Térreo"
+
+#: admin/class-inspiry-property-post-type.php:564
+msgid "Floor Price ( Only digits )"
+msgstr "Preço do andar (apenas dígitos)"
+
+#: admin/class-inspiry-property-post-type.php:566
+msgid "Example: 4000"
+msgstr "Exemplo: 4000"
+
+#: admin/class-inspiry-property-post-type.php:573
+msgid "Example: Per Month"
+msgstr "Exemplo: Por Mês"
+
+#: admin/class-inspiry-property-post-type.php:578
+msgid "Floor Size ( Only digits )"
+msgstr "Tamanho do Andar (Somente dígitos)"
+
+#: admin/class-inspiry-property-post-type.php:580
+msgid "Example: 2500"
+msgstr "Exemplo: 2500"
+
+#: admin/class-inspiry-property-post-type.php:587
+msgid "Example: Sq Ft"
+msgstr "Exemplo: Sq Ft"
+
+#: admin/class-inspiry-property-post-type.php:594
+msgid "Example: 4"
+msgstr "Exemplo: 4"
+
+#: admin/class-inspiry-property-post-type.php:601
+msgid "Example: 2"
+msgstr "Exemplo: 2"
+
+#: admin/class-inspiry-property-post-type.php:606
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:204
+#: vc-elements/properties.php:639
+msgid "Description"
+msgstr "Descrição"
+
+#: admin/class-inspiry-property-post-type.php:611
+msgid "Floor Plan Image"
+msgstr "Imagem da planta"
+
+#: admin/class-inspiry-property-post-type.php:613
+msgid "The recommended minimum width is 700px and height is flexible."
+msgstr "A largura mínima recomendada é de 700px, e a altura é flexível."
+
+#: admin/class-inspiry-property-post-type.php:623
+#: includes/forms/property.php:557 includes/forms/property.php:1056
+msgid "Property Video URL"
+msgstr "URL do vídeo de propriedade"
+
+#: admin/class-inspiry-property-post-type.php:624
+msgid ""
+"Provide property video URL. YouTube, Vimeo, SWF File and MOV File are "
+"supported"
+msgstr ""
+"Forneça o URL do vídeo da propriedade. YouTube, Vimeo, arquivos SWF e "
+"arquivos MOV são suportados"
+
+#: admin/class-inspiry-property-post-type.php:630
+msgid "Property Video Image"
+msgstr "Propriedade Video Image"
+
+#: admin/class-inspiry-property-post-type.php:641
+msgid "Virtual Tour 360 Embed Code"
+msgstr "Código de Embarque Virtual Tour 360"
+
+#: admin/class-inspiry-property-post-type.php:642
+msgid "Provide iframe embed code for the 360 virtual tour."
+msgstr "Forneça o código de incorporação de iframe para o tour virtual 360."
+
+#: admin/class-inspiry-property-post-type.php:650
+#: includes/forms/property.php:647 includes/forms/property.php:1180
+msgid "What to display in agent information box ?"
+msgstr "O que exibir na caixa de informações do corretor?"
+
+#: admin/class-inspiry-property-post-type.php:655
+msgid "Author information."
+msgstr "Informações do autor."
+
+#: admin/class-inspiry-property-post-type.php:656
+msgid "Agent Information. ( Select the agent below )"
+msgstr "Informação do Corretor. ( Selecione um corretor abaixo )"
+
+#: admin/class-inspiry-property-post-type.php:657
+msgid "None. ( Hide information box )"
+msgstr "Nenhum. ( Esconder Caixa de Informação )"
+
+#: admin/class-inspiry-property-post-type.php:676
+msgid "Mark this property as featured ?"
+msgstr "Marcar este imóvel como imóvel em destaque?"
+
+#: admin/class-inspiry-property-post-type.php:681
+#: admin/class-inspiry-property-post-type.php:716
+msgid "Yes "
+msgstr "Sim "
+
+#: admin/class-inspiry-property-post-type.php:682
+#: admin/class-inspiry-property-post-type.php:717
+#: admin/class-inspiry-real-estate-admin.php:917
+#: includes/meta-boxes/meta-box/inc/fields/checkbox.php:53
+#: vc-elements/properties.php:258
+msgid "No"
+msgstr "Não"
+
+#: admin/class-inspiry-property-post-type.php:691
+msgid "Attachments"
+msgstr "Anexos"
+
+#: admin/class-inspiry-property-post-type.php:692
+msgid ""
+"You can attach PDF files, Map images OR other documents to provide further "
+"details related to property."
+msgstr ""
+"Você pode anexar arquivos PDF, imagens do mapa OU outros documentos para "
+"fornecer mais detalhes relacionados ao imóvel."
+
+#: admin/class-inspiry-property-post-type.php:700
+msgid "Private Note"
+msgstr "Nota Privada"
+
+#: admin/class-inspiry-property-post-type.php:701
+msgid ""
+"In this textarea, You can write your private note about this property. This "
+"field will not be displayed anywhere else."
+msgstr ""
+"Nesta área de texto você pode escrever sua nota particular sobre este "
+"imóvel. Este campo não será exibido em nenhum outro lugar."
+
+#: admin/class-inspiry-property-post-type.php:710
+msgid "Do you want to add this property in Homepage Slider ?"
+msgstr "Você quer adicionar este imóvel no Slider da Página Inicial?"
+
+#: admin/class-inspiry-property-post-type.php:711
+msgid "If Yes, Then you need to provide a slider image below."
+msgstr "Se sim, então você precisa fornecer uma imagem de slider abaixo."
+
+#: admin/class-inspiry-property-post-type.php:724
+msgid "Slider Image"
+msgstr "Imagem de Slider"
+
+#: admin/class-inspiry-property-post-type.php:735
+msgid "Top Banner Image"
+msgstr "Imagem de Banner do Topo"
+
+#: admin/class-inspiry-property-post-type.php:737
+msgid ""
+"Upload the banner image, If you want to change it for this property. "
+"Otherwise default banner image uploaded from theme options will be "
+"displayed. Image should have minimum width of 2000px and minimum height of "
+"230px."
+msgstr ""
+"Carregar a imagem do banner, se você quiser alterá-la para esta imóvel. Caso "
+"contrário, a imagem de banner padrão das opções de tema será exibida. A "
+"imagem deve ter uma largura mínima de 2000 px e uma altura mínima de 230 px."
+
+#: admin/class-inspiry-property-post-type.php:762
+msgid "Payment Information"
+msgstr "Informações de Pagamento"
+
+#: admin/class-inspiry-property-post-type.php:772
+msgid "Not Available"
+msgstr "Indisponível"
+
+#: admin/class-inspiry-property-post-type.php:786
+msgid "Transaction ID"
+msgstr "ID da transação"
+
+#: admin/class-inspiry-property-post-type.php:790
+msgid "Payment Date"
+msgstr "Data de pagamento"
+
+#: admin/class-inspiry-property-post-type.php:794 includes/forms/profile.php:72
+msgid "First Name"
+msgstr "Primeiro nome"
+
+#: admin/class-inspiry-property-post-type.php:798 includes/forms/profile.php:84
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: admin/class-inspiry-property-post-type.php:802
+msgid "Payer Email"
+msgstr "E-mail do pagador"
+
+#: admin/class-inspiry-property-post-type.php:806
+msgid "Payment Status"
+msgstr "Estado do pagamento"
+
+#: admin/class-inspiry-property-post-type.php:810
+msgid "Payment Amount"
+msgstr "Valor do Pagamento"
+
+#: admin/class-inspiry-property-post-type.php:814
+msgid "Payment Currency"
+msgstr "Moeda do Pagamento"
+
+#: admin/class-inspiry-real-estate-admin.php:141
+#: admin/class-inspiry-real-estate-admin.php:161
+#: admin/class-inspiry-real-estate-admin.php:164
+msgid "Inspiry Real Estate Settings"
+msgstr "Configurações da Imobiliária"
+
+#: admin/class-inspiry-real-estate-admin.php:142
+msgid "Real Estate"
+msgstr "Imobiliária"
+
+#. Author of the plugin/theme
+#: admin/class-inspiry-real-estate-admin.php:167
+msgid "Inspiry Themes"
+msgstr "Inspiry Themes"
+
+#: admin/class-inspiry-real-estate-admin.php:173
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não tem permissões suficientes para acessar esta página."
+
+#: admin/class-inspiry-real-estate-admin.php:188
+#, php-format
+#| msgid "Version %s"
+msgid "Version  %s"
+msgstr "Versão %s"
+
+#: admin/class-inspiry-real-estate-admin.php:201
+#: admin/class-inspiry-real-estate-admin.php:250
+msgid "Price Format"
+msgstr "Formato do Preço"
+
+#: admin/class-inspiry-real-estate-admin.php:202
+#: admin/class-inspiry-real-estate-admin.php:365
+msgid "URL Slugs"
+msgstr "URL Slugs [Parte do URL que vem a seguir à extensão de domínio]"
+
+#: admin/class-inspiry-real-estate-admin.php:203
+#: admin/class-inspiry-real-estate-admin.php:471
+msgid "Social"
+msgstr "Social"
+
+#: admin/class-inspiry-real-estate-admin.php:204
+#: admin/class-inspiry-real-estate-admin.php:599
+msgid "Maps"
+msgstr "Mapas"
+
+#: admin/class-inspiry-real-estate-admin.php:205
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: admin/class-inspiry-real-estate-admin.php:260
+msgid "Currency Sign"
+msgstr "Símbolo da Moeda"
+
+#: admin/class-inspiry-real-estate-admin.php:268
+msgid "Default: $"
+msgstr "Padrão: $"
+
+#: admin/class-inspiry-real-estate-admin.php:274
+msgid "Currency Sign Position"
+msgstr "Posição do símbolo"
+
+#: admin/class-inspiry-real-estate-admin.php:283
+msgid "Before ($450,000)"
+msgstr "Antes (R$ 450.000)"
+
+#: admin/class-inspiry-real-estate-admin.php:284
+msgid "After (450,000$)"
+msgstr "Depois (450.000 R$)"
+
+#: admin/class-inspiry-real-estate-admin.php:286
+msgid "Default: Before"
+msgstr "Padrão: Antes"
+
+#: admin/class-inspiry-real-estate-admin.php:292
+msgid "Thousand Separator"
+msgstr "Separador de milhar"
+
+#: admin/class-inspiry-real-estate-admin.php:300
+msgid "Default: ,"
+msgstr "Padrão: ,"
+
+#: admin/class-inspiry-real-estate-admin.php:306
+msgid "Decimal Separator"
+msgstr "Separador decimal"
+
+#: admin/class-inspiry-real-estate-admin.php:314
+msgid "Default: ."
+msgstr "Padrão: ."
+
+#: admin/class-inspiry-real-estate-admin.php:320
+msgid "Number of Decimals"
+msgstr "Número de Decimais"
+
+#: admin/class-inspiry-real-estate-admin.php:328
+msgid "Default: 0"
+msgstr "Padrão: 0"
+
+#: admin/class-inspiry-real-estate-admin.php:334
+msgid "Empty Price Text"
+msgstr "Texto para preço vazio"
+
+#: admin/class-inspiry-real-estate-admin.php:341
+msgid "Price on call"
+msgstr "Ofertas"
+
+#: admin/class-inspiry-real-estate-admin.php:342
+msgid "Text to display in case of empty price. Example: Price on call"
+msgstr "Texto a ser exibido no caso do preço vazio. Exemplo: Oportunidade"
+
+#: admin/class-inspiry-real-estate-admin.php:383
+msgid "Default: property"
+msgstr "Padrão: Imóveis"
+
+#: admin/class-inspiry-real-estate-admin.php:389
+#: includes/forms/search-fields/property-type.php:9
+#: includes/widgets/fields/property-type.php:3
+msgid "Property Type"
+msgstr "Tipo de Imóvel"
+
+#: admin/class-inspiry-real-estate-admin.php:397
+msgid "Default: property-type"
+msgstr "Padrão: property-type"
+
+#: admin/class-inspiry-real-estate-admin.php:403
+#: includes/forms/search-fields/property-status.php:9
+#: includes/widgets/fields/property-status.php:3
+msgid "Property Status"
+msgstr "Estado do imóvel"
+
+#: admin/class-inspiry-real-estate-admin.php:411
+msgid "Default: property-status"
+msgstr "Padrão: Property-status"
+
+#: admin/class-inspiry-real-estate-admin.php:417
+msgid "Property City"
+msgstr "Cidade do Imóvel"
+
+#: admin/class-inspiry-real-estate-admin.php:425
+msgid "Default: property-city"
+msgstr "Padrão: cidade-imovel"
+
+#: admin/class-inspiry-real-estate-admin.php:431
+msgid "Property Feature"
+msgstr "Característica do Imóvel"
+
+#: admin/class-inspiry-real-estate-admin.php:439
+msgid "Default: property-feature"
+msgstr "Padrão: caracteristica-imovel"
+
+#: admin/class-inspiry-real-estate-admin.php:453
+msgid "Default: agent"
+msgstr "Padrão: corretor"
+
+#: admin/class-inspiry-real-estate-admin.php:548
+#: includes/widgets/social-icons-widget.php:22
+msgid "YouTube URL"
+msgstr "URL do YouTube"
+
+#: admin/class-inspiry-real-estate-admin.php:562
+#| msgid "RSS URL"
+msgid "Rss URL"
+msgstr ""
+
+#: admin/class-inspiry-real-estate-admin.php:576
+msgid "Skype Username"
+msgstr "Usuário do Skype"
+
+#: admin/class-inspiry-real-estate-admin.php:609
+msgid "Google Maps Api Key"
+msgstr "Google Maps Api Key"
+
+#: admin/class-inspiry-real-estate-admin.php:626
+msgid "Automatically Switch Google Map Language"
+msgstr "Alternar automaticamente o idioma do mapa do Google"
+
+#: admin/class-inspiry-real-estate-admin.php:634
+msgid ""
+"Based on site language from general settings OR current language if you are "
+"using WPML."
+msgstr ""
+"Com base no idioma do site a partir das configurações gerais ou no idioma "
+"atual, se você estiver usando o WPML."
+
+#: admin/class-inspiry-real-estate-admin.php:651
+#: admin/class-inspiry-real-estate-admin.php:658
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: admin/class-inspiry-real-estate-admin.php:672
+msgid "reCAPTCHA Site Key"
+msgstr "chave do site reCAPTCHA"
+
+#: admin/class-inspiry-real-estate-admin.php:686
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Chave Secreta"
+
+#: admin/class-inspiry-real-estate-admin.php:700
+msgid "reCAPTCHA Language"
+msgstr "linguagem da reCAPTCHA"
+
+#: admin/class-inspiry-real-estate-admin.php:781
+msgid ""
+"Using options provided below, You can modify price format to match your "
+"needs."
+msgstr ""
+"Usando as opções fornecidas abaixo, você pode modificar o formato de preço "
+"para atender às suas necessidades."
+
+#: admin/class-inspiry-real-estate-admin.php:788
+msgid "You can modify URL slugs to match your needs."
+msgstr "Você pode modificar os slugs de URL para atender às suas necessidades."
+
+#: admin/class-inspiry-real-estate-admin.php:789
+msgid ""
+"Just make sure to re-save permalinks settings after every change to avoid "
+"404 errors. You can do that from Settings > Permalinks ."
+msgstr ""
+"Apenas certifique-se de salvar novamente as configurações do permalink após "
+"cada alteração para evitar erros 404. Você pode fazer isso em "
+"Configurações&gt; Permalinks."
+
+#: admin/class-inspiry-real-estate-admin.php:834
+#: admin/class-inspiry-real-estate-admin.php:879
+#: admin/class-inspiry-real-estate-admin.php:926
+msgid "Field id is missing!"
+msgstr "Id do campo está faltando!"
+
+#: admin/class-inspiry-real-estate-admin.php:912
+#: includes/meta-boxes/meta-box/inc/fields/checkbox.php:53
+#: vc-elements/properties.php:259
+msgid "Yes"
+msgstr "Sim"
+
+#: admin/class-inspiry-real-estate-admin.php:971
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/forms/agent.php:22
+msgid "Contact Agent"
+msgstr "Contato do Corretor"
+
+#: includes/forms/agent.php:26 includes/forms/agent.php:89
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr "Nome"
+
+#: includes/forms/agent.php:26 includes/forms/agent.php:89
+#: includes/forms/contact.php:35
+msgid "* Please provide your name"
+msgstr "* Por favor, forneça seu nome"
+
+#: includes/forms/agent.php:29 includes/forms/agent.php:92
+msgid "* Please provide valid email address"
+msgstr "* Por favor, forneça um endereço de e-mail válido"
+
+#: includes/forms/agent.php:35 includes/forms/agent.php:98
+msgid "Contact Number"
+msgstr "Número de contato"
+
+#: includes/forms/agent.php:35 includes/forms/agent.php:98
+msgid "* Please provide your contact number"
+msgstr "* Por favor, forneça seu número de contato"
+
+#: includes/forms/agent.php:39 includes/forms/agent.php:102
+msgid "Message"
+msgstr "Mensagem"
+
+#: includes/forms/agent.php:39 includes/forms/agent.php:102
+#: includes/forms/contact.php:41
+msgid "* Please provide your message"
+msgstr "* Por favor, deixe sua mensagem"
+
+#: includes/forms/agent.php:52 includes/forms/agent.php:118
+#: includes/forms/contact.php:52
+msgid "Send Message"
+msgstr "Enviar Mensagem"
+
+#: includes/forms/agent.php:54 includes/forms/agent.php:120
+#: includes/forms/contact.php:53 includes/forms/profile.php:239
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: includes/forms/contact.php:35
+msgid "Name*"
+msgstr "Nome*"
+
+#: includes/forms/contact.php:37
+msgid "Email*"
+msgstr "E-mail*"
+
+#: includes/forms/contact.php:37
+msgid "* Please provide a valid email address"
+msgstr "* Por favor, forneça um endereço de e-mail válido"
+
+#: includes/forms/contact.php:39
+msgid "Number"
+msgstr "Número"
+
+#: includes/forms/contact.php:41
+msgid "Message*"
+msgstr "Mensagem*"
+
+#: includes/forms/currency.php:93 includes/functions/contact.php:28
+#: includes/functions/contact.php:158
+msgid "Unverified Nonce!"
+msgstr "Uso Único Não Verificado!"
+
+#: includes/forms/currency.php:118
+msgid "Failed to updated cookie !"
+msgstr "Falha ao atualizar o cookie!"
+
+#: includes/forms/currency.php:125
+msgid "wp-currencies plugin is missing !"
+msgstr "o plugin wp-currencies está faltando!"
+
+#: includes/forms/currency.php:132 includes/functions/contact.php:133
+#: includes/functions/contact.php:327
+msgid "Invalid Request !"
+msgstr "Pedido inválido !"
+
+#: includes/forms/currency.php:209
+msgid "WP Currencies: Currency does not exist or was not found in database."
+msgstr ""
+
+#: includes/forms/currency.php:217
+msgid "WP Currencies: Amount to convert must be a number."
+msgstr ""
+
+#: includes/forms/currency.php:232
+msgid ""
+"WP Currencies: There was a problem fetching currency data from database. Is "
+"your API key valid?"
+msgstr ""
+
+#: includes/forms/members.php:10 includes/forms/members.php:13
+#: includes/forms/members.php:61 includes/forms/members.php:64
+#: includes/redux-framework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "Nome de Usuário"
+
+#: includes/forms/members.php:12
+msgid "* Provide your username"
+msgstr "* Fornecer seu nome de usuário"
+
+#: includes/forms/members.php:17 includes/forms/members.php:20
+#: includes/forms/profile.php:207
+#: includes/redux-framework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "Senha"
+
+#: includes/forms/members.php:19
+msgid "* Provide your password"
+msgstr "* Fornecer sua senha"
+
+#: includes/forms/members.php:26 includes/functions/members.php:79
+msgid "Login"
+msgstr "Entrar"
+
+#: includes/forms/members.php:44 includes/forms/members.php:92
+#: includes/forms/members.php:123
+#: includes/redux-framework/ReduxCore/templates/panel/footer.tpl.php:69
+#: includes/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:33
+msgid "Working..."
+msgstr "Trabalhando..."
+
+#: includes/forms/members.php:63
+msgid "* Please enter a valid username."
+msgstr "* Por favor, insira um nome de usuário válido."
+
+#: includes/forms/members.php:70
+msgid "* Please provide valid email address!"
+msgstr "* Por favor, forneça um endereço de e-mail válido!"
+
+#: includes/forms/members.php:77
+msgid "Register"
+msgstr "Registrar"
+
+#: includes/forms/members.php:109 includes/forms/members.php:112
+msgid "Username or Email"
+msgstr "Nome de Usuário ou E-mail"
+
+#: includes/forms/members.php:111
+msgid "* Provide a valid username or email!"
+msgstr "* Fornecer um nome de usuário ou e-mail válido!"
+
+#: includes/forms/members.php:116
+msgid "Reset Password"
+msgstr "Resetar a senha"
+
+#: includes/forms/profile.php:36
+msgid "Profile image should have minimum width and height of 220px."
+msgstr "A imagem do perfil deve ter no mínimo 220px de largura e altura."
+
+#: includes/forms/profile.php:39
+msgid "Make sure to save changes after uploading the new image."
+msgstr ""
+"Certifique-se de salvar as alterações depois de ter adicionado uma nova "
+"image."
+
+#: includes/forms/profile.php:43
+msgid "Change"
+msgstr "Alterar"
+
+#: includes/forms/profile.php:47
+#: includes/meta-boxes/meta-box-extensions/meta-box-group/class-rwmb-group-field.php:135
+#: includes/meta-boxes/meta-box/inc/fields/file-input.php:45
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:321
+#: includes/redux-framework/ReduxCore/inc/fields/media/field_media.php:213
+#: includes/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: includes/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: includes/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:89
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/forms/profile.php:59
+msgid "Biographical Information"
+msgstr "Informações Biográficas"
+
+#: includes/forms/profile.php:77
+msgid "* Provide First Name!"
+msgstr "* Primeiro Nome!"
+
+#: includes/forms/profile.php:89
+msgid "* Provide Last Name!"
+msgstr "* Fornecer Sobrenome!"
+
+#: includes/forms/profile.php:95
+msgid "Display Name"
+msgstr "Nome de Exibição"
+
+#: includes/forms/profile.php:99
+msgid "* Provide Display Name!"
+msgstr "* Informe o nome de exibição!"
+
+#: includes/forms/profile.php:115
+msgid "* Provide Valid Email Address!"
+msgstr "* Informe um endereço de e-mail válido!"
+
+#: includes/forms/profile.php:127 includes/forms/profile.php:138
+#: includes/forms/profile.php:155
+msgid "* Only Digits are allowed!"
+msgstr "* Somente dígitos são permitidos!"
+
+#: includes/forms/profile.php:166 includes/forms/profile.php:177
+#: includes/forms/profile.php:194
+msgid "* Provide Valid URL!"
+msgstr "* Informe uma URL válida!"
+
+#: includes/forms/profile.php:208
+msgid "( Fill it only when you want to change )"
+msgstr "( Preencher somente quando você quiser alterar )"
+
+#: includes/forms/profile.php:216
+msgid "Confirm Password"
+msgstr "Confirmar senha"
+
+#: includes/forms/profile.php:238
+#: includes/meta-boxes/meta-box/inc/update/settings.php:130
+#: includes/redux-framework/ReduxCore/templates/panel/footer.tpl.php:57
+#: includes/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: includes/forms/profile.php:250
+msgid "Login Required"
+msgstr "Login requerido"
+
+#: includes/forms/profile.php:250
+msgid "You need to login to edit your profile!"
+msgstr "Você precisa fazer o login para editar o seu perfil!"
+
+#: includes/forms/property.php:346 includes/forms/property.php:834
+msgid "Property Title"
+msgstr "Título do Imóvel"
+
+#: includes/forms/property.php:347 includes/forms/property.php:837
+msgid "* Please provide property title!"
+msgstr "* Por favor, forneça um título para o imóvel!"
+
+#: includes/forms/property.php:353 includes/forms/property.php:845
+msgid "Property Description"
+msgstr "Descrição do Imóvel"
+
+#: includes/forms/property.php:366 includes/forms/property.php:874
+msgid "Address"
+msgstr "Endereço"
+
+#: includes/forms/property.php:367 includes/forms/property.php:877
+msgid "* Please provide a property address!"
+msgstr "* Por favor, forneça o endereço do imóvel!"
+
+#: includes/forms/property.php:369 includes/forms/property.php:880
+msgid "Find Address"
+msgstr "Encontrar endereço"
+
+#: includes/forms/property.php:459 includes/forms/property.php:470
+#: includes/forms/property.php:481 includes/forms/property.php:492
+#: includes/forms/property.php:515 includes/forms/property.php:941
+#: includes/forms/property.php:955 includes/forms/property.php:969
+#: includes/forms/property.php:984 includes/forms/property.php:1012
+msgid "* Only numbers allowed!"
+msgstr "* Somente dígitos permitidos!"
+
+#: includes/forms/property.php:491 includes/forms/property.php:980
+msgid "Sale OR Rent Price"
+msgstr "Preço de Venda OU Aluguel"
+
+#: includes/forms/property.php:503 includes/forms/property.php:994
+msgid "Price Postfix Text"
+msgstr "Texto após o preço"
+
+#: includes/forms/property.php:514 includes/forms/property.php:1008
+#: includes/functions/real-estate.php:180
+#: includes/functions/real-estate.php:190
+#: includes/functions/real-estate.php:196
+#: includes/functions/real-estate.php:203
+msgid "Area"
+msgstr "Área"
+
+#: includes/forms/property.php:525 includes/forms/property.php:1022
+msgid "Area Postfix Text"
+msgstr "Texto após a Área"
+
+#: includes/forms/property.php:526
+msgid "SqFt"
+msgstr "SqFt"
+
+#: includes/forms/property.php:540
+#| msgid "Property ID"
+msgid "Property ID Pattern"
+msgstr ""
+
+#: includes/forms/property.php:589 includes/forms/property.php:1098
+msgid "Parent Property"
+msgstr "Imóvel Principal"
+
+#: includes/forms/property.php:605 includes/forms/property.php:1113
+#| msgid "Virtual Tour 360 Embed Code"
+msgid "Virtual Tour Embed Code"
+msgstr ""
+
+#: includes/forms/property.php:623 includes/forms/property.php:1156
+msgid "Drag and drop images here"
+msgstr "Arrastar e soltar imagens aqui"
+
+#: includes/forms/property.php:625 includes/forms/property.php:1158
+msgid "OR"
+msgstr "OU"
+
+#: includes/forms/property.php:627 includes/forms/property.php:1160
+msgid "Select Images"
+msgstr "Selecionar imagens"
+
+#: includes/forms/property.php:631 includes/forms/property.php:1164
+msgid ""
+"An image should have minimum width of 850px and minimum height of 600px."
+msgstr "A imagem deve ter no mínimo 850px de largura por 600px de altura."
+
+#: includes/forms/property.php:632 includes/forms/property.php:1165
+msgid ""
+"You can mark an image as featured by clicking the star icon, Otherwise first "
+"image will be considered featured image."
+msgstr ""
+"Você pode marcar uma imagem como destaque clicando no ícone estrela, do "
+"contrário sua primeira imagem será considera como imagem de destaque."
+
+#: includes/forms/property.php:654
+msgid "( No information will be displayed )"
+msgstr "( Nenhuma informação será exibida)"
+
+#: includes/forms/property.php:660 includes/forms/property.php:1199
+msgid "My Profile Information"
+msgstr "Meu Perfil"
+
+#: includes/forms/property.php:666 includes/forms/property.php:1206
+msgid "( Edit Profile Information )"
+msgstr "( Editar informações de perfil )"
+
+#: includes/forms/property.php:675 includes/forms/property.php:1219
+msgid "Display Agent Information"
+msgstr "Exibir informação do corretor"
+
+#: includes/forms/property.php:690 includes/forms/property.php:1243
+msgid "Mark this property as featured property"
+msgstr "Marcar este imóvel como imóvel de destaque"
+
+#: includes/forms/property.php:788
+msgid "Message to the Reviewer"
+msgstr "Mensagem para o Avaliador"
+
+#: includes/forms/property.php:797
+msgid "Submit Property"
+msgstr "Cadastrar imóvel"
+
+#: includes/forms/property.php:1190
+msgid "( Agent information box will not be displayed )"
+msgstr "( A caixa de informações do corretor não será exibida )"
+
+#: includes/forms/property.php:1395 includes/forms/property.php:1399
+msgid "Oops"
+msgstr "Oops"
+
+#: includes/forms/property.php:1395
+msgid "It appears that, Provided property does not belong to you!"
+msgstr "Parece que o imóvel fornecido não pertence a você!"
+
+#: includes/forms/property.php:1399
+msgid "It appears that, Provided property id is invalid!"
+msgstr "Parece que o código do imóvel fornecido é inválido!"
+
+#: includes/forms/search-fields/baths.php:8 includes/widgets/fields/baths.php:3
+msgid "Min Baths (Any)"
+msgstr "Banheiros mín. (qualquer)"
+
+#: includes/forms/search-fields/beds.php:8 includes/widgets/fields/beds.php:3
+msgid "Min Beds (Any)"
+msgstr "Quartos mín. (qualquer)"
+
+#: includes/forms/search-fields/features.php:16
+#: includes/widgets/fields/features.php:16
+msgid "Looking for certain features"
+msgstr "Procurando por características específicas"
+
+#: includes/forms/search-fields/hidden-fields-separator.php:9
+#: includes/forms/search-fields/submit-btn.php:2
+#: includes/widgets/fields/submit-btn.php:2
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/forms/search-fields/keyword.php:9
+#: includes/widgets/fields/keyword.php:2
+msgid "Keyword"
+msgstr "Palavra-chave"
+
+#: includes/forms/search-fields/locations.php:21
+#: includes/functions/real-estate.php:39 includes/functions/real-estate.php:41
+#: includes/widgets/fields/locations.php:21
+msgid "(Any)"
+msgstr "(Qualquer)"
+
+#: includes/forms/search-fields/max-area.php:9
+#: includes/widgets/fields/max-area.php:3
+msgid "Max Area (sq ft)"
+msgstr "Área máx. (m²)"
+
+#: includes/forms/search-fields/max-area.php:10
+#: includes/forms/search-fields/min-area.php:10
+#: includes/widgets/fields/max-area.php:3
+#: includes/widgets/fields/min-area.php:3
+msgid "Please only provide digits!"
+msgstr "Por favor, fornecer apenas dígitos!"
+
+#: includes/forms/search-fields/min-area.php:9
+#: includes/widgets/fields/min-area.php:3
+msgid "Min Area (sq ft)"
+msgstr "Área mín. (m²)"
+
+#: includes/functions/contact.php:64 includes/functions/contact.php:194
+#: includes/functions/members.php:568
+msgid "reCAPTCHA Failed:"
+msgstr "reCAPTCHA falhou:"
+
+#: includes/functions/contact.php:77 includes/functions/contact.php:207
+msgid "Target Email address is not properly configured!"
+msgstr "O endereço de e-mail de destino não está configurado corretamente!"
+
+#: includes/functions/contact.php:93 includes/functions/contact.php:233
+msgid "Provided Email address is invalid!"
+msgstr "O endereço de e-mail fornecido é inválido!"
+
+#: includes/functions/contact.php:98
+msgid "New message sent by"
+msgstr "Nova mensagem enviada por"
+
+#: includes/functions/contact.php:98
+msgid "using contact form at"
+msgstr "usando o formulário de contato em"
+
+#: includes/functions/contact.php:99
+msgid "You have received a message from: "
+msgstr "Você recebeu uma mensagem de: "
+
+#: includes/functions/contact.php:102
+msgid "Phone Number : "
+msgstr "Número de telefone : "
+
+#: includes/functions/contact.php:105 includes/functions/contact.php:250
+msgid "Their additional message is as follows."
+msgstr "A sua nova mensagem é a seguinte."
+
+#: includes/functions/contact.php:107 includes/functions/contact.php:252
+#, php-format
+msgid "You can contact %1$s via email %2$s"
+msgstr "Você pode contatar %1$s por e-mail %2$s"
+
+#: includes/functions/contact.php:120 includes/functions/contact.php:314
+msgid "Message Sent Successfully!"
+msgstr "Mensagem enviada com sucesso!"
+
+#: includes/functions/contact.php:125 includes/functions/contact.php:319
+msgid "Server Error: WordPress mail function failed!"
+msgstr "Erro do servidor: a função de correio do WordPress falhou!"
+
+#: includes/functions/contact.php:238
+#, php-format
+msgid "New message sent by %1$s using agent contact form at %2$s"
+msgstr ""
+"Nova mensagem enviada por %1$s utilizando o formulário de contato do "
+"corretor em %2$s"
+
+#: includes/functions/contact.php:240
+msgid "You have received a message from:"
+msgstr "Você recebeu uma mensagem de:"
+
+#: includes/functions/contact.php:243
+msgid "Property Title :"
+msgstr "Título do Imóvel:"
+
+#: includes/functions/contact.php:247
+msgid "Property URL :"
+msgstr "Link do Imóvel:"
+
+#: includes/functions/contact.php:255
+#, php-format
+msgid "You can also contact %1$s via contact number %2$s"
+msgstr "Você também pode contatar %1$s por meio do número de contato %2$s"
+
+#: includes/functions/members.php:106
+msgid "* Wrong username or password."
+msgstr "* Nome de usuário ou senha incorretos."
+
+#: includes/functions/members.php:112
+msgid "successful. Redirecting..."
+msgstr "bem sucedido. Redirecionando..."
+
+#: includes/functions/members.php:154
+msgid "This username already exists."
+msgstr "Esse nome de usuário já existe."
+
+#: includes/functions/members.php:159
+msgid "This email is already registered."
+msgstr "Esse e-mail já foi registrado."
+
+#: includes/functions/members.php:170
+msgid "Registration is complete. Check your email for details!"
+msgstr "O registro está completo. Verifique seu e-mail para mais detalhes!"
+
+#: includes/functions/members.php:194
+msgid "Provide a valid username or email address!"
+msgstr "Por favor, forneça um nome de usuário ou endereço de e-mail válido!"
+
+#: includes/functions/members.php:200
+msgid "No user found for given email!"
+msgstr "Nenhum usuário encontrado para o e-mail indicado!"
+
+#: includes/functions/members.php:206
+msgid "No user found for given username!"
+msgstr "Nenhum usuário encontrado com nome indicado!"
+
+#: includes/functions/members.php:209
+msgid "Invalid username or email!"
+msgstr "Usuário ou e-mail inválido!"
+
+#: includes/functions/members.php:241
+#, php-format
+msgid "Your New Password For %s"
+msgstr "Sua nova senha para% s"
+
+#: includes/functions/members.php:242
+#, php-format
+msgid "Your new password is: %s"
+msgstr "Sua nova senha é: %s"
+
+#: includes/functions/members.php:255
+msgid "Check your email for new password"
+msgstr "Verifique seu e-mail para a nova senha"
+
+#: includes/functions/members.php:257
+msgid "Failed to send you new password email!"
+msgstr "Falha ao enviar um novo e-mail com a senha!"
+
+#: includes/functions/members.php:261
+msgid "Oops! Something went wrong while resetting your password!"
+msgstr "Opa! Algo deu errado ao redefinir sua senha!"
+
+#: includes/functions/members.php:304
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "Registro de novo usuário no seu site% s:"
+
+#: includes/functions/members.php:305
+#, php-format
+msgid "Username: %s"
+msgstr "Usuário: %s"
+
+#: includes/functions/members.php:306
+#, php-format
+msgid "Email: %s"
+msgstr "E-mail: %s"
+
+#: includes/functions/members.php:308
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Registro de novo usuário"
+
+#: includes/functions/members.php:313 includes/functions/members.php:319
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:15
+#, php-format
+msgid "Welcome to %s"
+msgstr "Bem-vindo a %s"
+
+#: includes/functions/members.php:314
+#, php-format
+msgid "Your username is: %s"
+msgstr "Seu nome de usuário é: %s"
+
+#: includes/functions/members.php:315
+#, php-format
+msgid "You can login using following password: %s"
+msgstr "Você pode fazer o login usando a seguinte senha:% s"
+
+#: includes/functions/members.php:316
+msgid "It is highly recommended to change your password after login."
+msgstr "É fortemente recomendado que altere sua senha após o login."
+
+#: includes/functions/members.php:317
+msgid "For more details visit:"
+msgstr "Para mais detalhes visite:"
+
+#: includes/functions/members.php:333 includes/functions/members.php:413
+#: includes/functions/profile.php:12 includes/functions/profile.php:241
+msgid "Security check failed!"
+msgstr "A verificação de segurança falhou!"
+
+#: includes/functions/members.php:373 includes/functions/profile.php:51
+msgid "Image upload failed!"
+msgstr "Upload de imagens falhou!"
+
+#: includes/functions/members.php:470
+#, php-format
+msgid "A new property is submitted by %s at %s"
+msgstr "Um novo imóvel foi cadastrado por %s em %s"
+
+#: includes/functions/members.php:479
+msgid "You can preview it here :"
+msgstr "Você pode pré visualizá-lo aqui :"
+
+#: includes/functions/members.php:486
+#, php-format
+msgid "Message to the Reviewer : %s"
+msgstr "Mensagem para o avaliador : %s"
+
+#: includes/functions/members.php:491
+#, php-format
+msgid "You can contact the submitter %1$s via email %2$s"
+msgstr "Você pode entrar em contato com o remetente %1$s via email %2$s"
+
+#: includes/functions/profile.php:135
+msgid "Provided email address is invalid."
+msgstr "Endereço de e-mail fornecido é inválido."
+
+#: includes/functions/profile.php:140
+msgid "Provided email is already in use by another user. Try a different one."
+msgstr ""
+
+#: includes/functions/profile.php:222
+msgid "The passwords you entered do not match.  Your password is not updated."
+msgstr "As senhas inseridas não são iguais. Sua senha não está atualizada."
+
+#: includes/functions/profile.php:234
+msgid "Profile information is updated successfully!"
+msgstr "As informações do perfil foram atualizadas com sucesso!"
+
+#: includes/functions/real-estate.php:59
+msgid "Min Price (Any)"
+msgstr "Valor mín. (qualquer)"
+
+#: includes/functions/real-estate.php:118
+msgid "Max Price (Any)"
+msgstr "Valor máx. (qualquer)"
+
+#: includes/functions/real-estate.php:179
+#: includes/functions/real-estate.php:185
+#: includes/functions/real-estate.php:189
+#: includes/functions/real-estate.php:195
+#: includes/functions/real-estate.php:202
+msgid "City"
+msgstr "Cidade"
+
+#: includes/functions/real-estate.php:194
+#: includes/functions/real-estate.php:201
+msgid "State"
+msgstr "Estado"
+
+#: includes/functions/real-estate.php:200
+msgid "Country"
+msgstr "País"
+
+#: includes/meta-boxes/contact.php:15
+msgid "Contact Page Information"
+msgstr "Informações da Página de Contato"
+
+#: includes/meta-boxes/contact.php:21
+msgid "Google Map"
+msgstr "Google Map"
+
+#: includes/meta-boxes/contact.php:29
+msgid "Contact Form"
+msgstr "Formulário de Contato"
+
+#: includes/meta-boxes/contact.php:41
+msgid "Leaving it empty will hide the google map."
+msgstr "Deixando vazio, esconderá o mapa do google."
+
+#: includes/meta-boxes/contact.php:49
+msgid "Office Location"
+msgstr "Localização do escritório"
+
+#: includes/meta-boxes/contact.php:50
+msgid ""
+"Drag the marker to point your office location. You can also use the address "
+"field above to search for your address."
+msgstr ""
+"Você pode arrastar o marcador para ajustar a localização exata do escritório."
+
+#: includes/meta-boxes/contact.php:61
+msgid "Map Zoom Level"
+msgstr "Nível de Zoom do Mapa"
+
+#: includes/meta-boxes/contact.php:62
+msgid "Zoom level for resulted map on contact page."
+msgstr "Zoom level for resulted map on contact page."
+
+#: includes/meta-boxes/contact.php:74
+msgid "Office Address to Display"
+msgstr "Endereço do escritório para exibir"
+
+#: includes/meta-boxes/contact.php:75
+msgid "Given address will be displayed on contact page."
+msgstr "O endereço dado será exibido na página de contato."
+
+#: includes/meta-boxes/contact.php:81
+msgid "Phone"
+msgstr "Telefone"
+
+#: includes/meta-boxes/contact.php:93
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/meta-boxes/contact.php:99
+msgid "Email to Display"
+msgstr "E-mail a exibir"
+
+#: includes/meta-boxes/contact.php:100
+msgid "Given email address will be displayed on contact page."
+msgstr "O e-mail cedido será exibido na página de contatos."
+
+#: includes/meta-boxes/contact.php:107
+msgid "Working Hours"
+msgstr "Horário de expediente"
+
+#: includes/meta-boxes/contact.php:114
+msgid "Contact Form Heading"
+msgstr "Título do formulário de contato"
+
+#: includes/meta-boxes/contact.php:116
+msgid "Send Us a Message"
+msgstr "Nos envie uma mensagem"
+
+#: includes/meta-boxes/contact.php:121
+msgid "Contact Form Email"
+msgstr "E-mail do formulário de contato"
+
+#: includes/meta-boxes/contact.php:122
+msgid "Given email address will receive messages from theme based contact form"
+msgstr ""
+"O endereço de email fornecido receberá mensagens do formulário de contato "
+"baseado em tema"
+
+#: includes/meta-boxes/contact.php:129
+msgid "Contact Form 7 Shortcode"
+msgstr "Formulário de contato 7 Shortcode"
+
+#: includes/meta-boxes/contact.php:130
+msgid ""
+"You can provide contact form 7 shortcode, If you want to use a custom form. "
+"It will be displayed if above given email address is empty."
+msgstr ""
+"Você pode fornecer um formulário de contato 7 shortcode, se você quiser usar "
+"um formulário personalizado. Será exibido se o endereço de e-mail "
+"especificado acima estiver vazio."
+
+#: includes/meta-boxes/load-meta-boxes.php:17
+msgid "Meta Box plugin has been deactivated!"
+msgstr "O plugin Meta Box foi desativado!"
+
+#: includes/meta-boxes/load-meta-boxes.php:18
+#: includes/meta-boxes/load-meta-boxes.php:33
+#: includes/meta-boxes/load-meta-boxes.php:49
+#: includes/meta-boxes/load-meta-boxes.php:65
+#: includes/meta-boxes/load-meta-boxes.php:81
+msgid ""
+"As now its functionality is embedded with in Inspiry Real Estate plugin."
+msgstr ""
+"Agora a sua funcionalidade é incorporado com no Inspiry Imóveis plugin."
+
+#: includes/meta-boxes/load-meta-boxes.php:19
+#: includes/meta-boxes/load-meta-boxes.php:35
+#: includes/meta-boxes/load-meta-boxes.php:51
+#: includes/meta-boxes/load-meta-boxes.php:67
+#: includes/meta-boxes/load-meta-boxes.php:83
+msgid "So, You should completely remove it from your plugins."
+msgstr "Então, você deve removê-lo completamente de seus plugins."
+
+#: includes/meta-boxes/load-meta-boxes.php:32
+msgid "Meta Box Columns plugin has been deactivated!"
+msgstr "O plugin Meta Box Columns foi desativado!"
+
+#: includes/meta-boxes/load-meta-boxes.php:48
+msgid "Meta Box Tabs plugin has been deactivated!"
+msgstr "O plugin Meta Box Tabs foi desativado!"
+
+#: includes/meta-boxes/load-meta-boxes.php:64
+msgid "Meta Box Show Hide plugin has been deactivated!"
+msgstr "O plugin Meta Box Show Hide foi desativado!"
+
+#: includes/meta-boxes/load-meta-boxes.php:80
+msgid "Meta Box Group plugin has been deactivated!"
+msgstr "O plugin Meta Box Group foi desativado!"
+
+#: includes/meta-boxes/meta-box-extensions/meta-box-group/class-rwmb-group-field.php:63
+msgid "Are you sure you want to remove this group?"
+msgstr "Tem certeza de que deseja remover este grupo?"
+
+#: includes/meta-boxes/meta-box-extensions/meta-box-group/class-rwmb-group-field.php:347
+msgid "Entry {#}"
+msgstr "Entrada {#}"
+
+#: includes/meta-boxes/meta-box-extensions/meta-box-group/class-rwmb-group-field.php:347
+msgid "Entry"
+msgstr "Entrada"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:54
+msgid "About"
+msgstr "Sobre"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:66
+#: includes/meta-boxes/meta-box/inc/about/about.php:67
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:82
+msgid "Welcome to Meta Box"
+msgstr "Bem vindo ao Meta Box"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:83
+msgid "Dashboard"
+msgstr "Painel"
+
+#: includes/meta-boxes/meta-box/inc/about/about.php:153
+#, php-format
+msgid ""
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
+"Meta Box team!"
+msgstr ""
+"Por favor, classifique <strong>Meta Box</strong> <a href=\"%1$s\" target="
+"\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> em <a href=\"%1$s\" "
+"target=\"_blank\">WordPress.org</a> para nos ajudar a espalhar a palavra. "
+"Obrigado da equipe Meta Box!"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:11
+msgid ""
+"Extend custom fields in WordPress well beyond what others would ever "
+"consider ordinary!"
+msgstr ""
+"Amplie os campos personalizados no WordPress muito além do que outros jamais "
+"considerariam comum!"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:12
+msgid "Save over 80% with our extensions bundles."
+msgstr "Economize mais de 80% com os nossos pacotes de extensões."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:12
+msgid "View Bundles"
+msgstr "Ver pacotes"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:20
+msgid ""
+"Create and manage custom post types easily in WordPress with an easy-to-use "
+"interface."
+msgstr ""
+"Crie e gerencie tipos de postagem personalizados facilmente no WordPress com "
+"uma interface fácil de usar."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:24
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:120
+msgid "Free Download"
+msgstr "Download grátis"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:32
+msgid ""
+"Drag and drop your custom fields into place without a single line of code."
+msgstr ""
+"Arraste e solte seus campos personalizados sem uma única linha de código."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:36
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:48
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:60
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:72
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:84
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:96
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:108
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:23
+#: includes/redux-framework/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr "Saiba Mais"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:44
+msgid ""
+"Create repeatable groups of custom fields for better appearance and "
+"structure."
+msgstr ""
+"Crie grupos repetidos de campos personalizados para melhor aparência e "
+"estrutura."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:56
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr ""
+"Crie uma poderosa página de configurações para o seu tema, plug-in ou "
+"website."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:68
+msgid ""
+"Control the visibility of meta boxes and fields or even HTML elements with "
+"ease."
+msgstr ""
+"Controle a visibilidade de caixas meta e campos ou até mesmo elementos HTML "
+"com facilidade."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:80
+msgid ""
+"Create register, login and edit user profile forms in the frontend. Embed "
+"everywhere with shortcodes."
+msgstr ""
+"Criar registro, login e editar formulários de perfil de usuário no frontend. "
+"Incorpore em qualquer lugar com Shortcodes."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:92
+msgid ""
+"Create frontend forms for users to submit custom content. Embed everywhere "
+"with shortcode."
+msgstr ""
+"Crie formulários de frontend para que os usuários enviem conteúdo "
+"personalizado. Incorpore em toda parte com shortcode."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:104
+msgid ""
+"Save custom fields data to custom table. Reduce database size and increase "
+"performance."
+msgstr ""
+"Salve os dados dos campos personalizados na tabela personalizada. Reduza o "
+"tamanho do banco de dados e aumente o desempenho."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:116
+msgid "Create many-to-many relationships between posts, terms and users."
+msgstr "Criar muitos relacionamentos entre posts, termos e usuários."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/extensions.php:124
+#| msgid "Redux Extensions"
+msgid "View all extensions"
+msgstr "Ver todas as extensões"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:12
+msgid "Getting Started With Online Generator"
+msgstr "Começando com o gerador on-line"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:13
+msgid ""
+"The fastest way to getting started with Meta Box is use our online generator "
+"to generate meta boxes with custom fields. It provides a friendly UI for you "
+"to create meta boxes and custom fields just by drag and drop fields."
+msgstr ""
+"A maneira mais rápida de começar a usar o Meta Box é usar nosso gerador on-"
+"line para gerar caixas meta com campos personalizados. Ele fornece uma "
+"interface amigável para você criar caixas meta e campos personalizados "
+"apenas arrastando e soltando campos."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:15
+msgid "online generator"
+msgstr "gerador online"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:17
+msgid "Go to Online Generator"
+msgstr "Vá para o Gerador Online"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:21
+msgid "Understand The Basics"
+msgstr "Entenda o básico"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:22
+msgid ""
+"Meta Box doesn't have any admin page for configuration or settings. Instead "
+"of that, it provides a very powerful API to speed up the process of creating "
+"meta boxes and custom fields. It might take you a little time at first, but "
+"then you'll love the way it work because it helps you do and customize "
+"almost everything."
+msgstr ""
+"O Meta Box não possui nenhuma página de administração para configuração ou "
+"configurações. Em vez disso, ele fornece uma API muito poderosa para "
+"acelerar o processo de criação de caixas meta e campos personalizados. Pode "
+"levar um pouco de tempo no início, mas você vai adorar a maneira como "
+"funciona, porque ajuda você a fazer e personalizar quase tudo."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:25
+#: includes/meta-boxes/meta-box/inc/about/sections/tabs.php:12
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:22
+#: includes/meta-boxes/meta-box/inc/core.php:39
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:347
+msgid "Extensions"
+msgstr "Extensões"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:26
+msgid ""
+"Wanna see more features that transform your WordPress website into a "
+"powerful CMS? Check out some extensions below:"
+msgstr ""
+"Quer ver mais recursos que transformam seu site WordPress em um poderoso "
+"CMS? Confira algumas extensões abaixo:"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:28
+msgid "Meta Box Group"
+msgstr "Grupo Meta Box"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:29
+msgid "Meta Box Conditional Logic"
+msgstr "Lógica condicional da metacaixa"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:30
+msgid "MB Settings Page"
+msgstr "Configurações da Página"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:31
+msgid "MB Term Meta"
+msgstr "MB Termo Meta"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/getting-started.php:33
+msgid "More Extensions"
+msgstr "Mais extensões"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/newsletter.php:11
+msgid "Meta Box Newsletter"
+msgstr "Meta Box Newsletter"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/newsletter.php:13
+msgid ""
+"Want to learn how to use Meta Box to its full potential? Sign up to get "
+"valuable tips and resources. We will never spam you."
+msgstr ""
+"Quer aprender a usar a Meta Box em todo o seu potencial? Inscreva-se para "
+"obter dicas e recursos valiosos. Nós nunca vamos spam você."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/newsletter.php:15
+msgid "Subscribe"
+msgstr "Inscrever-se"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:18
+#, php-format
+msgid ""
+"Still need help with Meta Box? We offer excellent support for you. But don't "
+"forget to check our <a href=\"%s\">documentation</a> first."
+msgstr ""
+"Ainda precisa de ajuda com Meta Box? Oferecemos um excelente suporte para "
+"você. Mas não te esqueças de verificar a nossa <a href=“%s”>documentação</a> "
+"primeiro."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:23
+msgid "Free Support"
+msgstr "Suporte Gratuito"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:24
+msgid ""
+"If you have any question about how to use the plugin, please open a new "
+"topic on WordPress.org support forum or open a new issue on Github "
+"(preferable). We will try to answer as soon as we can."
+msgstr ""
+"Se você tiver alguma dúvida sobre como usar o plugin, por favor, abra um "
+"novo tópico no fórum de suporte WordPress.org ou abra um novo problema no "
+"GitHub (preferível). Nós tentaremos responder assim que pudermos."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:25
+msgid "Go to Github"
+msgstr "Ir para o GitHub"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:26
+msgid "Go to WordPress.org"
+msgstr "Ir para WordPress.org"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:30
+msgid "Premium Support"
+msgstr "Suporte Premium"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:31
+msgid ""
+"For users that have bought premium extensions, the support is provided in "
+"the Meta Box Support forum. Any question will be answered with technical "
+"details within 24 hours."
+msgstr ""
+"Para usuários que compraram extensões Premium, o suporte é fornecido no "
+"fórum Meta Box support. Qualquer pergunta será respondida com detalhes "
+"técnicos dentro de 24 horas."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/support.php:32
+msgid "Go to support forum"
+msgstr "Fórum Suporte"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Começando"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/tabs.php:13
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:23
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:356
+msgid "Support"
+msgstr "Suporte"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:10
+msgid "Upgrade to Meta Box PRO"
+msgstr "Atualize para o Meta Box PRO"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:11
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr ""
+"Por favor, atualize para o plano PRO para desbloquear recursos mais "
+"impressionantes."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:13
+msgid ""
+"Create custom fields with drag-n-drop interface - no coding knowledge "
+"required!"
+msgstr ""
+"Criar campos personalizados com arrastar-n-drop interface-nenhum "
+"conhecimento de codificação necessário!"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:14
+msgid "Add custom fields to taxonomies or user profile."
+msgstr "Adicione campos personalizados a taxonomias ou perfil de usuário."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:15
+msgid "Create custom settings pages."
+msgstr "Crie páginas de configurações personalizadas."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:16
+msgid "Create frontend submission forms."
+msgstr "Crie formulários de submissão de frontend."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:17
+msgid "Save custom fields in custom tables."
+msgstr "Salve campos personalizados em tabelas personalizadas."
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:18
+msgid "And much more!"
+msgstr "E muito mais!"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/upgrade.php:20
+msgid "Get Meta Box PRO now"
+msgstr "Obtenha o Meta Box PRO agora"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:18
+msgid ""
+"Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
+"plugin and framework that makes quick work of customizing a website with—you "
+"guessed it—meta boxes and custom fields in WordPress. Follow the instruction "
+"below to get started!"
+msgstr ""
+"Meta Box é um livre Gutenberg e GDPR-compatível WordPress campos "
+"personalizados plugin e estrutura que faz o trabalho rápido de personalizar "
+"um site com-você adivinhou-meta caixas e campos personalizados no WordPress. "
+"Siga as instruções abaixo para começar!"
+
+#: includes/meta-boxes/meta-box/inc/about/sections/welcome.php:21
+#: includes/meta-boxes/meta-box/inc/core.php:38
+msgid "Documentation"
+msgstr "Documentação"
+
+#: includes/meta-boxes/meta-box/inc/field.php:354
+msgid "+ Add more"
+msgstr "+ Adicione mais"
+
+#: includes/meta-boxes/meta-box/inc/fields/autocomplete.php:23
+#: includes/meta-boxes/meta-box/inc/fields/autocomplete.php:85
+#: includes/meta-boxes/meta-box/inc/fields/autocomplete.php:97
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr "Excluir"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:64
+msgid "Background Image"
+msgstr "Imagem de Fundo"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:78
+msgid "-- Background Repeat --"
+msgstr "-- Fundo de repetição --"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:80
+msgid "No Repeat"
+msgstr "Não Repetir"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:81
+msgid "Repeat All"
+msgstr "Repetir tudo"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:82
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:83
+msgid "Repeat Vertically"
+msgstr "Repetir Verticalmente"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:84
+#: includes/meta-boxes/meta-box/inc/fields/background.php:122
+#: includes/meta-boxes/meta-box/inc/fields/background.php:136
+msgid "Inherit"
+msgstr "Herdar"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:96
+msgid "-- Background Position --"
+msgstr "- Posição de fundo -"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:98
+msgid "Top Left"
+msgstr "Superior Esquerda"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:99
+msgid "Top Center"
+msgstr "Centro superior"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:100
+msgid "Top Right"
+msgstr "Superior Direito"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:101
+msgid "Center Left"
+msgstr "Centro Esquerda"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:102
+msgid "Center Center"
+msgstr "Centro Centro"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:103
+msgid "Center Right"
+msgstr "Centro Direito"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:104
+msgid "Bottom Left"
+msgstr "Inferior esquerdo"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:105
+msgid "Bottom Center"
+msgstr "Inferior Centro"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:106
+msgid "Bottom Right"
+msgstr "Inferior Direito"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:118
+msgid "-- Background Attachment --"
+msgstr "— Anexo de fundo --"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:120
+msgid "Fixed"
+msgstr "Fixo"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:121
+msgid "Scroll"
+msgstr "Rolagem"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:134
+msgid "-- Background Size --"
+msgstr "-- Tamanho do plano de fundo --"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:137
+msgid "Cover"
+msgstr "Capa"
+
+#: includes/meta-boxes/meta-box/inc/fields/background.php:138
+msgid "Contain"
+msgstr "Conter"
+
+#: includes/meta-boxes/meta-box/inc/fields/button.php:34
+msgid "Click me"
+msgstr "Clique aqui"
+
+#: includes/meta-boxes/meta-box/inc/fields/file-input.php:23
+msgid "Select File"
+msgstr "Selecionar Arquivo"
+
+#: includes/meta-boxes/meta-box/inc/fields/file-input.php:43
+#: includes/meta-boxes/meta-box/inc/fields/select.php:92
+msgid "Select"
+msgstr "Selecionar"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Você só pode fazer upload máximo de %d por arquivo"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:26
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Você só pode fazer upload de no máximo %d arquivos"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:61
+msgid "Error: Invalid file"
+msgstr "Erro: arquivo inválido"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:75
+msgid "Error: Cannot delete file"
+msgstr "Erro: Não foi possível excluir o arquivo"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:88
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Adicionar novo arquivo"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:163
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Excluir"
+
+#: includes/meta-boxes/meta-box/inc/fields/file.php:164
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/meta-boxes/meta-box/inc/fields/input-list.php:92
+msgid "Toggle All"
+msgstr "Alternar tudo"
+
+#: includes/meta-boxes/meta-box/inc/fields/key-value.php:135
+msgid "Key"
+msgstr "Chave"
+
+#: includes/meta-boxes/meta-box/inc/fields/map.php:55
+#: includes/meta-boxes/meta-box/inc/fields/osm.php:28
+msgid "No results found"
+msgstr "Nenhum resultado encontrado"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Adicionar Mídia"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid " file"
+msgstr " arquivo"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid " files"
+msgstr " arquivos"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:31
+msgctxt "media"
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:32
+msgctxt "media"
+msgid "View"
+msgstr "Ver"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:33
+msgctxt "media"
+msgid "No Title"
+msgstr "Sem Título"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:36
+msgctxt "media"
+msgid "Select Files"
+msgstr "Selecionar arquivos"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:37
+msgctxt "media"
+msgid "or"
+msgstr "ou"
+
+#: includes/meta-boxes/meta-box/inc/fields/media.php:38
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Solte os arquivos aqui para enviar"
+
+#: includes/meta-boxes/meta-box/inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr "Incorporar HTML não disponível."
+
+#: includes/meta-boxes/meta-box/inc/fields/post.php:35
+msgid "Select a post"
+msgstr "Selecionar um post"
+
+#: includes/meta-boxes/meta-box/inc/fields/post.php:41
+#: includes/meta-boxes/meta-box/inc/fields/taxonomy.php:52
+#, php-format
+msgid "Select a %s"
+msgstr "Selecione um %s"
+
+#: includes/meta-boxes/meta-box/inc/fields/select-advanced.php:47
+#: includes/redux-framework/ReduxCore/inc/fields/select/field_select.php:83
+#: includes/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:54
+msgid "Select an item"
+msgstr "Selecione um item"
+
+#: includes/meta-boxes/meta-box/inc/fields/select.php:92
+#: includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:125
+#: includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: vc-elements/properties.php:84
+msgid "All"
+msgstr "Todos"
+
+#: includes/meta-boxes/meta-box/inc/fields/sidebar.php:23
+msgid "Select a sidebar"
+msgstr "Selecione uma barra lateral"
+
+#: includes/meta-boxes/meta-box/inc/fields/switch.php:93
+#: includes/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr "Ligado"
+
+#: includes/meta-boxes/meta-box/inc/fields/switch.php:94
+#: includes/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr "Desligado"
+
+#: includes/meta-boxes/meta-box/inc/fields/taxonomy.php:48
+msgid "Select a term"
+msgstr "Selecione um termo"
+
+#: includes/meta-boxes/meta-box/inc/fields/user.php:42
+msgid "Select an user"
+msgstr "Selecione um usuário"
+
+#: includes/meta-boxes/meta-box/inc/update/checker.php:127
+msgid ""
+"UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic "
+"updates."
+msgstr ""
+"ATUALIZAÇÃO INDISPONÍVEL! Por favor, digite uma chave de licença válida para "
+"habilitar as atualizações automáticas."
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:112
+#, php-format
+msgid ""
+"You have not set your Meta Box license key yet, which means you are missing "
+"out on automatic updates and support! Please <a href=\"%1$s\">enter your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+"Você ainda não definiu sua chave de licença Meta Box, o que significa que "
+"você está perdendo atualizações automáticas e suporte! Por favor, <a href="
+"\"%1$s\">insira sua chave de licença</a> ou <a href=\"%2$s\" target=\"_blank"
+"\">obtenha uma nova aqui</a>."
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:114
+#: includes/meta-boxes/meta-box/inc/update/notification.php:116
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s"
+"\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a "
+"new one</a> to enable automatic updates."
+msgstr ""
+"Sua chave de licença para Meta Box é <b>inválida</b>. Por favor, <a href="
+"\"%1$s\">atualize sua chave de licença</a> ou <a href=\"%2$s\" target="
+"\"_blank\">obtenha uma nova</a> para ativar as atualizações automáticas."
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:118
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
+"target=\"_blank\">renew your license</a> to get automatic updates and "
+"premium support."
+msgstr ""
+"Sua chave de licença para Meta Box está <b>expirada</b>. Por favor, <a href="
+"\"%3$s\" target=\"_blank\">renove sua licença</a> para obter atualizações "
+"automáticas e suporte premium."
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:142
+#, php-format
+msgid ""
+"Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
+"target=\"_blank\">get a new one here</a>."
+msgstr ""
+"Por favor, <a href=\"%1$s\">digite sua chave de licença</a> ou <a href=\"%2$s"
+"\" target=\"_blank\">obtenha uma nova aqui</a>."
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:144
+#: includes/meta-boxes/meta-box/inc/update/notification.php:146
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+"A sua chave de licença é <b>inválida</b>. Por favor, <a href=\"%1$s"
+"\">atualize sua chave de licença</a> ou <a href=\"%2$s\" target=\"_blank"
+"\">obtenha uma nova aqui</a>."
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:148
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+"Sua chave de licença está <b>expirada</b>. Por favor, <a href=\"%3$s\" "
+"target=\"_blank\">renove a sua licença</a>."
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:171
+msgid "Activate License"
+msgstr "Ativar Licença"
+
+#: includes/meta-boxes/meta-box/inc/update/notification.php:171
+msgid "Update License"
+msgstr "Atualizar a Licença"
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:72
+#: includes/meta-boxes/meta-box/inc/update/settings.php:90
+#| msgid "Meta Box"
+msgid "Meta Box License"
+msgstr "Licença Meta Box"
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:72
+msgid "License"
+msgstr "Licença"
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:91
+msgid ""
+"Please enter your license key to enable automatic updates for Meta Box "
+"extensions."
+msgstr ""
+"Por favor, digite sua chave de licença para habilitar atualizações "
+"automáticas para as extensões do Meta Box."
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:96
+#, php-format
+msgid ""
+"To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website. If you have not purchased any "
+"extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+"Para obter a chave da licença, visite a página <a href=\"%1$s\" target="
+"\"_blank\">Minha Conta</a> no site metabox.io. Se você ainda não comprou "
+"qualquer extensão, por <a href=\"%2$s\" target=\"_blank\">favor, obtenha uma "
+"nova licença aqui.</a>."
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:108
+msgid "License Key"
+msgstr "Chave da licença"
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:114
+#: includes/meta-boxes/meta-box/inc/update/settings.php:116
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please update your license key or <a "
+"href=\"%1$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+"A sua chave de licença é <b>inválida</b>. Por favor, atualize sua chave de "
+"licença ou <a href=\"%1$s\" target=\"_blank\">obtenha uma nova aqui</a>."
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:118
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%2$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+"Sua chave de licença <b>expirou.</b> Por favor, <a href=\"%2$s\" target="
+"\"_blank\">renove sua licença.</a>."
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:119
+msgid "Your license key is <b>active</b>."
+msgstr "Sua chave de licença está <b>ativa.</b>."
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:156
+msgid ""
+"Something wrong with the connection to metabox.io. Please try again later."
+msgstr ""
+"Algo errado com a conexão com a metabox.io. Por favor, tente novamente mais "
+"tarde."
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:158
+msgid "Your license is activated."
+msgstr "Sua Licença está ativada."
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:161
+#, php-format
+msgid ""
+"License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website."
+msgstr ""
+"A licença expirou. Favor renovar na página <a href=\"%s\" target=\"_blank"
+"\">Minha Conta</a> no site metabox.io."
+
+#: includes/meta-boxes/meta-box/inc/update/settings.php:167
+#, php-format
+msgid ""
+"Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
+"or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr ""
+"Licença inválida. Por favor, <a href=\"%1$s\" target=\"_blank\">verifique "
+"novamente</a> ou <a href=\"%2$s\" target=\"_blank\">obtenha uma nova licença "
+"aqui</a>."
+
+#: includes/meta-boxes/meta-box/inc/validation.php:50
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Por favor, corrija os erros destacados abaixo e tente novamente."
+
+#: includes/meta-boxes/meta-box/meta-box.php:24
+msgid ""
+"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
+msgstr ""
+"O Meta Box requer PHP versão 5.3+. Por favor, entre em contato com seu host "
+"para atualizar."
+
+#: includes/meta-boxes/others.php:13
+msgid "Gallery Settings"
+msgstr "Configurações da Galeria"
+
+#: includes/meta-boxes/others.php:27
+#: includes/meta-boxes/properties-pages.php:41
+msgid "Number of Properties Per Page"
+msgstr "Número de imóveis por página"
+
+#: includes/meta-boxes/others.php:54
+msgid "Agents Settings"
+msgstr "Configurações de Corretores"
+
+#: includes/meta-boxes/others.php:68
+msgid "Number of Agents Per Page"
+msgstr "Número de corretor por página"
+
+#: includes/meta-boxes/others.php:94
+msgid "Choose a sidebar"
+msgstr "Escolha uma sidebar"
+
+#: includes/meta-boxes/others.php:102
+msgid "Sidebar Settings"
+msgstr "Configurações da Barra Lateral"
+
+#: includes/meta-boxes/others.php:124
+msgid "Sidebar (optional)"
+msgstr ""
+
+#: includes/meta-boxes/others.php:126
+msgid ""
+"Choose a custom sidebar for this entry. Otherwise, default entry's sidebar "
+"will be displayed."
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:25
+msgid "Properties Settings"
+msgstr "Configurações dos Imóveis"
+
+#: includes/meta-boxes/properties-pages.php:50
+msgid "Order Properties By"
+msgstr "Ordenar imóveis por"
+
+#: includes/meta-boxes/properties-pages.php:53
+msgid "Date New to Old"
+msgstr "Mais recentes"
+
+#: includes/meta-boxes/properties-pages.php:54
+msgid "Date Old to New"
+msgstr "Mais antigos"
+
+#: includes/meta-boxes/properties-pages.php:55
+msgid "Price Low to High"
+msgstr "Menor valor"
+
+#: includes/meta-boxes/properties-pages.php:56
+msgid "Price High to Low"
+msgstr "Maior valor"
+
+#: includes/meta-boxes/properties-pages.php:57
+#: includes/widgets/featured-properties-widget.php:123
+msgid "Random"
+msgstr "Aleatório"
+
+#: includes/meta-boxes/properties-pages.php:101
+msgid "Minimum Beds"
+msgstr "Nº mínimo de banheiros"
+
+#: includes/meta-boxes/properties-pages.php:110
+msgid "Minimum Baths"
+msgstr "Nº mínimo de quartos"
+
+#: includes/meta-boxes/properties-pages.php:119 vc-elements/properties.php:223
+msgid "Minimum Price"
+msgstr "Preço Mínimo"
+
+#: includes/meta-boxes/properties-pages.php:128 vc-elements/properties.php:231
+msgid "Maximum Price"
+msgstr "Preço Máximo"
+
+#: includes/meta-boxes/properties-pages.php:137
+msgid "Google Map in Header"
+msgstr "Mapa do Google no cabeçalho"
+
+#: includes/meta-boxes/properties-pages.php:139
+msgid "Display Google Map with Properties Markers"
+msgstr "Exibir o Google Map com marcadores de propriedades"
+
+#: includes/meta-boxes/properties-pages.php:144
+msgid "Google Half Map Layout"
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:148
+msgid "Select Google Half Map Layout"
+msgstr ""
+
+#: includes/meta-boxes/properties-pages.php:151
+#: includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:159
+#: includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "Esquerda"
+
+#: includes/meta-boxes/properties-pages.php:152
+#: includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:145
+#: includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "Direita"
+
+#: includes/redux-framework/ReduxCore/core/enqueue.php:452
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:689
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Você tem alterações não salvas. Deseja salvá-las agora?"
+
+#: includes/redux-framework/ReduxCore/core/enqueue.php:460
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:690
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+"Você tem certeza? Reiniciar irá perder todos os valores personalizados."
+
+#: includes/redux-framework/ReduxCore/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "Você tem certeza? Reiniciar irá perder todos os valores nesta seção."
+
+#: includes/redux-framework/ReduxCore/core/enqueue.php:476
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:691
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Suas opções atuais serão substituídas pelos valores desta predefinição. "
+"Gostaria de continuar?"
+
+#: includes/redux-framework/ReduxCore/core/enqueue.php:484
+msgid ""
+"Your current options will be replaced with the values of this import. Would "
+"you like to proceed?"
+msgstr ""
+"As opções actuais serão substituídas pelos valores desta importação. "
+"Gostaria de prosseguir?"
+
+#: includes/redux-framework/ReduxCore/core/enqueue.php:493
+msgid "Please Wait"
+msgstr "Por favor aguarde"
+
+#: includes/redux-framework/ReduxCore/core/enqueue.php:504
+msgid "There was an error saving. Here is the result of your action:"
+msgstr "Ocorreu um erro ao salvar. Aqui está o resultado da sua ação:"
+
+#: includes/redux-framework/ReduxCore/core/enqueue.php:505
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+"Houve um problema com a sua ação. Por favor tente novamente ou recarregue a "
+"página."
+
+#: includes/redux-framework/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"Aviso - Este painel de opções não funcionará corretamente sem o javascript!"
+
+#: includes/redux-framework/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr "Configurações Importadas!"
+
+#: includes/redux-framework/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr "Todos os padrões foram restaurados!"
+
+#: includes/redux-framework/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr "As Definições da Seção foram Restauradas!"
+
+#: includes/redux-framework/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr "Configurações salvas!"
+
+#: includes/redux-framework/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr "As configurações mudaram, você deve salvá-las!"
+
+#: includes/redux-framework/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr "erro(s) foram encontrados!"
+
+#: includes/redux-framework/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr "aviso(s) foram encontrados!"
+
+#: includes/redux-framework/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+"<Strong> Seu painel inclui cópias desatualizadas de arquivos de modelo do "
+"Redux Framework </ strong> & # 8211; Se você encontrar problemas de "
+"funcionalidade isso poderia ser o motivo. Certifique-se de atualizá-los ou "
+"removê-los."
+
+#: includes/redux-framework/ReduxCore/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr "Painel de opções criado com %1$s"
+
+#: includes/redux-framework/ReduxCore/framework.php:221
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:203
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: includes/redux-framework/ReduxCore/framework.php:225
+#: includes/redux-framework/ReduxCore/framework.php:229
+msgid "Options"
+msgstr "Opções"
+
+#: includes/redux-framework/ReduxCore/framework.php:1746
+msgid "Enable"
+msgstr "Ativar"
+
+#: includes/redux-framework/ReduxCore/framework.php:1751
+msgid "Disable"
+msgstr "Desativar"
+
+#: includes/redux-framework/ReduxCore/framework.php:1757
+msgid "moving the mouse over"
+msgstr "movendo o mouse sobre"
+
+#: includes/redux-framework/ReduxCore/framework.php:1759
+msgid "clicking"
+msgstr "clicando"
+
+#: includes/redux-framework/ReduxCore/framework.php:1763
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+"As sugestões são dicas de ferramentas que aparecem quando %d o ícone de "
+"sugestão, oferecendo informações de adição sobre o campo em que aparecem. "
+"Eles podem ser %d usando o link abaixo."
+
+#: includes/redux-framework/ReduxCore/framework.php:1768
+msgid "Hints"
+msgstr "Dicas"
+
+#: includes/redux-framework/ReduxCore/framework.php:1895
+msgid "Default"
+msgstr "Padrão"
+
+#: includes/redux-framework/ReduxCore/framework.php:2775
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+"Credenciais de segurança inválidas. Por favor, recarregue a página e tente "
+"denovo."
+
+#: includes/redux-framework/ReduxCore/framework.php:2784
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+"Capacidade de usuário inválida. Por favor, recarregue a página e tente "
+"denovo."
+
+#: includes/redux-framework/ReduxCore/framework.php:2864
+msgid "Your panel has no fields. Nothing to save."
+msgstr "Seu painel não tem nenhum campo. Nada para salvar."
+
+#: includes/redux-framework/ReduxCore/framework.php:3984
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+"<Strong>Aviso Redux Framework: </strong> Há referências ao site de suporte "
+"do Redux Framework em seu sua configuração <code>admin_bar_links</code>. "
+"Estes são dados da amostra. Por favor, alterar ou remover esses dados antes "
+"de enviar o produto."
+
+#: includes/redux-framework/ReduxCore/framework.php:4000
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+"<Strong>Aviso Redux Framework: </strong> Há referências ao site de suporte "
+"do Redux Framework em seu sua configuração <code>share_icons</code>. Estes "
+"são dados da amostra. Por favor, alterar ou remover esses dados antes de "
+"enviar o produto."
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_admin_notices.php:111
+msgid "Dismiss"
+msgstr "Dispensar"
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+"Por favor, aguarde alguns minutos, em seguida, tente atualizar a página. Não "
+"foi possível carregar alguns scripts hospedados remotamente."
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+"Se você estiver desenvolvendo off-line, faça o download e instale o <a href="
+"\"%s\" target=\"_blank\">Redux Vendor Suporte</a> plugin/extensão para "
+"ignorar a nossa CDN e evitar esse aviso"
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_cdn.php:79
+msgid "Redux Framework Warning"
+msgstr "Aviso Redux Framework"
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_cdn.php:79
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+"%s CDN indisponíveis. Alguns controles não podem processar corretamente."
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_cdn.php:115
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+"O <a href=\"%s\">Plugin de suporte do fornecedor</a> (ou extensão) não está "
+"instalado ou não está ativado e, portanto, alguns controles podem não "
+"funcionar corretamente. Certifique-se de ele está instalado e <a href=\"%s"
+"\">ativado</a>"
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_filesystem.php:50
+#: includes/redux-framework/ReduxCore/inc/class.redux_filesystem.php:289
+msgid "File Permission Issues"
+msgstr "Problemas de permissão de arquivo"
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_filesystem.php:50
+#: includes/redux-framework/ReduxCore/inc/class.redux_filesystem.php:289
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+"Não fomos capazes de modificar os arquivos necessários. Certifique-se de que "
+"<code>%1s</code> possui as devidas permissões de leitura e escrita, ou "
+"modifique seu arquivo wp-config.php para conter suas credenciais de login de "
+"FTP como  <a href=\"%2s\" target=\"_blank\">aqui delineada</a>."
+
+#: includes/redux-framework/ReduxCore/inc/class.redux_helpers.php:622
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+"<code>%s</code> versão <strong style=\"color:red\">%s</strong> está "
+"desatualizado. A versão principal é %s"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:724
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Você tem alterações que não são salvas. Gostaria de salvá-los agora?"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:725
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+"Você tem certeza? A redefinição perderá todos os valores personalizados."
+
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:726
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Suas opções atuais serão substituídas pelos valores desta predefinição. "
+"Gostaria de continuar?"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr "Pressione retornar ou digite para abrir este painel"
+
+#. translators: %s is the site/panel title in the Customizer
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr "Você está personalizando %s"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr "Voltar"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr "Ajuda"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr "Pressione retornar ou digite para abrir"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr "Pressione retornar ou enter para expandir"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr "Opções de importação"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr "Importar do arquivo"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr "Importar do URL"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Introduza o seu arquivo de backup abaixo e clique em Importar para restaurar "
+"as opções de configurações locais a partir de um backup."
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Introduza o URL para outro conjunto de opções de sites e clique em Importar "
+"para carregar as opções desse site."
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr "Importar"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"ATENÇÃO! Isso substituirá todos os valores das opções existentes, por favor, "
+"prossiga com cuidado!"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr "Opções de Exportação"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Aqui você pode copiar / fazer o download das opções atuais. Mantenha isto "
+"seguro pois você poderá utilizá-lo como um backup se algo correr errado, ou "
+"você poderá utilizá-lo para restaurar as configurações neste site (ou "
+"qualquer outro site)."
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr "Copiar Dados"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr "Baixar arquivo de dados"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr "Copiar URL de exportação"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+#: includes/redux-framework/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr "Opções de objeto"
+
+#: includes/redux-framework/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr "Mostrar objeto no objeto console do Javascript"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:124
+#: includes/redux-framework/ReduxCore/inc/fields/color/field_color.php:73
+#: includes/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: includes/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr "Transparente"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "Repetir Fundo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "Clipe de Fundo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "Origem de Fundo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "Tamanho do Fundo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "Anexo do background"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "Posição do Fundo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:277
+#: includes/redux-framework/ReduxCore/inc/fields/media/field_media.php:153
+msgid "No media selected"
+msgstr "Nenhuma mídia selecionada"
+
+#: includes/redux-framework/ReduxCore/inc/fields/background/field_background.php:314
+#: includes/redux-framework/ReduxCore/inc/fields/media/field_media.php:206
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "Upload"
+
+#: includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:138
+#: includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "Topo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:152
+#: includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "Inferior"
+
+#: includes/redux-framework/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr "Estilo de borda"
+
+#: includes/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "De "
+
+#: includes/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "Para "
+
+#: includes/redux-framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:71
+msgid "Choose"
+msgstr "Escolher"
+
+#: includes/redux-framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:72
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/redux-framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:74
+msgid "Select Color"
+msgstr "Selecionar cor"
+
+#: includes/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:156
+msgid "Width"
+msgstr "Largura"
+
+#: includes/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:172
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr "Altura"
+
+#: includes/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:183
+#: includes/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:184
+#: includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: includes/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "Unidades"
+
+#: includes/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Adicionar/Editar Galeria"
+
+#: includes/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Limpar Galeria"
+
+#: includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Regular"
+msgstr "Regular"
+
+#: includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Hover"
+msgstr "Hover"
+
+#: includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Visited"
+msgstr "Visitado"
+
+#: includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:102
+msgid "Active"
+msgstr "Ativo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:106
+msgid "Focus"
+msgstr "Foco"
+
+#: includes/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr "Adicionar Mais"
+
+#: includes/redux-framework/ReduxCore/inc/fields/select/field_select.php:134
+#: includes/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr "Nenhum item deste tipo foi encontrado."
+
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "Slide"
+
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr "Novo %s"
+
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: includes/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr "Adicionar %s"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr "Família da fonte"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr "Família de fontes"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:258
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr "Família de fontes de backup"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:273
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr "Estilo de fonte"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr "Peso da fonte &amp; Estilo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr "Estilo"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr "Subconjuntos de fontes"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr "Subconjuntos de Fontes"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr "Subconjuntos"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr "Script de fonte"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:342
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:343
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr "Alinhamento de Texto"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:365
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:366
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr "Transformação de texto"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:388
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:389
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr "Variação de Fonte"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:408
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:409
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr "Decoração de texto"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:432
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr "Dimensões"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:441
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr "Altura da linha"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:450
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr "Espaçamento de palavras"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:459
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr "Espaçamento de Letras"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr "Cor da Fonte"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr "Cor da fonte"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:913
+msgid "Standard Fonts"
+msgstr "Fontes Padrão"
+
+#: includes/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:1014
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+"<span class=\"tc-lead tc-recommended\">RECOMENDADO</span>: Se você está "
+"enviando para o Repositório de Temas do WordPress.org, é <strong>Fortemente</"
+"strong> Sugeriu que você leia <a href=\"%s\" target=\"_blank\">Este "
+"documento</a>, Ou seu tema será rejeitado por causa do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+"<span class=\"tc-lead tc-required\">OBRIGATÓRIO</span>: Você DEVE deletar "
+"<strong> %s </strong>, ou seu tema será rejeitado pela submissão do tema WP."
+"org por causa do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr "Opcional"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+"<span class=\"tc-lead tc-recommended\">RECOMENDADO</span>: Os argumentos a "
+"seguir devem ser usados para os envios ao WP.org, ou você será rejeitado por "
+"causa de sua configuração Redux."
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr "Utilitários de localização Redux"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr "Redux Resting Diles"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr "Redux Code Styles"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr "Testes Unitários Redux"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr "Ficheiro de Plugin Redux"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr "Testes de Bootstrap Redux"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr "Ficheiro de Testes CI"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr "PHP Teste de unidade"
+
+#: includes/redux-framework/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+"Parece que você incorporou o pacote Redux completo dentro de seu tema. Você "
+"só precisa inserir a pasta <strong>ReduxCore</strong>. A Incorporação de "
+"qualquer outra coisa causará a rejeição do seu tema Suspeita de arquivo de "
+"pacote Redux(s):"
+
+#: includes/redux-framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: includes/redux-framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: includes/redux-framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr "Este campo deve ser um valor de cor válido."
+
+#: includes/redux-framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"Você deve fornecer uma lista separada por vírgulas de valores numéricos para "
+"esta opção."
+
+#: includes/redux-framework/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr "Strings inseguras foram encontradas no seu CSS e foram filtradas."
+
+#: includes/redux-framework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "Este campo deve ser uma data válida."
+
+#: includes/redux-framework/ReduxCore/inc/validation/email/validation_email.php:16
+#: includes/redux-framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "Você deve fornecer um e-mail válido para esta opção."
+
+#: includes/redux-framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"Você não deve inserir qualquer HTML neste campo, todas as tags HTML foram "
+"removidas."
+
+#: includes/redux-framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Não deve introduzir caracteres especiais neste campo, todos os caracteres "
+"especiais foram removidos."
+
+#: includes/redux-framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Este campo não pode estar vazio. Por favor informe um valor."
+
+#: includes/redux-framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: includes/redux-framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "Você deve fornecer um valor numérico para esta opção."
+
+#: includes/redux-framework/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+"Esta slug URL está em uso, por favor escolha outra. <code>%s</code> está "
+"disponível para uso."
+
+#: includes/redux-framework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "Você deve fornecer um URL válido para esta opção."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr "Bem-vindo à Redux Framework %s"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+"Muito obrigado por atualizar para a última versão! Redux Framework %s é um "
+"grande passo no desenvolvimento Redux. Veja tudas as novidades."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/about.php:8
+#: includes/redux-framework/ReduxCore/inc/welcome/views/changelog.php:10
+#: includes/redux-framework/ReduxCore/inc/welcome/views/credits.php:10
+#: includes/redux-framework/ReduxCore/inc/welcome/views/extensions.php:81
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:34
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr "Versão %s"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr "O que é Redux Framework?"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+"Redux Framework é o núcleo de muitos produtos na web. É um quadro de opção, "
+"que os desenvolvedores usam para\n"
+" aprimorar seus produtos."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr "Novo nesta versão"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr "Redux Framework - Changelog"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/changelog.php:5
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+"Nosso mantra central na Redux é a retrocompatibilidade com as versões "
+"anteriores. Com centenas de milhares de casos em todo o mundo, você pode ter "
+"certeza que vamos cuidar de você e seus clientes."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr "Redux Framework - Um esforço comunitário"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+"Nós reconhecemos que não somos nada sem a nossa comunidade. Nós gostaríamos "
+"de agradecer a todos aqueles que ajudam o Redux para ser o que é. Obrigado "
+"por sua participação."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+"Redux foi criado por uma comunidade de desenvolvedores em todo o mundo. Quer "
+"ter seu nome listado também? <a href=\"%d\" target=\"_blank\"> Contribua "
+"para Redux </a>."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr "Redux Framework - Extensões"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+"Incremente sua experiência Redux. Nossas extensões fornecem a você recursos "
+"que irão levar os seus produtos ao próximo nível."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+"Enquanto alguns são construídos especificamente para desenvolvedores, "
+"extensões como Fontes Personalizadas certamente podem fazer qualquer "
+"utilizador feliz."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr "Redux Framework - Estado do Sistema"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"Por favor copie e cole esta informação no seu ticket quando contatar o "
+"suporte:"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr "Obter Relatório do Sistema"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr "Entendendo o Relatório de Status"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr "Copiado!"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr "Copiar para Suporte"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr "Ambiente WordPress"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr "URL da Página Inicial"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr "O URL da página inicial do seu site."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr "URL do Site"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr "O URL de raiz do seu site."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr "Versão Redux"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr "A versão de Redux Framework instalada no seu site."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr "Diretório de Escrita de Redux Data"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+"Redux e as suas extensões escrevem dados no diretório <code>uploads</code>. "
+"Este diretório deve permitir escrita."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr "Para permitir salvar dados, autorize escrita em <code>%s</code>."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr "URL do conteúdo WP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr "A localização do URL do conteúdo Wordpress."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr "Versão do WP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr "A versão do WordPress instalada no seu site."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Se você tem ou não WordPress Multisite habilitado."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr "Estrutura de Links Permanentes"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:165
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+"A estrutura permalink atual definida nas Definições Wordpress->Permalinks."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr "Exibição da Página Inicial"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr "Modo de leitura atual do WordPress."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr "Página inicial"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr "A página selecionada atualmente que age como a Página Inicial do site."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr "Página de artigo"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr "A página selecionada atualmente onde os artigos do blog são exibidos."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr "Limite de Memória WP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+"A quantidade máxima de memória (RAM) que seu site pode usar ao mesmo tempo."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+"%s - Recomendamos a configuração de Memória para Pelo Menos de 40MB. Veja: "
+"<a href=“%s” target=“_blank”>Aumentando a memória alocada para PHP</a>"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr "Prefixo de Tabelas da Base de Dados"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr "A estrutura de prefixo da base de dados Wordpress atual."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr "Modo de Debug do WP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Exibe se o WordPress está ou não no modo de depuração."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr "O idioma atual usado pelo WordPress. Padrão = Inglês"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr "Navegador"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr "Informação do Navegador"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr "Informações sobre o navegador atualmente em uso."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr "Ambiente do Servidor"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr "Informação do Servidor"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Informações sobre o servidor web que atualmente hospeda seu site."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr "Ambiente Localhost"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr "O servidor está a ser executado em um ambiente localhost."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr "Versão do PHP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr "A versão do PHP instalada no seu servidor de hospedagem."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr "A variável ABSPATH no servidor."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr "Limite de Memória PHP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:356
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr "O maior tamanho que um arquivo pode ter num post."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr "Tamanho máximo do post do PHP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr "Limite de tempo do PHP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"A quantidade de tempo (em segundos) que seu site vai gastar em uma única "
+"operação antes de tempo limite (para evitar bloqueios de servidor)"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"O número máximo de variáveis que o servidor pode usar para uma única função "
+"para evitar sobrecargas."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr "Exibição de Erros PHP"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr "Determina se o PHP irá exibir erros no browser."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN Instalado"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+"Suhosin é um sistema de proteção avançada para instalações PHP. Ele foi "
+"projetado para proteger os seus servidores, por um lado contra uma série de "
+"problemas bem conhecidos em aplicações PHP e, por outro lado contra "
+"potenciais vulnerabilidades desconhecidas dentro dessas aplicações ou o "
+"próprio núcleo do PHP. Se ativado no seu servidor, Suhosin pode precisar ser "
+"configurado para aumentar os seus limites de envio de dados."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr "Versão do MySQL"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr "A versão do MySQL instalado no seu servidor de hospedagem."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr "Tamanho máximo de upload"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:405
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+"O maior tamanho de ficheiro que pode ser enviado na sua instalação do "
+"WordPress."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr "Fuso Horário Padrão UTC"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr "O fuso horário padrão para o seu servidor."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr "O fuso horário padrão é %s - ele deve ser UTC"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr "Usado na comunicação com serviços remotos com PHP."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+"O seu servidor não tem fsockopen ou cURL habilitados - cURL é usado para "
+"comunicar com outros servidores. Entre em contato com o seu provedor de "
+"hospedagem."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr "Post Remoto"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr "Usado para enviar dados para servidores remotos."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+"wp_remote_post() falhou. Muitos recursos avançados podem não funcionar. "
+"Entre em contato com o seu provedor de hospedagem."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:482
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr "Erro: %s"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr "Obter Remotamente"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr "Usado para obter informações de servidores remotos para atualizações."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+"wp_remote_get() falhou. Isso é necessário para obter informações a partir de "
+"servidores remotos. Entre em contato com o seu provedor de hospedagem."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr "Plugins Ativos"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr "Visite a página do plugin"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:553
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "por %s"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr "Instância do Redux: "
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr "O argumento opt_name para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr "O argumento global_variable para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+"Indica se o modo desenvolvedor está habilitado para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+"Indica se o ajax based saving está habilitado para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+"O slug da página denota a string usada para a página do painel de opções "
+"para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+"A variável de permissão de página define o nível de permissão necessário "
+"para acessar o painel de opções para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+"Esta variável define se quer ou não que o menu seja exibido como um item de "
+"menu de administração para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+"As variáveis ​​de página-mãe definem onde o menu de opções será colocado na "
+"barra administrativa lateral do WordPress para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr "Indica se o compiler flag está ativo nesta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+"Indica se o sinalizador de saída global que está fechando todas as saídas "
+"CSS está habilitado para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+"A variável ​​output_tag define se será ou não gerado um CSS dinâmico para o "
+"customizador e fontes do Google para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+"O caminho do modelo especificado que contém os ficheiros de modelo "
+"personalizados para esta instância do Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+"Lista de ficheiros de modelo que sobrescrevem os ficheiros de modelo padrão "
+"Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr "Indica as extensões Redux instaladas e suas respetivas versões."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr "O nome do tema ativo atual."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr "Versão"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr "A versão instalada do tema atualmente ativo."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr "está disponível"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr "URL do Autor"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr "O URL do desenvolvedor do tema."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr "Tema Filho"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr "Apresenta a informação sobre se o tema atual é ou não um tema filho."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+"Se você está modificando Framework Redux ou um tema-pai que você não "
+"construiu, recomendamos o uso de um tema filho. Veja: <a href =“%s” "
+"target=“_blank”>Como criar um tema-filho</a>"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr "Nome do Tema Pai"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr "O nome do tema pai."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr "Versão do Tema Pai"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr "A versão instalada do tema pai."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr "URL do Autor do Tema Pai"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr "URL dos desenvolvedores do tema-pai."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr "Redux Framework - Suporte"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+"Nós somos um projeto de código aberto usado por desenvolvedores para fazer "
+"painéis de controle poderosos."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:19
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr "Gerar uma URL de Suporte"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr "Selecione o Tipo de Suporte"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:21
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr "Como Conseguir Suporte"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr "Enviar uma requisição de suporte"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr "Para iniciar, nós precisaremos gerar um código de suporte."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+"Isto irá fornecer para o seu desenvolvedor todas as informações que possam "
+"necessitar para resolver seu problema. Esta ação IRÁ enviar informações de "
+"forma segura para o servidor remoto. Para ver o tipo de Informações "
+"enviadas, por favor, olhe a <a href=\"%s\"> aba staus</a>."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr "Selecione seu tipo de suporte"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr "Que tipo de usuário é vocé?"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:63
+msgid "User"
+msgstr "Usuário"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr "Eu sou um usuário, usando um produto pré-construído."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr "Eu sou um desenvolvedor, criando um produto usando Redux."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+"Siga para o rastreador de problemas do Framework Redux e nos forneça seu URL "
+"de suporte abaixo. Forneça também qualquer informação que nos ajude a "
+"reproduzir o seu problema."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+"Listados abaixo estão os plugins e/ou temas Wordpress instalados em seu site "
+"que utilizam Redux Framework. Nós não damos suporte diretamente a produtos "
+"criados com a nossa estrutura. É da responsabilidade do desenvolvedor do "
+"plugin ou tema dar suporte ao seu próprio trabalho. Você vai precisar entrar "
+"em contato com o(s) autor(es) do(s) produto(s) listado(s) abaixo com suas "
+"questões de suporte."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+"Certifique-se de incluir para o seu desenvolvedor - via copiar e colar - o "
+"URL de suporte na caixa abaixo."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+"Se o desenvolvedor não for responsivo, leia a <a href=\"%s\" target=\"_blank"
+"\">seguinte artigo</a> antes de pedir apoio diretamente de nós."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:104
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+"Se você gosta <strong> Redux </ strong> por favor deixe-nos um <a href "
+"target = “https://wordpress.org/support/view/plugin-reviews/redux-framework?"
+"filter=5#postform” = “_ blank “class =“ redux-classificação-link “=-rated de "
+"dados” Obrigado :) “> &#9733;&#9733;&#9733;&#9733;&#9733; </a> "
+"classificação. Um enorme obrigado a partir Redux, antecipadamente!"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:181
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+"Hash de suporte não pôde ser gerado. Por favor, tente novamente mais tarde."
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:203
+msgid "Welcome to Redux Framework"
+msgstr "Bem-vindo ao Redux Framework"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:211
+msgid "Redux Framework Changelog"
+msgstr "Log de Alterações Redux Framework"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:219
+msgid "Get Support"
+msgstr "Obter Suporte"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:227
+msgid "Redux Extensions"
+msgstr "Extensões do Redux"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:236
+msgid "The people that develop Redux Framework"
+msgstr "As pessoas que desenvolvem Redux Framework"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:244
+msgid "Redux Framework Status"
+msgstr "Status do Redux Framework"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:344
+msgid "What's New"
+msgstr "Novidades"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:350
+msgid "Changelog"
+msgstr "Changelog"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:353
+msgid "Credits"
+msgstr "Créditos"
+
+#: includes/redux-framework/ReduxCore/inc/welcome/welcome.php:519
+#, php-format
+msgid "View %s"
+msgstr "Ver %s"
+
+#: includes/redux-framework/ReduxCore/templates/panel/footer.tpl.php:62
+#: includes/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:27
+msgid "Reset Section"
+msgstr "Redefinir Seção"
+
+#: includes/redux-framework/ReduxCore/templates/panel/footer.tpl.php:64
+#: includes/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:29
+msgid "Reset All"
+msgstr "Redefinir Tudo"
+
+#: includes/redux-framework/ReduxCore/templates/panel/header.tpl.php:11
+#: includes/redux-framework/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr "Modo de Desenvolvedor Ativado"
+
+#: includes/redux-framework/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG está ativo"
+
+#: includes/redux-framework/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr "você está trabalhando em um ambiente localhost"
+
+#: includes/redux-framework/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr "e"
+
+#: includes/redux-framework/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr "Isto foi automaticamente habilitado porque"
+
+#: includes/redux-framework/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+"Se você não for um desenvolvedor, o autor do seu tema/plugin será fornecido "
+"com o modo de desenvolvedor habilitado. Entre em contato diretamente para "
+"corrigi-lo."
+
+#: includes/redux-framework/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr "DEV MODE FORÇADO OFF HABILITADO"
+
+#: includes/redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr "Expandir"
+
+#: includes/sidebars/inspiry-sidebars.php:16
+msgid "Custom Widget Area"
+msgstr "Área Widget Personalizada"
+
+#: includes/sidebars/inspiry-sidebars.php:41
+msgid "Enter new Widget Area name here"
+msgstr ""
+
+#: includes/sidebars/inspiry-sidebars.php:42
+msgid "Add Widget Area"
+msgstr "Adicionar Área Widget"
+
+#: includes/social-navs.php:238
+msgid "Share"
+msgstr "Compartilhar"
+
+#: includes/widgets/advance-search-widget.php:10
+msgid "This widget displays properties search form."
+msgstr "Este widget exibe o formulário de pesquisa de imóveis."
+
+#: includes/widgets/advance-search-widget.php:11
+msgid "Inspiry Property Search"
+msgstr "Pesquisa de imóveis IMOBILES"
+
+#: includes/widgets/advance-search-widget.php:120
+msgid "Find Your Home"
+msgstr "Encontre Seu Imóvel"
+
+#: includes/widgets/advance-search-widget.php:124
+#: includes/widgets/featured-properties-widget.php:112
+msgid "Widget Title"
+msgstr "Título do Widget"
+
+#: includes/widgets/featured-properties-widget.php:8
+msgid "Displays random or recent featured properties."
+msgstr "Exibir aleatório ou imóveis de destaque recentes."
+
+#: includes/widgets/featured-properties-widget.php:10
+msgid "Inspiry Featured Properties"
+msgstr "Imóveis de destaque IMOBILES"
+
+#: includes/widgets/featured-properties-widget.php:77
+msgid "Know More"
+msgstr "Saiba Mais"
+
+#: includes/widgets/featured-properties-widget.php:89
+msgid "No featured property found!"
+msgstr "Nenhum Imóvel em Destaque!"
+
+#: includes/widgets/featured-properties-widget.php:116
+#: vc-elements/properties.php:81
+msgid "Number of Properties"
+msgstr "Número de Imóveis"
+
+#: includes/widgets/featured-properties-widget.php:120
+msgid "Sort By:"
+msgstr "Ordenar por:"
+
+#: includes/widgets/featured-properties-widget.php:122
+msgid "Most Recent"
+msgstr "Mais recentes"
+
+#: includes/widgets/social-icons-widget.php:24
+msgid "RSS URL"
+msgstr "URL do RSS"
+
+#: includes/widgets/social-icons-widget.php:31
+msgid "Display social media icons."
+msgstr "Mostrar ícones de mídia social."
+
+#: vc-elements/properties.php:65
+msgid "Display property listing."
+msgstr ""
+
+#: vc-elements/properties.php:66
+msgid "Real Places Theme"
+msgstr ""
+
+#: vc-elements/properties.php:70
+msgid "Layout"
+msgstr "Layout"
+
+#: vc-elements/properties.php:106
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: vc-elements/properties.php:109
+msgid "Date"
+msgstr "Data"
+
+#: vc-elements/properties.php:115
+msgid "Order"
+msgstr "Pedido"
+
+#: vc-elements/properties.php:118
+msgid "Descending"
+msgstr "Descendente"
+
+#: vc-elements/properties.php:119
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: vc-elements/properties.php:145
+msgid "Minimum Bedrooms"
+msgstr "Num. Mínimo de Quartos"
+
+#: vc-elements/properties.php:163
+msgid "Maximum Bedrooms"
+msgstr "Num. Máximo de Quartos"
+
+#: vc-elements/properties.php:184
+msgid "Minimum Bathrooms"
+msgstr "Num. Mínimo de Banheiros"
+
+#: vc-elements/properties.php:202
+msgid "Maximum Bathrooms"
+msgstr "Num. Máximo de Banheiros"
+
+#: vc-elements/properties.php:224 vc-elements/properties.php:232
+#: vc-elements/properties.php:240 vc-elements/properties.php:248
+msgid "Only provide digits"
+msgstr "Por favor, insira apenas dígitos"
+
+#: vc-elements/properties.php:239
+msgid "Minimum Area"
+msgstr "Área Mínima"
+
+#: vc-elements/properties.php:247
+msgid "Maximum Area"
+msgstr "Área Máxima"
+
+#: vc-elements/properties.php:255
+msgid "Display Only Featured Properties"
+msgstr "Mostrar só imóveis destacados"
+
+#: vc-elements/properties.php:272
+msgid "Listing Container"
+msgstr ""
+
+#: vc-elements/properties.php:275
+msgid "Full Width"
+msgstr "Largura completa"
+
+#: vc-elements/properties.php:276
+msgid "Boxed"
+msgstr "Boxed"
+
+#: vc-elements/properties.php:319
+msgid ""
+"Real Places theme must be activated to use Property Listing Visual Composer "
+"element!"
+msgstr ""
+
+#: vc-elements/properties.php:647
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#: vc-elements/properties.php:840
+msgid "Bed"
+msgid_plural "Beds"
+msgstr[0] "Quarto"
+msgstr[1] "Quartos"
+
+#: vc-elements/properties.php:853
+msgid "Bath"
+msgid_plural "Baths"
+msgstr[0] "Banheiro"
+msgstr[1] "Banheiros"
+
+#: vc-elements/properties.php:866
+msgid "Garage"
+msgid_plural "Garages"
+msgstr[0] "Garagem"
+msgstr[1] "Garagens"
+
+#. Plugin Name of the plugin/theme
+msgid "Inspiry Real Estate"
+msgstr "Imóveis"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/real-places-responsive-wordpress-real-estate-"
+"theme/12579089"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Inspiry real estate plugin provides plugin territory functionality for Real "
+"Places theme."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/inspirythemes/portfolio"
+msgstr ""
+
+#~ msgid "Google Plus URL"
+#~ msgstr "URL do Google Plus"
+
+#~ msgid "Easily add custom fields to categories, tags or any custom taxonomy."
+#~ msgstr ""
+#~ "Adicione facilmente campos personalizados a categorias, tags ou qualquer "
+#~ "taxonomia personalizada."
+
+#~ msgid "Select All / None"
+#~ msgstr "Selecione Tudo / Nenhum"
+
+#~ msgid ""
+#~ "We were unable to modify required files. Please check your permissions, "
+#~ "or modify your wp-config.php file to contain your FTP login credentials "
+#~ "as <a href=\"%s\" target=\"_blank\">outlined here</a>."
+#~ msgstr ""
+#~ "Não fomos capazes de modificar os arquivos necessários. Verifique suas "
+#~ "permissões ou modifique seu arquivo wp-config.php para conter suas "
+#~ "credenciais de login FTP como <a href=\"%s\" target=\"_blank\">aqui "
+#~ "descrito</a>."
+
+#, fuzzy
+#~ msgid "M Saqib Sarwar"
+#~ msgstr "M Saqib Sarwar"

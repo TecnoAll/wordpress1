@@ -1,0 +1,150 @@
+/*-----------------------------------------------------------------------------------*/
+/* 35.0 - User Properties Module Styles
+/*-----------------------------------------------------------------------------------*/
+.inspiry-highlighted-message{
+  padding: 25px 20px;
+  margin-bottom: 20px;
+
+  h4{
+    margin-bottom: 0;
+  }
+
+  h4,
+  .close-message{
+    display: inline-block;
+  }
+
+  .close-message{
+    float: right;
+    cursor: pointer;
+    margin-top: 6px;
+  }
+}
+
+.user-submit-property {
+  margin-bottom: 20px;
+
+  .property-thumbnail {
+    padding: 20px;
+  }
+
+  .entry-title {
+    font-size: 18px;
+    margin-bottom: 14px;
+  }
+
+  .price {
+    margin-left: 8px;
+  }
+
+  .content-wrapper {
+    display: table;
+    padding: 20px 20px 20px 0;
+    vertical-align: top;
+  }
+
+  .meta-item {
+    margin-bottom: 6px;
+  }
+
+  .meta-item-label {
+    display: inline-block;
+  }
+
+  .btn-default {
+    padding: 6px 22px;
+  }
+}
+
+.action-buttons {
+  margin-top: 10px;
+
+  .fa,.fas,.far {
+    padding: 12px 14px;
+    vertical-align: middle;
+    &:extend(.btn-transition);
+    margin-right: 10px;
+  }
+}
+
+@media (max-width: @screen-lg-min) {
+  .paypal-button {
+    display: inline-block;
+  }
+}
+
+@media (max-width: @screen-xs-max) {
+  .user-submit-property {
+
+    .meta-item {
+      width: 100%;
+    }
+
+    .btn-default {
+      margin-bottom: 4px;
+    }
+
+    .paypal-button button.large {
+      margin-bottom: 4px;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .user-submit-property {
+    .property-thumbnail,
+    .content-wrapper {
+      width: 100%;
+    }
+    .property-thumbnail {
+      padding: 0;
+    }
+    .content-wrapper {
+      padding-left: 20px;
+    }
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .user-submit-property {
+    .price {
+      display: block;
+      margin: 7px 0 0;
+    }
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+  .user-submit-property {
+
+    .property-thumbnail {
+      padding: 0;
+    }
+
+    .content-wrapper {
+      padding-left: 20px;
+    }
+
+    .title-and-meta {
+      display: table-cell;
+      vertical-align: top;
+    }
+
+    .btn-default {
+      display: block;
+      margin-bottom: 20px;
+      padding: 6px 22px;
+    }
+  }
+
+  .paypal-button button.large {
+    margin-bottom: 20px;
+  }
+
+  .action-buttons {
+    padding: 12px 34px;
+    margin: 0 0 0 30px;
+    border-left: 1px solid;
+    text-align: center;
+  }
+}

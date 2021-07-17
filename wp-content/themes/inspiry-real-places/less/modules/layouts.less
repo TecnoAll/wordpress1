@@ -1,0 +1,53 @@
+/*-----------------------------------------------------------------------------------*/
+/* 5.0 - Layouts Module Styles
+/*-----------------------------------------------------------------------------------*/
+// To avoid horizontal scroll when select2 Dropdown is opened.
+body{
+  overflow-x: hidden;
+}
+
+.site-pages {
+  padding-top: 50px;
+  padding-bottom: 120px;
+  overflow: hidden;
+}
+
+@media (min-width: @screen-sm-min) {
+  @boxed-content-width : ( @container-sm - @grid-gutter-width);
+
+  .layout-boxed {
+    max-width: @boxed-content-width;
+    margin-left: auto;
+    margin-right: auto;
+
+    .container {
+      max-width: @boxed-content-width;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  @boxed-content-width : ( @container-md - @grid-gutter-width);
+  .layout-boxed,
+  .layout-boxed .container  {
+    max-width: @boxed-content-width;
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+  @boxed-content-width : ( @container-lg - @grid-gutter-width);
+  .layout-boxed,
+  .layout-boxed .container  {
+    max-width: @boxed-content-width;
+  }
+}
+
+.realplaces-content-fullwidth{
+  .site-content{
+    .site-main-content{
+      width: 100%;
+    }
+  }
+}

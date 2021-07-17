@@ -1,0 +1,120 @@
+/*-----------------------------------------------------------------------------------*/
+/* 21.3 - Header Variation Three
+/*-----------------------------------------------------------------------------------*/
+.header-variation-three {
+
+  #inspiry_language_list {
+    float: right;
+    height: 28px;
+    margin-top: -3px;
+  }
+
+  .contact-number {
+    margin: 15px 0 0 10px;
+    .contacts-icon-container {
+      width: 13px;
+    }
+  }
+
+  .user-nav {
+
+    > li {
+      margin-left: 20px;
+      &:first-child {
+        margin-left: 0;
+      }
+    }
+
+    .fa,
+    .fas,
+    .far {
+      top: 0;
+      margin-right: 6px;
+      font-size: 14px;
+    }
+  }
+
+  .icon-email-two,
+  .icon-lock{
+    &:extend(.btn-transition);
+  }
+
+  .header-social-nav {
+    margin-left: 20px;
+margin-top: -4px;
+    > a {
+      min-width: 20px;
+      margin-left: 5px;
+      text-align: right;
+      &:first-child {
+        margin-left: 0;
+      }
+
+      .fa,
+      .fas,
+      .far {
+        display: block;
+        font-size: 15px;
+        .transition(all 0.3s ease);
+        &:hover {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+
+  .main-menu > li > a {
+    padding: 12px 20px;
+  }
+
+  @media (min-width: @screen-md-min) {
+
+    .header-top {
+      padding: 8px 0;
+      border-top: 1px solid;
+    }
+  }
+
+  @media (max-width: @screen-md-max) and ( min-width: @screen-md-min) {
+    .contact-number {
+      margin-top: 11px;
+    }
+    .zero-horizontal-padding {
+      text-align: center;
+    }
+    .header-top {
+      display: inline-block;
+    }
+    .site-main-nav{
+      text-align: left;
+    }
+  }
+
+  @media (min-width: @screen-lg-min) {
+
+    .header-top {
+      margin-bottom: 64px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      border: none;
+    }
+
+    .header-bottom {
+      bottom: 0;
+    }
+
+    .contact-number {
+      margin-bottom: 0;
+    }
+
+    .main-menu > li > a {
+      padding: 16px 22px;
+    }
+  }
+  .current-menu-ancestor{
+    > a{
+      background-color: #50b848;
+      color: #ffffff !important;
+    }
+  }
+}

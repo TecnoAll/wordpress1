@@ -1,0 +1,126 @@
+/*-----------------------------------------------------------------------------------*/
+/* 6.0 - Forms Module Styles
+/*----------------------------------------------------------------------------------*/
+textarea,
+input,
+input[type="text"],
+input[type="button"],
+input[type="submit"] {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
+input[type="password"],
+.input-field,
+.wpcf7-text,
+.wpcf7-number,
+.wpcf7-quiz,
+.post-password-form input[type="submit"],
+.wpcf7-submit,
+.wpcf7-date{
+  height: 46px;
+}
+
+.wpcf7-text,
+.wpcf7-number,
+.wpcf7-quiz,
+.wpcf7-date{
+  width: 60%;
+}
+
+@media (max-width: 480px) {
+  .wpcf7-text,
+  .wpcf7-number,
+  .wpcf7-quiz,
+  .wpcf7-date{
+    width: 100%;
+  }
+}
+
+input[type="password"],
+.input-field,
+.textarea-field,
+.wpcf7-text,
+.wpcf7-number,
+.wpcf7-date,
+.wpcf7-quiz,
+.wpcf7-textarea{
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.textarea-field,
+.wpcf7-textarea{
+  display: block;
+  width: 100%;
+  height: 120px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.checkbox-field,
+.radio-field {
+  margin-right: 5px;
+}
+
+.checkbox-field input[type="checkbox"],
+.radio-field input[type="radio"] {
+  & + label:before {
+    border: 1px solid;
+    margin-right: 8px;
+  }
+}
+
+.radio-field input[type="radio"] {
+  & + label:before {
+    border-radius: 50%;
+  }
+}
+
+.post-password-form input[type="submit"]{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+input[type="password"],
+.input-field,
+.textarea-field,
+.wpcf7-text,
+.wpcf7-number,
+.wpcf7-date,
+.wpcf7-quiz,
+.wpcf7-textarea,
+.post-password-form input[type="submit"],
+.wpcf7-submit{
+   border: 1px solid;
+}
+
+.wpcf7-submit{
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.wpcf7 input[type="checkbox"] {
+  -webkit-appearance: checkbox;
+}
+
+.wpcf7 {
+  input[type="radio"],
+  input[type="checkbox"] {
+    display: inline-block;
+  }
+}
+
+.inspiry-contact-form-wrapper{
+
+  .wpcf7-text,
+  .wpcf7-number,
+  .wpcf7-quiz,
+  .wpcf7-date{
+    width: 100%;
+  }
+}
+
+.inspiry-recaptcha-wrapper{
+  margin-bottom: 30px;
+}

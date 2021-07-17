@@ -1,0 +1,462 @@
+/*-----------------------------------------------------------------------------------*/
+/* 10.0 - Login Modal Module Styles
+/*-----------------------------------------------------------------------------------*/
+.modal-backdrop.in {
+  .opacity(0.85);
+}
+
+.modal {
+
+  &.fade .modal-dialog {
+    .translate(0, -80%);
+  }
+  &.in .modal-dialog {
+    .translate(0, 0);
+  }
+}
+
+.modal-dialog {
+  margin: 10% auto 0;
+}
+
+.login-form-label {
+  display: none;
+  margin-bottom: 3px;
+}
+
+.login-form-input {
+  height: 45px;
+  padding: 3px 17px;
+}
+
+.login-form-input-common {
+  width: 100%;
+  border: none;
+}
+
+.form-element {
+  margin-bottom: 21px;
+
+  .error:not(input) {
+    display: block;
+    margin-top: 5px;
+  }
+}
+
+.login-form-submit {
+  &:extend(.btn-default);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-transform: uppercase;
+}
+
+.password-section,
+.register-section {
+  display: none;
+}
+
+.form-heading {
+  margin-bottom: 26px;
+  font-size: 15px;
+  text-transform: uppercase;
+
+  .fas,
+  .fa,
+  .far {
+    &:extend(.text-transition);
+  }
+
+  .fa-sign-in-alt {
+    margin-right: 10px;
+  }
+}
+
+.close-modal-dialog {
+  margin-top: -1px;
+  padding: 0;
+  background: none;
+  border: none;
+  .user-select(none);
+}
+
+.sign-up {
+
+  > a {
+    margin-left: 9px;
+  }
+}
+
+.close-modal-dialog {
+  float: right;
+}
+
+.buttons-external {
+  position: relative;
+}
+
+.graphic {
+  position: absolute;
+  top: -18px;
+  left: 0;
+  right: 0;
+
+  > span {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.or {
+  .square(37px);
+  padding: 5px 0;
+  margin-bottom: 5px;
+  border-radius: 50%;
+  border: 1px solid;
+  text-align: center;
+}
+
+.vertical-line {
+  width: 1px;
+  height: 15px;
+}
+
+.circle {
+  .square(5px);
+  border-radius: 50%;
+}
+
+.vertical-line,
+.circle {
+  background-color: #cad7e3;
+}
+
+.button {
+  display: block;
+  margin-top: 10px;
+  padding: 12px 5px;
+  text-align: center;
+  &:extend(.btn-transition);
+
+  .fas,
+  .fa,
+  .far {
+    display: inline-block;
+    margin-right: 15px;
+  }
+}
+
+.facebook-button {
+  float: left;
+}
+
+.google-button {
+  float: right;
+}
+
+.modal-loader{
+  display: none;
+}
+
+.modal-loader,
+.modal-message,
+.modal-error{
+  margin: 10px 0;
+}
+
+@media (min-width: @screen-sm-min) {
+
+  .modal-dialog {
+    width: 470px;
+
+    .form-wrapper {
+      padding: 32px 32px 50px;
+    }
+  }
+
+  .buttons-external {
+    padding: 53px 32px 43px;
+  }
+
+  .button {
+    width: 49.5%;
+  }
+}
+
+@media (max-width: @screen-xs-max) {
+
+  .modal-dialog {
+    width: 300px;
+
+    .form-wrapper {
+      padding: 22px 22px 30px;
+    }
+  }
+
+  .buttons-external {
+    padding: 45px 22px 23px;
+  }
+
+  .login-link,
+  .sign-up,
+  .forgot-password {
+    width: 100%;
+  }
+
+  .button {
+    width: 100%;
+  }
+
+  #login-modal {
+    .inspiry-recaptcha-wrapper {
+      transform: scale(0.84);
+      -webkit-transform: scale(0.84);
+      transform-origin: 0 0;
+      -webkit-transform-origin: 0 0;
+      margin-bottom: 20px;
+    }
+  }
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+/* Social Login Styles
+/*-----------------------------------------------------------------------------------*/
+#comments,
+.inspiry-social-login {
+  .wp-social-login-widget{
+    margin-bottom: 20px;
+  }
+
+  .wp-social-login-connect-with {
+    font-family: @headings-font-family;
+    color: @headings-color;
+  }
+
+  .wp-social-login-provider-list {
+    padding: 0;
+    margin: 0 0 0 -3px;
+
+    a {
+      color: #fff;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
+
+  .wp-social-login-provider {
+    display: inline-block;
+    padding: 8px 13px;
+    margin:5px 3px;
+    font-family: @font-family-base;
+    font-size: 13px;
+    line-height: 1.5;
+    text-align: center;
+    color: #fff;
+    background-color: #e3712c;
+  }
+
+  i.fas,
+  .fa,
+  .far {
+    display: inline-block;
+  }
+  .wp-social-login-provider-facebook {
+    background-color: #3b5998;
+    &:focus,
+    &:hover {
+      background-color: darken( #3b5998 ,5% );
+    }
+  }
+  .wp-social-login-provider-google {
+    background-color: #dd4b39;
+    &:focus,
+    &:hover {
+      background-color: #4285f4;
+    }
+  }
+  .wp-social-login-provider-twitter {
+    background-color: #1da1f2;
+    &:focus,
+    &:hover {
+      background-color: #14171a;
+    }
+  }
+  .wp-social-login-provider-yahoo {
+    background-color: #410093;
+    &:focus,
+    &:hover {
+      background-color: darken( #410093 ,5% );
+    }
+  }
+  .wp-social-login-provider-linkedin {
+    background-color: #0077b5;
+    &:focus,
+    &:hover {
+      background-color: #8d6cab;
+    }
+  }
+  .wp-social-login-provider-instagram {
+    background-color: #f77737;
+    &:focus,
+    &:hover {
+      background-color: #fcaf45;
+    }
+  }
+  .wp-social-login-provider-wordpress {
+    background-color: #21759b;
+    &:focus,
+    &:hover {
+      background-color: #464646;
+    }
+  }
+  .wp-social-login-provider-disqus {
+    background-color: #2e9fff;
+    &:focus,
+    &:hover {
+      background-color: darken( #2e9fff , 5% );
+    }
+  }
+  .wp-social-login-provider-reddit {
+    background-color: #ff4500;
+    &:focus,
+    &:hover {
+      background-color: #5f99cf;
+    }
+  }
+  .wp-social-login-provider-foursquare {
+    background-color: #f94877;
+    &:focus,
+    &:hover {
+      background-color: #0732a2;
+    }
+  }
+  .wp-social-login-provider-lastfm {
+    background-color: #d51007;
+    &:focus,
+    &:hover {
+      background-color: darken( #d51007 , 5% );
+    }
+  }
+  .wp-social-login-provider-tumblr {
+    background-color: #35465c;
+    &:focus,
+    &:hover {
+      background-color: darken( #35465c , 5% );
+    }
+  }
+  .wp-social-login-provider-goodreads {
+    background-color: #553b08;
+    &:focus,
+    &:hover {
+      background-color: darken( #553b08 , 5% );
+    }
+  }
+  .wp-social-login-provider-stackoverflow {
+    background-color: #fe7a15;
+    &:focus,
+    &:hover {
+      background-color: darken( #fe7a15 , 5% );
+    }
+  }
+  .wp-social-login-provider-github {
+    background-color: #4183c4;
+    &:focus,
+    &:hover {
+      background-color: darken( #4183c4 , 5% );
+    }
+  }
+  .wp-social-login-provider-dribbble {
+    background-color: #ea4c89;
+    &:focus,
+    &:hover {
+      background-color: #444444;
+    }
+  }
+  .wp-social-login-provider-500px {
+    background-color: #0099e5;
+    &:focus,
+    &:hover {
+      background-color: #ff4c4c;
+    }
+  }
+  .wp-social-login-provider-skyrock {
+    background-color: #009aff;
+    &:focus,
+    &:hover {
+      background-color: darken( #009aff , 5% );
+    }
+  }
+  .wp-social-login-provider-mixi {
+    background-color: #E67E22;
+    &:focus,
+    &:hover {
+      background-color: darken( #E67E22 , 5% );
+    }
+  }
+  .wp-social-login-provider-steam {
+    background-color: #000000;
+    &:focus,
+    &:hover {
+      background-color: #00adee;
+    }
+  }
+  .wp-social-login-provider-twitchtv {
+    background-color: #6441a5;
+    &:focus,
+    &:hover {
+      background-color: #b9a3e3;
+    }
+  }
+  .wp-social-login-provider-vkontakte {
+    background-color: #45668e;
+    &:focus,
+    &:hover {
+      background-color: darken( #45668e , 5% );
+    }
+  }
+  .wp-social-login-provider-mailru {
+    background-color: #07c;
+    &:focus,
+    &:hover {
+      background-color: darken( #07c , 5% );
+    }
+  }
+  .wp-social-login-provider-yandex {
+    background-color: #ffcc00;
+    &:focus,
+    &:hover {
+      background-color: darken( #ffcc00 , 5% );
+    }
+  }
+  .wp-social-login-provider-odnoklassniki {
+    background-color: #ed812b;
+    &:focus,
+    &:hover {
+      background-color: darken( #ed812b , 5% );
+    }
+  }
+  .wp-social-login-provider-aol {
+    background-color: #ff0b00;
+    &:focus,
+    &:hover {
+      background-color: #00c4ff;
+    }
+  }
+  .wp-social-login-provider-live {
+    background-color: #00bcf2;
+    &:focus,
+    &:hover {
+      background-color: darken( #00bcf2 , 5% );
+    }
+  }
+  .wp-social-login-provider-pixelpin {
+    background-color: #1d8bd5;
+    &:focus,
+    &:hover {
+      background-color: darken( #1d8bd5 , 5% );
+    }
+  }
+}
